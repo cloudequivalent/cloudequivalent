@@ -1,7 +1,52 @@
 [
   {
-    "name": "Amazon Athena",
-    "slug": "amazon-athena",
+    "name": "AI Infrastructure",
+    "slug": "ai-infrastructure",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AI building blocks",
+    "slug": "ai-building-blocks",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "API Apps",
+    "slug": "api-apps",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "API Gateway",
+    "slug": "api-gateway",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "API Management",
+    "slug": "api-management",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Amplify",
+    "slug": "aws-amplify",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -9,314 +54,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon CloudSearch",
-    "slug": "amazon-cloudsearch",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Elasticsearch Service",
-    "slug": "amazon-elasticsearch-service",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon EMR",
-    "slug": "amazon-emr",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon FinSpace",
-    "slug": "amazon-finspace",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Kinesis",
-    "slug": "amazon-kinesis",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Managed Streaming for Apache Kafka",
-    "slug": "amazon-managed-streaming-for-apache-kafka",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Redshift",
-    "slug": "amazon-redshift",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon QuickSight",
-    "slug": "amazon-quicksight",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Data Exchange",
-    "slug": "aws-data-exchange",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Data Pipeline",
-    "slug": "aws-data-pipeline",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Glue",
-    "slug": "aws-glue",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Lake Formation",
-    "slug": "aws-lake-formation",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Step Functions",
-    "slug": "aws-step-functions",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon AppFlow",
-    "slug": "amazon-appflow",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon EventBridge",
-    "slug": "amazon-eventbridge",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Managed Workflows for Apache Airflow",
-    "slug": "amazon-managed-workflows-for-apache-airflow",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon MQ",
-    "slug": "amazon-mq",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Simple Notification Service (SNS)",
-    "slug": "amazon-simple-notification-service-sns",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Simple Queue Service (SQS) ",
-    "slug": "amazon-simple-queue-service-sqs",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon AppSync",
-    "slug": "amazon-appsync",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Cost Explorer",
-    "slug": "aws-cost-explorer",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Budgets",
-    "slug": "aws-budgets",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Cost and Usage Report",
-    "slug": "aws-cost-and-usage-report",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Reserved Instance Reporting",
-    "slug": "reserved-instance-reporting",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Savings Plans",
-    "slug": "savings-plans",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Managed Blockchain",
-    "slug": "amazon-managed-blockchain",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Quantum Ledger Database (QLDB)",
-    "slug": "amazon-quantum-ledger-database-qldb",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Alexa for Business",
-    "slug": "alexa-for-business",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Chime",
-    "slug": "amazon-chime",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Honeycode (Beta)",
-    "slug": "amazon-honeycode-beta",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon WorkDocs",
-    "slug": "amazon-workdocs",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon WorkMail",
-    "slug": "amazon-workmail",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon EC2",
-    "slug": "amazon-ec2",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon EC2 Auto Scaling",
-    "slug": "amazon-ec2-auto-scaling",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Lightsail",
-    "slug": "amazon-lightsail",
+    "name": "AWS App Mesh",
+    "slug": "aws-app-mesh",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -333,136 +72,6 @@
     "equivalents": []
   },
   {
-    "name": "AWS Batch",
-    "slug": "aws-batch",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Elastic Beanstalk",
-    "slug": "aws-elastic-beanstalk",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Lambda",
-    "slug": "aws-lambda",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": [
-      "aws-lambda",
-      "azure-functions",
-      "cloud-functions"
-    ]
-  },
-  {
-    "name": "AWS Outposts",
-    "slug": "aws-outposts",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Serverless Application Repository",
-    "slug": "aws-serverless-application-repository",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Snow Family",
-    "slug": "aws-snow-family",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Wavelength",
-    "slug": "aws-wavelength",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "VMware Cloud on AWS",
-    "slug": "vmware-cloud-on-aws",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Elastic Container Registry",
-    "slug": "amazon-elastic-container-registry",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Elastic Container Service (ECS)",
-    "slug": "amazon-elastic-container-service-ecs",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon ECS Anywhere",
-    "slug": "amazon-ecs-anywhere",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Elastic Kubernetes Service (EKS)",
-    "slug": "amazon-elastic-kubernetes-service-eks",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon EKS Anywhere (Coming Soon)",
-    "slug": "amazon-eks-anywhere-coming-soon",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon EKS Distro",
-    "slug": "amazon-eks-distro",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
     "name": "AWS App2Container",
     "slug": "aws-app2container",
     "provider": {
@@ -472,8 +81,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Copilot",
-    "slug": "aws-copilot",
+    "name": "AWS AppSync",
+    "slug": "aws-appsync",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -481,8 +90,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Fargate",
-    "slug": "aws-fargate",
+    "name": "AWS Application Discovery Service",
+    "slug": "aws-application-discovery-service",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -490,8 +99,8 @@
     "equivalents": []
   },
   {
-    "name": "Red Hat OpenShift Service on AWS",
-    "slug": "red-hat-openshift-service-on-aws",
+    "name": "AWS Application Migration Service (CloudEndure Migration)",
+    "slug": "aws-application-migration-service-cloudendure-migration",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -499,8 +108,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Connect",
-    "slug": "amazon-connect",
+    "name": "AWS Artifact",
+    "slug": "aws-artifact",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -508,8 +117,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Pinpoint",
-    "slug": "amazon-pinpoint",
+    "name": "AWS Audit Manager",
+    "slug": "aws-audit-manager",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -517,8 +126,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Simple Email Service (SES)",
-    "slug": "amazon-simple-email-service-ses",
+    "name": "AWS Auto Scaling",
+    "slug": "aws-auto-scaling",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -526,8 +135,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Aurora",
-    "slug": "amazon-aurora",
+    "name": "AWS Backup",
+    "slug": "aws-backup",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -535,8 +144,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Aurora Serverless v2 (Preview)",
-    "slug": "amazon-aurora-serverless-v2-preview",
+    "name": "AWS Batch",
+    "slug": "aws-batch",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -544,8 +153,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon DynamoDB",
-    "slug": "amazon-dynamodb",
+    "name": "AWS Budgets",
+    "slug": "aws-budgets",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -553,8 +162,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon DocumentDB (with MongoDB compatibility)",
-    "slug": "amazon-documentdb-with-mongodb-compatibility",
+    "name": "AWS Certificate Manager",
+    "slug": "aws-certificate-manager",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -562,80 +171,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon ElastiCache",
-    "slug": "amazon-elasticache",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Keyspaces (for Apache Cassandra)",
-    "slug": "amazon-keyspaces-for-apache-cassandra",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Neptune ",
-    "slug": "amazon-neptune",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon RDS",
-    "slug": "amazon-rds",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon RDS on VMware",
-    "slug": "amazon-rds-on-vmware",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Timestream",
-    "slug": "amazon-timestream",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Database Migration Service",
-    "slug": "aws-database-migration-service",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon CodeGuru",
-    "slug": "amazon-codeguru",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Corretto",
-    "slug": "amazon-corretto",
+    "name": "AWS Chatbot",
+    "slug": "aws-chatbot",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -652,6 +189,15 @@
     "equivalents": []
   },
   {
+    "name": "AWS Cloud Map",
+    "slug": "aws-cloud-map",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AWS Cloud9",
     "slug": "aws-cloud9",
     "provider": {
@@ -661,8 +207,35 @@
     "equivalents": []
   },
   {
+    "name": "AWS CloudFormation",
+    "slug": "aws-cloudformation",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS CloudHSM",
+    "slug": "aws-cloudhsm",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AWS CloudShell",
     "slug": "aws-cloudshell",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS CloudTrail",
+    "slug": "aws-cloudtrail",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -733,8 +306,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Device Farm",
-    "slug": "aws-device-farm",
+    "name": "AWS Compute Optimizer",
+    "slug": "aws-compute-optimizer",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -742,8 +315,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Fault Injection Simulator",
-    "slug": "aws-fault-injection-simulator",
+    "name": "AWS Config",
+    "slug": "aws-config",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -751,8 +324,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Tools and SDKs",
-    "slug": "aws-tools-and-sdks",
+    "name": "AWS Console Mobile Application",
+    "slug": "aws-console-mobile-application",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -760,8 +333,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS X-Ray",
-    "slug": "aws-x-ray",
+    "name": "AWS Control Tower",
+    "slug": "aws-control-tower",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -769,8 +342,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon AppStream 2.0",
-    "slug": "amazon-appstream-20",
+    "name": "AWS Copilot",
+    "slug": "aws-copilot",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -778,8 +351,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon WorkLink",
-    "slug": "amazon-worklink",
+    "name": "AWS Cost Explorer",
+    "slug": "aws-cost-explorer",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -787,8 +360,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon WorkSpaces",
-    "slug": "amazon-workspaces",
+    "name": "AWS Cost and Usage Report",
+    "slug": "aws-cost-and-usage-report",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -796,8 +369,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Amplify",
-    "slug": "aws-amplify",
+    "name": "AWS Data Exchange",
+    "slug": "aws-data-exchange",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -805,8 +378,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon API Gateway",
-    "slug": "amazon-api-gateway",
+    "name": "AWS Data Pipeline",
+    "slug": "aws-data-pipeline",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -814,8 +387,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Location Service (Preview)",
-    "slug": "amazon-location-service-preview",
+    "name": "AWS DataSync",
+    "slug": "aws-datasync",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -823,332 +396,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS AppSync",
-    "slug": "aws-appsync",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon GameLift",
-    "slug": "amazon-gamelift",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Lumberyard",
-    "slug": "amazon-lumberyard",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Core",
-    "slug": "aws-iot-core",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Greengrass",
-    "slug": "aws-greengrass",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT 1-Click",
-    "slug": "aws-iot-1-click",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Analytics",
-    "slug": "aws-iot-analytics",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Button",
-    "slug": "aws-iot-button",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Device Defender",
-    "slug": "aws-iot-device-defender",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Device Management",
-    "slug": "aws-iot-device-management",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Events",
-    "slug": "aws-iot-events",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT SiteWise",
-    "slug": "aws-iot-sitewise",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS IoT Things Graph",
-    "slug": "aws-iot-things-graph",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Partner Device Catalog",
-    "slug": "aws-partner-device-catalog",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "FreeRTOS",
-    "slug": "freertos",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon SageMaker",
-    "slug": "amazon-sagemaker",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Augmented AI",
-    "slug": "amazon-augmented-ai",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Comprehend",
-    "slug": "amazon-comprehend",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon DevOps Guru",
-    "slug": "amazon-devops-guru",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Elastic Inference",
-    "slug": "amazon-elastic-inference",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Forecast",
-    "slug": "amazon-forecast",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Fraud Detector",
-    "slug": "amazon-fraud-detector",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Healthlake",
-    "slug": "amazon-healthlake",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Kendra",
-    "slug": "amazon-kendra",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Lex",
-    "slug": "amazon-lex",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Lookout for Equipment",
-    "slug": "amazon-lookout-for-equipment",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Lookout for Metrics",
-    "slug": "amazon-lookout-for-metrics",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Lookout for Vision",
-    "slug": "amazon-lookout-for-vision",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Monitron",
-    "slug": "amazon-monitron",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Personalize",
-    "slug": "amazon-personalize",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Polly",
-    "slug": "amazon-polly",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Rekognition",
-    "slug": "amazon-rekognition",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon SageMaker Data Wrangler",
-    "slug": "amazon-sagemaker-data-wrangler",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon SageMaker Ground Truth",
-    "slug": "amazon-sagemaker-ground-truth",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Textract",
-    "slug": "amazon-textract",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Translate",
-    "slug": "amazon-translate",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Transcribe",
-    "slug": "amazon-transcribe",
+    "name": "AWS Database Migration Service",
+    "slug": "aws-database-migration-service",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1201,8 +450,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Inferentia",
-    "slug": "aws-inferentia",
+    "name": "AWS Device Farm",
+    "slug": "aws-device-farm",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1210,8 +459,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Panorama (Preview)",
-    "slug": "aws-panorama-preview",
+    "name": "AWS Direct Connect",
+    "slug": "aws-direct-connect",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1219,107 +468,8 @@
     "equivalents": []
   },
   {
-    "name": "PyTorch on AWS",
-    "slug": "pytorch-on-aws",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Apache MXNet on AWS",
-    "slug": "apache-mxnet-on-aws",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "TensorFlow on AWS",
-    "slug": "tensorflow-on-aws",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon CloudWatch",
-    "slug": "amazon-cloudwatch",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Auto Scaling",
-    "slug": "aws-auto-scaling",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Chatbot",
-    "slug": "aws-chatbot",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS CloudFormation",
-    "slug": "aws-cloudformation",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS CloudTrail",
-    "slug": "aws-cloudtrail",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Compute Optimizer",
-    "slug": "aws-compute-optimizer",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Config",
-    "slug": "aws-config",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Control Tower",
-    "slug": "aws-control-tower",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Console Mobile Application",
-    "slug": "aws-console-mobile-application",
+    "name": "AWS Directory Service",
+    "slug": "aws-directory-service",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1336,8 +486,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS License Manager",
-    "slug": "aws-license-manager",
+    "name": "AWS Elastic Beanstalk",
+    "slug": "aws-elastic-beanstalk",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1345,134 +495,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Management Console",
-    "slug": "aws-management-console",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Managed Services",
-    "slug": "aws-managed-services",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Managed Service for Grafana",
-    "slug": "amazon-managed-service-for-grafana",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Managed Service for Prometheus",
-    "slug": "amazon-managed-service-for-prometheus",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS OpsWorks",
-    "slug": "aws-opsworks",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Organizations",
-    "slug": "aws-organizations",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Personal Health Dashboard",
-    "slug": "aws-personal-health-dashboard",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Proton (Preview)",
-    "slug": "aws-proton-preview",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Service Catalog",
-    "slug": "aws-service-catalog",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Systems Manager",
-    "slug": "aws-systems-manager",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Trusted Advisor",
-    "slug": "aws-trusted-advisor",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Well-Architected Tool",
-    "slug": "aws-well-architected-tool",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Elastic Transcoder",
-    "slug": "amazon-elastic-transcoder",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Interactive Video Service",
-    "slug": "amazon-interactive-video-service",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Kinesis Video Streams",
-    "slug": "amazon-kinesis-video-streams",
+    "name": "AWS Elemental Appliances &amp; Software",
+    "slug": "aws-elemental-appliances-andamp-software",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1534,8 +558,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Elemental Appliances &amp; Software",
-    "slug": "aws-elemental-appliances-andamp-software",
+    "name": "AWS Fargate",
+    "slug": "aws-fargate",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1543,8 +567,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Nimble Studio",
-    "slug": "aws-nimble-studio",
+    "name": "AWS Fault Injection Simulator",
+    "slug": "aws-fault-injection-simulator",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1552,125 +576,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Migration Hub",
-    "slug": "aws-migration-hub",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Application Discovery Service",
-    "slug": "aws-application-discovery-service",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Application Migration Service (CloudEndure Migration)",
-    "slug": "aws-application-migration-service-cloudendure-migration",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS DataSync",
-    "slug": "aws-datasync",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Server Migration Service ",
-    "slug": "aws-server-migration-service",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Transfer Family",
-    "slug": "aws-transfer-family",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Migration Evaluator (formerly TSO Logic)",
-    "slug": "migration-evaluator-formerly-tso-logic",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon VPC",
-    "slug": "amazon-vpc",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon CloudFront",
-    "slug": "amazon-cloudfront",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Route 53",
-    "slug": "amazon-route-53",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS PrivateLink",
-    "slug": "aws-privatelink",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS App Mesh",
-    "slug": "aws-app-mesh",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Cloud Map",
-    "slug": "aws-cloud-map",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Direct Connect",
-    "slug": "aws-direct-connect",
+    "name": "AWS Firewall Manager",
+    "slug": "aws-firewall-manager",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1687,8 +594,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Transit Gateway",
-    "slug": "aws-transit-gateway",
+    "name": "AWS Glue",
+    "slug": "aws-glue",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1696,26 +603,8 @@
     "equivalents": []
   },
   {
-    "name": "Elastic Load Balancing",
-    "slug": "elastic-load-balancing",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Amazon Braket",
-    "slug": "amazon-braket",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS RoboMaker",
-    "slug": "aws-robomaker",
+    "name": "AWS Greengrass",
+    "slug": "aws-greengrass",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1741,8 +630,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Cognito",
-    "slug": "amazon-cognito",
+    "name": "AWS Inferentia",
+    "slug": "aws-inferentia",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1750,8 +639,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Detective",
-    "slug": "amazon-detective",
+    "name": "AWS IoT 1-Click",
+    "slug": "aws-iot-1-click",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1759,8 +648,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon GuardDuty",
-    "slug": "amazon-guardduty",
+    "name": "AWS IoT Analytics",
+    "slug": "aws-iot-analytics",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1768,8 +657,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Inspector",
-    "slug": "amazon-inspector",
+    "name": "AWS IoT Button",
+    "slug": "aws-iot-button",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1777,8 +666,8 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Macie",
-    "slug": "amazon-macie",
+    "name": "AWS IoT Core",
+    "slug": "aws-iot-core",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1786,8 +675,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Artifact",
-    "slug": "aws-artifact",
+    "name": "AWS IoT Device Defender",
+    "slug": "aws-iot-device-defender",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1795,8 +684,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Audit Manager",
-    "slug": "aws-audit-manager",
+    "name": "AWS IoT Device Management",
+    "slug": "aws-iot-device-management",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1804,8 +693,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Certificate Manager",
-    "slug": "aws-certificate-manager",
+    "name": "AWS IoT Events",
+    "slug": "aws-iot-events",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1813,8 +702,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS CloudHSM",
-    "slug": "aws-cloudhsm",
+    "name": "AWS IoT SiteWise",
+    "slug": "aws-iot-sitewise",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1822,17 +711,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Directory Service",
-    "slug": "aws-directory-service",
-    "provider": {
-      "name": "Amazon Web Services (AWS)",
-      "key": "aws"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AWS Firewall Manager",
-    "slug": "aws-firewall-manager",
+    "name": "AWS IoT Things Graph",
+    "slug": "aws-iot-things-graph",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1849,6 +729,64 @@
     "equivalents": []
   },
   {
+    "name": "AWS Lake Formation",
+    "slug": "aws-lake-formation",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Lambda",
+    "slug": "aws-lambda",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": [
+      "aws-lambda",
+      "azure-functions",
+      "cloud-functions"
+    ]
+  },
+  {
+    "name": "AWS License Manager",
+    "slug": "aws-license-manager",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Managed Services",
+    "slug": "aws-managed-services",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Management Console",
+    "slug": "aws-management-console",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Migration Hub",
+    "slug": "aws-migration-hub",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AWS Network Firewall",
     "slug": "aws-network-firewall",
     "provider": {
@@ -1858,8 +796,98 @@
     "equivalents": []
   },
   {
+    "name": "AWS Nimble Studio",
+    "slug": "aws-nimble-studio",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS OpsWorks",
+    "slug": "aws-opsworks",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Organizations",
+    "slug": "aws-organizations",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Outposts",
+    "slug": "aws-outposts",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Panorama (Preview)",
+    "slug": "aws-panorama-preview",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Partner Device Catalog",
+    "slug": "aws-partner-device-catalog",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Personal Health Dashboard",
+    "slug": "aws-personal-health-dashboard",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS PrivateLink",
+    "slug": "aws-privatelink",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Proton (Preview)",
+    "slug": "aws-proton-preview",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AWS Resource Access Manager",
     "slug": "aws-resource-access-manager",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS RoboMaker",
+    "slug": "aws-robomaker",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1885,6 +913,33 @@
     "equivalents": []
   },
   {
+    "name": "AWS Server Migration Service ",
+    "slug": "aws-server-migration-service",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Serverless Application Repository",
+    "slug": "aws-serverless-application-repository",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Service Catalog",
+    "slug": "aws-service-catalog",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AWS Shield",
     "slug": "aws-shield",
     "provider": {
@@ -1903,6 +958,78 @@
     "equivalents": []
   },
   {
+    "name": "AWS Snow Family",
+    "slug": "aws-snow-family",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Step Functions",
+    "slug": "aws-step-functions",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Storage Gateway",
+    "slug": "aws-storage-gateway",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Systems Manager",
+    "slug": "aws-systems-manager",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Tools and SDKs",
+    "slug": "aws-tools-and-sdks",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Transfer Family",
+    "slug": "aws-transfer-family",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Transit Gateway",
+    "slug": "aws-transit-gateway",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Trusted Advisor",
+    "slug": "aws-trusted-advisor",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AWS WAF",
     "slug": "aws-waf",
     "provider": {
@@ -1912,8 +1039,305 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Simple Storage Service (S3)",
-    "slug": "amazon-simple-storage-service-s3",
+    "name": "AWS Wavelength",
+    "slug": "aws-wavelength",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS Well-Architected Tool",
+    "slug": "aws-well-architected-tool",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AWS X-Ray",
+    "slug": "aws-x-ray",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Access Transparency",
+    "slug": "access-transparency",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alexa for Business",
+    "slug": "alexa-for-business",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon API Gateway",
+    "slug": "amazon-api-gateway",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon AppFlow",
+    "slug": "amazon-appflow",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon AppStream 2.0",
+    "slug": "amazon-appstream-20",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon AppSync",
+    "slug": "amazon-appsync",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Athena",
+    "slug": "amazon-athena",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Augmented AI",
+    "slug": "amazon-augmented-ai",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Aurora",
+    "slug": "amazon-aurora",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Aurora Serverless v2 (Preview)",
+    "slug": "amazon-aurora-serverless-v2-preview",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Braket",
+    "slug": "amazon-braket",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Chime",
+    "slug": "amazon-chime",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon CloudFront",
+    "slug": "amazon-cloudfront",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon CloudSearch",
+    "slug": "amazon-cloudsearch",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon CloudWatch",
+    "slug": "amazon-cloudwatch",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon CodeGuru",
+    "slug": "amazon-codeguru",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Cognito",
+    "slug": "amazon-cognito",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Comprehend",
+    "slug": "amazon-comprehend",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Connect",
+    "slug": "amazon-connect",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Corretto",
+    "slug": "amazon-corretto",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Detective",
+    "slug": "amazon-detective",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon DevOps Guru",
+    "slug": "amazon-devops-guru",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon DocumentDB (with MongoDB compatibility)",
+    "slug": "amazon-documentdb-with-mongodb-compatibility",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon DynamoDB",
+    "slug": "amazon-dynamodb",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon EC2",
+    "slug": "amazon-ec2",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon EC2 Auto Scaling",
+    "slug": "amazon-ec2-auto-scaling",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon ECS Anywhere",
+    "slug": "amazon-ecs-anywhere",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon EKS Anywhere (Coming Soon)",
+    "slug": "amazon-eks-anywhere-coming-soon",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon EKS Distro",
+    "slug": "amazon-eks-distro",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon EMR",
+    "slug": "amazon-emr",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon ElastiCache",
+    "slug": "amazon-elasticache",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1930,8 +1354,71 @@
     "equivalents": []
   },
   {
+    "name": "Amazon Elastic Container Registry",
+    "slug": "amazon-elastic-container-registry",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Elastic Container Service (ECS)",
+    "slug": "amazon-elastic-container-service-ecs",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Amazon Elastic File System (EFS)",
     "slug": "amazon-elastic-file-system-efs",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Elastic Inference",
+    "slug": "amazon-elastic-inference",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Elastic Kubernetes Service (EKS)",
+    "slug": "amazon-elastic-kubernetes-service-eks",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Elastic Transcoder",
+    "slug": "amazon-elastic-transcoder",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Elasticsearch Service",
+    "slug": "amazon-elasticsearch-service",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon EventBridge",
+    "slug": "amazon-eventbridge",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1957,6 +1444,357 @@
     "equivalents": []
   },
   {
+    "name": "Amazon FinSpace",
+    "slug": "amazon-finspace",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Forecast",
+    "slug": "amazon-forecast",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Fraud Detector",
+    "slug": "amazon-fraud-detector",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon GameLift",
+    "slug": "amazon-gamelift",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon GuardDuty",
+    "slug": "amazon-guardduty",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Healthlake",
+    "slug": "amazon-healthlake",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Honeycode (Beta)",
+    "slug": "amazon-honeycode-beta",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Inspector",
+    "slug": "amazon-inspector",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Interactive Video Service",
+    "slug": "amazon-interactive-video-service",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Kendra",
+    "slug": "amazon-kendra",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Keyspaces (for Apache Cassandra)",
+    "slug": "amazon-keyspaces-for-apache-cassandra",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Kinesis",
+    "slug": "amazon-kinesis",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Kinesis Video Streams",
+    "slug": "amazon-kinesis-video-streams",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Lex",
+    "slug": "amazon-lex",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Lightsail",
+    "slug": "amazon-lightsail",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Location Service (Preview)",
+    "slug": "amazon-location-service-preview",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Lookout for Equipment",
+    "slug": "amazon-lookout-for-equipment",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Lookout for Metrics",
+    "slug": "amazon-lookout-for-metrics",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Lookout for Vision",
+    "slug": "amazon-lookout-for-vision",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Lumberyard",
+    "slug": "amazon-lumberyard",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon MQ",
+    "slug": "amazon-mq",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Macie",
+    "slug": "amazon-macie",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Managed Blockchain",
+    "slug": "amazon-managed-blockchain",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Managed Service for Grafana",
+    "slug": "amazon-managed-service-for-grafana",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Managed Service for Prometheus",
+    "slug": "amazon-managed-service-for-prometheus",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Managed Streaming for Apache Kafka",
+    "slug": "amazon-managed-streaming-for-apache-kafka",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Managed Workflows for Apache Airflow",
+    "slug": "amazon-managed-workflows-for-apache-airflow",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Monitron",
+    "slug": "amazon-monitron",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Neptune ",
+    "slug": "amazon-neptune",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Personalize",
+    "slug": "amazon-personalize",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Pinpoint",
+    "slug": "amazon-pinpoint",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Polly",
+    "slug": "amazon-polly",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Quantum Ledger Database (QLDB)",
+    "slug": "amazon-quantum-ledger-database-qldb",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon QuickSight",
+    "slug": "amazon-quicksight",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon RDS",
+    "slug": "amazon-rds",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon RDS on VMware",
+    "slug": "amazon-rds-on-vmware",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Redshift",
+    "slug": "amazon-redshift",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Rekognition",
+    "slug": "amazon-rekognition",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Route 53",
+    "slug": "amazon-route-53",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Amazon S3 Glacier",
     "slug": "amazon-s3-glacier",
     "provider": {
@@ -1966,8 +1804,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Backup",
-    "slug": "aws-backup",
+    "name": "Amazon SageMaker",
+    "slug": "amazon-sagemaker",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1975,8 +1813,8 @@
     "equivalents": []
   },
   {
-    "name": "AWS Storage Gateway",
-    "slug": "aws-storage-gateway",
+    "name": "Amazon SageMaker Data Wrangler",
+    "slug": "amazon-sagemaker-data-wrangler",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -1984,8 +1822,44 @@
     "equivalents": []
   },
   {
-    "name": "CloudEndure Disaster Recovery",
-    "slug": "cloudendure-disaster-recovery",
+    "name": "Amazon SageMaker Ground Truth",
+    "slug": "amazon-sagemaker-ground-truth",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Simple Email Service (SES)",
+    "slug": "amazon-simple-email-service-ses",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Simple Notification Service (SNS)",
+    "slug": "amazon-simple-notification-service-sns",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Simple Queue Service (SQS) ",
+    "slug": "amazon-simple-queue-service-sqs",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Simple Storage Service (S3)",
+    "slug": "amazon-simple-storage-service-s3",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
@@ -2002,6 +1876,96 @@
     "equivalents": []
   },
   {
+    "name": "Amazon Textract",
+    "slug": "amazon-textract",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Timestream",
+    "slug": "amazon-timestream",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Transcribe",
+    "slug": "amazon-transcribe",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon Translate",
+    "slug": "amazon-translate",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon VPC",
+    "slug": "amazon-vpc",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon WorkDocs",
+    "slug": "amazon-workdocs",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon WorkLink",
+    "slug": "amazon-worklink",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon WorkMail",
+    "slug": "amazon-workmail",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Amazon WorkSpaces",
+    "slug": "amazon-workspaces",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Analytics Hub",
+    "slug": "analytics-hub",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Anomaly detector",
     "slug": "anomaly-detector",
     "provider": {
@@ -2011,8 +1975,89 @@
     "equivalents": []
   },
   {
-    "name": "Azure Bot Service",
-    "slug": "azure-bot-service",
+    "name": "Anthos",
+    "slug": "anthos",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Anthos Service Mesh",
+    "slug": "anthos-service-mesh",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apache MXNet on AWS",
+    "slug": "apache-mxnet-on-aws",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apigee API Management",
+    "slug": "apigee-api-management",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apigee API Platform",
+    "slug": "apigee-api-platform",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apigee Hybrid",
+    "slug": "apigee-hybrid",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apigee Open Banking APIx",
+    "slug": "apigee-open-banking-apix",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apigee Sense",
+    "slug": "apigee-sense",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apigee healthcare APIx",
+    "slug": "apigee-healthcare-apix",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "App Configuration",
+    "slug": "app-configuration",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2020,8 +2065,17 @@
     "equivalents": []
   },
   {
-    "name": "Azure Cognitive Search",
-    "slug": "azure-cognitive-search",
+    "name": "App Engine",
+    "slug": "app-engine",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "App Service",
+    "slug": "app-service",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2029,8 +2083,26 @@
     "equivalents": []
   },
   {
-    "name": "Azure Databricks",
-    "slug": "azure-databricks",
+    "name": "AppSheet",
+    "slug": "appsheet",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AppSheet Automation",
+    "slug": "appsheet-automation",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Application Gateway",
+    "slug": "application-gateway",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2038,8 +2110,17 @@
     "equivalents": []
   },
   {
-    "name": "Azure Machine Learning",
-    "slug": "azure-machine-learning",
+    "name": "Application migration",
+    "slug": "application-migration",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Archive Storage",
+    "slug": "archive-storage",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2047,8 +2128,53 @@
     "equivalents": []
   },
   {
-    "name": "Azure Open Datasets",
-    "slug": "azure-open-datasets",
+    "name": "Archive Storage",
+    "slug": "archive-storage",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Artifact Registry",
+    "slug": "artifact-registry",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Assured Workloads",
+    "slug": "assured-workloads",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AutoML",
+    "slug": "automl",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AutoML Tables (beta)",
+    "slug": "automl-tables-beta",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Automation",
+    "slug": "automation",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2056,8 +2182,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Cognitive Services",
-    "slug": "azure-cognitive-services",
+    "name": "Avere vFXT for Azure",
+    "slug": "avere-vfxt-for-azure",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2065,8 +2191,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Video Analyzer",
-    "slug": "azure-video-analyzer",
+    "name": "Azure API for FHIR",
+    "slug": "azure-api-for-fhir",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2074,8 +2200,8 @@
     "equivalents": []
   },
   {
-    "name": "Computer Vision",
-    "slug": "computer-vision",
+    "name": "Azure Active Directory",
+    "slug": "azure-active-directory",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2083,8 +2209,8 @@
     "equivalents": []
   },
   {
-    "name": "Content moderator",
-    "slug": "content-moderator",
+    "name": "Azure Active Directory Domain Services",
+    "slug": "azure-active-directory-domain-services",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2092,8 +2218,8 @@
     "equivalents": []
   },
   {
-    "name": "Custom Vision",
-    "slug": "custom-vision",
+    "name": "Azure Active Directory external Identities",
+    "slug": "azure-active-directory-external-identities",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2101,179 +2227,8 @@
     "equivalents": []
   },
   {
-    "name": "Data Science Virtual Machines",
-    "slug": "data-science-virtual-machines",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Face",
-    "slug": "face",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Form Recognizer",
-    "slug": "azure-form-recognizer",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Immersive Reader",
-    "slug": "azure-immersive-reader",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Kinect DK",
-    "slug": "kinect-dk",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Language Understanding",
-    "slug": "language-understanding",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Microsoft Genomics",
-    "slug": "microsoft-genomics",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Personaliser",
-    "slug": "personaliser",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Project Bonsai",
-    "slug": "project-bonsai",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "QnA Maker",
-    "slug": "qna-maker",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Speaker Recognition",
-    "slug": "speaker-recognition",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Speech-to-Text",
-    "slug": "speech-to-text",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Speech translation",
-    "slug": "speech-translation",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Text Analytics",
-    "slug": "text-analytics",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Text to Speech",
-    "slug": "text-to-speech",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Translator",
-    "slug": "translator",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Metrics Advisor",
-    "slug": "azure-metrics-advisor",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Health Bot",
-    "slug": "health-bot",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Percept",
-    "slug": "azure-percept",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Applied AI Services",
-    "slug": "azure-applied-ai-services",
+    "name": "Azure Advisor",
+    "slug": "azure-advisor",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2290,8 +2245,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Data Explorer",
-    "slug": "azure-data-explorer",
+    "name": "Azure Applied AI Services",
+    "slug": "azure-applied-ai-services",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2299,8 +2254,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Data Lake Storage",
-    "slug": "azure-data-lake-storage",
+    "name": "Azure Arc",
+    "slug": "azure-arc",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2308,8 +2263,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Data Share",
-    "slug": "azure-data-share",
+    "name": "Azure Artifacts",
+    "slug": "azure-artifacts",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2317,8 +2272,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Stream Analytics",
-    "slug": "azure-stream-analytics",
+    "name": "Azure Automanage",
+    "slug": "azure-automanage",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2326,8 +2281,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Synapse Analytics",
-    "slug": "azure-synapse-analytics",
+    "name": "Azure Backup",
+    "slug": "azure-backup",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2335,8 +2290,8 @@
     "equivalents": []
   },
   {
-    "name": "Data Catalog",
-    "slug": "data-catalog",
+    "name": "Azure Bastion",
+    "slug": "azure-bastion",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2344,71 +2299,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Data Factory",
-    "slug": "azure-data-factory",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Data Lake Analytics",
-    "slug": "data-lake-analytics",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Event Hubs",
-    "slug": "event-hubs",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "HDInsight",
-    "slug": "hdinsight",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Power BI Embedded",
-    "slug": "power-bi-embedded",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "R Server for HDInsight",
-    "slug": "r-server-for-hdinsight",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Purview",
-    "slug": "azure-purview",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Microsoft Graph Data Connect",
-    "slug": "microsoft-graph-data-connect",
+    "name": "Azure Blob Storage",
+    "slug": "azure-blob-storage",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2434,6 +2326,69 @@
     "equivalents": []
   },
   {
+    "name": "Azure Blueprints",
+    "slug": "azure-blueprints",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Boards",
+    "slug": "azure-boards",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Bot Service",
+    "slug": "azure-bot-service",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Cache for Redis",
+    "slug": "azure-cache-for-redis",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Cognitive Search",
+    "slug": "azure-cognitive-search",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Cognitive Services",
+    "slug": "azure-cognitive-services",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Communication Services",
+    "slug": "azure-communication-services",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Azure Cosmos DB",
     "slug": "azure-cosmos-db",
     "provider": {
@@ -2443,35 +2398,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Logic Apps",
-    "slug": "azure-logic-apps",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Microsoft Azure Confidential Ledger",
-    "slug": "microsoft-azure-confidential-ledger",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "API Apps",
-    "slug": "api-apps",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "App Service",
-    "slug": "app-service",
+    "name": "Azure Cost Management and Billing",
+    "slug": "azure-cost-management-and-billing",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2488,21 +2416,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure functions",
-    "slug": "azure-functions",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": [
-      "aws-lambda",
-      "azure-functions",
-      "cloud-functions"
-    ]
-  },
-  {
-    "name": "Azure Kubernetes Service (AKS)",
-    "slug": "azure-kubernetes-service-aks",
+    "name": "Azure DDoS Protection",
+    "slug": "azure-ddos-protection",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2510,8 +2425,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Quantum",
-    "slug": "azure-quantum",
+    "name": "Azure DNS",
+    "slug": "azure-dns",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2519,8 +2434,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Spring Cloud",
-    "slug": "azure-spring-cloud",
+    "name": "Azure Data Box",
+    "slug": "azure-data-box",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2528,8 +2443,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure VMware Solution",
-    "slug": "azure-vmware-solution",
+    "name": "Azure Data Explorer",
+    "slug": "azure-data-explorer",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2537,8 +2452,8 @@
     "equivalents": []
   },
   {
-    "name": "Batch",
-    "slug": "batch",
+    "name": "Azure Data Factory",
+    "slug": "azure-data-factory",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2546,8 +2461,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Services",
-    "slug": "cloud-services",
+    "name": "Azure Data Lake Storage",
+    "slug": "azure-data-lake-storage",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2555,8 +2470,8 @@
     "equivalents": []
   },
   {
-    "name": "Container Instances",
-    "slug": "container-instances",
+    "name": "Azure Data Share",
+    "slug": "azure-data-share",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2564,134 +2479,8 @@
     "equivalents": []
   },
   {
-    "name": "Linux Virtual Machines",
-    "slug": "linux-virtual-machines",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Mobile Apps",
-    "slug": "mobile-apps",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Service Fabric",
-    "slug": "service-fabric",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "SQL Server on virtual machines",
-    "slug": "sql-server-on-virtual-machines",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Static Web Apps",
-    "slug": "static-web-apps",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Virtual Machine Scale Sets",
-    "slug": "virtual-machine-scale-sets",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Virtual Machines",
-    "slug": "virtual-machines",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Web Apps",
-    "slug": "web-apps",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Windows Virtual Desktop",
-    "slug": "windows-virtual-desktop",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Dedicated Host",
-    "slug": "azure-dedicated-host",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Red Hat OpenShift",
-    "slug": "azure-red-hat-openshift",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Container Registry",
-    "slug": "container-registry",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Web App for Containers",
-    "slug": "web-app-for-containers",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure API for FHIR",
-    "slug": "azure-api-for-fhir",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Cache for Redis",
-    "slug": "azure-cache-for-redis",
+    "name": "Azure Database Migration Service",
+    "slug": "azure-database-migration-service",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2726,8 +2515,485 @@
     "equivalents": []
   },
   {
-    "name": "Azure Database Migration Service",
-    "slug": "azure-database-migration-service",
+    "name": "Azure Databricks",
+    "slug": "azure-databricks",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Dedicated HSM",
+    "slug": "azure-dedicated-hsm",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Dedicated Host",
+    "slug": "azure-dedicated-host",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Defender",
+    "slug": "azure-defender",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Defender for IoT",
+    "slug": "azure-defender-for-iot",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure DevOps",
+    "slug": "azure-devops",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure DevTest Labs",
+    "slug": "azure-devtest-labs",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Digital Twins",
+    "slug": "azure-digital-twins",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Disk Storage",
+    "slug": "azure-disk-storage",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure ExpressRoute",
+    "slug": "azure-expressroute",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure FXT Edge Filer",
+    "slug": "azure-fxt-edge-filer",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Files",
+    "slug": "azure-files",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Firewall",
+    "slug": "azure-firewall",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Firewall Manager",
+    "slug": "azure-firewall-manager",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Form Recognizer",
+    "slug": "azure-form-recognizer",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Front Door",
+    "slug": "azure-front-door",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure HPC Cache",
+    "slug": "azure-hpc-cache",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Immersive Reader",
+    "slug": "azure-immersive-reader",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Information Protection",
+    "slug": "azure-information-protection",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Internet Analyzer",
+    "slug": "azure-internet-analyzer",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure IoT Central",
+    "slug": "azure-iot-central",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure IoT Edge",
+    "slug": "azure-iot-edge",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure IoT Hub",
+    "slug": "azure-iot-hub",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure IoT solution accelerators",
+    "slug": "azure-iot-solution-accelerators",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Kubernetes Service (AKS)",
+    "slug": "azure-kubernetes-service-aks",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Lab Services",
+    "slug": "azure-lab-services",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Lighthouse",
+    "slug": "azure-lighthouse",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Logic Apps",
+    "slug": "azure-logic-apps",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Machine Learning",
+    "slug": "azure-machine-learning",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Managed Applications",
+    "slug": "azure-managed-applications",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Managed Instance for Apache Cassandra",
+    "slug": "azure-managed-instance-for-apache-cassandra",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Maps",
+    "slug": "azure-maps",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Media Player",
+    "slug": "azure-media-player",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Metrics Advisor",
+    "slug": "azure-metrics-advisor",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Migrate",
+    "slug": "azure-migrate",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Modular Data centre",
+    "slug": "azure-modular-data-centre",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Monitor",
+    "slug": "azure-monitor",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure NetApp Files",
+    "slug": "azure-netapp-files",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Open Datasets",
+    "slug": "azure-open-datasets",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Orbital",
+    "slug": "azure-orbital",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Percept",
+    "slug": "azure-percept",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Pipelines",
+    "slug": "azure-pipelines",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Policy",
+    "slug": "azure-policy",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Private Link",
+    "slug": "azure-private-link",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Purview",
+    "slug": "azure-purview",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Quantum",
+    "slug": "azure-quantum",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure RTOS",
+    "slug": "azure-rtos",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Red Hat OpenShift",
+    "slug": "azure-red-hat-openshift",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Remote Rendering",
+    "slug": "azure-remote-rendering",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Repos",
+    "slug": "azure-repos",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Resource Manager",
+    "slug": "azure-resource-manager",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Resource Manager templates",
+    "slug": "azure-resource-manager-templates",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Resource Mover",
+    "slug": "azure-resource-mover",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Route Server",
+    "slug": "azure-route-server",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2771,188 +3037,53 @@
     "equivalents": []
   },
   {
-    "name": "Table Storage",
-    "slug": "table-storage",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Managed Instance for Apache Cassandra",
-    "slug": "azure-managed-instance-for-apache-cassandra",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "App Configuration",
-    "slug": "app-configuration",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure DevOps",
-    "slug": "azure-devops",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure DevTest Labs",
-    "slug": "azure-devtest-labs",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Lab Services",
-    "slug": "azure-lab-services",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Pipelines",
-    "slug": "azure-pipelines",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "SDKs",
-    "slug": "sdks",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Visual Studio",
-    "slug": "visual-studio",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Visual Studio Code",
-    "slug": "visual-studio-code",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Artifacts",
-    "slug": "azure-artifacts",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Boards",
-    "slug": "azure-boards",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Monitor",
-    "slug": "azure-monitor",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Repos",
-    "slug": "azure-repos",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Test Plans",
-    "slug": "azure-test-plans",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "DevOps tool integrations",
-    "slug": "devops-tool-integrations",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Active Directory",
-    "slug": "azure-active-directory",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Arc",
-    "slug": "azure-arc",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure ExpressRoute",
-    "slug": "azure-expressroute",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure IoT Edge",
-    "slug": "azure-iot-edge",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
     "name": "Azure Sentinel",
     "slug": "azure-sentinel",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Service Health",
+    "slug": "azure-service-health",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure SignalR Service",
+    "slug": "azure-signalr-service",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Site Recovery",
+    "slug": "azure-site-recovery",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Sphere",
+    "slug": "azure-sphere",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure Spring Cloud",
+    "slug": "azure-spring-cloud",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2969,8 +3100,8 @@
     "equivalents": []
   },
   {
-    "name": "Security Center",
-    "slug": "security-center",
+    "name": "Azure Stack Edge",
+    "slug": "azure-stack-edge",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -2996,8 +3127,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Stack Edge",
-    "slug": "azure-stack-edge",
+    "name": "Azure Stream Analytics",
+    "slug": "azure-stream-analytics",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3005,8 +3136,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Modular Data centre",
-    "slug": "azure-modular-data-centre",
+    "name": "Azure Synapse Analytics",
+    "slug": "azure-synapse-analytics",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3014,125 +3145,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Active Directory Domain Services",
-    "slug": "azure-active-directory-domain-services",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Information Protection",
-    "slug": "azure-information-protection",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Active Directory external Identities",
-    "slug": "azure-active-directory-external-identities",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "API Management",
-    "slug": "api-management",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Event Grid",
-    "slug": "event-grid",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Service Bus",
-    "slug": "service-bus",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure web PubSub",
-    "slug": "azure-web-pubsub",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Digital Twins",
-    "slug": "azure-digital-twins",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure IoT Central",
-    "slug": "azure-iot-central",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure IoT Hub",
-    "slug": "azure-iot-hub",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure IoT solution accelerators",
-    "slug": "azure-iot-solution-accelerators",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Maps",
-    "slug": "azure-maps",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure RTOS",
-    "slug": "azure-rtos",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Sphere",
-    "slug": "azure-sphere",
+    "name": "Azure Test Plans",
+    "slug": "azure-test-plans",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3149,8 +3163,8 @@
     "equivalents": []
   },
   {
-    "name": "Notification Hubs",
-    "slug": "notification-hubs",
+    "name": "Azure VMware Solution",
+    "slug": "azure-vmware-solution",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3158,8 +3172,8 @@
     "equivalents": []
   },
   {
-    "name": "Windows 10 IoT Core Services",
-    "slug": "windows-10-iot-core-services",
+    "name": "Azure Video Analyzer",
+    "slug": "azure-video-analyzer",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3167,85 +3181,17 @@
     "equivalents": []
   },
   {
-    "name": "Azure Defender for IoT",
-    "slug": "azure-defender-for-iot",
+    "name": "Azure functions",
+    "slug": "azure-functions",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
-  },
-  {
-    "name": "Windows IoT Enterprise",
-    "slug": "windows-iot-enterprise",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Automation",
-    "slug": "automation",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Advisor",
-    "slug": "azure-advisor",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Backup",
-    "slug": "azure-backup",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Blueprints",
-    "slug": "azure-blueprints",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Lighthouse",
-    "slug": "azure-lighthouse",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Managed Applications",
-    "slug": "azure-managed-applications",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Migrate",
-    "slug": "azure-migrate",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
+    "equivalents": [
+      "aws-lambda",
+      "azure-functions",
+      "cloud-functions"
+    ]
   },
   {
     "name": "Azure mobile app",
@@ -3257,8 +3203,8 @@
     "equivalents": []
   },
   {
-    "name": "Azure Policy",
-    "slug": "azure-policy",
+    "name": "Azure web PubSub",
+    "slug": "azure-web-pubsub",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3266,8 +3212,17 @@
     "equivalents": []
   },
   {
-    "name": "Azure Resource Manager",
-    "slug": "azure-resource-manager",
+    "name": "Bare Metal",
+    "slug": "bare-metal",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Batch",
+    "slug": "batch",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
@@ -3275,515 +3230,65 @@
     "equivalents": []
   },
   {
-    "name": "Azure Resource Manager templates",
-    "slug": "azure-resource-manager-templates",
+    "name": "BeyondCorp Enterprise",
+    "slug": "beyondcorp-enterprise",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
   {
-    "name": "Azure Service Health",
-    "slug": "azure-service-health",
+    "name": "BigQuery",
+    "slug": "bigquery",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
   {
-    "name": "Azure Site Recovery",
-    "slug": "azure-site-recovery",
+    "name": "BigQuery Data Transfer Service",
+    "slug": "bigquery-data-transfer-service",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
   {
-    "name": "Cloud Shell",
-    "slug": "cloud-shell",
+    "name": "Binary Authorization",
+    "slug": "binary-authorization",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
   {
-    "name": "Azure Cost Management and Billing",
-    "slug": "azure-cost-management-and-billing",
+    "name": "Certificate Authority Service (beta)",
+    "slug": "certificate-authority-service-beta",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
   {
-    "name": "Microsoft Azure portal",
-    "slug": "microsoft-azure-portal",
+    "name": "Chrome Enterprise",
+    "slug": "chrome-enterprise",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
   {
-    "name": "Network Watcher",
-    "slug": "network-watcher",
+    "name": "Chronicle",
+    "slug": "chronicle",
     "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Traffic Manager",
-    "slug": "traffic-manager",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Automanage",
-    "slug": "azure-automanage",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Resource Mover",
-    "slug": "azure-resource-mover",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Media Player",
-    "slug": "azure-media-player",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Content Delivery Network",
-    "slug": "content-delivery-network",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Content Protection",
-    "slug": "content-protection",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Encoding",
-    "slug": "encoding",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Live and On-Demand Streaming",
-    "slug": "live-and-on-demand-streaming",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Media Services",
-    "slug": "media-services",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Data Box",
-    "slug": "azure-data-box",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Remote Rendering",
-    "slug": "azure-remote-rendering",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Spatial anchors",
-    "slug": "spatial-anchors",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Object anchors",
-    "slug": "object-anchors",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Visual Studio App Centre",
-    "slug": "visual-studio-app-centre",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Xamarin",
-    "slug": "xamarin",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Communication Services",
-    "slug": "azure-communication-services",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Application Gateway",
-    "slug": "application-gateway",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Bastion",
-    "slug": "azure-bastion",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure DDoS Protection",
-    "slug": "azure-ddos-protection",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure DNS",
-    "slug": "azure-dns",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Firewall",
-    "slug": "azure-firewall",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Load balancing",
-    "slug": "load-balancing",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Firewall Manager",
-    "slug": "azure-firewall-manager",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Front Door",
-    "slug": "azure-front-door",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Internet Analyzer",
-    "slug": "azure-internet-analyzer",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Private Link",
-    "slug": "azure-private-link",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Virtual Network",
-    "slug": "virtual-network",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Virtual WAN",
-    "slug": "virtual-wan",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "VPN Gateway",
-    "slug": "vpn-gateway",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Web Application Firewall",
-    "slug": "web-application-firewall",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Orbital",
-    "slug": "azure-orbital",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Route Server",
-    "slug": "azure-route-server",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Defender",
-    "slug": "azure-defender",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Dedicated HSM",
-    "slug": "azure-dedicated-hsm",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Key Vault",
-    "slug": "key-vault",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Microsoft Azure Attestation",
-    "slug": "microsoft-azure-attestation",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Archive Storage",
-    "slug": "archive-storage",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Avere vFXT for Azure",
-    "slug": "avere-vfxt-for-azure",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Files",
-    "slug": "azure-files",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure FXT Edge Filer",
-    "slug": "azure-fxt-edge-filer",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure HPC Cache",
-    "slug": "azure-hpc-cache",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure NetApp Files",
-    "slug": "azure-netapp-files",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Blob Storage",
-    "slug": "azure-blob-storage",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure Disk Storage",
-    "slug": "azure-disk-storage",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Queue Storage",
-    "slug": "queue-storage",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Storage Accounts",
-    "slug": "storage-accounts",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Storage Explorer",
-    "slug": "storage-explorer",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "StorSimple",
-    "slug": "storsimple",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Azure SignalR Service",
-    "slug": "azure-signalr-service",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "VMware Horizon Cloud on Microsoft Azure",
-    "slug": "vmware-horizon-cloud-on-microsoft-azure",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure"
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
     },
     "equivalents": []
   },
@@ -3797,8 +3302,8 @@
     "equivalents": []
   },
   {
-    "name": "Compute Engine",
-    "slug": "compute-engine",
+    "name": "Cloud APIs",
+    "slug": "cloud-apis",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3806,8 +3311,282 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Storage",
-    "slug": "cloud-storage",
+    "name": "Cloud Armor",
+    "slug": "cloud-armor",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Asset Inventory",
+    "slug": "cloud-asset-inventory",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Bigtable",
+    "slug": "cloud-bigtable",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Build",
+    "slug": "cloud-build",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud CDN",
+    "slug": "cloud-cdn",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Code",
+    "slug": "cloud-code",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Composer",
+    "slug": "cloud-composer",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Console",
+    "slug": "cloud-console",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud DNS",
+    "slug": "cloud-dns",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Data Fusion",
+    "slug": "cloud-data-fusion",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Data Loss Prevention",
+    "slug": "cloud-data-loss-prevention",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Debugger",
+    "slug": "cloud-debugger",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Deployment Manager",
+    "slug": "cloud-deployment-manager",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Domains",
+    "slug": "cloud-domains",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Endpoints",
+    "slug": "cloud-endpoints",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Foundation Toolkit",
+    "slug": "cloud-foundation-toolkit",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Functions",
+    "slug": "cloud-functions",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": [
+      "aws-lambda",
+      "azure-functions",
+      "cloud-functions"
+    ]
+  },
+  {
+    "name": "Cloud GPUs",
+    "slug": "cloud-gpus",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Healthcare API",
+    "slug": "cloud-healthcare-api",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Identity",
+    "slug": "cloud-identity",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Inference API (alpha)",
+    "slug": "cloud-inference-api-alpha",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Key Management",
+    "slug": "cloud-key-management",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Life Sciences (beta)",
+    "slug": "cloud-life-sciences-beta",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Load Balancing",
+    "slug": "cloud-load-balancing",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Logging",
+    "slug": "cloud-logging",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Mobile App",
+    "slug": "cloud-mobile-app",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Monitoring",
+    "slug": "cloud-monitoring",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud NAT",
+    "slug": "cloud-nat",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Natural Language",
+    "slug": "cloud-natural-language",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Profiler",
+    "slug": "cloud-profiler",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Run",
+    "slug": "cloud-run",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3833,8 +3612,8 @@
     "equivalents": []
   },
   {
-    "name": "Google Kubernetes Engine",
-    "slug": "google-kubernetes-engine",
+    "name": "Cloud Scheduler",
+    "slug": "cloud-scheduler",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3842,8 +3621,26 @@
     "equivalents": []
   },
   {
-    "name": "BigQuery",
-    "slug": "bigquery",
+    "name": "Cloud Services",
+    "slug": "cloud-services",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Shell",
+    "slug": "cloud-shell",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Shell",
+    "slug": "cloud-shell",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3851,8 +3648,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud CDN",
-    "slug": "cloud-cdn",
+    "name": "Cloud Source Repositories",
+    "slug": "cloud-source-repositories",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3860,8 +3657,8 @@
     "equivalents": []
   },
   {
-    "name": "Dataflow",
-    "slug": "dataflow",
+    "name": "Cloud Spanner",
+    "slug": "cloud-spanner",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3869,8 +3666,8 @@
     "equivalents": []
   },
   {
-    "name": "Operations",
-    "slug": "operations",
+    "name": "Cloud Storage",
+    "slug": "cloud-storage",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -3878,219 +3675,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Run",
-    "slug": "cloud-run",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Anthos",
-    "slug": "anthos",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Functions",
-    "slug": "cloud-functions",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": [
-      "aws-lambda",
-      "azure-functions",
-      "cloud-functions"
-    ]
-  },
-  {
-    "name": "Vertex AI",
-    "slug": "vertex-ai",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Deep Learning VM Image",
-    "slug": "deep-learning-vm-image",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Notebooks",
-    "slug": "notebooks",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Deep Learning Containers",
-    "slug": "deep-learning-containers",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Vertex Data Labeling",
-    "slug": "vertex-data-labeling",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "TensorFlow Enterprise",
-    "slug": "tensorflow-enterprise",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AI building blocks",
-    "slug": "ai-building-blocks",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AutoML",
-    "slug": "automl",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Vision AI",
-    "slug": "vision-ai",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Video AI",
-    "slug": "video-ai",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Natural Language",
-    "slug": "cloud-natural-language",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Translation",
-    "slug": "cloud-translation",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Media Translation (beta)",
-    "slug": "media-translation-beta",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Text-to-Speech",
-    "slug": "text-to-speech",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Speech-to-Text",
-    "slug": "speech-to-text",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Dialogflow",
-    "slug": "dialogflow",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AutoML Tables (beta)",
-    "slug": "automl-tables-beta",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Inference API (alpha)",
-    "slug": "cloud-inference-api-alpha",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Recommendations AI",
-    "slug": "recommendations-ai",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "AI Infrastructure",
-    "slug": "ai-infrastructure",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud GPUs",
-    "slug": "cloud-gpus",
+    "name": "Cloud Storage for Firebase",
+    "slug": "cloud-storage-for-firebase",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4107,8 +3693,8 @@
     "equivalents": []
   },
   {
-    "name": "Apigee API Platform",
-    "slug": "apigee-api-platform",
+    "name": "Cloud Tasks",
+    "slug": "cloud-tasks",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4116,8 +3702,8 @@
     "equivalents": []
   },
   {
-    "name": "HealthAPIx",
-    "slug": "healthapix",
+    "name": "Cloud Trace",
+    "slug": "cloud-trace",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4125,8 +3711,8 @@
     "equivalents": []
   },
   {
-    "name": "Apigee Hybrid",
-    "slug": "apigee-hybrid",
+    "name": "Cloud Translation",
+    "slug": "cloud-translation",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4134,8 +3720,17 @@
     "equivalents": []
   },
   {
-    "name": "AppSheet Automation",
-    "slug": "appsheet-automation",
+    "name": "CloudEndure Disaster Recovery",
+    "slug": "cloudendure-disaster-recovery",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Compute Engine",
+    "slug": "compute-engine",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4143,8 +3738,17 @@
     "equivalents": []
   },
   {
-    "name": "AppSheet",
-    "slug": "appsheet",
+    "name": "Computer Vision",
+    "slug": "computer-vision",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Confidential Computing",
+    "slug": "confidential-computing",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4152,146 +3756,20 @@
     "equivalents": []
   },
   {
-    "name": "Apigee Open Banking APIx",
-    "slug": "apigee-open-banking-apix",
+    "name": "Container Instances",
+    "slug": "container-instances",
     "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
     },
     "equivalents": []
   },
   {
-    "name": "Apigee Sense",
-    "slug": "apigee-sense",
+    "name": "Container Registry",
+    "slug": "container-registry",
     "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Endpoints",
-    "slug": "cloud-endpoints",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Healthcare API",
-    "slug": "cloud-healthcare-api",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "API Gateway",
-    "slug": "api-gateway",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "App Engine",
-    "slug": "app-engine",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Bare Metal",
-    "slug": "bare-metal",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Migrate for Compute Engine",
-    "slug": "migrate-for-compute-engine",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Preemptible VMs",
-    "slug": "preemptible-vms",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Recommender",
-    "slug": "recommender",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Shielded VMs",
-    "slug": "shielded-vms",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Sole-tenant Nodes",
-    "slug": "sole-tenant-nodes",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "SQL Server on Google Cloud",
-    "slug": "sql-server-on-google-cloud",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "VMware Engine",
-    "slug": "vmware-engine",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Artifact Registry",
-    "slug": "artifact-registry",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Build",
-    "slug": "cloud-build",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
     },
     "equivalents": []
   },
@@ -4314,8 +3792,35 @@
     "equivalents": []
   },
   {
-    "name": "Google Kubernetes Engine (GKE)",
-    "slug": "google-kubernetes-engine-gke",
+    "name": "Content Delivery Network",
+    "slug": "content-delivery-network",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Content Protection",
+    "slug": "content-protection",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Content moderator",
+    "slug": "content-moderator",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cost Management",
+    "slug": "cost-management",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4323,56 +3828,20 @@
     "equivalents": []
   },
   {
-    "name": "Knative",
-    "slug": "knative",
+    "name": "Custom Vision",
+    "slug": "custom-vision",
     "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
     },
     "equivalents": []
   },
   {
-    "name": "Kubernetes applications on Google Cloud Marketplace",
-    "slug": "kubernetes-applications-on-google-cloud-marketplace",
+    "name": "Data Catalog",
+    "slug": "data-catalog",
     "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Looker",
-    "slug": "looker",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Dataproc",
-    "slug": "dataproc",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Pub/Sub",
-    "slug": "pubsub",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Data Fusion",
-    "slug": "cloud-data-fusion",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
     },
     "equivalents": []
   },
@@ -4386,8 +3855,26 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Composer",
-    "slug": "cloud-composer",
+    "name": "Data Lake Analytics",
+    "slug": "data-lake-analytics",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Science Virtual Machines",
+    "slug": "data-science-virtual-machines",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Database Migration Service",
+    "slug": "database-migration-service",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4395,8 +3882,8 @@
     "equivalents": []
   },
   {
-    "name": "Dataprep",
-    "slug": "dataprep",
+    "name": "Dataflow",
+    "slug": "dataflow",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4413,8 +3900,8 @@
     "equivalents": []
   },
   {
-    "name": "Analytics Hub",
-    "slug": "analytics-hub",
+    "name": "Dataprep",
+    "slug": "dataprep",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4422,80 +3909,8 @@
     "equivalents": []
   },
   {
-    "name": "Google Data Studio*",
-    "slug": "google-data-studio",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Google Marketing Platform*",
-    "slug": "google-marketing-platform",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Life Sciences (beta)",
-    "slug": "cloud-life-sciences-beta",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Bigtable",
-    "slug": "cloud-bigtable",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Spanner",
-    "slug": "cloud-spanner",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Database Migration Service",
-    "slug": "database-migration-service",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Firestore",
-    "slug": "firestore",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Firebase Realtime Database",
-    "slug": "firebase-realtime-database",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Memorystore",
-    "slug": "memorystore",
+    "name": "Dataproc",
+    "slug": "dataproc",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4512,8 +3927,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Code",
-    "slug": "cloud-code",
+    "name": "Deep Learning Containers",
+    "slug": "deep-learning-containers",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4521,8 +3936,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Scheduler",
-    "slug": "cloud-scheduler",
+    "name": "Deep Learning VM Image",
+    "slug": "deep-learning-vm-image",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4530,116 +3945,17 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Source Repositories",
-    "slug": "cloud-source-repositories",
+    "name": "DevOps tool integrations",
+    "slug": "devops-tool-integrations",
     "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
     },
     "equivalents": []
   },
   {
-    "name": "Cloud Tasks",
-    "slug": "cloud-tasks",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Firebase Crashlytics",
-    "slug": "firebase-crashlytics",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Firebase Test Lab",
-    "slug": "firebase-test-lab",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Gradle App Engine Plugin",
-    "slug": "gradle-app-engine-plugin",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Maven App Engine Plugin",
-    "slug": "maven-app-engine-plugin",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Tekton",
-    "slug": "tekton",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Tools for Eclipse",
-    "slug": "tools-for-eclipse",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Tools for PowerShell",
-    "slug": "tools-for-powershell",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Apigee healthcare APIx",
-    "slug": "apigee-healthcare-apix",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Healthcare Natural Language AI",
-    "slug": "healthcare-natural-language-ai",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Apigee API Management",
-    "slug": "apigee-api-management",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Migrate for Anthos",
-    "slug": "migrate-for-anthos",
+    "name": "Dialogflow",
+    "slug": "dialogflow",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4656,8 +3972,53 @@
     "equivalents": []
   },
   {
-    "name": "IoT Core",
-    "slug": "iot-core",
+    "name": "Elastic Load Balancing",
+    "slug": "elastic-load-balancing",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Encoding",
+    "slug": "encoding",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Event Grid",
+    "slug": "event-grid",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Event Hubs",
+    "slug": "event-hubs",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Face",
+    "slug": "face",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Filestore",
+    "slug": "filestore",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4665,8 +4026,8 @@
     "equivalents": []
   },
   {
-    "name": "Anthos Service Mesh",
-    "slug": "anthos-service-mesh",
+    "name": "Firebase Crashlytics",
+    "slug": "firebase-crashlytics",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4674,8 +4035,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud APIs",
-    "slug": "cloud-apis",
+    "name": "Firebase Realtime Database",
+    "slug": "firebase-realtime-database",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4683,8 +4044,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Console",
-    "slug": "cloud-console",
+    "name": "Firebase Test Lab",
+    "slug": "firebase-test-lab",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4692,8 +4053,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Deployment Manager",
-    "slug": "cloud-deployment-manager",
+    "name": "Firestore",
+    "slug": "firestore",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4701,8 +4062,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Mobile App",
-    "slug": "cloud-mobile-app",
+    "name": "Firewalls",
+    "slug": "firewalls",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4710,29 +4071,11 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Shell",
-    "slug": "cloud-shell",
+    "name": "FreeRTOS",
+    "slug": "freertos",
     "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cost Management",
-    "slug": "cost-management",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Private Catalog",
-    "slug": "private-catalog",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
     },
     "equivalents": []
   },
@@ -4746,8 +4089,8 @@
     "equivalents": []
   },
   {
-    "name": "OpenCue",
-    "slug": "opencue",
+    "name": "Google  Workspace Essentials",
+    "slug": "google-workspace-essentials",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4755,8 +4098,8 @@
     "equivalents": []
   },
   {
-    "name": "Transcoder API (beta)",
-    "slug": "transcoder-api-beta",
+    "name": "Google Data Studio*",
+    "slug": "google-data-studio",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4764,8 +4107,8 @@
     "equivalents": []
   },
   {
-    "name": "Application migration",
-    "slug": "application-migration",
+    "name": "Google Kubernetes Engine",
+    "slug": "google-kubernetes-engine",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4773,8 +4116,8 @@
     "equivalents": []
   },
   {
-    "name": "BigQuery Data Transfer Service",
-    "slug": "bigquery-data-transfer-service",
+    "name": "Google Kubernetes Engine (GKE)",
+    "slug": "google-kubernetes-engine-gke",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4782,8 +4125,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Foundation Toolkit",
-    "slug": "cloud-foundation-toolkit",
+    "name": "Google Maps Platform",
+    "slug": "google-maps-platform",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4791,8 +4134,8 @@
     "equivalents": []
   },
   {
-    "name": "Transfer Appliance",
-    "slug": "transfer-appliance",
+    "name": "Google Marketing Platform*",
+    "slug": "google-marketing-platform",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4800,8 +4143,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Armor",
-    "slug": "cloud-armor",
+    "name": "Google Meet",
+    "slug": "google-meet",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4809,8 +4152,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Domains",
-    "slug": "cloud-domains",
+    "name": "Google Workspace",
+    "slug": "google-workspace",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4818,8 +4161,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud DNS",
-    "slug": "cloud-dns",
+    "name": "Gradle App Engine Plugin",
+    "slug": "gradle-app-engine-plugin",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4827,8 +4170,26 @@
     "equivalents": []
   },
   {
-    "name": "Cloud Load Balancing",
-    "slug": "cloud-load-balancing",
+    "name": "HDInsight",
+    "slug": "hdinsight",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Health Bot",
+    "slug": "health-bot",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "HealthAPIx",
+    "slug": "healthapix",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4836,8 +4197,8 @@
     "equivalents": []
   },
   {
-    "name": "Cloud NAT",
-    "slug": "cloud-nat",
+    "name": "Healthcare Natural Language AI",
+    "slug": "healthcare-natural-language-ai",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4850,6 +4211,267 @@
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Identity Platform",
+    "slug": "identity-platform",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Identity and Access Management",
+    "slug": "identity-and-access-management",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Identity-Aware Proxy ",
+    "slug": "identity-aware-proxy",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "IoT Core",
+    "slug": "iot-core",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Key Vault",
+    "slug": "key-vault",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Kinect DK",
+    "slug": "kinect-dk",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Knative",
+    "slug": "knative",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Kubernetes Engine Monitoring",
+    "slug": "kubernetes-engine-monitoring",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Kubernetes applications on Google Cloud Marketplace",
+    "slug": "kubernetes-applications-on-google-cloud-marketplace",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Language Understanding",
+    "slug": "language-understanding",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Linux Virtual Machines",
+    "slug": "linux-virtual-machines",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Live and On-Demand Streaming",
+    "slug": "live-and-on-demand-streaming",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Load balancing",
+    "slug": "load-balancing",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Local SSD",
+    "slug": "local-ssd",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Looker",
+    "slug": "looker",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Managed Service for Microsoft Active Directory",
+    "slug": "managed-service-for-microsoft-active-directory",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Maven App Engine Plugin",
+    "slug": "maven-app-engine-plugin",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Media Services",
+    "slug": "media-services",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Media Translation (beta)",
+    "slug": "media-translation-beta",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Memorystore",
+    "slug": "memorystore",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Microsoft Azure Attestation",
+    "slug": "microsoft-azure-attestation",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Microsoft Azure Confidential Ledger",
+    "slug": "microsoft-azure-confidential-ledger",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Microsoft Azure portal",
+    "slug": "microsoft-azure-portal",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Microsoft Genomics",
+    "slug": "microsoft-genomics",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Microsoft Graph Data Connect",
+    "slug": "microsoft-graph-data-connect",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Migrate for Anthos",
+    "slug": "migrate-for-anthos",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Migrate for Compute Engine",
+    "slug": "migrate-for-compute-engine",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Migration Evaluator (formerly TSO Logic)",
+    "slug": "migration-evaluator-formerly-tso-logic",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Mobile Apps",
+    "slug": "mobile-apps",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
     },
     "equivalents": []
   },
@@ -4890,8 +4512,17 @@
     "equivalents": []
   },
   {
-    "name": "Service Directory",
-    "slug": "service-directory",
+    "name": "Network Watcher",
+    "slug": "network-watcher",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Notebooks",
+    "slug": "notebooks",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4899,8 +4530,26 @@
     "equivalents": []
   },
   {
-    "name": "Traffic Director",
-    "slug": "traffic-director",
+    "name": "Notification Hubs",
+    "slug": "notification-hubs",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Object anchors",
+    "slug": "object-anchors",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "OpenCue",
+    "slug": "opencue",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -4908,350 +4557,8 @@
     "equivalents": []
   },
   {
-    "name": "Virtual Private Cloud (VPC)",
-    "slug": "virtual-private-cloud-vpc",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Debugger",
-    "slug": "cloud-debugger",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Logging",
-    "slug": "cloud-logging",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Monitoring",
-    "slug": "cloud-monitoring",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Profiler",
-    "slug": "cloud-profiler",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Trace",
-    "slug": "cloud-trace",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Kubernetes Engine Monitoring",
-    "slug": "kubernetes-engine-monitoring",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Access Transparency",
-    "slug": "access-transparency",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Assured Workloads",
-    "slug": "assured-workloads",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Binary Authorization",
-    "slug": "binary-authorization",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Chronicle",
-    "slug": "chronicle",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Asset Inventory",
-    "slug": "cloud-asset-inventory",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Data Loss Prevention",
-    "slug": "cloud-data-loss-prevention",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Key Management",
-    "slug": "cloud-key-management",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Confidential Computing",
-    "slug": "confidential-computing",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Firewalls",
-    "slug": "firewalls",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Risk Protection Program (preview)",
-    "slug": "risk-protection-program-preview",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Secret Manager",
-    "slug": "secret-manager",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Security Command Center",
-    "slug": "security-command-center",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "VPC Service Controls",
-    "slug": "vpc-service-controls",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "BeyondCorp Enterprise",
-    "slug": "beyondcorp-enterprise",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Certificate Authority Service (beta)",
-    "slug": "certificate-authority-service-beta",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Identity",
-    "slug": "cloud-identity",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Identity and Access Management",
-    "slug": "identity-and-access-management",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Identity-Aware Proxy ",
-    "slug": "identity-aware-proxy",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Identity Platform",
-    "slug": "identity-platform",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Managed Service for Microsoft Active Directory",
-    "slug": "managed-service-for-microsoft-active-directory",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Policy Intelligence",
-    "slug": "policy-intelligence",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Resource Manager",
-    "slug": "resource-manager",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Titan Security Key",
-    "slug": "titan-security-key",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "reCAPTCHA Enterprise",
-    "slug": "recaptcha-enterprise",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Web Risk",
-    "slug": "web-risk",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Workflows",
-    "slug": "workflows",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Archive Storage",
-    "slug": "archive-storage",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Storage Transfer Service",
-    "slug": "storage-transfer-service",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Cloud Storage for Firebase",
-    "slug": "cloud-storage-for-firebase",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Filestore",
-    "slug": "filestore",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Google  Workspace Essentials",
-    "slug": "google-workspace-essentials",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Local SSD",
-    "slug": "local-ssd",
+    "name": "Operations",
+    "slug": "operations",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -5268,8 +4575,17 @@
     "equivalents": []
   },
   {
-    "name": "Google Workspace",
-    "slug": "google-workspace",
+    "name": "Personaliser",
+    "slug": "personaliser",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Policy Intelligence",
+    "slug": "policy-intelligence",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -5277,8 +4593,17 @@
     "equivalents": []
   },
   {
-    "name": "Google Meet",
-    "slug": "google-meet",
+    "name": "Power BI Embedded",
+    "slug": "power-bi-embedded",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Preemptible VMs",
+    "slug": "preemptible-vms",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -5286,8 +4611,8 @@
     "equivalents": []
   },
   {
-    "name": "Chrome Enterprise",
-    "slug": "chrome-enterprise",
+    "name": "Private Catalog",
+    "slug": "private-catalog",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
@@ -5295,8 +4620,683 @@
     "equivalents": []
   },
   {
-    "name": "Google Maps Platform",
-    "slug": "google-maps-platform",
+    "name": "Project Bonsai",
+    "slug": "project-bonsai",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Pub/Sub",
+    "slug": "pubsub",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "PyTorch on AWS",
+    "slug": "pytorch-on-aws",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "QnA Maker",
+    "slug": "qna-maker",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Queue Storage",
+    "slug": "queue-storage",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "R Server for HDInsight",
+    "slug": "r-server-for-hdinsight",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Recommendations AI",
+    "slug": "recommendations-ai",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Recommender",
+    "slug": "recommender",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Red Hat OpenShift Service on AWS",
+    "slug": "red-hat-openshift-service-on-aws",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Reserved Instance Reporting",
+    "slug": "reserved-instance-reporting",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Resource Manager",
+    "slug": "resource-manager",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Risk Protection Program (preview)",
+    "slug": "risk-protection-program-preview",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "SDKs",
+    "slug": "sdks",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "SQL Server on Google Cloud",
+    "slug": "sql-server-on-google-cloud",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "SQL Server on virtual machines",
+    "slug": "sql-server-on-virtual-machines",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Savings Plans",
+    "slug": "savings-plans",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Secret Manager",
+    "slug": "secret-manager",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Security Center",
+    "slug": "security-center",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Security Command Center",
+    "slug": "security-command-center",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Service Bus",
+    "slug": "service-bus",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Service Directory",
+    "slug": "service-directory",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Service Fabric",
+    "slug": "service-fabric",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Shielded VMs",
+    "slug": "shielded-vms",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Sole-tenant Nodes",
+    "slug": "sole-tenant-nodes",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Spatial anchors",
+    "slug": "spatial-anchors",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Speaker Recognition",
+    "slug": "speaker-recognition",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Speech translation",
+    "slug": "speech-translation",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Speech-to-Text",
+    "slug": "speech-to-text",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Speech-to-Text",
+    "slug": "speech-to-text",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Static Web Apps",
+    "slug": "static-web-apps",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "StorSimple",
+    "slug": "storsimple",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Storage Accounts",
+    "slug": "storage-accounts",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Storage Explorer",
+    "slug": "storage-explorer",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Storage Transfer Service",
+    "slug": "storage-transfer-service",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Table Storage",
+    "slug": "table-storage",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Tekton",
+    "slug": "tekton",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "TensorFlow Enterprise",
+    "slug": "tensorflow-enterprise",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "TensorFlow on AWS",
+    "slug": "tensorflow-on-aws",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Text Analytics",
+    "slug": "text-analytics",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Text to Speech",
+    "slug": "text-to-speech",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Text-to-Speech",
+    "slug": "text-to-speech",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Titan Security Key",
+    "slug": "titan-security-key",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Tools for Eclipse",
+    "slug": "tools-for-eclipse",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Tools for PowerShell",
+    "slug": "tools-for-powershell",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Traffic Director",
+    "slug": "traffic-director",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Traffic Manager",
+    "slug": "traffic-manager",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Transcoder API (beta)",
+    "slug": "transcoder-api-beta",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Transfer Appliance",
+    "slug": "transfer-appliance",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Translator",
+    "slug": "translator",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "VMware Cloud on AWS",
+    "slug": "vmware-cloud-on-aws",
+    "provider": {
+      "name": "Amazon Web Services (AWS)",
+      "key": "aws"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "VMware Engine",
+    "slug": "vmware-engine",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "VMware Horizon Cloud on Microsoft Azure",
+    "slug": "vmware-horizon-cloud-on-microsoft-azure",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "VPC Service Controls",
+    "slug": "vpc-service-controls",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "VPN Gateway",
+    "slug": "vpn-gateway",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Vertex AI",
+    "slug": "vertex-ai",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Vertex Data Labeling",
+    "slug": "vertex-data-labeling",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Video AI",
+    "slug": "video-ai",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Virtual Machine Scale Sets",
+    "slug": "virtual-machine-scale-sets",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Virtual Machines",
+    "slug": "virtual-machines",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Virtual Network",
+    "slug": "virtual-network",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Virtual Private Cloud (VPC)",
+    "slug": "virtual-private-cloud-vpc",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Virtual WAN",
+    "slug": "virtual-wan",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Vision AI",
+    "slug": "vision-ai",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Visual Studio",
+    "slug": "visual-studio",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Visual Studio App Centre",
+    "slug": "visual-studio-app-centre",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Visual Studio Code",
+    "slug": "visual-studio-code",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Web App for Containers",
+    "slug": "web-app-for-containers",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Web Application Firewall",
+    "slug": "web-application-firewall",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Web Apps",
+    "slug": "web-apps",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Web Risk",
+    "slug": "web-risk",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Windows 10 IoT Core Services",
+    "slug": "windows-10-iot-core-services",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Windows IoT Enterprise",
+    "slug": "windows-iot-enterprise",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Windows Virtual Desktop",
+    "slug": "windows-virtual-desktop",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Workflows",
+    "slug": "workflows",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Xamarin",
+    "slug": "xamarin",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "reCAPTCHA Enterprise",
+    "slug": "recaptcha-enterprise",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"

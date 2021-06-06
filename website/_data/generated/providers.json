@@ -4,11 +4,11 @@
     "key": "aws"
   },
   {
-    "name": "Microsoft Azure (Azure)",
-    "key": "azure"
-  },
-  {
     "name": "Google Cloud Platform (GCP)",
     "key": "gcp"
+  },
+  {
+    "name": "Microsoft Azure (Azure)",
+    "key": "azure"
   }
 ]

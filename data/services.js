@@ -29,5 +29,18 @@ const providers = ['aws', 'azure', 'gcp'];
     })
   }))
 
-  await fs.writeFile(path.resolve(__dirname, '../website/_data/generated/services.json'), JSON.stringify(services.flat(), null, 2))
+  // Flatten and sort alphabetically
+  const flat = services.flat()
+
+  flat.sort((a, b) => {
+    if (a.name < b.name) {
+      return -1
+    }
+    if (a.name > b.name) {
+      return 1
+    }
+    return 0
+  })
+
+  await fs.writeFile(path.resolve(__dirname, '../website/_data/generated/services.json'), JSON.stringify(flat, null, 2))
 })()
