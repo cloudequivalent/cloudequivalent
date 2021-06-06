@@ -1,41 +1,47 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="h-100">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Azure Files | Cloud Equivalent</title>
   <link rel="stylesheet" href="/style.css">
 </head>
-<body>
-  <header>
-    <div class="wrapper">
-      <a href="/">Cloud Equivalent</a>
+<body class="d-flex flex-column h-100">
+  <header class="py-3 mb-4 border-bottom">
+    <div class="container d-flex flex-wrap justify-content-center">
+      <a href="/" class="d-flex align-items-center me-lg-auto text-dark text-decoration-none">
+        <span class="fs-4">Cloud Equivalent</span>
+      </a>
     </div>
   </header>
-  <main>
-    <div class="wrapper">
-      <h1>Azure Files</h1>
-      <h2>Equivalents</h2>
-  <table>
+  <main class="flex-shrink-0">
+    <div class="container"><h1 class="pb-2 border-bottom mb-4">Azure Files</h1>
+      
+      
+
+  <h2 class="mb-3">Equivalents</h2>
+
+  <table class="table">
     <thead>
       <tr>
-        <th>Cloud Provider</th>
-        <th>Equivalent</th>
+        <th scope="col">Cloud Provider</th>
+        <th scope="col">Equivalent</th>
       </tr>
     </thead>
     <tbody><tr>
-        <td>Google Cloud Platform (GCP)</td>
+        <th scope="row">Google Cloud Platform (GCP)</th>
         <td>Filestore</td>
       </tr><tr>
-        <td>Amazon Web Services (AWS)</td>
+        <th scope="row">Amazon Web Services (AWS)</th>
         <td>Amazon Elastic File System (EFS)</td>
       </tr></tbody>
   </table>
 
+
     </div>
   </main>
-  <footer>
-    <div class="wrapper">
+  <footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
       Contribute or raise an issue on <a href="https://github.com/cloudequivalent/cloudequivalent">cloudequivalent/cloudequivalent</a>
     </div>
   </footer>

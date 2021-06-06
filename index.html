@@ -1,37 +1,59 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="h-100">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Cloud Equivalent</title>
   <link rel="stylesheet" href="/style.css">
 </head>
-<body>
-  <header>
-    <div class="wrapper">
-      <a href="/">Cloud Equivalent</a>
+<body class="d-flex flex-column h-100">
+  <header class="py-3 mb-4 border-bottom">
+    <div class="container d-flex flex-wrap justify-content-center">
+      <a href="/" class="d-flex align-items-center me-lg-auto text-dark text-decoration-none">
+        <span class="fs-4">Cloud Equivalent</span>
+      </a>
     </div>
   </header>
-  <main>
-    <div class="wrapper">
-      <h1>Cloud Equivalent</h1>
-      <h2>Choose a cloud provider</h2>
-<ul>
-<li>
-<p><a href="/aws">Amazon Web Services (AWS)</a></p>
-</li>
-<li>
-<p><a href="/gcp">Google Cloud Platform (GCP)</a></p>
-</li>
-<li>
-<p><a href="/azure">Microsoft Azure (Azure)</a></p>
-</li>
-</ul>
+  <main class="flex-shrink-0">
+    <div class="container">
+        <h1>Choose a provider</h1>
+      
+      
+<div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+  
+  <div class="col">
+    <div class="card rounded-3 shadow-sm" style="border-color: #FF9900 !important;">
+      <div class="card-body">
+        <h2 class="card-title fs-4">Amazon Web Services (AWS)</h2>
+        <a href="/aws" class="card-link">View services &rarr;</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col">
+    <div class="card rounded-3 shadow-sm" style="border-color: #1a73e8 !important;">
+      <div class="card-body">
+        <h2 class="card-title fs-4">Google Cloud Platform (GCP)</h2>
+        <a href="/gcp" class="card-link">View services &rarr;</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="col">
+    <div class="card rounded-3 shadow-sm" style="border-color: #0089d6 !important;">
+      <div class="card-body">
+        <h2 class="card-title fs-4">Microsoft Azure (Azure)</h2>
+        <a href="/azure" class="card-link">View services &rarr;</a>
+      </div>
+    </div>
+  </div>
+  
+</div>
 
     </div>
   </main>
-  <footer>
-    <div class="wrapper">
+  <footer class="footer mt-auto py-3 bg-light">
+    <div class="container">
       Contribute or raise an issue on <a href="https://github.com/cloudequivalent/cloudequivalent">cloudequivalent/cloudequivalent</a>
     </div>
   </footer>
