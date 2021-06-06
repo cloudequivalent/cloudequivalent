@@ -33,7 +33,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "API Management",
+        "slug": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "API Management",
@@ -44,11 +53,19 @@
     },
     "equivalents": [
       {
-        "name": "Amazon API Gateway",
-        "slug": "amazon-api-gateway",
+        "name": "Apigee API Management",
+        "slug": "apigee-api-management",
         "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "API Gateway",
+        "slug": "api-gateway",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       }
     ]
@@ -71,6 +88,22 @@
     },
     "equivalents": [
       {
+        "name": "Traffic Director",
+        "slug": "traffic-director",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Anthos Service Mesh",
+        "slug": "anthos-service-mesh",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Service Fabric",
         "slug": "service-fabric",
         "provider": {
@@ -87,7 +120,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Run",
+        "slug": "cloud-run",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Container Instances",
+        "slug": "container-instances",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS App2Container",
@@ -96,7 +146,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Migrate for Anthos",
+        "slug": "migrate-for-anthos",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS AppSync",
@@ -105,7 +172,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Firestore",
+        "slug": "firestore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Cosmos DB",
+        "slug": "azure-cosmos-db",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Application Discovery Service",
@@ -188,8 +272,24 @@
     },
     "equivalents": [
       {
-        "name": "Batch",
-        "slug": "batch",
+        "name": "Dataproc",
+        "slug": "dataproc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Data Lake Analytics",
+        "slug": "data-lake-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "HDInsight",
+        "slug": "hdinsight",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -204,7 +304,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cost Management",
+        "slug": "cost-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cost Management",
+        "slug": "cost-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Certificate Manager",
@@ -213,7 +330,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Certificate Authority Service (beta)",
+        "slug": "certificate-authority-service-beta",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Active Directory Domain Services",
+        "slug": "azure-active-directory-domain-services",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Chatbot",
@@ -240,7 +374,16 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Service Directory",
+        "slug": "service-directory",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Cloud9",
@@ -260,8 +403,8 @@
     },
     "equivalents": [
       {
-        "name": "Resource Manager",
-        "slug": "resource-manager",
+        "name": "Cloud Deployment Manager",
+        "slug": "cloud-deployment-manager",
         "provider": {
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp"
@@ -332,6 +475,14 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Build",
+        "slug": "cloud-build",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure DevOps",
         "slug": "azure-devops",
         "provider": {
@@ -368,6 +519,14 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Build",
+        "slug": "cloud-build",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure DevOps",
         "slug": "azure-devops",
         "provider": {
@@ -385,6 +544,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Cloud Build",
+        "slug": "cloud-build",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure DevOps",
         "slug": "azure-devops",
@@ -429,7 +596,16 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Asset Inventory",
+        "slug": "cloud-asset-inventory",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Console Mobile Application",
@@ -503,16 +679,16 @@
     },
     "equivalents": [
       {
-        "name": "Azure Data Factory",
-        "slug": "azure-data-factory",
+        "name": "Cloud Data Fusion",
+        "slug": "cloud-data-fusion",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
-        "name": "Data Catalog",
-        "slug": "data-catalog",
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -537,6 +713,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Database Migration Service",
+        "slug": "database-migration-service",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure Database Migration Service",
         "slug": "azure-database-migration-service",
@@ -601,6 +785,14 @@
     },
     "equivalents": [
       {
+        "name": "Firebase Test Lab",
+        "slug": "firebase-test-lab",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Visual Studio App Centre",
         "slug": "visual-studio-app-centre",
         "provider": {
@@ -618,6 +810,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Hybrid Connectivity",
+        "slug": "hybrid-connectivity",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure ExpressRoute",
         "slug": "azure-expressroute",
@@ -663,6 +863,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "App Engine",
+        "slug": "app-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "App Service",
         "slug": "app-service",
@@ -745,6 +953,14 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Run",
+        "slug": "cloud-run",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Container Instances",
         "slug": "container-instances",
         "provider": {
@@ -799,16 +1015,16 @@
     },
     "equivalents": [
       {
-        "name": "Azure Data Factory",
-        "slug": "azure-data-factory",
+        "name": "Data Catalog",
+        "slug": "data-catalog",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
         }
       },
       {
-        "name": "Data Catalog",
-        "slug": "data-catalog",
+        "name": "Azure Purview",
+        "slug": "azure-purview",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -920,6 +1136,14 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
         }
+      },
+      {
+        "name": "IoT Core",
+        "slug": "iot-core",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
       }
     ]
   },
@@ -986,6 +1210,14 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Key Management",
+        "slug": "cloud-key-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Key Vault",
         "slug": "key-vault",
         "provider": {
@@ -1022,19 +1254,19 @@
     },
     "equivalents": [
       {
-        "name": "Azure functions",
-        "slug": "azure-functions",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
-      },
-      {
         "name": "Cloud Functions",
         "slug": "cloud-functions",
         "provider": {
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure functions",
+        "slug": "azure-functions",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
         }
       }
     ]
@@ -1111,8 +1343,16 @@
     },
     "equivalents": [
       {
-        "name": "Automation",
-        "slug": "automation",
+        "name": "Resource Manager",
+        "slug": "resource-manager",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Resource Manager",
+        "slug": "azure-resource-manager",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1136,7 +1376,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Anthos",
+        "slug": "anthos",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Arc",
+        "slug": "azure-arc",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Panorama (Preview)",
@@ -1208,7 +1465,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Secret Manager",
+        "slug": "secret-manager",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Key Vault",
+        "slug": "key-vault",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Security Hub",
@@ -1217,7 +1491,32 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Security Command Center",
+        "slug": "security-command-center",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Defender",
+        "slug": "azure-defender",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Security Center",
+        "slug": "security-center",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Server Migration Service ",
@@ -1226,7 +1525,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Migrate for Compute Engine",
+        "slug": "migrate-for-compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Serverless Application Repository",
@@ -1282,6 +1598,14 @@
     },
     "equivalents": [
       {
+        "name": "Transfer Appliance",
+        "slug": "transfer-appliance",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure Data Box",
         "slug": "azure-data-box",
         "provider": {
@@ -1298,7 +1622,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Workflows",
+        "slug": "workflows",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure functions",
+        "slug": "azure-functions",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Storage Gateway",
@@ -1309,8 +1650,16 @@
     },
     "equivalents": [
       {
-        "name": "StorSimple",
-        "slug": "storsimple",
+        "name": "Storage Transfer Service",
+        "slug": "storage-transfer-service",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1343,7 +1692,16 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud SDK",
+        "slug": "cloud-sdk",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Transfer Family",
@@ -1390,16 +1748,16 @@
     },
     "equivalents": [
       {
-        "name": "Web Application Firewall",
-        "slug": "web-application-firewall",
+        "name": "Cloud Armor",
+        "slug": "cloud-armor",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
-        "name": "Azure Firewall",
-        "slug": "azure-firewall",
+        "name": "Web Application Firewall",
+        "slug": "web-application-firewall",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1433,6 +1791,22 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Cloud Debugger",
+        "slug": "cloud-debugger",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cloud Trace",
+        "slug": "cloud-trace",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure Monitor",
         "slug": "azure-monitor",
@@ -1486,7 +1860,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Data Fusion",
+        "slug": "cloud-data-fusion",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon AppStream 2.0",
@@ -1515,8 +1906,16 @@
     },
     "equivalents": [
       {
-        "name": "Data Lake Analytics",
-        "slug": "data-lake-analytics",
+        "name": "BigQuery",
+        "slug": "bigquery",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Synapse Analytics",
+        "slug": "azure-synapse-analytics",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1540,7 +1939,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Spanner",
+        "slug": "cloud-spanner",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure SQL Database",
+        "slug": "azure-sql-database",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Aurora Serverless v2 (Preview)",
@@ -1549,7 +1965,40 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud SQL",
+        "slug": "cloud-sql",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Database for MySQL",
+        "slug": "azure-database-for-mysql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Database for PostgreSQL",
+        "slug": "azure-database-for-postgresql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure SQL Database",
+        "slug": "azure-sql-database",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Braket",
@@ -1577,6 +2026,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Cloud CDN",
+        "slug": "cloud-cdn",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Content Delivery Network",
         "slug": "content-delivery-network",
@@ -1614,6 +2071,22 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Logging",
+        "slug": "cloud-logging",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cloud Monitoring",
+        "slug": "cloud-monitoring",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure Monitor",
         "slug": "azure-monitor",
         "provider": {
@@ -1630,7 +2103,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Profiler",
+        "slug": "cloud-profiler",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Cognito",
@@ -1640,6 +2130,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Identity Platform",
+        "slug": "identity-platform",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure Active Directory",
         "slug": "azure-active-directory",
@@ -1657,7 +2155,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Natural Language",
+        "slug": "cloud-natural-language",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Text Analytics",
+        "slug": "text-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Connect",
@@ -1704,6 +2219,14 @@
     },
     "equivalents": [
       {
+        "name": "Firestore",
+        "slug": "firestore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure Cosmos DB",
         "slug": "azure-cosmos-db",
         "provider": {
@@ -1722,11 +2245,11 @@
     },
     "equivalents": [
       {
-        "name": "Table Storage",
-        "slug": "table-storage",
+        "name": "Firestore",
+        "slug": "firestore",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
@@ -1747,6 +2270,22 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Compute Engine",
+        "slug": "compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cloud GPUs",
+        "slug": "cloud-gpus",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Virtual Machines",
         "slug": "virtual-machines",
@@ -1811,16 +2350,16 @@
     },
     "equivalents": [
       {
-        "name": "Azure Data Explorer",
-        "slug": "azure-data-explorer",
+        "name": "Dataproc",
+        "slug": "dataproc",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
-        "name": "Azure Databricks",
-        "slug": "azure-databricks",
+        "name": "Data Lake Analytics",
+        "slug": "data-lake-analytics",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1829,14 +2368,6 @@
       {
         "name": "HDInsight",
         "slug": "hdinsight",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
-      },
-      {
-        "name": "Azure Data Lake Storage",
-        "slug": "azure-data-lake-storage",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1852,6 +2383,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Memorystore",
+        "slug": "memorystore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure Cache for Redis",
         "slug": "azure-cache-for-redis",
@@ -1871,6 +2410,14 @@
     },
     "equivalents": [
       {
+        "name": "Persistent Disk",
+        "slug": "persistent-disk",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure Disk Storage",
         "slug": "azure-disk-storage",
         "provider": {
@@ -1888,6 +2435,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Artifact Registry",
+        "slug": "artifact-registry",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Container Registry",
         "slug": "container-registry",
@@ -1907,8 +2462,16 @@
     },
     "equivalents": [
       {
-        "name": "Container Instances",
-        "slug": "container-instances",
+        "name": "Container Security",
+        "slug": "container-security",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Security Center",
+        "slug": "security-center",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -1924,6 +2487,22 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Filestore",
+        "slug": "filestore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Disk Storage",
+        "slug": "azure-disk-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
       {
         "name": "Azure Files",
         "slug": "azure-files",
@@ -1951,6 +2530,22 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Google Kubernetes Engine",
+        "slug": "google-kubernetes-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Google Kubernetes Engine (GKE)",
+        "slug": "google-kubernetes-engine-gke",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure Kubernetes Service (AKS)",
         "slug": "azure-kubernetes-service-aks",
@@ -2058,7 +2653,32 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Security Command Center",
+        "slug": "security-command-center",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Defender",
+        "slug": "azure-defender",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Security Center",
+        "slug": "security-center",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Healthlake",
@@ -2132,35 +2752,19 @@
     },
     "equivalents": [
       {
-        "name": "Azure Stream Analytics",
-        "slug": "azure-stream-analytics",
+        "name": "Event Hubs",
+        "slug": "event-hubs",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
         }
       },
       {
-        "name": "Azure Data Explorer",
-        "slug": "azure-data-explorer",
+        "name": "Pub/Sub",
+        "slug": "pubsub",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
-      },
-      {
-        "name": "Data Lake Analytics",
-        "slug": "data-lake-analytics",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
-      },
-      {
-        "name": "Azure Data Lake Storage",
-        "slug": "azure-data-lake-storage",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       }
     ]
@@ -2191,6 +2795,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Dialogflow",
+        "slug": "dialogflow",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Language Understanding",
         "slug": "language-understanding",
@@ -2280,7 +2892,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Data Loss Prevention",
+        "slug": "cloud-data-loss-prevention",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Information Protection",
+        "slug": "azure-information-protection",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Managed Blockchain",
@@ -2325,7 +2954,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Composer",
+        "slug": "cloud-composer",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Monitron",
@@ -2352,7 +2998,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Recommendations AI",
+        "slug": "recommendations-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Personaliser",
+        "slug": "personaliser",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Pinpoint",
@@ -2390,6 +3053,14 @@
     },
     "equivalents": [
       {
+        "name": "Looker",
+        "slug": "looker",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Power BI Embedded",
         "slug": "power-bi-embedded",
         "provider": {
@@ -2408,11 +3079,11 @@
     },
     "equivalents": [
       {
-        "name": "Azure SQL Database",
-        "slug": "azure-sql-database",
+        "name": "Cloud SQL",
+        "slug": "cloud-sql",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
@@ -2426,6 +3097,14 @@
       {
         "name": "Azure Database for PostgreSQL",
         "slug": "azure-database-for-postgresql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure SQL Database",
+        "slug": "azure-sql-database",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -2451,6 +3130,14 @@
     },
     "equivalents": [
       {
+        "name": "BigQuery",
+        "slug": "bigquery",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure Synapse Analytics",
         "slug": "azure-synapse-analytics",
         "provider": {
@@ -2468,6 +3155,22 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Video AI",
+        "slug": "video-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Video Analyzer",
+        "slug": "azure-video-analyzer",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
       {
         "name": "Azure Cognitive Services",
         "slug": "azure-cognitive-services",
@@ -2487,14 +3190,6 @@
     },
     "equivalents": [
       {
-        "name": "Azure DNS",
-        "slug": "azure-dns",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
-      },
-      {
         "name": "Cloud DNS",
         "slug": "cloud-dns",
         "provider": {
@@ -2503,8 +3198,8 @@
         }
       },
       {
-        "name": "Traffic Manager",
-        "slug": "traffic-manager",
+        "name": "Azure DNS",
+        "slug": "azure-dns",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -2538,6 +3233,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "AutoML Tables (beta)",
+        "slug": "automl-tables-beta",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure Machine Learning",
         "slug": "azure-machine-learning",
@@ -2582,7 +3285,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Pub/Sub",
+        "slug": "pubsub",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Service Bus",
+        "slug": "service-bus",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Simple Queue Service (SQS) ",
@@ -2593,11 +3313,11 @@
     },
     "equivalents": [
       {
-        "name": "Queue Storage",
-        "slug": "queue-storage",
+        "name": "Pub/Sub",
+        "slug": "pubsub",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
@@ -2619,11 +3339,27 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Storage for Firebase",
+        "slug": "cloud-storage-for-firebase",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Azure Blob Storage",
         "slug": "azure-blob-storage",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
+        }
+      },
+      {
+        "name": "Cloud Storage",
+        "slug": "cloud-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       }
     ]
@@ -2644,7 +3380,16 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Computer Vision",
+        "slug": "computer-vision",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Timestream",
@@ -2662,7 +3407,16 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Speech-to-Text",
+        "slug": "speech-to-text",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Translate",
@@ -2671,7 +3425,16 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Translator",
+        "slug": "translator",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon VPC",
@@ -2681,6 +3444,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "Virtual Private Cloud (VPC)",
+        "slug": "virtual-private-cloud-vpc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Virtual Network",
         "slug": "virtual-network",
@@ -2752,7 +3523,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Outposts",
+        "slug": "aws-outposts",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Arc",
+        "slug": "azure-arc",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Anthos Service Mesh",
@@ -2761,7 +3549,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS App Mesh",
+        "slug": "aws-app-mesh",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Service Fabric",
+        "slug": "service-fabric",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Apache MXNet on AWS",
@@ -2779,7 +3584,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "API Management",
+        "slug": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Apigee API Platform",
@@ -2842,7 +3656,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Elastic Beanstalk",
+        "slug": "aws-elastic-beanstalk",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "App Service",
+        "slug": "app-service",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "App Service",
@@ -2852,6 +3683,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "App Engine",
+        "slug": "app-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "AWS Elastic Beanstalk",
         "slug": "aws-elastic-beanstalk",
@@ -2923,7 +3762,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic Container Registry",
+        "slug": "amazon-elastic-container-registry",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Container Registry",
+        "slug": "container-registry",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Assured Workloads",
@@ -2950,7 +3806,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon SageMaker",
+        "slug": "amazon-sagemaker",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Machine Learning",
+        "slug": "azure-machine-learning",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Automation",
@@ -2997,6 +3870,14 @@
     },
     "equivalents": [
       {
+        "name": "Identity Platform",
+        "slug": "identity-platform",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon Cognito",
         "slug": "amazon-cognito",
         "provider": {
@@ -3015,8 +3896,16 @@
     },
     "equivalents": [
       {
-        "name": "AWS Directory Service",
-        "slug": "aws-directory-service",
+        "name": "Certificate Authority Service (beta)",
+        "slug": "certificate-authority-service-beta",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS Certificate Manager",
+        "slug": "aws-certificate-manager",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3042,11 +3931,19 @@
     },
     "equivalents": [
       {
-        "name": "AWS Trusted Advisor",
-        "slug": "aws-trusted-advisor",
+        "name": "Recommender",
+        "slug": "recommender",
         "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cost Management",
+        "slug": "cost-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       }
     ]
@@ -3076,7 +3973,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Anthos",
+        "slug": "anthos",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS Outposts",
+        "slug": "aws-outposts",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Azure Artifacts",
@@ -3132,11 +4046,27 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Storage for Firebase",
+        "slug": "cloud-storage-for-firebase",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon Simple Storage Service (S3)",
         "slug": "amazon-simple-storage-service-s3",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
+        }
+      },
+      {
+        "name": "Cloud Storage",
+        "slug": "cloud-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       }
     ]
@@ -3195,6 +4125,14 @@
     },
     "equivalents": [
       {
+        "name": "Memorystore",
+        "slug": "memorystore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon ElastiCache",
         "slug": "amazon-elasticache",
         "provider": {
@@ -3231,6 +4169,14 @@
     },
     "equivalents": [
       {
+        "name": "Video AI",
+        "slug": "video-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon Rekognition",
         "slug": "amazon-rekognition",
         "provider": {
@@ -3258,8 +4204,32 @@
     },
     "equivalents": [
       {
+        "name": "Firestore",
+        "slug": "firestore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon DocumentDB (with MongoDB compatibility)",
+        "slug": "amazon-documentdb-with-mongodb-compatibility",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
         "name": "Amazon DynamoDB",
         "slug": "amazon-dynamodb",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS AppSync",
+        "slug": "aws-appsync",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3312,19 +4282,19 @@
     },
     "equivalents": [
       {
-        "name": "Amazon Route 53",
-        "slug": "amazon-route-53",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
-      {
         "name": "Cloud DNS",
         "slug": "cloud-dns",
         "provider": {
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Route 53",
+        "slug": "amazon-route-53",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
         }
       }
     ]
@@ -3337,6 +4307,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Transfer Appliance",
+        "slug": "transfer-appliance",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "AWS Snow Family",
         "slug": "aws-snow-family",
@@ -3373,6 +4351,22 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Cloud Data Fusion",
+        "slug": "cloud-data-fusion",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon AppFlow",
+        "slug": "amazon-appflow",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
       {
         "name": "AWS Data Pipeline",
         "slug": "aws-data-pipeline",
@@ -3436,6 +4430,14 @@
     },
     "equivalents": [
       {
+        "name": "Database Migration Service",
+        "slug": "database-migration-service",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "AWS Database Migration Service",
         "slug": "aws-database-migration-service",
         "provider": {
@@ -3463,8 +4465,32 @@
     },
     "equivalents": [
       {
+        "name": "Cloud SQL",
+        "slug": "cloud-sql",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon RDS",
         "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Aurora",
+        "slug": "amazon-aurora",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Aurora Serverless v2 (Preview)",
+        "slug": "amazon-aurora-serverless-v2-preview",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3481,8 +4507,32 @@
     },
     "equivalents": [
       {
+        "name": "Cloud SQL",
+        "slug": "cloud-sql",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon RDS",
         "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Aurora",
+        "slug": "amazon-aurora",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Aurora Serverless v2 (Preview)",
+        "slug": "amazon-aurora-serverless-v2-preview",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3499,8 +4549,16 @@
     },
     "equivalents": [
       {
-        "name": "Amazon EMR",
-        "slug": "amazon-emr",
+        "name": "TensorFlow Enterprise",
+        "slug": "tensorflow-enterprise",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "TensorFlow on AWS",
+        "slug": "tensorflow-on-aws",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3533,7 +4591,16 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic Container Registry",
+        "slug": "amazon-elastic-container-registry",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Azure Defender for IoT",
@@ -3553,6 +4620,22 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Build",
+        "slug": "cloud-build",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS CodeBuild",
+        "slug": "aws-codebuild",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
         "name": "AWS CodeDeploy",
         "slug": "aws-codedeploy",
         "provider": {
@@ -3561,24 +4644,8 @@
         }
       },
       {
-        "name": "AWS CodeCommit",
-        "slug": "aws-codecommit",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
-      {
         "name": "AWS CodePipeline",
         "slug": "aws-codepipeline",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
-      {
-        "name": "AWS CodeBuild",
-        "slug": "aws-codebuild",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3628,6 +4695,14 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
         }
+      },
+      {
+        "name": "Persistent Disk",
+        "slug": "persistent-disk",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
       }
     ]
   },
@@ -3639,6 +4714,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Hybrid Connectivity",
+        "slug": "hybrid-connectivity",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "AWS Direct Connect",
         "slug": "aws-direct-connect",
@@ -3666,6 +4749,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Filestore",
+        "slug": "filestore",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon Elastic File System (EFS)",
         "slug": "amazon-elastic-file-system-efs",
@@ -3755,7 +4846,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Data Loss Prevention",
+        "slug": "cloud-data-loss-prevention",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Macie",
+        "slug": "amazon-macie",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Azure Internet Analyzer",
@@ -3808,6 +4916,14 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
         }
+      },
+      {
+        "name": "IoT Core",
+        "slug": "iot-core",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
       }
     ]
   },
@@ -3828,6 +4944,22 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Google Kubernetes Engine",
+        "slug": "google-kubernetes-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Google Kubernetes Engine (GKE)",
+        "slug": "google-kubernetes-engine-gke",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon Elastic Kubernetes Service (EKS)",
         "slug": "amazon-elastic-kubernetes-service-eks",
@@ -3873,6 +5005,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "AutoML Tables (beta)",
+        "slug": "automl-tables-beta",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon SageMaker",
         "slug": "amazon-sagemaker",
@@ -3937,8 +5077,16 @@
     },
     "equivalents": [
       {
-        "name": "AWS Application Discovery Service",
-        "slug": "aws-application-discovery-service",
+        "name": "Migrate for Anthos",
+        "slug": "migrate-for-anthos",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS App2Container",
+        "slug": "aws-app2container",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -3964,11 +5112,19 @@
     },
     "equivalents": [
       {
-        "name": "Amazon CloudWatch",
-        "slug": "amazon-cloudwatch",
+        "name": "Cloud Debugger",
+        "slug": "cloud-debugger",
         "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cloud Trace",
+        "slug": "cloud-trace",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       },
       {
@@ -4051,7 +5207,16 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Azure Quantum",
@@ -4105,7 +5270,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Resource Manager",
+        "slug": "resource-manager",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS OpsWorks",
+        "slug": "aws-opsworks",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Azure Resource Manager templates",
@@ -4152,8 +5334,16 @@
     },
     "equivalents": [
       {
-        "name": "Amazon RDS",
-        "slug": "amazon-rds",
+        "name": "Cloud Spanner",
+        "slug": "cloud-spanner",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Aurora",
+        "slug": "amazon-aurora",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -4278,6 +5468,14 @@
     },
     "equivalents": [
       {
+        "name": "Dataflow",
+        "slug": "dataflow",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon Kinesis",
         "slug": "amazon-kinesis",
         "provider": {
@@ -4295,6 +5493,22 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "BigQuery",
+        "slug": "bigquery",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Athena",
+        "slug": "amazon-athena",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
       {
         "name": "Amazon Redshift",
         "slug": "amazon-redshift",
@@ -4332,6 +5546,14 @@
     },
     "equivalents": [
       {
+        "name": "VMware Engine",
+        "slug": "vmware-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "VMware Cloud on AWS",
         "slug": "vmware-cloud-on-aws",
         "provider": {
@@ -4348,7 +5570,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Video AI",
+        "slug": "video-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Rekognition",
+        "slug": "amazon-rekognition",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Azure functions",
@@ -4359,19 +5598,19 @@
     },
     "equivalents": [
       {
-        "name": "AWS Lambda",
-        "slug": "aws-lambda",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
-      {
         "name": "Cloud Functions",
         "slug": "cloud-functions",
         "provider": {
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS Lambda",
+        "slug": "aws-lambda",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
         }
       }
     ]
@@ -4401,7 +5640,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon RDS",
+        "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Batch",
@@ -4437,7 +5685,32 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Athena",
+        "slug": "amazon-athena",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Synapse Analytics",
+        "slug": "azure-synapse-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Amazon Redshift",
+        "slug": "amazon-redshift",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "BigQuery Data Transfer Service",
@@ -4464,7 +5737,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Certificate Manager",
+        "slug": "aws-certificate-manager",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Active Directory Domain Services",
+        "slug": "azure-active-directory-domain-services",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Chrome Enterprise",
@@ -4509,7 +5799,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Web Application Firewall",
+        "slug": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "AWS WAF",
+        "slug": "aws-waf",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Asset Inventory",
@@ -4518,7 +5825,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Config",
+        "slug": "aws-config",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Bigtable",
@@ -4527,7 +5843,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon DynamoDB",
+        "slug": "amazon-dynamodb",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Cosmos DB",
+        "slug": "azure-cosmos-db",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Build",
@@ -4536,7 +5869,40 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS CodeBuild",
+        "slug": "aws-codebuild",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS CodeDeploy",
+        "slug": "aws-codedeploy",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS CodePipeline",
+        "slug": "aws-codepipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure DevOps",
+        "slug": "azure-devops",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud CDN",
@@ -4545,7 +5911,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon CloudFront",
+        "slug": "amazon-cloudfront",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Content Delivery Network",
+        "slug": "content-delivery-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Code",
@@ -4563,7 +5946,40 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Data Pipeline",
+        "slug": "aws-data-pipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Managed Workflows for Apache Airflow",
+        "slug": "amazon-managed-workflows-for-apache-airflow",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Console",
@@ -4597,14 +6013,6 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
         }
-      },
-      {
-        "name": "Traffic Manager",
-        "slug": "traffic-manager",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
       }
     ]
   },
@@ -4615,7 +6023,40 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon AppFlow",
+        "slug": "amazon-appflow",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Data Pipeline",
+        "slug": "aws-data-pipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Data Loss Prevention",
@@ -4624,7 +6065,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Macie",
+        "slug": "amazon-macie",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Information Protection",
+        "slug": "azure-information-protection",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Debugger",
@@ -4633,7 +6091,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS X-Ray",
+        "slug": "aws-x-ray",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Deployment Manager",
@@ -4642,7 +6117,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS CloudFormation",
+        "slug": "aws-cloudformation",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Domains",
@@ -4651,7 +6135,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Route 53",
+        "slug": "amazon-route-53",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "App Service",
+        "slug": "app-service",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Endpoints",
@@ -4704,7 +6205,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon EC2",
+        "slug": "amazon-ec2",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "slug": "virtual-machines",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Healthcare API",
@@ -4722,7 +6240,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Azure Active Directory",
+        "slug": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Inference API (alpha)",
@@ -4740,7 +6267,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Key Management Service",
+        "slug": "aws-key-management-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Key Vault",
+        "slug": "key-vault",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Life Sciences (beta)",
@@ -4758,7 +6302,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Elastic Load Balancing",
+        "slug": "elastic-load-balancing",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Load balancing",
+        "slug": "load-balancing",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Logging",
@@ -4767,7 +6328,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon CloudWatch",
+        "slug": "amazon-cloudwatch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Mobile App",
@@ -4785,7 +6363,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon CloudWatch",
+        "slug": "amazon-cloudwatch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud NAT",
@@ -4803,7 +6398,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Comprehend",
+        "slug": "amazon-comprehend",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Text Analytics",
+        "slug": "text-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Profiler",
@@ -4812,7 +6424,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon CodeGuru",
+        "slug": "amazon-codeguru",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Run",
@@ -4821,7 +6450,40 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Fargate",
+        "slug": "aws-fargate",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS App Runner",
+        "slug": "aws-app-runner",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Lambda",
+        "slug": "aws-lambda",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Container Instances",
+        "slug": "container-instances",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud SDK",
@@ -4830,7 +6492,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Tools and SDKs",
+        "slug": "aws-tools-and-sdks",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud SQL",
@@ -4839,7 +6510,56 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon RDS",
+        "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Aurora",
+        "slug": "amazon-aurora",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Aurora Serverless v2 (Preview)",
+        "slug": "amazon-aurora-serverless-v2-preview",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Database for MySQL",
+        "slug": "azure-database-for-mysql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Database for PostgreSQL",
+        "slug": "azure-database-for-postgresql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure SQL Database",
+        "slug": "azure-sql-database",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Scheduler",
@@ -4886,19 +6606,19 @@
     },
     "equivalents": [
       {
-        "name": "AWS CloudShell",
-        "slug": "aws-cloudshell",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
-      {
         "name": "Cloud Shell",
         "slug": "cloud-shell",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
+        }
+      },
+      {
+        "name": "AWS CloudShell",
+        "slug": "aws-cloudshell",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
         }
       }
     ]
@@ -4919,7 +6639,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Aurora",
+        "slug": "amazon-aurora",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure SQL Database",
+        "slug": "azure-sql-database",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Storage",
@@ -4928,7 +6665,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Simple Storage Service (S3)",
+        "slug": "amazon-simple-storage-service-s3",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Blob Storage",
+        "slug": "azure-blob-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Storage for Firebase",
@@ -4937,7 +6691,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Simple Storage Service (S3)",
+        "slug": "amazon-simple-storage-service-s3",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Blob Storage",
+        "slug": "azure-blob-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud TPU",
@@ -4964,7 +6735,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS X-Ray",
+        "slug": "aws-x-ray",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Translation",
@@ -4991,7 +6779,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon EC2",
+        "slug": "amazon-ec2",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "slug": "virtual-machines",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Computer Vision",
@@ -5000,7 +6805,16 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Textract",
+        "slug": "amazon-textract",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Confidential Computing",
@@ -5020,16 +6834,32 @@
     },
     "equivalents": [
       {
-        "name": "Amazon Elastic Container Service (ECS)",
-        "slug": "amazon-elastic-container-service-ecs",
+        "name": "Cloud Run",
+        "slug": "cloud-run",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS Fargate",
+        "slug": "aws-fargate",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
         }
       },
       {
-        "name": "AWS Fargate",
-        "slug": "aws-fargate",
+        "name": "AWS App Runner",
+        "slug": "aws-app-runner",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Lambda",
+        "slug": "aws-lambda",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -5045,6 +6875,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Artifact Registry",
+        "slug": "artifact-registry",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon Elastic Container Registry",
         "slug": "amazon-elastic-container-registry",
@@ -5088,7 +6926,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Security Center",
+        "slug": "security-center",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Amazon Elastic Container Service (ECS)",
+        "slug": "amazon-elastic-container-service-ecs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Content Delivery Network",
@@ -5098,6 +6953,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Cloud CDN",
+        "slug": "cloud-cdn",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon CloudFront",
         "slug": "amazon-cloudfront",
@@ -5135,11 +6998,11 @@
     },
     "equivalents": [
       {
-        "name": "AWS Cost Explorer",
-        "slug": "aws-cost-explorer",
+        "name": "Azure Advisor",
+        "slug": "azure-advisor",
         "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
         }
       }
     ]
@@ -5162,14 +7025,6 @@
     },
     "equivalents": [
       {
-        "name": "AWS Data Pipeline",
-        "slug": "aws-data-pipeline",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
-      {
         "name": "AWS Glue",
         "slug": "aws-glue",
         "provider": {
@@ -5188,11 +7043,11 @@
     },
     "equivalents": [
       {
-        "name": "AWS Data Pipeline",
-        "slug": "aws-data-pipeline",
+        "name": "Data Catalog",
+        "slug": "data-catalog",
         "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
         }
       },
       {
@@ -5204,16 +7059,8 @@
         }
       },
       {
-        "name": "Azure Data Factory",
-        "slug": "azure-data-factory",
-        "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure"
-        }
-      },
-      {
-        "name": "Data Catalog",
-        "slug": "data-catalog",
+        "name": "Azure Purview",
+        "slug": "azure-purview",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
@@ -5230,8 +7077,32 @@
     },
     "equivalents": [
       {
-        "name": "Amazon Kinesis",
-        "slug": "amazon-kinesis",
+        "name": "Dataproc",
+        "slug": "dataproc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon EMR",
+        "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Batch",
+        "slug": "aws-batch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -5255,7 +7126,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Database Migration Service",
+        "slug": "aws-database-migration-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Database Migration Service",
+        "slug": "azure-database-migration-service",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Dataflow",
@@ -5264,7 +7152,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Kinesis",
+        "slug": "amazon-kinesis",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Stream Analytics",
+        "slug": "azure-stream-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Dataplex",
@@ -5291,7 +7196,48 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon EMR",
+        "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Batch",
+        "slug": "aws-batch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Data Lake Analytics",
+        "slug": "data-lake-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "HDInsight",
+        "slug": "hdinsight",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Datastream",
@@ -5336,7 +7282,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Lex",
+        "slug": "amazon-lex",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Language Understanding",
+        "slug": "language-understanding",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Edge TPU",
@@ -5354,7 +7317,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Load Balancing",
+        "slug": "cloud-load-balancing",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Load balancing",
+        "slug": "load-balancing",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Encoding",
@@ -5398,6 +7378,14 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
         }
+      },
+      {
+        "name": "Pub/Sub",
+        "slug": "pubsub",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
       }
     ]
   },
@@ -5417,7 +7405,32 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic File System (EFS)",
+        "slug": "amazon-elastic-file-system-efs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Disk Storage",
+        "slug": "azure-disk-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Files",
+        "slug": "azure-files",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Firebase Crashlytics",
@@ -5435,7 +7448,32 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon DynamoDB",
+        "slug": "amazon-dynamodb",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS AppSync",
+        "slug": "aws-appsync",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Cosmos DB",
+        "slug": "azure-cosmos-db",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Firebase Test Lab",
@@ -5444,7 +7482,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Device Farm",
+        "slug": "aws-device-farm",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Visual Studio App Centre",
+        "slug": "visual-studio-app-centre",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Firestore",
@@ -5453,7 +7508,40 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon DocumentDB (with MongoDB compatibility)",
+        "slug": "amazon-documentdb-with-mongodb-compatibility",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon DynamoDB",
+        "slug": "amazon-dynamodb",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS AppSync",
+        "slug": "aws-appsync",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Cosmos DB",
+        "slug": "azure-cosmos-db",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Firewalls",
@@ -5507,7 +7595,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic Kubernetes Service (EKS)",
+        "slug": "amazon-elastic-kubernetes-service-eks",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Kubernetes Service (AKS)",
+        "slug": "azure-kubernetes-service-aks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Google Kubernetes Engine (GKE)",
@@ -5516,7 +7621,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic Kubernetes Service (EKS)",
+        "slug": "amazon-elastic-kubernetes-service-eks",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Kubernetes Service (AKS)",
+        "slug": "azure-kubernetes-service-aks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Google Maps Platform",
@@ -5572,8 +7694,32 @@
     },
     "equivalents": [
       {
+        "name": "Dataproc",
+        "slug": "dataproc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon EMR",
         "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Batch",
+        "slug": "aws-batch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -5615,7 +7761,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Direct Connect",
+        "slug": "aws-direct-connect",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure ExpressRoute",
+        "slug": "azure-expressroute",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Identity Platform",
@@ -5624,7 +7787,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Cognito",
+        "slug": "amazon-cognito",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Active Directory",
+        "slug": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Identity and Access Management",
@@ -5634,14 +7814,6 @@
       "key": "gcp"
     },
     "equivalents": [
-      {
-        "name": "AWS Identity &amp; Access Management",
-        "slug": "aws-identity-andamp-access-management",
-        "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws"
-        }
-      },
       {
         "name": "Azure Active Directory",
         "slug": "azure-active-directory",
@@ -5668,7 +7840,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS IoT Core",
+        "slug": "aws-iot-core",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure IoT Hub",
+        "slug": "azure-iot-hub",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Key Vault",
@@ -5679,8 +7868,16 @@
     },
     "equivalents": [
       {
-        "name": "AWS Key Management Service",
-        "slug": "aws-key-management-service",
+        "name": "Secret Manager",
+        "slug": "secret-manager",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "AWS Secrets Manager",
+        "slug": "aws-secrets-manager",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -5704,7 +7901,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Fargate",
+        "slug": "aws-fargate",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Kubernetes Service (AKS)",
+        "slug": "azure-kubernetes-service-aks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Kubernetes Engine Monitoring",
@@ -5732,6 +7946,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Dialogflow",
+        "slug": "dialogflow",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon Lex",
         "slug": "amazon-lex",
@@ -5767,7 +7989,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Load Balancing",
+        "slug": "cloud-load-balancing",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Elastic Load Balancing",
+        "slug": "elastic-load-balancing",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Local SSD",
@@ -5785,7 +8024,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon QuickSight",
+        "slug": "amazon-quicksight",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Power BI Embedded",
+        "slug": "power-bi-embedded",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Managed Service for Microsoft Active Directory",
@@ -5830,7 +8086,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon ElastiCache",
+        "slug": "amazon-elasticache",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Cache for Redis",
+        "slug": "azure-cache-for-redis",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Microsoft Azure Attestation",
@@ -5893,7 +8166,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS App2Container",
+        "slug": "aws-app2container",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Migrate for Compute Engine",
@@ -5902,7 +8192,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Server Migration Service ",
+        "slug": "aws-server-migration-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Migration Evaluator (formerly TSO Logic)",
@@ -6019,7 +8326,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic Block Store (EBS)",
+        "slug": "amazon-elastic-block-store-ebs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Disk Storage",
+        "slug": "azure-disk-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Personaliser",
@@ -6028,7 +8352,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Recommendations AI",
+        "slug": "recommendations-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Personalize",
+        "slug": "amazon-personalize",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Policy Intelligence",
@@ -6047,6 +8388,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Looker",
+        "slug": "looker",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Amazon QuickSight",
         "slug": "amazon-quicksight",
@@ -6091,7 +8440,32 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Simple Notification Service (SNS)",
+        "slug": "amazon-simple-notification-service-sns",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon Simple Queue Service (SQS) ",
+        "slug": "amazon-simple-queue-service-sqs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Service Bus",
+        "slug": "service-bus",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "PyTorch on AWS",
@@ -6145,7 +8519,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Personalize",
+        "slug": "amazon-personalize",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Personaliser",
+        "slug": "personaliser",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Recommender",
@@ -6154,7 +8545,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Azure Advisor",
+        "slug": "azure-advisor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Red Hat OpenShift Service on AWS",
@@ -6183,11 +8583,19 @@
     },
     "equivalents": [
       {
-        "name": "AWS CloudFormation",
-        "slug": "aws-cloudformation",
+        "name": "AWS OpsWorks",
+        "slug": "aws-opsworks",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Resource Manager",
+        "slug": "azure-resource-manager",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
         }
       }
     ]
@@ -6244,7 +8652,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Secrets Manager",
+        "slug": "aws-secrets-manager",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Key Vault",
+        "slug": "key-vault",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Security Center",
@@ -6255,8 +8680,16 @@
     },
     "equivalents": [
       {
-        "name": "Amazon Inspector",
-        "slug": "amazon-inspector",
+        "name": "Container Security",
+        "slug": "container-security",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Elastic Container Service (ECS)",
+        "slug": "amazon-elastic-container-service-ecs",
         "provider": {
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
@@ -6271,7 +8704,40 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon GuardDuty",
+        "slug": "amazon-guardduty",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Security Hub",
+        "slug": "aws-security-hub",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Defender",
+        "slug": "azure-defender",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Security Center",
+        "slug": "security-center",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Service Bus",
@@ -6281,6 +8747,22 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Pub/Sub",
+        "slug": "pubsub",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Simple Notification Service (SNS)",
+        "slug": "amazon-simple-notification-service-sns",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
       {
         "name": "Amazon Simple Queue Service (SQS) ",
         "slug": "amazon-simple-queue-service-sqs",
@@ -6298,7 +8780,16 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Cloud Map",
+        "slug": "aws-cloud-map",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Service Fabric",
@@ -6308,6 +8799,22 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Traffic Director",
+        "slug": "traffic-director",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Anthos Service Mesh",
+        "slug": "anthos-service-mesh",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "AWS App Mesh",
         "slug": "aws-app-mesh",
@@ -6370,7 +8877,16 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Transcribe",
+        "slug": "amazon-transcribe",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Speech-to-Text",
@@ -6379,7 +8895,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Speech-to-Text",
+        "slug": "speech-to-text",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Amazon Transcribe",
+        "slug": "amazon-transcribe",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Static Web Apps",
@@ -6433,7 +8966,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Storage Gateway",
+        "slug": "aws-storage-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Table Storage",
@@ -6469,7 +9019,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "TensorFlow on AWS",
+        "slug": "tensorflow-on-aws",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Databricks",
+        "slug": "azure-databricks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "TensorFlow on AWS",
@@ -6478,7 +9045,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "TensorFlow Enterprise",
+        "slug": "tensorflow-enterprise",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Databricks",
+        "slug": "azure-databricks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Text Analytics",
@@ -6487,7 +9071,24 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Natural Language",
+        "slug": "cloud-natural-language",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Amazon Comprehend",
+        "slug": "amazon-comprehend",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "Text to Speech",
@@ -6541,7 +9142,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS App Mesh",
+        "slug": "aws-app-mesh",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Service Fabric",
+        "slug": "service-fabric",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Traffic Manager",
@@ -6585,7 +9203,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Snow Family",
+        "slug": "aws-snow-family",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Data Box",
+        "slug": "azure-data-box",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Translator",
@@ -6594,7 +9229,16 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Translate",
+        "slug": "amazon-translate",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
+    ]
   },
   {
     "name": "VMware Cloud on AWS",
@@ -6604,6 +9248,14 @@
       "key": "aws"
     },
     "equivalents": [
+      {
+        "name": "VMware Engine",
+        "slug": "vmware-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "Azure VMware Solution",
         "slug": "azure-vmware-solution",
@@ -6621,7 +9273,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "VMware Cloud on AWS",
+        "slug": "vmware-cloud-on-aws",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure VMware Solution",
+        "slug": "azure-vmware-solution",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "VMware Horizon Cloud on Microsoft Azure",
@@ -6675,7 +9344,32 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Rekognition",
+        "slug": "amazon-rekognition",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Video Analyzer",
+        "slug": "azure-video-analyzer",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Cognitive Services",
+        "slug": "azure-cognitive-services",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Virtual Machine Scale Sets",
@@ -6704,6 +9398,22 @@
     },
     "equivalents": [
       {
+        "name": "Compute Engine",
+        "slug": "compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Cloud GPUs",
+        "slug": "cloud-gpus",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "Amazon EC2",
         "slug": "amazon-ec2",
         "provider": {
@@ -6728,6 +9438,14 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws"
         }
+      },
+      {
+        "name": "Virtual Private Cloud (VPC)",
+        "slug": "virtual-private-cloud-vpc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
       }
     ]
   },
@@ -6738,7 +9456,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon VPC",
+        "slug": "amazon-vpc",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Virtual Network",
+        "slug": "virtual-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Virtual WAN",
@@ -6776,6 +9511,14 @@
     },
     "equivalents": [
       {
+        "name": "Firebase Test Lab",
+        "slug": "firebase-test-lab",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
         "name": "AWS Device Farm",
         "slug": "aws-device-farm",
         "provider": {
@@ -6811,6 +9554,14 @@
       "key": "azure"
     },
     "equivalents": [
+      {
+        "name": "Cloud Armor",
+        "slug": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
       {
         "name": "AWS WAF",
         "slug": "aws-waf",
@@ -6873,7 +9624,24 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Step Functions",
+        "slug": "aws-step-functions",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure functions",
+        "slug": "azure-functions",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Xamarin",
