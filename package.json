@@ -1,0 +1,23 @@
+{
+  "name": "cloudequivalent",
+  "version": "0.0.1",
+  "description": "A guide to public cloud services and what the equivalent is with other providers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudequivalent/cloudequivalent.git"
+  },
+  "keywords": [],
+  "author": "[Jake Mulley](https://github.com/jakemulley)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/cloudequivalent/cloudequivalent/issues"
+  },
+  "homepage": "https://github.com/cloudequivalent/cloudequivalent#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
