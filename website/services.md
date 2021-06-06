@@ -8,3 +8,13 @@ layout: layouts/base.njk
 eleventyComputed:
   title: "{{ service.name }}"
 ---
+
+{% if service.equivalents.length > 0 %}
+  ## Equivalents
+
+  {% for equivalent in service.equivalents %}
+- {{ equivalent }}
+  {% endfor %}
+{% else %}
+  We don't have any equivalents.
+{% endif %}

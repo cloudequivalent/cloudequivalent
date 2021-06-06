@@ -1,6 +1,7 @@
 const fs = require('fs').promises
 const path = require('path')
 const slugify = require('slugify')
+const equivalentMetadata = require('./meta/equivalents.json')
 const providers = ['aws', 'azure', 'gcp'];
 
 (async () => {
@@ -13,16 +14,19 @@ const providers = ['aws', 'azure', 'gcp'];
     const contents = await fs.readFile(path.resolve(__dirname, `${provider}/services.json`), 'utf8')
     const parsed = JSON.parse(contents)
 
-    return [...new Set(parsed)].map(service => ({
-      name: service,
-
-      slug: slugify(service, {
+    return [...new Set(parsed)].map(service => {
+      const slug = slugify(service, {
         strict: true,
         lower: true
-      }),
+      })
 
-      provider: providersMetadata.find(metadata => metadata.key === provider)
-    }))
+      return {
+        name: service,
+        slug,
+        provider: providersMetadata.find(metadata => metadata.key === provider),
+        equivalents: equivalentMetadata.find(array => array.includes(slug)) || []
+      }
+    })
   }))
 
   await fs.writeFile(path.resolve(__dirname, '../website/_data/generated/services.json'), JSON.stringify(services.flat(), null, 2))
