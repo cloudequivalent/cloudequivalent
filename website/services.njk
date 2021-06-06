@@ -11,25 +11,24 @@ eleventyComputed:
 ---
 
 {% if service.equivalents.length > 0 %}
-  ## Equivalents
+  <h2 class="mb-3">Equivalents</h2>
 
-  <table>
+  <table class="table">
     <thead>
       <tr>
-        <th>Cloud Provider</th>
-        <th>Equivalent</th>
+        <th scope="col">Cloud Provider</th>
+        <th scope="col">Equivalent</th>
       </tr>
     </thead>
     <tbody>
       {%- for equivalent in service.equivalents -%}
       <tr>
-        <td>{{ equivalent.provider.name }}</td>
+        <th scope="row">{{ equivalent.provider.name }}</th>
         <td>{{ equivalent.name }}</td>
       </tr>
       {%- endfor -%}
     </tbody>
   </table>
-
 {% else %}
-  We don't have any equivalents.
+  <p class="w-50">Unfortunately, we don't know of any equivalents - if we've missed something, get involved and raise a pull request or an issue in the <a href="https://github.com/cloudequivalent/cloudequivalent">cloudequivalent/cloudequivalent repository</a> on GitHub.</p>
 {% endif %}

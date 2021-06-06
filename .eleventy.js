@@ -15,6 +15,9 @@ module.exports = function (eleventyConfig) {
     return now
   })
 
+  // Don't use .gitignore
+  eleventyConfig.setUseGitIgnore(false)
+
   return {
     dir: {
       input: 'website',

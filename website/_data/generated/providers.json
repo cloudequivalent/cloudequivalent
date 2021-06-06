@@ -1,14 +1,17 @@
 [
   {
     "name": "Amazon Web Services (AWS)",
-    "key": "aws"
+    "key": "aws",
+    "accentColour": "#FF9900"
   },
   {
     "name": "Google Cloud Platform (GCP)",
-    "key": "gcp"
+    "key": "gcp",
+    "accentColour": "#1a73e8"
   },
   {
     "name": "Microsoft Azure (Azure)",
-    "key": "azure"
+    "key": "azure",
+    "accentColour": "#0089d6"
   }
 ]

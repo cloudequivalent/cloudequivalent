@@ -1,4 +1,5 @@
 {
   "name": "Amazon Web Services (AWS)",
-  "key": "aws"
+  "key": "aws",
+  "accentColour": "#FF9900"
 }

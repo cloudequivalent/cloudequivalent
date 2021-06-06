@@ -1,4 +1,5 @@
 {
   "name": "Microsoft Azure (Azure)",
-  "key": "azure"
+  "key": "azure",
+  "accentColour": "#0089d6"
 }
