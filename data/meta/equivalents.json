@@ -678,5 +678,11 @@
     [
         "amazon-lightsail",
         "app-service"
+    ],
+    [
+        "amazon-workdocs",
+        "amazon-workmail",
+        "microsoft-365-formerly-office365",
+        "google-workspace"
     ]
 ]

@@ -312,14 +312,6 @@
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp"
         }
-      },
-      {
-        "name": "Cost Management",
-        "slug": "cost-management",
-        "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp"
-        }
       }
     ]
   },
@@ -3469,7 +3461,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Microsoft 365 (formerly Office365)",
+        "slug": "microsoft-365-formerly-office365",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Google Workspace",
+        "slug": "google-workspace",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon WorkLink",
@@ -3487,7 +3496,24 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Microsoft 365 (formerly Office365)",
+        "slug": "microsoft-365-formerly-office365",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Google Workspace",
+        "slug": "google-workspace",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon WorkSpaces",
@@ -7674,7 +7700,32 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon WorkDocs",
+        "slug": "amazon-workdocs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon WorkMail",
+        "slug": "amazon-workmail",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Microsoft 365 (formerly Office365)",
+        "slug": "microsoft-365-formerly-office365",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
+    ]
   },
   {
     "name": "Gradle App Engine Plugin",
@@ -8101,6 +8152,40 @@
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Microsoft 365 (formerly Office365)",
+    "slug": "microsoft-365-formerly-office365",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure"
+    },
+    "equivalents": [
+      {
+        "name": "Amazon WorkDocs",
+        "slug": "amazon-workdocs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Amazon WorkMail",
+        "slug": "amazon-workmail",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Google Workspace",
+        "slug": "google-workspace",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
         }
       }
     ]
