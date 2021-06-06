@@ -12,9 +12,23 @@ eleventyComputed:
 {% if service.equivalents.length > 0 %}
   ## Equivalents
 
-  {% for equivalent in service.equivalents %}
-- {{ equivalent }}
-  {% endfor %}
+  <table>
+    <thead>
+      <tr>
+        <th>Cloud Provider</th>
+        <th>Equivalent</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- for equivalent in service.equivalents -%}
+      <tr>
+        <td>{{ equivalent.provider.name }}</td>
+        <td>{{ equivalent.name }}</td>
+      </tr>
+      {%- endfor -%}
+    </tbody>
+  </table>
+
 {% else %}
   We don't have any equivalents.
 {% endif %}
