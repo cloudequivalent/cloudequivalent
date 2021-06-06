@@ -42,7 +42,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-api-gateway",
+      "api-management"
+    ]
   },
   {
     "name": "AWS Amplify",
@@ -60,7 +63,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-app-mesh",
+      "service-fabric"
+    ]
   },
   {
     "name": "AWS App Runner",
@@ -96,7 +102,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-application-discovery-service",
+      "azure-migrate"
+    ]
   },
   {
     "name": "AWS Application Migration Service (CloudEndure Migration)",
@@ -141,7 +150,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-backup",
+      "azure-backup"
+    ]
   },
   {
     "name": "AWS Batch",
@@ -150,7 +162,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-batch",
+      "batch"
+    ]
   },
   {
     "name": "AWS Budgets",
@@ -213,7 +228,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cloudformation",
+      "resource-manager"
+    ]
   },
   {
     "name": "AWS CloudHSM",
@@ -231,7 +249,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cloudshell",
+      "cloud-shell"
+    ]
   },
   {
     "name": "AWS CloudTrail",
@@ -240,7 +261,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cloudtrail",
+      "azure-monitor"
+    ]
   },
   {
     "name": "AWS CodeArtifact",
@@ -258,7 +282,13 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-codedeploy",
+      "aws-codecommit",
+      "aws-codepipeline",
+      "aws-codebuild",
+      "azure-devops"
+    ]
   },
   {
     "name": "AWS CodeCommit",
@@ -267,7 +297,13 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-codedeploy",
+      "aws-codecommit",
+      "aws-codepipeline",
+      "aws-codebuild",
+      "azure-devops"
+    ]
   },
   {
     "name": "AWS CodeDeploy",
@@ -276,7 +312,13 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-codedeploy",
+      "aws-codecommit",
+      "aws-codepipeline",
+      "aws-codebuild",
+      "azure-devops"
+    ]
   },
   {
     "name": "AWS CodePipeline",
@@ -285,7 +327,13 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-codedeploy",
+      "aws-codecommit",
+      "aws-codepipeline",
+      "aws-codebuild",
+      "azure-devops"
+    ]
   },
   {
     "name": "AWS CodeStar",
@@ -357,7 +405,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cost-explorer",
+      "cost-management"
+    ]
   },
   {
     "name": "AWS Cost and Usage Report",
@@ -384,7 +435,12 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-data-pipeline",
+      "aws-glue",
+      "azure-data-factory",
+      "data-catalog"
+    ]
   },
   {
     "name": "AWS DataSync",
@@ -402,7 +458,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-database-migration-service",
+      "azure-database-migration-service"
+    ]
   },
   {
     "name": "AWS Deep Learning AMIs",
@@ -456,7 +515,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-device-farm",
+      "visual-studio-app-centre"
+    ]
   },
   {
     "name": "AWS Direct Connect",
@@ -465,7 +527,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-direct-connect",
+      "azure-expressroute"
+    ]
   },
   {
     "name": "AWS Directory Service",
@@ -474,7 +539,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-directory-service",
+      "azure-active-directory-domain-services"
+    ]
   },
   {
     "name": "AWS Distro for OpenTelemetry (Preview)",
@@ -492,7 +560,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-elastic-beanstalk",
+      "app-service"
+    ]
   },
   {
     "name": "AWS Elemental Appliances &amp; Software",
@@ -564,7 +635,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-container-service-ecs",
+      "aws-fargate",
+      "container-instances"
+    ]
   },
   {
     "name": "AWS Fault Injection Simulator",
@@ -591,7 +666,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-global-accelerator",
+      "azure-front-door"
+    ]
   },
   {
     "name": "AWS Glue",
@@ -600,7 +678,12 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-data-pipeline",
+      "aws-glue",
+      "azure-data-factory",
+      "data-catalog"
+    ]
   },
   {
     "name": "AWS Greengrass",
@@ -609,7 +692,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-greengrass",
+      "azure-iot-edge"
+    ]
   },
   {
     "name": "AWS Ground Station",
@@ -627,7 +713,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "identity-and-access-management",
+      "aws-identity-andamp-access-management",
+      "azure-active-directory"
+    ]
   },
   {
     "name": "AWS Inferentia",
@@ -672,7 +762,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-iot-core",
+      "azure-iot-hub"
+    ]
   },
   {
     "name": "AWS IoT Device Defender",
@@ -717,7 +810,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-iot-things-graph",
+      "azure-digital-twins"
+    ]
   },
   {
     "name": "AWS Key Management Service",
@@ -726,7 +822,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-key-management-service",
+      "key-vault"
+    ]
   },
   {
     "name": "AWS Lake Formation",
@@ -735,7 +834,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-lake-formation",
+      "azure-data-share"
+    ]
   },
   {
     "name": "AWS Lambda",
@@ -775,7 +877,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-management-console",
+      "microsoft-azure-portal"
+    ]
   },
   {
     "name": "AWS Migration Hub",
@@ -811,7 +916,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-opsworks",
+      "automation"
+    ]
   },
   {
     "name": "AWS Organizations",
@@ -946,7 +1054,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-shield",
+      "azure-ddos-protection"
+    ]
   },
   {
     "name": "AWS Single Sign-On",
@@ -964,7 +1075,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-snow-family",
+      "azure-data-box"
+    ]
   },
   {
     "name": "AWS Step Functions",
@@ -982,7 +1096,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-storage-gateway",
+      "storsimple"
+    ]
   },
   {
     "name": "AWS Systems Manager",
@@ -991,7 +1108,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-systems-manager",
+      "azure-monitor"
+    ]
   },
   {
     "name": "AWS Tools and SDKs",
@@ -1027,7 +1147,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-trusted-advisor",
+      "azure-advisor"
+    ]
   },
   {
     "name": "AWS WAF",
@@ -1036,7 +1159,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "web-application-firewall",
+      "azure-firewall",
+      "aws-waf"
+    ]
   },
   {
     "name": "AWS Wavelength",
@@ -1063,7 +1190,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudwatch",
+      "aws-x-ray",
+      "azure-monitor"
+    ]
   },
   {
     "name": "Access Transparency",
@@ -1090,7 +1221,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-api-gateway",
+      "api-management"
+    ]
   },
   {
     "name": "Amazon AppFlow",
@@ -1126,7 +1260,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-athena",
+      "data-lake-analytics"
+    ]
   },
   {
     "name": "Amazon Augmented AI",
@@ -1180,7 +1317,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudfront",
+      "content-delivery-network"
+    ]
   },
   {
     "name": "Amazon CloudSearch",
@@ -1189,7 +1329,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudsearch",
+      "azure-cognitive-search"
+    ]
   },
   {
     "name": "Amazon CloudWatch",
@@ -1198,7 +1341,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudwatch",
+      "aws-x-ray",
+      "azure-monitor"
+    ]
   },
   {
     "name": "Amazon CodeGuru",
@@ -1216,7 +1363,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cognito",
+      "azure-active-directory"
+    ]
   },
   {
     "name": "Amazon Comprehend",
@@ -1270,7 +1420,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-dynamodb",
+      "amazon-documentdb-with-mongodb-compatibility",
+      "azure-cosmos-db"
+    ]
   },
   {
     "name": "Amazon DynamoDB",
@@ -1279,7 +1433,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-dynamodb",
+      "table-storage",
+      "azure-cosmos-db"
+    ]
   },
   {
     "name": "Amazon EC2",
@@ -1288,7 +1446,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-ec2",
+      "virtual-machines"
+    ]
   },
   {
     "name": "Amazon EC2 Auto Scaling",
@@ -1297,7 +1458,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-ec2-auto-scaling",
+      "virtual-machine-scale-sets"
+    ]
   },
   {
     "name": "Amazon ECS Anywhere",
@@ -1333,7 +1497,13 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-emr",
+      "azure-data-explorer",
+      "azure-databricks",
+      "hdinsight",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Amazon ElastiCache",
@@ -1342,7 +1512,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elasticache",
+      "azure-cache-for-redis"
+    ]
   },
   {
     "name": "Amazon Elastic Block Store (EBS)",
@@ -1351,7 +1524,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-block-store-ebs",
+      "azure-disk-storage"
+    ]
   },
   {
     "name": "Amazon Elastic Container Registry",
@@ -1360,7 +1536,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-container-registry",
+      "container-registry"
+    ]
   },
   {
     "name": "Amazon Elastic Container Service (ECS)",
@@ -1369,7 +1548,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-container-service-ecs",
+      "aws-fargate",
+      "container-instances"
+    ]
   },
   {
     "name": "Amazon Elastic File System (EFS)",
@@ -1378,7 +1561,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-file-system-efs",
+      "azure-files"
+    ]
   },
   {
     "name": "Amazon Elastic Inference",
@@ -1396,7 +1582,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-kubernetes-service-eks",
+      "azure-kubernetes-service-aks"
+    ]
   },
   {
     "name": "Amazon Elastic Transcoder",
@@ -1423,7 +1612,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-eventbridge",
+      "event-grid"
+    ]
   },
   {
     "name": "Amazon FSx for Lustre",
@@ -1513,7 +1705,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-inspector",
+      "security-center"
+    ]
   },
   {
     "name": "Amazon Interactive Video Service",
@@ -1549,7 +1744,13 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-kinesis",
+      "azure-stream-analytics",
+      "azure-data-explorer",
+      "data-lake-analytics",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Amazon Kinesis Video Streams",
@@ -1558,7 +1759,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-kinesis-video-streams",
+      "event-hubs"
+    ]
   },
   {
     "name": "Amazon Lex",
@@ -1567,7 +1771,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-lex",
+      "language-understanding"
+    ]
   },
   {
     "name": "Amazon Lightsail",
@@ -1576,7 +1783,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-lightsail",
+      "app-service"
+    ]
   },
   {
     "name": "Amazon Location Service (Preview)",
@@ -1747,7 +1957,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-quicksight",
+      "power-bi-embedded"
+    ]
   },
   {
     "name": "Amazon RDS",
@@ -1756,7 +1969,12 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-rds",
+      "azure-sql-database",
+      "azure-database-for-mysql",
+      "azure-database-for-postgresql"
+    ]
   },
   {
     "name": "Amazon RDS on VMware",
@@ -1774,7 +1992,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-redshift",
+      "azure-synapse-analytics"
+    ]
   },
   {
     "name": "Amazon Rekognition",
@@ -1783,7 +2004,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-rekognition",
+      "azure-cognitive-services"
+    ]
   },
   {
     "name": "Amazon Route 53",
@@ -1792,7 +2016,12 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-route-53",
+      "azure-dns",
+      "cloud-dns",
+      "traffic-manager"
+    ]
   },
   {
     "name": "Amazon S3 Glacier",
@@ -1801,7 +2030,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-s3-glacier",
+      "azure-blob-storage"
+    ]
   },
   {
     "name": "Amazon SageMaker",
@@ -1810,7 +2042,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-sagemaker",
+      "azure-machine-learning"
+    ]
   },
   {
     "name": "Amazon SageMaker Data Wrangler",
@@ -1855,7 +2090,11 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-simple-queue-service-sqs",
+      "queue-storage",
+      "service-bus"
+    ]
   },
   {
     "name": "Amazon Simple Storage Service (S3)",
@@ -1864,7 +2103,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-simple-storage-service-s3",
+      "azure-blob-storage"
+    ]
   },
   {
     "name": "Amazon Sumerian",
@@ -1918,7 +2160,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-vpc",
+      "virtual-network"
+    ]
   },
   {
     "name": "Amazon WorkDocs",
@@ -2080,7 +2325,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-elastic-beanstalk",
+      "app-service"
+    ]
   },
   {
     "name": "AppSheet",
@@ -2179,7 +2427,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-opsworks",
+      "automation"
+    ]
   },
   {
     "name": "Avere vFXT for Azure",
@@ -2206,7 +2457,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cognito",
+      "azure-active-directory"
+    ]
   },
   {
     "name": "Azure Active Directory Domain Services",
@@ -2215,7 +2469,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-directory-service",
+      "azure-active-directory-domain-services"
+    ]
   },
   {
     "name": "Azure Active Directory external Identities",
@@ -2233,7 +2490,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-trusted-advisor",
+      "azure-advisor"
+    ]
   },
   {
     "name": "Azure Analysis Services",
@@ -2287,7 +2547,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-backup",
+      "azure-backup"
+    ]
   },
   {
     "name": "Azure Bastion",
@@ -2305,7 +2568,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-simple-storage-service-s3",
+      "azure-blob-storage"
+    ]
   },
   {
     "name": "Azure Blockchain Service",
@@ -2359,7 +2625,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elasticache",
+      "azure-cache-for-redis"
+    ]
   },
   {
     "name": "Azure Cognitive Search",
@@ -2368,7 +2637,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudsearch",
+      "azure-cognitive-search"
+    ]
   },
   {
     "name": "Azure Cognitive Services",
@@ -2377,7 +2649,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-rekognition",
+      "azure-cognitive-services"
+    ]
   },
   {
     "name": "Azure Communication Services",
@@ -2395,7 +2670,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-dynamodb",
+      "table-storage",
+      "azure-cosmos-db"
+    ]
   },
   {
     "name": "Azure Cost Management and Billing",
@@ -2404,7 +2683,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "azure-cost-management-and-billing",
+      "azure-cost-management-and-billing"
+    ]
   },
   {
     "name": "Azure CycleCloud",
@@ -2422,7 +2704,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-shield",
+      "azure-ddos-protection"
+    ]
   },
   {
     "name": "Azure DNS",
@@ -2431,7 +2716,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-route-53",
+      "azure-dns",
+      "cloud-dns",
+      "traffic-manager"
+    ]
   },
   {
     "name": "Azure Data Box",
@@ -2440,7 +2730,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-snow-family",
+      "azure-data-box"
+    ]
   },
   {
     "name": "Azure Data Explorer",
@@ -2449,7 +2742,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-emr",
+      "azure-data-explorer",
+      "azure-databricks",
+      "hdinsight",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Azure Data Factory",
@@ -2458,7 +2757,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-data-pipeline",
+      "aws-glue",
+      "azure-data-factory",
+      "data-catalog"
+    ]
   },
   {
     "name": "Azure Data Lake Storage",
@@ -2467,7 +2771,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-emr",
+      "azure-data-explorer",
+      "azure-databricks",
+      "hdinsight",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Azure Data Share",
@@ -2476,7 +2786,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-lake-formation",
+      "azure-data-share"
+    ]
   },
   {
     "name": "Azure Database Migration Service",
@@ -2485,7 +2798,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-database-migration-service",
+      "azure-database-migration-service"
+    ]
   },
   {
     "name": "Azure Database for MariaDB",
@@ -2503,7 +2819,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-rds",
+      "azure-sql-database",
+      "azure-database-for-mysql",
+      "azure-database-for-postgresql"
+    ]
   },
   {
     "name": "Azure Database for PostgreSQL",
@@ -2512,7 +2833,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-rds",
+      "azure-sql-database",
+      "azure-database-for-mysql",
+      "azure-database-for-postgresql"
+    ]
   },
   {
     "name": "Azure Databricks",
@@ -2521,7 +2847,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-emr",
+      "azure-data-explorer",
+      "azure-databricks",
+      "hdinsight",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Azure Dedicated HSM",
@@ -2566,7 +2898,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-codedeploy",
+      "aws-codecommit",
+      "aws-codepipeline",
+      "aws-codebuild",
+      "azure-devops"
+    ]
   },
   {
     "name": "Azure DevTest Labs",
@@ -2584,7 +2922,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-iot-things-graph",
+      "azure-digital-twins"
+    ]
   },
   {
     "name": "Azure Disk Storage",
@@ -2593,7 +2934,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-block-store-ebs",
+      "azure-disk-storage"
+    ]
   },
   {
     "name": "Azure ExpressRoute",
@@ -2602,7 +2946,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-direct-connect",
+      "azure-expressroute"
+    ]
   },
   {
     "name": "Azure FXT Edge Filer",
@@ -2620,7 +2967,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-file-system-efs",
+      "azure-files"
+    ]
   },
   {
     "name": "Azure Firewall",
@@ -2629,7 +2979,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "web-application-firewall",
+      "azure-firewall",
+      "aws-waf"
+    ]
   },
   {
     "name": "Azure Firewall Manager",
@@ -2656,7 +3010,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-global-accelerator",
+      "azure-front-door"
+    ]
   },
   {
     "name": "Azure HPC Cache",
@@ -2710,7 +3067,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-greengrass",
+      "azure-iot-edge"
+    ]
   },
   {
     "name": "Azure IoT Hub",
@@ -2719,7 +3079,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-iot-core",
+      "azure-iot-hub"
+    ]
   },
   {
     "name": "Azure IoT solution accelerators",
@@ -2737,7 +3100,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-kubernetes-service-eks",
+      "azure-kubernetes-service-aks"
+    ]
   },
   {
     "name": "Azure Lab Services",
@@ -2773,7 +3139,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-sagemaker",
+      "azure-machine-learning"
+    ]
   },
   {
     "name": "Azure Managed Applications",
@@ -2827,7 +3196,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-application-discovery-service",
+      "azure-migrate"
+    ]
   },
   {
     "name": "Azure Modular Data centre",
@@ -2845,7 +3217,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudwatch",
+      "aws-x-ray",
+      "azure-monitor"
+    ]
   },
   {
     "name": "Azure NetApp Files",
@@ -3016,7 +3392,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-rds",
+      "azure-sql-database",
+      "azure-database-for-mysql",
+      "azure-database-for-postgresql"
+    ]
   },
   {
     "name": "Azure SQL Edge",
@@ -3133,7 +3514,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-kinesis",
+      "azure-stream-analytics",
+      "azure-data-explorer",
+      "data-lake-analytics",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Azure Synapse Analytics",
@@ -3142,7 +3529,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-redshift",
+      "azure-synapse-analytics"
+    ]
   },
   {
     "name": "Azure Test Plans",
@@ -3169,7 +3559,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "vmware-cloud-on-aws",
+      "azure-vmware-solution"
+    ]
   },
   {
     "name": "Azure Video Analyzer",
@@ -3227,7 +3620,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-batch",
+      "batch"
+    ]
   },
   {
     "name": "BeyondCorp Enterprise",
@@ -3389,7 +3785,12 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-route-53",
+      "azure-dns",
+      "cloud-dns",
+      "traffic-manager"
+    ]
   },
   {
     "name": "Cloud Data Fusion",
@@ -3636,7 +4037,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cloudshell",
+      "cloud-shell"
+    ]
   },
   {
     "name": "Cloud Shell",
@@ -3645,7 +4049,10 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cloudshell",
+      "cloud-shell"
+    ]
   },
   {
     "name": "Cloud Source Repositories",
@@ -3762,7 +4169,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-container-service-ecs",
+      "aws-fargate",
+      "container-instances"
+    ]
   },
   {
     "name": "Container Registry",
@@ -3771,7 +4182,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-container-registry",
+      "container-registry"
+    ]
   },
   {
     "name": "Container Registry",
@@ -3780,7 +4194,10 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-elastic-container-registry",
+      "container-registry"
+    ]
   },
   {
     "name": "Container Security",
@@ -3798,7 +4215,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-cloudfront",
+      "content-delivery-network"
+    ]
   },
   {
     "name": "Content Protection",
@@ -3825,7 +4245,10 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cost-explorer",
+      "cost-management"
+    ]
   },
   {
     "name": "Custom Vision",
@@ -3843,7 +4266,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-data-pipeline",
+      "aws-glue",
+      "azure-data-factory",
+      "data-catalog"
+    ]
   },
   {
     "name": "Data Catalog",
@@ -3852,7 +4280,12 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-data-pipeline",
+      "aws-glue",
+      "azure-data-factory",
+      "data-catalog"
+    ]
   },
   {
     "name": "Data Lake Analytics",
@@ -3861,7 +4294,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-kinesis",
+      "azure-stream-analytics",
+      "azure-data-explorer",
+      "data-lake-analytics",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Data Science Virtual Machines",
@@ -3996,7 +4435,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-eventbridge",
+      "event-grid"
+    ]
   },
   {
     "name": "Event Hubs",
@@ -4005,7 +4447,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-kinesis",
+      "event-hubs"
+    ]
   },
   {
     "name": "Face",
@@ -4176,7 +4621,13 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-emr",
+      "azure-data-explorer",
+      "azure-databricks",
+      "hdinsight",
+      "azure-data-lake-storage"
+    ]
   },
   {
     "name": "Health Bot",
@@ -4230,7 +4681,11 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "identity-and-access-management",
+      "aws-identity-andamp-access-management",
+      "azure-active-directory"
+    ]
   },
   {
     "name": "Identity-Aware Proxy ",
@@ -4257,7 +4712,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-key-management-service",
+      "key-vault"
+    ]
   },
   {
     "name": "Kinect DK",
@@ -4302,7 +4760,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-lex",
+      "language-understanding"
+    ]
   },
   {
     "name": "Linux Virtual Machines",
@@ -4419,7 +4880,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-management-console",
+      "microsoft-azure-portal"
+    ]
   },
   {
     "name": "Microsoft Genomics",
@@ -4599,7 +5063,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-quicksight",
+      "power-bi-embedded"
+    ]
   },
   {
     "name": "Preemptible VMs",
@@ -4662,7 +5129,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-simple-queue-service-sqs",
+      "queue-storage",
+      "service-bus"
+    ]
   },
   {
     "name": "R Server for HDInsight",
@@ -4716,7 +5187,10 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-cloudformation",
+      "resource-manager"
+    ]
   },
   {
     "name": "Risk Protection Program (preview)",
@@ -4779,7 +5253,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-inspector",
+      "security-center"
+    ]
   },
   {
     "name": "Security Command Center",
@@ -4797,7 +5274,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-simple-queue-service-sqs",
+      "queue-storage",
+      "service-bus"
+    ]
   },
   {
     "name": "Service Directory",
@@ -4815,7 +5296,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-app-mesh",
+      "service-fabric"
+    ]
   },
   {
     "name": "Shielded VMs",
@@ -4896,7 +5380,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-storage-gateway",
+      "storsimple"
+    ]
   },
   {
     "name": "Storage Accounts",
@@ -4932,7 +5419,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-dynamodb",
+      "table-storage",
+      "azure-cosmos-db"
+    ]
   },
   {
     "name": "Tekton",
@@ -5031,7 +5522,12 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-route-53",
+      "azure-dns",
+      "cloud-dns",
+      "traffic-manager"
+    ]
   },
   {
     "name": "Transcoder API (beta)",
@@ -5067,7 +5563,10 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws"
     },
-    "equivalents": []
+    "equivalents": [
+      "vmware-cloud-on-aws",
+      "azure-vmware-solution"
+    ]
   },
   {
     "name": "VMware Engine",
@@ -5139,7 +5638,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-ec2-auto-scaling",
+      "virtual-machine-scale-sets"
+    ]
   },
   {
     "name": "Virtual Machines",
@@ -5148,7 +5650,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-ec2",
+      "virtual-machines"
+    ]
   },
   {
     "name": "Virtual Network",
@@ -5157,7 +5662,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "amazon-vpc",
+      "virtual-network"
+    ]
   },
   {
     "name": "Virtual Private Cloud (VPC)",
@@ -5202,7 +5710,10 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "aws-device-farm",
+      "visual-studio-app-centre"
+    ]
   },
   {
     "name": "Visual Studio Code",
@@ -5229,7 +5740,11 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": []
+    "equivalents": [
+      "web-application-firewall",
+      "azure-firewall",
+      "aws-waf"
+    ]
   },
   {
     "name": "Web Apps",
