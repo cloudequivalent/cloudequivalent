@@ -13,7 +13,7 @@ eleventyComputed:
 
 ## Services
 
-{% for service in services %}
+{% for service in generated.services %}
   {% if service.provider.key == provider.key %}
 [{{ service.name }}]({{service.slug}})
   {% endif %}
