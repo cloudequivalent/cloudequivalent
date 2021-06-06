@@ -1,6 +1,6 @@
 ---
 pagination:
-  data: providers
+  data: generated.providers
   size: 1
   alias: provider
 permalink: "{{ provider.key | slug }}/"
