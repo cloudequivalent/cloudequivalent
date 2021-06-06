@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Amazon Web Services (AWS)",
+    "key": "aws"
+  },
+  {
+    "name": "Microsoft Azure (Azure)",
+    "key": "azure"
+  },
+  {
+    "name": "Google Cloud Platform (GCP)",
+    "key": "gcp"
+  }
+]

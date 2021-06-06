@@ -1,22 +1,29 @@
+const fs = require('fs').promises
+const path = require('path')
 const slugify = require('slugify')
-const providers = require('./providers')
-const services = []
+const providers = ['aws', 'azure', 'gcp'];
 
-providers.forEach(provider => {
-  const dedupe = new Set(require(`./${provider.key}/services.json`))
+(async () => {
+  const providersMetadata = await Promise.all(providers.map(async provider => {
+    const contents = await fs.readFile(path.resolve(__dirname, `${provider}/meta.json`), 'utf8')
+    return JSON.parse(contents)
+  }))
 
-  const map = [...dedupe].map(service => {
-    return {
+  const services = await Promise.all(providers.map(async provider => {
+    const contents = await fs.readFile(path.resolve(__dirname, `${provider}/services.json`), 'utf8')
+    const parsed = JSON.parse(contents)
+
+    return [...new Set(parsed)].map(service => ({
       name: service,
+
       slug: slugify(service, {
         strict: true,
         lower: true
       }),
-      provider: provider
-    }
-  })
 
-  return services.push(map)
-})
+      provider: providersMetadata.find(metadata => metadata.key === provider)
+    }))
+  }))
 
-module.exports = services.flat()
+  await fs.writeFile(path.resolve(__dirname, '../website/_data/generated/services.json'), JSON.stringify(services.flat(), null, 2))
+})()
