@@ -8,5 +8,3 @@ layout: layouts/base.njk
 eleventyComputed:
   title: "{{ service.name }}"
 ---
-
-{{ service.name }}

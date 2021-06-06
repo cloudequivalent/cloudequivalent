@@ -3,11 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }}</title>
+  <title>
+    {%- if title == site.title -%}
+      {{ title }}
+    {%- else -%}
+      {{ title }} | {{ site.title }}
+    {%- endif -%}
+  </title>
   <link rel="stylesheet" href="{{ '/style.css' | url }}">
 </head>
 <body>
-  <header></header>
+  <header>
+    <div class="wrapper">
+      <a href="{{ '/' | url }}">Cloud Equivalent</a>
+    </div>
+  </header>
   <main>
     <div class="wrapper">
       <h1>{{ title }}</h1>

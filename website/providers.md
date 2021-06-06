@@ -9,8 +9,6 @@ eleventyComputed:
   title: "{{provider.name}}"
 ---
 
-{{ provider.name }}
-
 ## Services
 
 {% for service in generated.services %}
