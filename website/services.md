@@ -3,6 +3,7 @@ pagination:
   data: generated.services
   size: 1
   alias: service
+  addAllPagesToCollections: true
 permalink: "{{ service.provider.key | slug }}/{{ service.slug }}/"
 layout: layouts/base.njk
 eleventyComputed:
