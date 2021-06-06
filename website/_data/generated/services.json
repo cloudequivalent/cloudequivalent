@@ -43,8 +43,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-api-gateway",
-      "api-management"
+      {
+        "name": "Amazon API Gateway",
+        "slug": "amazon-api-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -64,8 +70,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-app-mesh",
-      "service-fabric"
+      {
+        "name": "Service Fabric",
+        "slug": "service-fabric",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -103,8 +115,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-application-discovery-service",
-      "azure-migrate"
+      {
+        "name": "Azure Migrate",
+        "slug": "azure-migrate",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -151,8 +169,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-backup",
-      "azure-backup"
+      {
+        "name": "Azure Backup",
+        "slug": "azure-backup",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -163,8 +187,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-batch",
-      "batch"
+      {
+        "name": "Batch",
+        "slug": "batch",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -229,8 +259,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-cloudformation",
-      "resource-manager"
+      {
+        "name": "Resource Manager",
+        "slug": "resource-manager",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
     ]
   },
   {
@@ -250,8 +286,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-cloudshell",
-      "cloud-shell"
+      {
+        "name": "Cloud Shell",
+        "slug": "cloud-shell",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -262,8 +304,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-cloudtrail",
-      "azure-monitor"
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -283,11 +331,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-codedeploy",
-      "aws-codecommit",
-      "aws-codepipeline",
-      "aws-codebuild",
-      "azure-devops"
+      {
+        "name": "Azure DevOps",
+        "slug": "azure-devops",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -298,11 +349,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-codedeploy",
-      "aws-codecommit",
-      "aws-codepipeline",
-      "aws-codebuild",
-      "azure-devops"
+      {
+        "name": "Azure DevOps",
+        "slug": "azure-devops",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -313,11 +367,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-codedeploy",
-      "aws-codecommit",
-      "aws-codepipeline",
-      "aws-codebuild",
-      "azure-devops"
+      {
+        "name": "Azure DevOps",
+        "slug": "azure-devops",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -328,11 +385,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-codedeploy",
-      "aws-codecommit",
-      "aws-codepipeline",
-      "aws-codebuild",
-      "azure-devops"
+      {
+        "name": "Azure DevOps",
+        "slug": "azure-devops",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -406,8 +466,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-cost-explorer",
-      "cost-management"
+      {
+        "name": "Cost Management",
+        "slug": "cost-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
     ]
   },
   {
@@ -436,10 +502,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-data-pipeline",
-      "aws-glue",
-      "azure-data-factory",
-      "data-catalog"
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Data Catalog",
+        "slug": "data-catalog",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -459,8 +537,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-database-migration-service",
-      "azure-database-migration-service"
+      {
+        "name": "Azure Database Migration Service",
+        "slug": "azure-database-migration-service",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -516,8 +600,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-device-farm",
-      "visual-studio-app-centre"
+      {
+        "name": "Visual Studio App Centre",
+        "slug": "visual-studio-app-centre",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -528,8 +618,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-direct-connect",
-      "azure-expressroute"
+      {
+        "name": "Azure ExpressRoute",
+        "slug": "azure-expressroute",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -540,8 +636,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-directory-service",
-      "azure-active-directory-domain-services"
+      {
+        "name": "Azure Active Directory Domain Services",
+        "slug": "azure-active-directory-domain-services",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -561,8 +663,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-elastic-beanstalk",
-      "app-service"
+      {
+        "name": "App Service",
+        "slug": "app-service",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -636,9 +744,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elastic-container-service-ecs",
-      "aws-fargate",
-      "container-instances"
+      {
+        "name": "Container Instances",
+        "slug": "container-instances",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -667,8 +780,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-global-accelerator",
-      "azure-front-door"
+      {
+        "name": "Azure Front Door",
+        "slug": "azure-front-door",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -679,10 +798,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-data-pipeline",
-      "aws-glue",
-      "azure-data-factory",
-      "data-catalog"
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Data Catalog",
+        "slug": "data-catalog",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -693,8 +824,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-greengrass",
-      "azure-iot-edge"
+      {
+        "name": "Azure IoT Edge",
+        "slug": "azure-iot-edge",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -714,9 +851,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "identity-and-access-management",
-      "aws-identity-andamp-access-management",
-      "azure-active-directory"
+      {
+        "name": "Identity and Access Management",
+        "slug": "identity-and-access-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Azure Active Directory",
+        "slug": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -763,8 +913,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-iot-core",
-      "azure-iot-hub"
+      {
+        "name": "Azure IoT Hub",
+        "slug": "azure-iot-hub",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -811,8 +967,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-iot-things-graph",
-      "azure-digital-twins"
+      {
+        "name": "Azure Digital Twins",
+        "slug": "azure-digital-twins",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -823,8 +985,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-key-management-service",
-      "key-vault"
+      {
+        "name": "Key Vault",
+        "slug": "key-vault",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -835,8 +1003,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-lake-formation",
-      "azure-data-share"
+      {
+        "name": "Azure Data Share",
+        "slug": "azure-data-share",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -847,9 +1021,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-lambda",
-      "azure-functions",
-      "cloud-functions"
+      {
+        "name": "Azure functions",
+        "slug": "azure-functions",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Cloud Functions",
+        "slug": "cloud-functions",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
     ]
   },
   {
@@ -878,8 +1065,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-management-console",
-      "microsoft-azure-portal"
+      {
+        "name": "Microsoft Azure portal",
+        "slug": "microsoft-azure-portal",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -917,8 +1110,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-opsworks",
-      "automation"
+      {
+        "name": "Automation",
+        "slug": "automation",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1055,8 +1254,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-shield",
-      "azure-ddos-protection"
+      {
+        "name": "Azure DDoS Protection",
+        "slug": "azure-ddos-protection",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1076,8 +1281,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-snow-family",
-      "azure-data-box"
+      {
+        "name": "Azure Data Box",
+        "slug": "azure-data-box",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1097,8 +1308,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-storage-gateway",
-      "storsimple"
+      {
+        "name": "StorSimple",
+        "slug": "storsimple",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1109,8 +1326,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-systems-manager",
-      "azure-monitor"
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1148,8 +1371,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "aws-trusted-advisor",
-      "azure-advisor"
+      {
+        "name": "Azure Advisor",
+        "slug": "azure-advisor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1160,9 +1389,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "web-application-firewall",
-      "azure-firewall",
-      "aws-waf"
+      {
+        "name": "Web Application Firewall",
+        "slug": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Firewall",
+        "slug": "azure-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1191,9 +1433,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-cloudwatch",
-      "aws-x-ray",
-      "azure-monitor"
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1222,8 +1469,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-api-gateway",
-      "api-management"
+      {
+        "name": "API Management",
+        "slug": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1261,8 +1514,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-athena",
-      "data-lake-analytics"
+      {
+        "name": "Data Lake Analytics",
+        "slug": "data-lake-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1318,8 +1577,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-cloudfront",
-      "content-delivery-network"
+      {
+        "name": "Content Delivery Network",
+        "slug": "content-delivery-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1330,8 +1595,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-cloudsearch",
-      "azure-cognitive-search"
+      {
+        "name": "Azure Cognitive Search",
+        "slug": "azure-cognitive-search",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1342,9 +1613,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-cloudwatch",
-      "aws-x-ray",
-      "azure-monitor"
+      {
+        "name": "Azure Monitor",
+        "slug": "azure-monitor",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1364,8 +1640,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-cognito",
-      "azure-active-directory"
+      {
+        "name": "Azure Active Directory",
+        "slug": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1421,9 +1703,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-dynamodb",
-      "amazon-documentdb-with-mongodb-compatibility",
-      "azure-cosmos-db"
+      {
+        "name": "Azure Cosmos DB",
+        "slug": "azure-cosmos-db",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1434,9 +1721,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-dynamodb",
-      "table-storage",
-      "azure-cosmos-db"
+      {
+        "name": "Table Storage",
+        "slug": "table-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Cosmos DB",
+        "slug": "azure-cosmos-db",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1447,8 +1747,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-ec2",
-      "virtual-machines"
+      {
+        "name": "Virtual Machines",
+        "slug": "virtual-machines",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1459,8 +1765,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-ec2-auto-scaling",
-      "virtual-machine-scale-sets"
+      {
+        "name": "Virtual Machine Scale Sets",
+        "slug": "virtual-machine-scale-sets",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1498,11 +1810,38 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-emr",
-      "azure-data-explorer",
-      "azure-databricks",
-      "hdinsight",
-      "azure-data-lake-storage"
+      {
+        "name": "Azure Data Explorer",
+        "slug": "azure-data-explorer",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Databricks",
+        "slug": "azure-databricks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "HDInsight",
+        "slug": "hdinsight",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Data Lake Storage",
+        "slug": "azure-data-lake-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1513,8 +1852,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elasticache",
-      "azure-cache-for-redis"
+      {
+        "name": "Azure Cache for Redis",
+        "slug": "azure-cache-for-redis",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1525,8 +1870,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elastic-block-store-ebs",
-      "azure-disk-storage"
+      {
+        "name": "Azure Disk Storage",
+        "slug": "azure-disk-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1537,8 +1888,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elastic-container-registry",
-      "container-registry"
+      {
+        "name": "Container Registry",
+        "slug": "container-registry",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1549,9 +1906,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elastic-container-service-ecs",
-      "aws-fargate",
-      "container-instances"
+      {
+        "name": "Container Instances",
+        "slug": "container-instances",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1562,8 +1924,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elastic-file-system-efs",
-      "azure-files"
+      {
+        "name": "Azure Files",
+        "slug": "azure-files",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1583,8 +1951,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-elastic-kubernetes-service-eks",
-      "azure-kubernetes-service-aks"
+      {
+        "name": "Azure Kubernetes Service (AKS)",
+        "slug": "azure-kubernetes-service-aks",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1613,8 +1987,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-eventbridge",
-      "event-grid"
+      {
+        "name": "Event Grid",
+        "slug": "event-grid",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1706,8 +2086,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-inspector",
-      "security-center"
+      {
+        "name": "Security Center",
+        "slug": "security-center",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1745,11 +2131,38 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-kinesis",
-      "azure-stream-analytics",
-      "azure-data-explorer",
-      "data-lake-analytics",
-      "azure-data-lake-storage"
+      {
+        "name": "Azure Stream Analytics",
+        "slug": "azure-stream-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Data Explorer",
+        "slug": "azure-data-explorer",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Data Lake Analytics",
+        "slug": "data-lake-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Data Lake Storage",
+        "slug": "azure-data-lake-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1760,8 +2173,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-kinesis-video-streams",
-      "event-hubs"
+      {
+        "name": "Event Hubs",
+        "slug": "event-hubs",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1772,8 +2191,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-lex",
-      "language-understanding"
+      {
+        "name": "Language Understanding",
+        "slug": "language-understanding",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1784,8 +2209,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-lightsail",
-      "app-service"
+      {
+        "name": "App Service",
+        "slug": "app-service",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1958,8 +2389,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-quicksight",
-      "power-bi-embedded"
+      {
+        "name": "Power BI Embedded",
+        "slug": "power-bi-embedded",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1970,10 +2407,30 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-rds",
-      "azure-sql-database",
-      "azure-database-for-mysql",
-      "azure-database-for-postgresql"
+      {
+        "name": "Azure SQL Database",
+        "slug": "azure-sql-database",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Database for MySQL",
+        "slug": "azure-database-for-mysql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Azure Database for PostgreSQL",
+        "slug": "azure-database-for-postgresql",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -1993,8 +2450,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-redshift",
-      "azure-synapse-analytics"
+      {
+        "name": "Azure Synapse Analytics",
+        "slug": "azure-synapse-analytics",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2005,8 +2468,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-rekognition",
-      "azure-cognitive-services"
+      {
+        "name": "Azure Cognitive Services",
+        "slug": "azure-cognitive-services",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2017,10 +2486,30 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-route-53",
-      "azure-dns",
-      "cloud-dns",
-      "traffic-manager"
+      {
+        "name": "Azure DNS",
+        "slug": "azure-dns",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Cloud DNS",
+        "slug": "cloud-dns",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      },
+      {
+        "name": "Traffic Manager",
+        "slug": "traffic-manager",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2031,8 +2520,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-s3-glacier",
-      "azure-blob-storage"
+      {
+        "name": "Azure Blob Storage",
+        "slug": "azure-blob-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2043,8 +2538,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-sagemaker",
-      "azure-machine-learning"
+      {
+        "name": "Azure Machine Learning",
+        "slug": "azure-machine-learning",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2091,9 +2592,22 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-simple-queue-service-sqs",
-      "queue-storage",
-      "service-bus"
+      {
+        "name": "Queue Storage",
+        "slug": "queue-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Service Bus",
+        "slug": "service-bus",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2104,8 +2618,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-simple-storage-service-s3",
-      "azure-blob-storage"
+      {
+        "name": "Azure Blob Storage",
+        "slug": "azure-blob-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2161,8 +2681,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "amazon-vpc",
-      "virtual-network"
+      {
+        "name": "Virtual Network",
+        "slug": "virtual-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -2326,8 +2852,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-elastic-beanstalk",
-      "app-service"
+      {
+        "name": "AWS Elastic Beanstalk",
+        "slug": "aws-elastic-beanstalk",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2428,8 +2960,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-opsworks",
-      "automation"
+      {
+        "name": "AWS OpsWorks",
+        "slug": "aws-opsworks",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2458,8 +2996,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-cognito",
-      "azure-active-directory"
+      {
+        "name": "Amazon Cognito",
+        "slug": "amazon-cognito",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2470,8 +3014,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-directory-service",
-      "azure-active-directory-domain-services"
+      {
+        "name": "AWS Directory Service",
+        "slug": "aws-directory-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2491,8 +3041,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-trusted-advisor",
-      "azure-advisor"
+      {
+        "name": "AWS Trusted Advisor",
+        "slug": "aws-trusted-advisor",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2548,8 +3104,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-backup",
-      "azure-backup"
+      {
+        "name": "AWS Backup",
+        "slug": "aws-backup",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2569,8 +3131,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-simple-storage-service-s3",
-      "azure-blob-storage"
+      {
+        "name": "Amazon Simple Storage Service (S3)",
+        "slug": "amazon-simple-storage-service-s3",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2626,8 +3194,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-elasticache",
-      "azure-cache-for-redis"
+      {
+        "name": "Amazon ElastiCache",
+        "slug": "amazon-elasticache",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2638,8 +3212,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-cloudsearch",
-      "azure-cognitive-search"
+      {
+        "name": "Amazon CloudSearch",
+        "slug": "amazon-cloudsearch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2650,8 +3230,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-rekognition",
-      "azure-cognitive-services"
+      {
+        "name": "Amazon Rekognition",
+        "slug": "amazon-rekognition",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2671,9 +3257,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-dynamodb",
-      "table-storage",
-      "azure-cosmos-db"
+      {
+        "name": "Amazon DynamoDB",
+        "slug": "amazon-dynamodb",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2683,10 +3274,7 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure"
     },
-    "equivalents": [
-      "azure-cost-management-and-billing",
-      "azure-cost-management-and-billing"
-    ]
+    "equivalents": []
   },
   {
     "name": "Azure CycleCloud",
@@ -2705,8 +3293,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-shield",
-      "azure-ddos-protection"
+      {
+        "name": "AWS Shield",
+        "slug": "aws-shield",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2717,10 +3311,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-route-53",
-      "azure-dns",
-      "cloud-dns",
-      "traffic-manager"
+      {
+        "name": "Amazon Route 53",
+        "slug": "amazon-route-53",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Cloud DNS",
+        "slug": "cloud-dns",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
     ]
   },
   {
@@ -2731,8 +3337,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-snow-family",
-      "azure-data-box"
+      {
+        "name": "AWS Snow Family",
+        "slug": "aws-snow-family",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2743,11 +3355,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-emr",
-      "azure-data-explorer",
-      "azure-databricks",
-      "hdinsight",
-      "azure-data-lake-storage"
+      {
+        "name": "Amazon EMR",
+        "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2758,10 +3373,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-data-pipeline",
-      "aws-glue",
-      "azure-data-factory",
-      "data-catalog"
+      {
+        "name": "AWS Data Pipeline",
+        "slug": "aws-data-pipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2772,11 +3399,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-emr",
-      "azure-data-explorer",
-      "azure-databricks",
-      "hdinsight",
-      "azure-data-lake-storage"
+      {
+        "name": "Amazon EMR",
+        "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2787,8 +3417,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-lake-formation",
-      "azure-data-share"
+      {
+        "name": "AWS Lake Formation",
+        "slug": "aws-lake-formation",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2799,8 +3435,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-database-migration-service",
-      "azure-database-migration-service"
+      {
+        "name": "AWS Database Migration Service",
+        "slug": "aws-database-migration-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2820,10 +3462,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-rds",
-      "azure-sql-database",
-      "azure-database-for-mysql",
-      "azure-database-for-postgresql"
+      {
+        "name": "Amazon RDS",
+        "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2834,10 +3480,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-rds",
-      "azure-sql-database",
-      "azure-database-for-mysql",
-      "azure-database-for-postgresql"
+      {
+        "name": "Amazon RDS",
+        "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2848,11 +3498,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-emr",
-      "azure-data-explorer",
-      "azure-databricks",
-      "hdinsight",
-      "azure-data-lake-storage"
+      {
+        "name": "Amazon EMR",
+        "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2899,11 +3552,38 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-codedeploy",
-      "aws-codecommit",
-      "aws-codepipeline",
-      "aws-codebuild",
-      "azure-devops"
+      {
+        "name": "AWS CodeDeploy",
+        "slug": "aws-codedeploy",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS CodeCommit",
+        "slug": "aws-codecommit",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS CodePipeline",
+        "slug": "aws-codepipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS CodeBuild",
+        "slug": "aws-codebuild",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2923,8 +3603,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-iot-things-graph",
-      "azure-digital-twins"
+      {
+        "name": "AWS IoT Things Graph",
+        "slug": "aws-iot-things-graph",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2935,8 +3621,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-elastic-block-store-ebs",
-      "azure-disk-storage"
+      {
+        "name": "Amazon Elastic Block Store (EBS)",
+        "slug": "amazon-elastic-block-store-ebs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2947,8 +3639,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-direct-connect",
-      "azure-expressroute"
+      {
+        "name": "AWS Direct Connect",
+        "slug": "aws-direct-connect",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2968,8 +3666,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-elastic-file-system-efs",
-      "azure-files"
+      {
+        "name": "Amazon Elastic File System (EFS)",
+        "slug": "amazon-elastic-file-system-efs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -2980,9 +3684,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "web-application-firewall",
-      "azure-firewall",
-      "aws-waf"
+      {
+        "name": "AWS WAF",
+        "slug": "aws-waf",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3011,8 +3720,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-global-accelerator",
-      "azure-front-door"
+      {
+        "name": "AWS Global Accelerator",
+        "slug": "aws-global-accelerator",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3068,8 +3783,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-greengrass",
-      "azure-iot-edge"
+      {
+        "name": "AWS Greengrass",
+        "slug": "aws-greengrass",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3080,8 +3801,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-iot-core",
-      "azure-iot-hub"
+      {
+        "name": "AWS IoT Core",
+        "slug": "aws-iot-core",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3101,8 +3828,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-elastic-kubernetes-service-eks",
-      "azure-kubernetes-service-aks"
+      {
+        "name": "Amazon Elastic Kubernetes Service (EKS)",
+        "slug": "amazon-elastic-kubernetes-service-eks",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3140,8 +3873,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-sagemaker",
-      "azure-machine-learning"
+      {
+        "name": "Amazon SageMaker",
+        "slug": "amazon-sagemaker",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3197,8 +3936,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-application-discovery-service",
-      "azure-migrate"
+      {
+        "name": "AWS Application Discovery Service",
+        "slug": "aws-application-discovery-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3218,9 +3963,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-cloudwatch",
-      "aws-x-ray",
-      "azure-monitor"
+      {
+        "name": "Amazon CloudWatch",
+        "slug": "amazon-cloudwatch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS X-Ray",
+        "slug": "aws-x-ray",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3393,10 +4151,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-rds",
-      "azure-sql-database",
-      "azure-database-for-mysql",
-      "azure-database-for-postgresql"
+      {
+        "name": "Amazon RDS",
+        "slug": "amazon-rds",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3515,11 +4277,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-kinesis",
-      "azure-stream-analytics",
-      "azure-data-explorer",
-      "data-lake-analytics",
-      "azure-data-lake-storage"
+      {
+        "name": "Amazon Kinesis",
+        "slug": "amazon-kinesis",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3530,8 +4295,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-redshift",
-      "azure-synapse-analytics"
+      {
+        "name": "Amazon Redshift",
+        "slug": "amazon-redshift",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3560,8 +4331,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "vmware-cloud-on-aws",
-      "azure-vmware-solution"
+      {
+        "name": "VMware Cloud on AWS",
+        "slug": "vmware-cloud-on-aws",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3581,9 +4358,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-lambda",
-      "azure-functions",
-      "cloud-functions"
+      {
+        "name": "AWS Lambda",
+        "slug": "aws-lambda",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Cloud Functions",
+        "slug": "cloud-functions",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
     ]
   },
   {
@@ -3621,8 +4411,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-batch",
-      "batch"
+      {
+        "name": "AWS Batch",
+        "slug": "aws-batch",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -3786,10 +4582,30 @@
       "key": "gcp"
     },
     "equivalents": [
-      "amazon-route-53",
-      "azure-dns",
-      "cloud-dns",
-      "traffic-manager"
+      {
+        "name": "Amazon Route 53",
+        "slug": "amazon-route-53",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure DNS",
+        "slug": "azure-dns",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Traffic Manager",
+        "slug": "traffic-manager",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -3863,9 +4679,22 @@
       "key": "gcp"
     },
     "equivalents": [
-      "aws-lambda",
-      "azure-functions",
-      "cloud-functions"
+      {
+        "name": "AWS Lambda",
+        "slug": "aws-lambda",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure functions",
+        "slug": "azure-functions",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -4038,8 +4867,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-cloudshell",
-      "cloud-shell"
+      {
+        "name": "AWS CloudShell",
+        "slug": "aws-cloudshell",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4050,8 +4885,22 @@
       "key": "gcp"
     },
     "equivalents": [
-      "aws-cloudshell",
-      "cloud-shell"
+      {
+        "name": "AWS CloudShell",
+        "slug": "aws-cloudshell",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "slug": "cloud-shell",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -4170,9 +5019,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-elastic-container-service-ecs",
-      "aws-fargate",
-      "container-instances"
+      {
+        "name": "Amazon Elastic Container Service (ECS)",
+        "slug": "amazon-elastic-container-service-ecs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Fargate",
+        "slug": "aws-fargate",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4183,8 +5045,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-elastic-container-registry",
-      "container-registry"
+      {
+        "name": "Amazon Elastic Container Registry",
+        "slug": "amazon-elastic-container-registry",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4195,8 +5063,22 @@
       "key": "gcp"
     },
     "equivalents": [
-      "amazon-elastic-container-registry",
-      "container-registry"
+      {
+        "name": "Amazon Elastic Container Registry",
+        "slug": "amazon-elastic-container-registry",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Container Registry",
+        "slug": "container-registry",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -4216,8 +5098,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-cloudfront",
-      "content-delivery-network"
+      {
+        "name": "Amazon CloudFront",
+        "slug": "amazon-cloudfront",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4246,8 +5134,14 @@
       "key": "gcp"
     },
     "equivalents": [
-      "aws-cost-explorer",
-      "cost-management"
+      {
+        "name": "AWS Cost Explorer",
+        "slug": "aws-cost-explorer",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4267,10 +5161,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-data-pipeline",
-      "aws-glue",
-      "azure-data-factory",
-      "data-catalog"
+      {
+        "name": "AWS Data Pipeline",
+        "slug": "aws-data-pipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4281,10 +5187,38 @@
       "key": "gcp"
     },
     "equivalents": [
-      "aws-data-pipeline",
-      "aws-glue",
-      "azure-data-factory",
-      "data-catalog"
+      {
+        "name": "AWS Data Pipeline",
+        "slug": "aws-data-pipeline",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "AWS Glue",
+        "slug": "aws-glue",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Data Factory",
+        "slug": "azure-data-factory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      },
+      {
+        "name": "Data Catalog",
+        "slug": "data-catalog",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -4295,11 +5229,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-kinesis",
-      "azure-stream-analytics",
-      "azure-data-explorer",
-      "data-lake-analytics",
-      "azure-data-lake-storage"
+      {
+        "name": "Amazon Kinesis",
+        "slug": "amazon-kinesis",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4436,8 +5373,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-eventbridge",
-      "event-grid"
+      {
+        "name": "Amazon EventBridge",
+        "slug": "amazon-eventbridge",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4448,8 +5391,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-kinesis",
-      "event-hubs"
+      {
+        "name": "Amazon Kinesis",
+        "slug": "amazon-kinesis",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4622,11 +5571,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-emr",
-      "azure-data-explorer",
-      "azure-databricks",
-      "hdinsight",
-      "azure-data-lake-storage"
+      {
+        "name": "Amazon EMR",
+        "slug": "amazon-emr",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4682,9 +5634,22 @@
       "key": "gcp"
     },
     "equivalents": [
-      "identity-and-access-management",
-      "aws-identity-andamp-access-management",
-      "azure-active-directory"
+      {
+        "name": "AWS Identity &amp; Access Management",
+        "slug": "aws-identity-andamp-access-management",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Azure Active Directory",
+        "slug": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -4713,8 +5678,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-key-management-service",
-      "key-vault"
+      {
+        "name": "AWS Key Management Service",
+        "slug": "aws-key-management-service",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4761,8 +5732,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-lex",
-      "language-understanding"
+      {
+        "name": "Amazon Lex",
+        "slug": "amazon-lex",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -4881,8 +5858,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-management-console",
-      "microsoft-azure-portal"
+      {
+        "name": "AWS Management Console",
+        "slug": "aws-management-console",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5064,8 +6047,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-quicksight",
-      "power-bi-embedded"
+      {
+        "name": "Amazon QuickSight",
+        "slug": "amazon-quicksight",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5130,9 +6119,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-simple-queue-service-sqs",
-      "queue-storage",
-      "service-bus"
+      {
+        "name": "Amazon Simple Queue Service (SQS) ",
+        "slug": "amazon-simple-queue-service-sqs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5188,8 +6182,14 @@
       "key": "gcp"
     },
     "equivalents": [
-      "aws-cloudformation",
-      "resource-manager"
+      {
+        "name": "AWS CloudFormation",
+        "slug": "aws-cloudformation",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5254,8 +6254,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-inspector",
-      "security-center"
+      {
+        "name": "Amazon Inspector",
+        "slug": "amazon-inspector",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5275,9 +6281,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-simple-queue-service-sqs",
-      "queue-storage",
-      "service-bus"
+      {
+        "name": "Amazon Simple Queue Service (SQS) ",
+        "slug": "amazon-simple-queue-service-sqs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5297,8 +6308,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-app-mesh",
-      "service-fabric"
+      {
+        "name": "AWS App Mesh",
+        "slug": "aws-app-mesh",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5381,8 +6398,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-storage-gateway",
-      "storsimple"
+      {
+        "name": "AWS Storage Gateway",
+        "slug": "aws-storage-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5420,9 +6443,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-dynamodb",
-      "table-storage",
-      "azure-cosmos-db"
+      {
+        "name": "Amazon DynamoDB",
+        "slug": "amazon-dynamodb",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5523,10 +6551,22 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-route-53",
-      "azure-dns",
-      "cloud-dns",
-      "traffic-manager"
+      {
+        "name": "Amazon Route 53",
+        "slug": "amazon-route-53",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      },
+      {
+        "name": "Cloud DNS",
+        "slug": "cloud-dns",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp"
+        }
+      }
     ]
   },
   {
@@ -5564,8 +6604,14 @@
       "key": "aws"
     },
     "equivalents": [
-      "vmware-cloud-on-aws",
-      "azure-vmware-solution"
+      {
+        "name": "Azure VMware Solution",
+        "slug": "azure-vmware-solution",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure"
+        }
+      }
     ]
   },
   {
@@ -5639,8 +6685,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-ec2-auto-scaling",
-      "virtual-machine-scale-sets"
+      {
+        "name": "Amazon EC2 Auto Scaling",
+        "slug": "amazon-ec2-auto-scaling",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5651,8 +6703,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-ec2",
-      "virtual-machines"
+      {
+        "name": "Amazon EC2",
+        "slug": "amazon-ec2",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5663,8 +6721,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "amazon-vpc",
-      "virtual-network"
+      {
+        "name": "Amazon VPC",
+        "slug": "amazon-vpc",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5711,8 +6775,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "aws-device-farm",
-      "visual-studio-app-centre"
+      {
+        "name": "AWS Device Farm",
+        "slug": "aws-device-farm",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
@@ -5741,9 +6811,14 @@
       "key": "azure"
     },
     "equivalents": [
-      "web-application-firewall",
-      "azure-firewall",
-      "aws-waf"
+      {
+        "name": "AWS WAF",
+        "slug": "aws-waf",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws"
+        }
+      }
     ]
   },
   {
