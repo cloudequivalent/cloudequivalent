@@ -1,3556 +1,3555 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
       <loc>https://cloudequivalent.com/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/ai-infrastructure/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/ai-building-blocks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/api-apps/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/api-gateway/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/api-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-amplify/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-app-mesh/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-app-runner/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-app2container/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-appsync/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-application-discovery-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-application-migration-service-cloudendure-migration/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-artifact/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-audit-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-auto-scaling/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-backup/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-batch/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-budgets/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-certificate-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-chatbot/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloud-development-kit-cdk/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloud-map/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloud9/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloudformation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloudhsm/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloudshell/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cloudtrail/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-codeartifact/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-codebuild/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-codecommit/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-codedeploy/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-codepipeline/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-codestar/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-command-line-interface/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-compute-optimizer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-config/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-console-mobile-application/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-control-tower/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-copilot/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cost-explorer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-cost-and-usage-report/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-data-exchange/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-data-pipeline/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-datasync/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-database-migration-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-deep-learning-amis/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-deep-learning-containers/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-deepcomposer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-deeplens/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-deepracer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-device-farm/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-direct-connect/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-directory-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-distro-for-opentelemetry-preview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elastic-beanstalk/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-appliances-andamp-software/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-mediaconnect/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-mediaconvert/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-medialive/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-mediapackage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-mediastore/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-elemental-mediatailor/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-fargate/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-fault-injection-simulator/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-firewall-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-global-accelerator/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-glue/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-greengrass/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-ground-station/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-identity-andamp-access-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-inferentia/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-1-click/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-analytics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-button/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-core/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-device-defender/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-device-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-events/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-sitewise/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-iot-things-graph/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-key-management-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-lake-formation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-lambda/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-license-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-managed-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-management-console/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-migration-hub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-network-firewall/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-nimble-studio/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-opsworks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-organizations/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-outposts/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-panorama-preview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-partner-device-catalog/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-personal-health-dashboard/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-privatelink/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-proton-preview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-resource-access-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-robomaker/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-secrets-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-security-hub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-server-migration-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-serverless-application-repository/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-service-catalog/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-shield/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-single-sign-on/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-snow-family/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-step-functions/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-storage-gateway/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-systems-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-tools-and-sdks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-transfer-family/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-transit-gateway/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-trusted-advisor/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-waf/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-wavelength/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-well-architected-tool/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/aws-x-ray/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/access-transparency/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/alexa-for-business/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-api-gateway/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-appflow/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-appstream-20/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-appsync/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-athena/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-augmented-ai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-aurora/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-aurora-serverless-v2-preview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-braket/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-chime/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-cloudfront/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-cloudsearch/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-cloudwatch/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-codeguru/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-cognito/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-comprehend/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-connect/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-corretto/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-detective/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-devops-guru/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-documentdb-with-mongodb-compatibility/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-dynamodb/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-ec2/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-ec2-auto-scaling/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-ecs-anywhere/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-eks-anywhere-coming-soon/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-eks-distro/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-emr/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elasticache/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-block-store-ebs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-container-registry/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-container-service-ecs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-file-system-efs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-inference/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-kubernetes-service-eks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elastic-transcoder/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-elasticsearch-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-eventbridge/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-fsx-for-lustre/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-fsx-for-windows-file-server/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-finspace/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-forecast/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-fraud-detector/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-gamelift/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-guardduty/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-healthlake/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-honeycode-beta/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-inspector/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-interactive-video-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-kendra/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-keyspaces-for-apache-cassandra/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-kinesis/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-kinesis-video-streams/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-lex/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-lightsail/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-location-service-preview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-lookout-for-equipment/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-lookout-for-metrics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-lookout-for-vision/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-lumberyard/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-mq/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-macie/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-managed-blockchain/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-managed-service-for-grafana/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-managed-service-for-prometheus/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-managed-streaming-for-apache-kafka/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-managed-workflows-for-apache-airflow/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-monitron/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-neptune/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-personalize/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-pinpoint/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-polly/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-quantum-ledger-database-qldb/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-quicksight/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-rds/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-rds-on-vmware/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-redshift/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-rekognition/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-route-53/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-s3-glacier/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-sagemaker/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-sagemaker-data-wrangler/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-sagemaker-ground-truth/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-simple-email-service-ses/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-simple-notification-service-sns/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-simple-queue-service-sqs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-simple-storage-service-s3/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-sumerian/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-textract/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-timestream/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-transcribe/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-translate/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-vpc/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-workdocs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-worklink/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-workmail/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/amazon-workspaces/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/analytics-hub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/anomaly-detector/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/anthos/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/anthos-service-mesh/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/apache-mxnet-on-aws/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/apigee-api-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/apigee-api-platform/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/apigee-hybrid/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/apigee-open-banking-apix/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/apigee-sense/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/apigee-healthcare-apix/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/app-configuration/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/app-engine/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/app-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/appsheet/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/appsheet-automation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/application-gateway/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/application-migration/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/archive-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/archive-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/artifact-registry/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/assured-workloads/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/automl/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/automl-tables-beta/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/automation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/avere-vfxt-for-azure/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-api-for-fhir/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-active-directory/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-active-directory-domain-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-active-directory-external-identities/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-advisor/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-analysis-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-applied-ai-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-arc/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-artifacts/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-automanage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-backup/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-bastion/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-blob-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-blockchain-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-blockchain-workbench/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-blueprints/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-boards/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-bot-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-cache-for-redis/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-cognitive-search/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-cognitive-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-communication-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-cosmos-db/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-cost-management-and-billing/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-cyclecloud/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-ddos-protection/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-dns/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-data-box/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-data-explorer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-data-factory/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-data-lake-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-data-share/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-database-migration-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-database-for-mariadb/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-database-for-mysql/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-database-for-postgresql/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-databricks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-dedicated-hsm/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-dedicated-host/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-defender/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-defender-for-iot/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-devops/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-devtest-labs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-digital-twins/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-disk-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-expressroute/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-fxt-edge-filer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-files/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-firewall/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-firewall-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-form-recognizer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-front-door/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-hpc-cache/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-immersive-reader/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-information-protection/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-internet-analyzer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-iot-central/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-iot-edge/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-iot-hub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-iot-solution-accelerators/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-kubernetes-service-aks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-lab-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-lighthouse/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-logic-apps/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-machine-learning/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-managed-applications/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-managed-instance-for-apache-cassandra/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-maps/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-media-player/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-metrics-advisor/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-migrate/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-modular-data-centre/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-monitor/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-netapp-files/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-open-datasets/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-orbital/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-percept/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-pipelines/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-policy/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-private-link/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-purview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-quantum/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-rtos/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-red-hat-openshift/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-remote-rendering/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-repos/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-resource-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-resource-manager-templates/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-resource-mover/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-route-server/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-sql/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-sql-database/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-sql-edge/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-sql-managed-instance/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-sentinel/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-service-health/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-signalr-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-site-recovery/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-sphere/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-spring-cloud/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-stack/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-stack-edge/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-stack-hci/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-stack-hub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-stream-analytics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-synapse-analytics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-test-plans/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-time-series-insights/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-vmware-solution/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-video-analyzer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-functions/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-mobile-app/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/azure-web-pubsub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/bare-metal/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/batch/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/beyondcorp-enterprise/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/bigquery/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/bigquery-data-transfer-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/binary-authorization/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/certificate-authority-service-beta/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/chrome-enterprise/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/chronicle/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/citrix-virtual-apps-and-desktops-for-azure/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-apis/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-armor/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-asset-inventory/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-bigtable/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-build/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-cdn/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-code/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-composer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-console/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-dns/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-data-fusion/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-data-loss-prevention/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-debugger/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-deployment-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-domains/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-endpoints/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-foundation-toolkit/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-functions/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-gpus/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-healthcare-api/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-identity/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-inference-api-alpha/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-key-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-life-sciences-beta/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-load-balancing/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-logging/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-mobile-app/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-monitoring/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-nat/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-natural-language/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-profiler/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-run/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-sdk/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-sql/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-scheduler/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/cloud-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/cloud-shell/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-shell/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-source-repositories/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-spanner/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-storage-for-firebase/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-tpu/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-tasks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-trace/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cloud-translation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/cloudendure-disaster-recovery/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/compute-engine/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/computer-vision/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/confidential-computing/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/container-instances/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/container-registry/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/container-registry/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/container-security/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/content-delivery-network/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/content-protection/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/content-moderator/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/cost-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/custom-vision/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/data-catalog/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/data-catalog/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/data-lake-analytics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/data-science-virtual-machines/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/database-migration-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/dataflow/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/dataplex/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/dataprep/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/dataproc/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/datastream/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/deep-learning-containers/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/deep-learning-vm-image/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/devops-tool-integrations/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/dialogflow/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/edge-tpu/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/elastic-load-balancing/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/encoding/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/event-grid/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/event-hubs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/face/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/filestore/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/firebase-crashlytics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/firebase-realtime-database/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/firebase-test-lab/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/firestore/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/firewalls/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/freertos/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/game-servers/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-workspace-essentials/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-data-studio/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-kubernetes-engine/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-kubernetes-engine-gke/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-maps-platform/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-marketing-platform/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-meet/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/google-workspace/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/gradle-app-engine-plugin/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/hdinsight/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/health-bot/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/healthapix/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/healthcare-natural-language-ai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/hybrid-connectivity/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/identity-platform/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/identity-and-access-management/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/identity-aware-proxy/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/iot-core/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/key-vault/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/kinect-dk/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/knative/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/kubernetes-engine-monitoring/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/kubernetes-applications-on-google-cloud-marketplace/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/language-understanding/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/linux-virtual-machines/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/live-and-on-demand-streaming/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/load-balancing/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/local-ssd/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/looker/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/managed-service-for-microsoft-active-directory/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/maven-app-engine-plugin/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/media-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/media-translation-beta/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/memorystore/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/microsoft-azure-attestation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/microsoft-azure-confidential-ledger/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/microsoft-azure-portal/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/microsoft-genomics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/microsoft-graph-data-connect/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/migrate-for-anthos/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/migrate-for-compute-engine/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/migration-evaluator-formerly-tso-logic/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/mobile-apps/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/network-connectivity-center/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/network-intelligence-center/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/network-service-tiers/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/network-telemetry/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/network-watcher/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/notebooks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/notification-hubs/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/object-anchors/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/opencue/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/operations/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/persistent-disk/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/personaliser/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/policy-intelligence/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/power-bi-embedded/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/preemptible-vms/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/private-catalog/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/project-bonsai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/pubsub/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/pytorch-on-aws/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/qna-maker/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/queue-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/r-server-for-hdinsight/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/recommendations-ai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/recommender/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/red-hat-openshift-service-on-aws/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/reserved-instance-reporting/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/resource-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/risk-protection-program-preview/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/sdks/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/sql-server-on-google-cloud/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/sql-server-on-virtual-machines/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/savings-plans/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/secret-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/security-center/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/security-command-center/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/service-bus/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/service-directory/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/service-fabric/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/shielded-vms/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/sole-tenant-nodes/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/spatial-anchors/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/speaker-recognition/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/speech-translation/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/speech-to-text/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/speech-to-text/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/static-web-apps/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/storsimple/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/storage-accounts/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/storage-explorer/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/storage-transfer-service/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/table-storage/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/tekton/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/tensorflow-enterprise/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/tensorflow-on-aws/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/text-analytics/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/text-to-speech/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/text-to-speech/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/titan-security-key/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/tools-for-eclipse/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/tools-for-powershell/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/traffic-director/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/traffic-manager/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/transcoder-api-beta/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/transfer-appliance/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/translator/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/aws/vmware-cloud-on-aws/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/vmware-engine/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/vmware-horizon-cloud-on-microsoft-azure/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/vpc-service-controls/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/vpn-gateway/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/vertex-ai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/vertex-data-labeling/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/video-ai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/virtual-machine-scale-sets/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/virtual-machines/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/virtual-network/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/virtual-private-cloud-vpc/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/virtual-wan/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/vision-ai/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/visual-studio/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/visual-studio-app-centre/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/visual-studio-code/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/web-app-for-containers/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/web-application-firewall/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/web-apps/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/web-risk/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/windows-10-iot-core-services/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/windows-iot-enterprise/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/windows-virtual-desktop/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/workflows/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/azure/xamarin/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
     <url>
       <loc>https://cloudequivalent.com/gcp/recaptcha-enterprise/</loc>
-      <lastmod>2021-06-06T15:31:08.781Z</lastmod>
+      <lastmod>2021-06-06T15:33:01.384Z</lastmod>
       <changefreq>monthly</changefreq>
     </url>
   
