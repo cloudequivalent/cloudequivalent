@@ -223,8 +223,7 @@
     ],
     [
         "cost-management",
-        "aws-budgets",
-        "cost-management"
+        "aws-budgets"
     ],
     [
         "cloud-deployment-manager",
@@ -553,7 +552,6 @@
         "azure-advisor"
     ],
     [
-        "azure-cost-management-and-billing",
         "azure-cost-management-and-billing"
     ],
     [
