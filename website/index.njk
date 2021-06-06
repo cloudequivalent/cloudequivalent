@@ -1,0 +1,17 @@
+---
+title: Cloud Equivalent
+layout: layouts/base.njk
+---
+
+<div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+  {% for provider in generated.providers %}
+  <div class="col">
+    <div class="card rounded-3 shadow-sm" style="border-color: {{ provider.accentColour }} !important;">
+      <div class="card-body">
+        <h2 class="card-title fs-4">{{ provider.name }}</h2>
+        <a href="/{{ provider.key }}" class="card-link">View services &rarr;</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

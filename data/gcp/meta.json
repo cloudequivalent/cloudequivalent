@@ -1,4 +1,5 @@
 {
   "name": "Google Cloud Platform (GCP)",
-  "key": "gcp"
+  "key": "gcp",
+  "accentColour": "#1a73e8"
 }
