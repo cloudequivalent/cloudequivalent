@@ -23,8 +23,7 @@ const providers = ['aws', 'azure', 'gcp'];
       return {
         name: service,
         slug,
-        provider: providersMetadata.find(metadata => metadata.key === provider),
-        equivalents: equivalentMetadata.find(array => array.includes(slug)) || []
+        provider: providersMetadata.find(metadata => metadata.key === provider)
       }
     })
   }))
@@ -42,5 +41,15 @@ const providers = ['aws', 'azure', 'gcp'];
     return 0
   })
 
-  await fs.writeFile(path.resolve(__dirname, '../website/_data/generated/services.json'), JSON.stringify(flat, null, 2))
+  // Add in equivalents
+  const equivalents = flat.map(service => {
+    const equiv = equivalentMetadata.find(equivalent => equivalent.includes(service.slug)) || []
+
+    return {
+      ...service,
+      equivalents: equiv.map(equivalent => flat.find(service => service.slug === equivalent)).filter(equivalent => equivalent.provider.key !== service.provider.key)
+    }
+  })
+
+  await fs.writeFile(path.resolve(__dirname, '../website/_data/generated/services.json'), JSON.stringify(equivalents, null, 2))
 })()
