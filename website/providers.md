@@ -1,0 +1,12 @@
+---
+pagination:
+  data: providers
+  size: 1
+  alias: provider
+permalink: "{{ provider.key | slug }}/"
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{provider.name}}"
+---
+
+{{ provider.name }}
