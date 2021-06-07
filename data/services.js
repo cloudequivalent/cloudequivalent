@@ -6,25 +6,27 @@ const providers = ['aws', 'azure', 'gcp'];
 
 (async () => {
   const providersMetadata = await Promise.all(providers.map(async provider => {
-    const contents = await fs.readFile(path.resolve(__dirname, `${provider}/meta.json`), 'utf8')
-    return JSON.parse(contents)
+    return fs.readFile(path.resolve(__dirname, `${provider}/meta.json`), 'utf8').then(contents => {
+      return JSON.parse(contents)
+    })
   }))
 
   const services = await Promise.all(providers.map(async provider => {
-    const contents = await fs.readFile(path.resolve(__dirname, `${provider}/services.json`), 'utf8')
-    const parsed = JSON.parse(contents)
+    return fs.readFile(path.resolve(__dirname, `${provider}/services.json`), 'utf8').then(contents => {
+      return JSON.parse(contents).map(service => {
+        const slug = slugify(service.name, {
+          strict: true,
+          lower: true
+        })
 
-    return [...new Set(parsed)].map(service => {
-      const slug = slugify(service, {
-        strict: true,
-        lower: true
+        return {
+          ...service,
+          slug: slug,
+          provider: providersMetadata.find(metadata => {
+            return metadata.key === provider
+          })
+        }
       })
-
-      return {
-        name: service,
-        slug,
-        provider: providersMetadata.find(metadata => metadata.key === provider)
-      }
     })
   }))
 
@@ -43,11 +45,26 @@ const providers = ['aws', 'azure', 'gcp'];
 
   // Add in equivalents
   const equivalents = flat.map(service => {
-    const equiv = equivalentMetadata.find(equivalent => equivalent.includes(service.slug)) || []
+    const equiv = equivalentMetadata.find(equivalent => {
+      return equivalent.includes(service.slug)
+    }) || []
 
     return {
       ...service,
-      equivalents: equiv.map(equivalent => flat.find(service => service.slug === equivalent)).filter(equivalent => equivalent.provider.key !== service.provider.key)
+      equivalents: equiv.map(equivalent => {
+        const equivalentService = flat.find(service => {
+          return service.slug === equivalent
+        })
+
+        if (!equivalentService) {
+          // Output services that aren't found
+          console.log(equivalent, 'not found')
+        }
+
+        return equivalentService
+      }).filter(equivalent => {
+        return equivalent ? equivalent.provider.key !== service.provider.key : false
+      })
     }
   })
 

@@ -1,195 +1,670 @@
 [
-  "Compute Engine",
-  "Cloud Storage",
-  "Cloud SDK",
-  "Cloud SQL",
-  "Google Kubernetes Engine",
-  "BigQuery",
-  "Cloud CDN",
-  "Dataflow",
-  "Operations",
-  "Cloud Run",
-  "Anthos",
-  "Cloud Functions",
-  "Vertex AI",
-  "Deep Learning VM Image",
-  "Notebooks",
-  "Deep Learning Containers",
-  "Vertex Data Labeling",
-  "TensorFlow Enterprise",
-  "AI building blocks",
-  "AutoML",
-  "Vision AI",
-  "Video AI",
-  "Cloud Natural Language",
-  "Cloud Translation",
-  "Media Translation (beta)",
-  "Text-to-Speech",
-  "Speech-to-Text",
-  "Dialogflow",
-  "AutoML Tables (beta)",
-  "Cloud Inference API (alpha)",
-  "Recommendations AI",
-  "AI Infrastructure",
-  "Cloud GPUs",
-  "Cloud TPU",
-  "Apigee API Platform",
-  "HealthAPIx",
-  "Apigee Hybrid",
-  "AppSheet Automation",
-  "AppSheet",
-  "Apigee Open Banking APIx",
-  "Apigee Sense",
-  "Cloud Endpoints",
-  "Cloud Healthcare API",
-  "API Gateway",
-  "App Engine",
-  "Bare Metal",
-  "Cloud GPUs",
-  "Cloud Run",
-  "Compute Engine",
-  "Migrate for Compute Engine",
-  "Preemptible VMs",
-  "Recommender",
-  "Shielded VMs",
-  "Sole-tenant Nodes",
-  "SQL Server on Google Cloud",
-  "VMware Engine",
-  "Artifact Registry",
-  "Cloud Build",
-  "Cloud Run",
-  "Container Registry",
-  "Container Security",
-  "Deep Learning Containers",
-  "Google Kubernetes Engine (GKE)",
-  "Knative",
-  "Kubernetes applications on Google Cloud Marketplace",
-  "BigQuery",
-  "Looker",
-  "Dataproc",
-  "Dataflow",
-  "Pub/Sub",
-  "Cloud Data Fusion",
-  "Data Catalog",
-  "Cloud Composer",
-  "Dataprep",
-  "Dataplex",
-  "Analytics Hub",
-  "Google Data Studio*",
-  "Google Marketing Platform*",
-  "Cloud Life Sciences (beta)",
-  "Bare Metal",
-  "Cloud Bigtable",
-  "Cloud Spanner",
-  "Cloud SQL",
-  "Database Migration Service",
-  "Firestore",
-  "Firebase Realtime Database",
-  "Memorystore",
-  "Datastream",
-  "Artifact Registry",
-  "Cloud Build",
-  "Cloud Code",
-  "Cloud Scheduler",
-  "Cloud SDK",
-  "Cloud Source Repositories",
-  "Cloud Tasks",
-  "Container Registry",
-  "Firebase Crashlytics",
-  "Firebase Test Lab",
-  "Gradle App Engine Plugin",
-  "Maven App Engine Plugin",
-  "Tekton",
-  "Tools for Eclipse",
-  "Tools for PowerShell",
-  "Apigee healthcare APIx",
-  "Cloud Healthcare API",
-  "Cloud Life Sciences (beta)",
-  "Healthcare Natural Language AI",
-  "Anthos",
-  "Apigee API Management",
-  "Cloud Build",
-  "Looker",
-  "Migrate for Anthos",
-  "Edge TPU",
-  "IoT Core",
-  "Anthos Service Mesh",
-  "Cloud APIs",
-  "Cloud Console",
-  "Cloud Deployment Manager",
-  "Cloud Mobile App",
-  "Cloud Shell",
-  "Cost Management",
-  "Private Catalog",
-  "Game Servers",
-  "OpenCue",
-  "Transcoder API (beta)",
-  "Application migration",
-  "BigQuery Data Transfer Service",
-  "Cloud Foundation Toolkit",
-  "Migrate for Anthos",
-  "Migrate for Compute Engine",
-  "Transfer Appliance",
-  "Cloud Armor",
-  "Cloud CDN",
-  "Cloud Domains",
-  "Cloud DNS",
-  "Cloud Load Balancing",
-  "Cloud NAT",
-  "Hybrid Connectivity",
-  "Network Connectivity Center",
-  "Network Intelligence Center",
-  "Network Service Tiers",
-  "Network Telemetry",
-  "Service Directory",
-  "Traffic Director",
-  "Virtual Private Cloud (VPC)",
-  "Cloud Debugger",
-  "Cloud Logging",
-  "Cloud Monitoring",
-  "Cloud Profiler",
-  "Cloud Trace",
-  "Kubernetes Engine Monitoring",
-  "Access Transparency",
-  "Assured Workloads",
-  "Binary Authorization",
-  "Chronicle",
-  "Cloud Asset Inventory",
-  "Cloud Data Loss Prevention",
-  "Cloud Key Management",
-  "Confidential Computing",
-  "Firewalls",
-  "Risk Protection Program (preview)",
-  "Secret Manager",
-  "Security Command Center",
-  "Shielded VMs",
-  "VPC Service Controls",
-  "BeyondCorp Enterprise",
-  "Certificate Authority Service (beta)",
-  "Cloud Identity",
-  "Identity and Access Management",
-  "Identity-Aware Proxy ",
-  "Identity Platform",
-  "Managed Service for Microsoft Active Directory",
-  "Policy Intelligence",
-  "Resource Manager",
-  "Titan Security Key",
-  "reCAPTCHA Enterprise",
-  "Web Risk",
-  "App Engine",
-  "Cloud Functions",
-  "Cloud Run",
-  "Workflows",
-  "Archive Storage",
-  "Storage Transfer Service",
-  "Cloud Storage",
-  "Cloud Storage for Firebase",
-  "Filestore",
-  "Google  Workspace Essentials",
-  "Local SSD",
-  "Persistent Disk",
-  "Google Workspace",
-  "Google Meet",
-  "Chrome Enterprise",
-  "Google Maps Platform"
+  {
+    "name": "Compute Engine",
+    "description": "Virtual machines running in Google’s data center."
+  },
+  {
+    "name": "Cloud Storage",
+    "description": "Object storage that’s secure, durable, and scalable."
+  },
+  {
+    "name": "Cloud SDK",
+    "description": "Command-line tools and libraries for Google Cloud."
+  },
+  {
+    "name": "Cloud SQL",
+    "description": "Relational database services for MySQL, PostgreSQL, and SQL Server."
+  },
+  {
+    "name": "Google Kubernetes Engine",
+    "description": "Managed environment for running containerized apps."
+  },
+  {
+    "name": "BigQuery",
+    "description": "Data warehouse for business agility and insights."
+  },
+  {
+    "name": "Cloud CDN",
+    "description": "Content delivery network for delivering web and video."
+  },
+  {
+    "name": "Dataflow",
+    "description": "Streaming analytics for stream and batch processing."
+  },
+  {
+    "name": "Operations",
+    "description": "Monitoring, logging, and application performance suite."
+  },
+  {
+    "name": "Cloud Run",
+    "description": "Fully managed environment for running containerized apps."
+  },
+  {
+    "name": "Anthos",
+    "description": "Platform for modernizing existing apps and building new ones."
+  },
+  {
+    "name": "Cloud Functions",
+    "description": "Event-driven compute platform for cloud services and apps."
+  },
+  {
+    "name": "Vertex AI",
+    "description": "Unified platform for training, hosting, and managing ML models."
+  },
+  {
+    "name": "Deep Learning VM Image",
+    "description": "Preconfigured VMs for deep learning applications."
+  },
+  {
+    "name": "Notebooks",
+    "description": "An enterprise notebook service to get projects up and running in minutes."
+  },
+  {
+    "name": "Deep Learning Containers",
+    "description": "Preconfigured and optimized containers for deep learning environments."
+  },
+  {
+    "name": "Vertex Data Labeling",
+    "description": "Managed annotation for high-quality model training data."
+  },
+  {
+    "name": "TensorFlow Enterprise",
+    "description": "Reliability and performance for AI apps with enterprise-grade support and managed services."
+  },
+  {
+    "name": "AI building blocks",
+    "description": "Easily infuse AI into applications with custom or pre-trained models."
+  },
+  {
+    "name": "AutoML",
+    "description": "Custom machine learning model training and development."
+  },
+  {
+    "name": "Vision AI",
+    "description": "Custom and pre-trained models to detect emotion, text, more."
+  },
+  {
+    "name": "Video AI",
+    "description": "Video classification and recognition using machine learning."
+  },
+  {
+    "name": "Cloud Natural Language",
+    "description": "Sentiment analysis and classification of unstructured text."
+  },
+  {
+    "name": "Cloud Translation",
+    "description": "Language detection, translation, and glossary support."
+  },
+  {
+    "name": "Media Translation (beta)",
+    "description": "Add dynamic audio translation directly to your content and applications."
+  },
+  {
+    "name": "Text-to-Speech",
+    "description": "Speech synthesis in 220+ voices and 40+ languages."
+  },
+  {
+    "name": "Speech-to-Text",
+    "description": "Speech recognition and transcription supporting 125 languages."
+  },
+  {
+    "name": "Dialogflow",
+    "description": "Conversation applications and systems development suite for virtual agents."
+  },
+  {
+    "name": "AutoML Tables (beta)",
+    "description": "Service for training ML models with structured data."
+  },
+  {
+    "name": "Cloud Inference API (alpha)",
+    "description": "Quickly run large-scale correlations over typed time-series datasets."
+  },
+  {
+    "name": "Recommendations AI",
+    "description": "Deliver highly personalized product recommendations at scale."
+  },
+  {
+    "name": "AI Infrastructure",
+    "description": "Options for every business to train deep learning and ML models cost-effectively."
+  },
+  {
+    "name": "Cloud GPUs",
+    "description": "GPUs for machine learning, scientific computing, and 3D visualization."
+  },
+  {
+    "name": "Cloud TPU",
+    "description": "Tensor processing units for machine learning applications."
+  },
+  {
+    "name": "Apigee API Platform",
+    "description": "API management, development, and security platform."
+  },
+  {
+    "name": "HealthAPIx",
+    "description": "FHIR API-based digital service formation."
+  },
+  {
+    "name": "Apigee Hybrid",
+    "description": "Deployment option for managing APIs on-premises or in the cloud."
+  },
+  {
+    "name": "AppSheet Automation",
+    "description": "Reclaim time and talent with no-code automation."
+  },
+  {
+    "name": "AppSheet",
+    "description": "Enable everyone in your organization to build and extend applications without coding."
+  },
+  {
+    "name": "Apigee Open Banking APIx",
+    "description": "Open banking and PSD2-compliant API delivery."
+  },
+  {
+    "name": "Apigee Sense",
+    "description": "Intelligent behavior detection to protect APIs."
+  },
+  {
+    "name": "Cloud Endpoints",
+    "description": "Deployment and development management for APIs on Google Cloud."
+  },
+  {
+    "name": "Cloud Healthcare API",
+    "description": "Solution to bridge existing care systems and apps on Google Cloud."
+  },
+  {
+    "name": "API Gateway",
+    "description": "Develop, deploy, secure, and manage APIs with a fully managed gateway."
+  },
+  {
+    "name": "App Engine",
+    "description": "Serverless application platform for apps and back ends."
+  },
+  {
+    "name": "Bare Metal",
+    "description": "Infrastructure to run specialized workloads on Google Cloud."
+  },
+  {
+    "name": "Migrate for Compute Engine",
+    "description": "Server and virtual machine migration to Compute Engine."
+  },
+  {
+    "name": "Preemptible VMs",
+    "description": "Compute instances for batch jobs and fault-tolerant workloads."
+  },
+  {
+    "name": "Recommender",
+    "description": "Proactive, easily actionable recommendations to keep your cloud optimized."
+  },
+  {
+    "name": "Shielded VMs",
+    "description": "Reinforced virtual machines on Google Cloud."
+  },
+  {
+    "name": "Sole-tenant Nodes",
+    "description": "Dedicated hardware for compliance, licensing, and management."
+  },
+  {
+    "name": "SQL Server on Google Cloud",
+    "description": "Options for running SQL Server virtual machines on Google Cloud."
+  },
+  {
+    "name": "VMware Engine",
+    "description": "Migrate and run your VMware workloads natively on Google Cloud."
+  },
+  {
+    "name": "Artifact Registry",
+    "description": "Store, manage, and secure container images and language packages."
+  },
+  {
+    "name": "Cloud Build",
+    "description": "Solution for running build steps in a Docker container."
+  },
+  {
+    "name": "Container Registry",
+    "description": "Registry for storing, managing, and securing Docker images."
+  },
+  {
+    "name": "Container Security",
+    "description": "Container environment security for each stage of the life cycle."
+  },
+  {
+    "name": "Google Kubernetes Engine (GKE)",
+    "description": "Managed environment for running containerized apps."
+  },
+  {
+    "name": "Knative",
+    "description": "Components to create Kubernetes-native cloud-based software."
+  },
+  {
+    "name": "Kubernetes applications on Google Cloud Marketplace",
+    "description": "Containerized apps with prebuilt deployment and unified billing."
+  },
+  {
+    "name": "Looker",
+    "description": "Platform for BI, data applications, and embedded analytics."
+  },
+  {
+    "name": "Dataproc",
+    "description": "Service for running Apache Spark and Apache Hadoop clusters."
+  },
+  {
+    "name": "Pub/Sub",
+    "description": "Messaging service for event ingestion and delivery."
+  },
+  {
+    "name": "Cloud Data Fusion",
+    "description": "Data integration for building and managing data pipelines."
+  },
+  {
+    "name": "Data Catalog",
+    "description": "Metadata solution for exploring and managing data."
+  },
+  {
+    "name": "Cloud Composer",
+    "description": "Workflow orchestration service built on Apache Airflow."
+  },
+  {
+    "name": "Dataprep",
+    "description": "Service to prepare data for analysis and machine learning."
+  },
+  {
+    "name": "Dataplex",
+    "description": "Intelligent data fabric for unified data management across distributed data silos."
+  },
+  {
+    "name": "Analytics Hub",
+    "description": "Service for securely and efficiently exchanging data analytics assets. "
+  },
+  {
+    "name": "Google Data Studio*",
+    "description": "Interactive data suite for dashboarding, reporting, and analytics."
+  },
+  {
+    "name": "Google Marketing Platform*",
+    "description": "Marketing platform unifying advertising and analytics."
+  },
+  {
+    "name": "Cloud Life Sciences (beta)",
+    "description": "Tools for managing, processing, and transforming biomedical data."
+  },
+  {
+    "name": "Cloud Bigtable",
+    "description": "Cloud-native wide-column database for large-scale, low-latency workloads."
+  },
+  {
+    "name": "Cloud Spanner",
+    "description": "Cloud-native relational database with unlimited scale and 99.999% availability."
+  },
+  {
+    "name": "Database Migration Service",
+    "description": "Serverless, minimal downtime migrations to Cloud SQL."
+  },
+  {
+    "name": "Firestore",
+    "description": "Cloud-native document database for building rich mobile, web, and IoT apps."
+  },
+  {
+    "name": "Firebase Realtime Database",
+    "description": "NoSQL database for storing and syncing data in real time."
+  },
+  {
+    "name": "Memorystore",
+    "description": "In-memory database for managed Redis and Memcached."
+  },
+  {
+    "name": "Datastream",
+    "description": "Serverless change data capture and replication service."
+  },
+  {
+    "name": "Cloud Code",
+    "description": "IDE support to write, run, and debug Kubernetes applications."
+  },
+  {
+    "name": "Cloud Scheduler",
+    "description": "Cron job scheduler for task automation and management."
+  },
+  {
+    "name": "Cloud Source Repositories",
+    "description": "Private Git repository to store, manage, and track code."
+  },
+  {
+    "name": "Cloud Tasks",
+    "description": "Task management service for asynchronous task execution."
+  },
+  {
+    "name": "Firebase Crashlytics",
+    "description": "Prioritize and fix stability issues faster."
+  },
+  {
+    "name": "Firebase Test Lab",
+    "description": "On-demand testing infrastructure for Android apps."
+  },
+  {
+    "name": "Gradle App Engine Plugin",
+    "description": "Use Gradle for your App Engine projects."
+  },
+  {
+    "name": "Maven App Engine Plugin",
+    "description": "Use Maven for your App Engine projects."
+  },
+  {
+    "name": "Tekton",
+    "description": "Kubernetes-native resources for declaring CI/CD pipelines."
+  },
+  {
+    "name": "Tools for Eclipse",
+    "description": "Plugin for Google Cloud development inside the Eclipse IDE."
+  },
+  {
+    "name": "Tools for PowerShell",
+    "description": "Full cloud control from Windows PowerShell."
+  },
+  {
+    "name": "Apigee healthcare APIx",
+    "description": "FHIR API-based digital service production."
+  },
+  {
+    "name": "Healthcare Natural Language AI",
+    "description": "Real-time insights from unstructured medical text."
+  },
+  {
+    "name": "Apigee API Management",
+    "description": "API management, development, and security platform."
+  },
+  {
+    "name": "Migrate for Anthos",
+    "description": "Tool to move workloads and existing applications to GKE."
+  },
+  {
+    "name": "Edge TPU",
+    "description": "ASIC designed to run ML inference and AI at the edge."
+  },
+  {
+    "name": "IoT Core",
+    "description": "IoT device management, integration, and connection service."
+  },
+  {
+    "name": "Anthos Service Mesh",
+    "description": "Managed service mesh for complex microservices architectures."
+  },
+  {
+    "name": "Cloud APIs",
+    "description": "Programmatic interfaces for Google Cloud services."
+  },
+  {
+    "name": "Cloud Console",
+    "description": "Web-based interface for managing and monitoring cloud apps."
+  },
+  {
+    "name": "Cloud Deployment Manager",
+    "description": "Service for creating and managing Google Cloud resources."
+  },
+  {
+    "name": "Cloud Mobile App",
+    "description": "App to manage Google Cloud services from your mobile device."
+  },
+  {
+    "name": "Cloud Shell",
+    "description": "Interactive shell environment with a built-in command line."
+  },
+  {
+    "name": "Cost Management",
+    "description": "Tools for monitoring, controlling, and optimizing your costs."
+  },
+  {
+    "name": "Private Catalog",
+    "description": "Service catalog for admins managing internal enterprise solutions."
+  },
+  {
+    "name": "Game Servers",
+    "description": "Game server management service running on Google Kubernetes Engine."
+  },
+  {
+    "name": "OpenCue",
+    "description": "Open source render manager for visual effects and animation."
+  },
+  {
+    "name": "Transcoder API (beta)",
+    "description": "Transform video content for use across a variety of user devices."
+  },
+  {
+    "name": "Application migration",
+    "description": "App migration to the cloud for low-cost refresh cycles."
+  },
+  {
+    "name": "BigQuery Data Transfer Service",
+    "description": "Data import service for scheduling and moving data into BigQuery."
+  },
+  {
+    "name": "Cloud Foundation Toolkit",
+    "description": "Reference templates for Deployment Manager and Terraform."
+  },
+  {
+    "name": "Transfer Appliance",
+    "description": "Storage server for moving large volumes of data to Google Cloud."
+  },
+  {
+    "name": "Cloud Armor",
+    "description": "Security policies and defense against web and DDoS attacks."
+  },
+  {
+    "name": "Cloud Domains",
+    "description": "Easy domain name registration and management."
+  },
+  {
+    "name": "Cloud DNS",
+    "description": "Domain name system for reliable and low-latency name lookups."
+  },
+  {
+    "name": "Cloud Load Balancing",
+    "description": "Service for distributing traffic across applications and regions."
+  },
+  {
+    "name": "Cloud NAT",
+    "description": "NAT service for giving private instances internet access."
+  },
+  {
+    "name": "Hybrid Connectivity",
+    "description": "Connectivity options for VPN, peering, and enterprise needs."
+  },
+  {
+    "name": "Network Connectivity Center",
+    "description": "Use Google’s network as your own. Reimagine how you deploy, manage, and scale your networks."
+  },
+  {
+    "name": "Network Intelligence Center",
+    "description": "Network monitoring, verification, and optimization platform."
+  },
+  {
+    "name": "Network Service Tiers",
+    "description": "Cloud network options based on performance, availability, and cost."
+  },
+  {
+    "name": "Network Telemetry",
+    "description": "VPC flow logs for network monitoring, forensics, and security."
+  },
+  {
+    "name": "Service Directory",
+    "description": "Platform for discovering, publishing, and connecting services."
+  },
+  {
+    "name": "Traffic Director",
+    "description": "Traffic control pane and management for open service mesh."
+  },
+  {
+    "name": "Virtual Private Cloud (VPC)",
+    "description": "Virtual network for Google Cloud resources and cloud-based services."
+  },
+  {
+    "name": "Cloud Debugger",
+    "description": "Real-time application state inspection and in-production debugging."
+  },
+  {
+    "name": "Cloud Logging",
+    "description": "Google Cloud audit, platform, and application logs management."
+  },
+  {
+    "name": "Cloud Monitoring",
+    "description": "Infrastructure and application health with rich metrics."
+  },
+  {
+    "name": "Cloud Profiler",
+    "description": "CPU and heap profiler for analyzing application performance."
+  },
+  {
+    "name": "Cloud Trace",
+    "description": "Tracing system collecting latency data from applications."
+  },
+  {
+    "name": "Kubernetes Engine Monitoring",
+    "description": "GKE app development and troubleshooting."
+  },
+  {
+    "name": "Access Transparency",
+    "description": "Cloud provider visibility through near real-time logs."
+  },
+  {
+    "name": "Assured Workloads",
+    "description": "Compliance and security controls for sensitive workloads."
+  },
+  {
+    "name": "Binary Authorization",
+    "description": "Deploy only trusted containers on Kubernetes Engine."
+  },
+  {
+    "name": "Chronicle",
+    "description": "Extract signals from your security telemetry to find threats instantly."
+  },
+  {
+    "name": "Cloud Asset Inventory",
+    "description": "View, monitor, and analyze Google Cloud and Anthos assets across projects and services."
+  },
+  {
+    "name": "Cloud Data Loss Prevention",
+    "description": "Sensitive data inspection, classification, and redaction platform."
+  },
+  {
+    "name": "Cloud Key Management",
+    "description": "Manage encryption keys on Google Cloud. "
+  },
+  {
+    "name": "Confidential Computing",
+    "description": "Encrypt data in use with Confidential VMs."
+  },
+  {
+    "name": "Firewalls",
+    "description": "Global and flexible firewalls to protect your cloud resources."
+  },
+  {
+    "name": "Risk Protection Program (preview)",
+    "description": "Reduce security risk and gain access to an exclusive cyber insurance policy."
+  },
+  {
+    "name": "Secret Manager",
+    "description": "Store API keys, passwords, certificates, and other sensitive data."
+  },
+  {
+    "name": "Security Command Center",
+    "description": "Platform for defending against threats to your Google Cloud assets."
+  },
+  {
+    "name": "VPC Service Controls",
+    "description": "Protect sensitive data in Google Cloud services using security perimeters."
+  },
+  {
+    "name": "BeyondCorp Enterprise",
+    "description": "Zero trust solution for secure application and resource access."
+  },
+  {
+    "name": "Certificate Authority Service (beta)",
+    "description": "Simplify the deployment and management of private CAs."
+  },
+  {
+    "name": "Cloud Identity",
+    "description": "Unified platform for IT admins to manage user devices and apps."
+  },
+  {
+    "name": "Identity and Access Management",
+    "description": "Permissions management system for Google Cloud resources."
+  },
+  {
+    "name": "Identity-Aware Proxy ",
+    "description": "Use identity and context to guard access to your applications and VMs."
+  },
+  {
+    "name": "Identity Platform",
+    "description": "Add Google-grade identity and access management to your apps."
+  },
+  {
+    "name": "Managed Service for Microsoft Active Directory",
+    "description": "Hardened service running Microsoft® Active Directory (AD)."
+  },
+  {
+    "name": "Policy Intelligence",
+    "description": "Smart access control for your Google Cloud resources."
+  },
+  {
+    "name": "Resource Manager",
+    "description": "Hierarchical management for organizing resources on Google Cloud."
+  },
+  {
+    "name": "Titan Security Key",
+    "description": "Two-factor authentication device for user account protection."
+  },
+  {
+    "name": "reCAPTCHA Enterprise",
+    "description": "Help protect your website from fraudulent activity, spam, and abuse."
+  },
+  {
+    "name": "Web Risk",
+    "description": "Detect malicious URLs on your website and in client applications."
+  },
+  {
+    "name": "Workflows",
+    "description": "Workflow orchestration for serverless products and API services."
+  },
+  {
+    "name": "Archive Storage",
+    "description": "Data archive that offers online access speed at ultra low cost."
+  },
+  {
+    "name": "Storage Transfer Service",
+    "description": "Tools and services for transferring your data to Google Cloud."
+  },
+  {
+    "name": "Cloud Storage for Firebase",
+    "description": "Object storage for storing and serving user-generated content."
+  },
+  {
+    "name": "Filestore",
+    "description": "File storage that is highly scalable and secure."
+  },
+  {
+    "name": "Google  Workspace Essentials",
+    "description": "Cloud-based file sharing, content collaboration, and storage."
+  },
+  {
+    "name": "Local SSD",
+    "description": "Block storage that is locally attached for high-performance needs."
+  },
+  {
+    "name": "Persistent Disk",
+    "description": "Block storage for virtual machine instances running on Google Cloud."
+  },
+  {
+    "name": "Google Workspace",
+    "description": "An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI."
+  },
+  {
+    "name": "Google Meet",
+    "description": "Easy-to-join video meetings."
+  },
+  {
+    "name": "Chrome Enterprise",
+    "description": "Google Chrome Enterprise unlocks the business capabilities of Chrome OS, Chrome Browser, and Chrome devices, freeing IT to power your cloud workforce."
+  },
+  {
+    "name": "Google Maps Platform",
+    "description": "Create immersive location experiences and improve your business operations with real-time, comprehensive data."
+  }
 ]
