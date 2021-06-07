@@ -219,7 +219,8 @@
     [
         "apigee-api-management",
         "api-gateway",
-        "api-management"
+        "api-management",
+        "amazon-api-gateway"
     ],
     [
         "cost-management",
@@ -662,10 +663,6 @@
     [
         "aws-elastic-beanstalk",
         "app-service"
-    ],
-    [
-        "amazon-api-gateway",
-        "api-management"
     ],
     [
         "amazon-cloudfront",

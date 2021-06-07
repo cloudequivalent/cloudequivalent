@@ -7,7 +7,7 @@ pagination:
 permalink: "{{ service.provider.key | slug }}/{{ service.slug }}/"
 layout: layouts/base.njk
 eleventyComputed:
-  title: "{{ service.name }}"
+  title: "{{ service.name }} on {{ service.provider.name }}"
 ---
 
 {% if service.equivalents.length > 0 %}
