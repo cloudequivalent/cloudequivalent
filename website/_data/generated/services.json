@@ -51,6 +51,16 @@
           "key": "azure",
           "accentColour": "#0089d6"
         }
+      },
+      {
+        "name": "Amazon API Gateway",
+        "description": "Build, Deploy, and Manage APIs",
+        "slug": "amazon-api-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
       }
     ]
   },
@@ -82,6 +92,16 @@
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp",
           "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Amazon API Gateway",
+        "description": "Build, Deploy, and Manage APIs",
+        "slug": "amazon-api-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
         }
       }
     ]
@@ -2230,6 +2250,26 @@
       "accentColour": "#FF9900"
     },
     "equivalents": [
+      {
+        "name": "Apigee API Management",
+        "description": "API management, development, and security platform.",
+        "slug": "apigee-api-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "API Gateway",
+        "description": "Develop, deploy, secure, and manage APIs with a fully managed gateway.",
+        "slug": "api-gateway",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
       {
         "name": "API Management",
         "description": "Publish APIs to developers, partners and employees securely and at scale",
@@ -4400,6 +4440,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Amazon API Gateway",
+        "description": "Build, Deploy, and Manage APIs",
+        "slug": "amazon-api-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
         }
       }
     ]

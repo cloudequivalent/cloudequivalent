@@ -10,10 +10,23 @@ eleventyComputed:
   title: "{{provider.name}}"
 ---
 
-<ul class="list-style">
-  {% for service in generated.services %}
-    {% if service.provider.key == provider.key %}
-    <li><a href="{{service.slug}}">{{ service.name }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Service</th>
+      <th scope="col">Provider description</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for service in generated.services %}
+      {% if service.provider.key == provider.key %}
+        <tr>
+          <th scope="row">
+            <a href="{{ service.slug }}">{{ service.name }}</a>
+          </th>
+          <td>{{ service.description }}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
