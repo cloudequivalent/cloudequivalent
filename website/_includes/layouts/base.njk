@@ -10,6 +10,9 @@
       {{ title }} | {{ site.title }}
     {%- endif -%}
   </title>
+  {% if description -%}
+    <meta name="description" content="{{ description }}">
+  {%- endif %}
   <link rel="stylesheet" href="{{ '/style.css' | url }}">
 </head>
 <body class="d-flex flex-column h-100">

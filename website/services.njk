@@ -8,6 +8,7 @@ permalink: "{{ service.provider.key | slug }}/{{ service.slug }}/"
 layout: layouts/base.njk
 eleventyComputed:
   title: "{{ service.name }} on {{ service.provider.name }}"
+  description: "Find out what the {{ service.name }} on {{ service.provider.name }} equivalent is with other cloud providers."
 ---
 
 {% if service.equivalents.length > 0 %}
