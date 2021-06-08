@@ -25,7 +25,12 @@
       {%- if title != site.title -%}
         <h1 class="pb-2 border-bottom mb-4">{{ title }}</h1>
       {% else %}
-        <h1>Choose a provider</h1>
+        <div class="px-4 pt-5 mt-5 text-center">
+          <h1 class="display-6 fw-bold">Find a service equivalent on another cloud provider.</h1>
+          <div class="col-lg-6 mx-auto">
+            <p class="lead mb-4">Bored of searching for "<a href="/aws/aws-lambda/">lambda equivalent azure</a>"? Now you can find all the services and their equivalents in one place.</p>
+          </div>
+        </div>
       {% endif %}
       {{ content | safe }}
     </div>
