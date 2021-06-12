@@ -288,6 +288,10 @@
     "description": "A dedicated physical server to host your Azure VMs for Windows and Linux"
   },
   {
+    "name": "Azure VM Image Builder",
+    "description": "Simplify your image building process with easy-to-use tool"
+  },
+  {
     "name": "Azure Red Hat OpenShift",
     "description": "Fully managed OpenShift service, jointly operated with Red Hat"
   },
@@ -653,7 +657,7 @@
   },
   {
     "name": "Azure Communication Services",
-    "description": "Build rich communication experiences with the same secure CPaaS platform used by Microsoft Teams"
+    "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams"
   },
   {
     "name": "Application Gateway",

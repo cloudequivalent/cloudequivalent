@@ -1745,9 +1745,9 @@
     "equivalents": []
   },
   {
-    "name": "AWS Proton (Preview)",
+    "name": "AWS Proton",
     "description": "Automated management for container and serverless deployment",
-    "slug": "aws-proton-preview",
+    "slug": "aws-proton",
     "provider": {
       "name": "Amazon Web Services (AWS)",
       "key": "aws",
@@ -5181,7 +5181,7 @@
   },
   {
     "name": "Azure Communication Services",
-    "description": "Build rich communication experiences with the same secure CPaaS platform used by Microsoft Teams",
+    "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams",
     "slug": "azure-communication-services",
     "provider": {
       "name": "Microsoft Azure (Azure)",
@@ -6831,6 +6831,17 @@
     "name": "Azure Time Series Insights",
     "description": "Monitor, analyse and visualise your industrial IoT data at scale",
     "slug": "azure-time-series-insights",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure",
+      "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Azure VM Image Builder",
+    "description": "Simplify your image building process with easy-to-use tool",
+    "slug": "azure-vm-image-builder",
     "provider": {
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
