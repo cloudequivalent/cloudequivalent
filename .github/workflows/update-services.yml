@@ -26,4 +26,10 @@ jobs:
           branch: ${{ steps.date.outputs.date }}
           delete-branch: true
           title: Fetch new services - ${{ steps.date.outputs.date }}
-          commit-message: "🤖 This PR was automatically generated."
+          commit-message: 🤖 Fetch service listings (${{ steps.date.outputs.date }})
+          body: |-
+            🤖 This PR was automatically generated.
+
+            Changes:
+              - Fetch service listings on ${{ steps.date.outputs.date }}
+
