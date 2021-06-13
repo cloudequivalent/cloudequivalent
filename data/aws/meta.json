@@ -1,5 +1,11 @@
 {
   "name": "Amazon Web Services (AWS)",
   "key": "aws",
-  "accentColour": "#FF9900"
+  "accentColour": "#FF9900",
+  "remote": {
+    "url": "https://aws.amazon.com/products/",
+    "bodySelector": ".lb-item-expander-content a",
+    "nameSelector": "span",
+    "descriptionSelector": "cite"
+  }
 }

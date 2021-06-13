@@ -1,33 +1,26 @@
-const axios = require('axios')
-const cheerio = require('cheerio')
-const fs = require('fs').promises
 const path = require('path')
-
-async function getServices (key, url, bodySelector, nameSelector, descriptionSelector) {
-  const { data } = await axios.get(url)
-  const $ = cheerio.load(data)
-  const services = []
-
-  $(bodySelector).each((index, element) => {
-    const e = cheerio.load(element)
-    const name = e(nameSelector).text()
-    const description = e(descriptionSelector).text()
-
-    const filtered = services.filter(service => service.name === name)
-
-    if (!filtered.length && name) {
-      services.push({
-        name: name,
-        description: description
-      })
-    }
-  })
-
-  await fs.writeFile(path.resolve(__dirname, `../data/${key}/services.json`), JSON.stringify(services, null, 2))
-};
+const fs = require('fs').promises
+const providers = ['azure', 'gcp', 'aws']
+const utilities = require('./utilities');
 
 (async () => {
-  await getServices('gcp', 'https://cloud.google.com/products', '.cloud-card-standard__body', '.cloud-card-standard__headline', '.cloud-card-standard__body-text')
-  await getServices('azure', 'https://azure.microsoft.com/en-gb/services/', '#products-list .column', 'h3.text-heading5 a span', 'p.text-body4')
-  await getServices('aws', 'https://aws.amazon.com/products/', '.lb-item-expander-content a', 'span', 'cite')
+  for (const provider of providers) {
+    try {
+      // Get local provider information
+      const meta = utilities.getProvider(provider)
+
+      // Get remote provider services
+      const remoteServices = await utilities.getRemote(meta.key, meta.remote.url, meta.remote.bodySelector, meta.remote.nameSelector, meta.remote.descriptionSelector)
+
+      // Get or set unlisted services
+      const unlistedServices = Object.keys(meta).includes('unlistedServices') ? meta.unlistedServices : []
+
+      // Merge unlisted services (i.e. manually added services) and remote services
+      const services = [...unlistedServices, ...remoteServices]
+
+      await fs.writeFile(path.resolve(__dirname, `../data/${meta.key}/services.json`), JSON.stringify(services, null, 2))
+    } catch (e) {
+      console.error(e)
+    }
+  }
 })()

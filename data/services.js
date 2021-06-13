@@ -18,13 +18,17 @@ const providers = ['aws', 'azure', 'gcp'];
           strict: true,
           lower: true
         })
+        const providerInfo = providersMetadata.find(metadata => {
+          return metadata.key === provider
+        })
+
+        delete providerInfo.remote
+        delete providerInfo.unlistedServices
 
         return {
           ...service,
           slug: slug,
-          provider: providersMetadata.find(metadata => {
-            return metadata.key === provider
-          })
+          provider: providerInfo
         }
       })
     })
