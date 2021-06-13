@@ -6,12 +6,11 @@ const utilities = require('./utilities');
   // Get local provider definitions
   const providers = utilities.getProviders(true)
 
-  // Get service definitions and add in provider information, slugs
+  // Get service definitions and add in provider information
   const services = providers.map(provider => {
     return require(path.resolve(__dirname, `../data/${provider.key}/services.json`)).map(service => {
       return {
         ...service,
-        slug: utilities.slugify(service.name),
         provider
       }
     })
@@ -22,7 +21,7 @@ const utilities = require('./utilities');
   const equivalents = services.map(service => {
     // Get equivalents
     const findEquivalent = allEquivalents.find(equivalent => {
-      return equivalent.includes(service.slug)
+      return equivalent.includes(service.key)
     })
 
     return {
@@ -30,7 +29,7 @@ const utilities = require('./utilities');
       equivalents: findEquivalent ? findEquivalent.map(equivalent => {
         // Map equivalents to full service objects
         return services.find(service => {
-          return service.slug === equivalent
+          return service.key === equivalent
         })
       }).filter(equivalent => {
         // Filter out services from the same provider

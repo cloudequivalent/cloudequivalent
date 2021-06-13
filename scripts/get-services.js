@@ -11,8 +11,13 @@ const utilities = require('./utilities');
       // Get or set unlisted services
       const extraServices = Object.keys(provider.extra).includes('services') ? provider.extra.services : []
 
-      // Merge extra services (i.e. manually added services) and remote services
-      const services = [...extraServices, ...remoteServices]
+      // Merge extra services (i.e. manually added services) and remote services, and add in keys
+      const services = [...extraServices, ...remoteServices].map(function (service) {
+        return {
+          ...service,
+          key: utilities.slugify(service.name)
+        }
+      })
 
       await fs.writeFile(path.resolve(__dirname, `../data/${provider.key}/services.json`), JSON.stringify(services, null, 2))
     } catch (e) {

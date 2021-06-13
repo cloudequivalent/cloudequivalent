@@ -1,806 +1,1007 @@
 [
   {
     "name": "Microsoft 365 (formerly Office365)",
-    "description": "Your productivity cloud across work and life."
+    "description": "Your productivity cloud across work and life.",
+    "key": "microsoft-365-formerly-office365"
   },
   {
     "name": "Anomaly detector",
-    "description": "Easily add anomaly detection capabilities to your apps."
+    "description": "Easily add anomaly detection capabilities to your apps.",
+    "key": "anomaly-detector"
   },
   {
     "name": "Azure Bot Service",
-    "description": "Build conversational AI experiences for your customers"
+    "description": "Build conversational AI experiences for your customers",
+    "key": "azure-bot-service"
   },
   {
     "name": "Azure Cognitive Search",
-    "description": "AI-powered cloud search service for mobile and web app development"
+    "description": "AI-powered cloud search service for mobile and web app development",
+    "key": "azure-cognitive-search"
   },
   {
     "name": "Azure Databricks",
-    "description": "Fast, easy and collaborative Apache Spark-based analytics platform"
+    "description": "Fast, easy and collaborative Apache Spark-based analytics platform",
+    "key": "azure-databricks"
   },
   {
     "name": "Azure Machine Learning",
-    "description": "Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management"
+    "description": "Bring AI to everyone with an end-to-end, scalable, trusted platform with experimentation and model management",
+    "key": "azure-machine-learning"
   },
   {
     "name": "Azure Open Datasets",
-    "description": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models"
+    "description": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models",
+    "key": "azure-open-datasets"
   },
   {
     "name": "Azure Cognitive Services",
-    "description": "Deploy high-quality AI models as APIs"
+    "description": "Deploy high-quality AI models as APIs",
+    "key": "azure-cognitive-services"
   },
   {
     "name": "Azure Video Analyzer Preview",
-    "description": "An AI service for quickly building video analytics solutions"
+    "description": "An AI service for quickly building video analytics solutions",
+    "key": "azure-video-analyzer-preview"
   },
   {
     "name": "Computer Vision",
-    "description": "Distill actionable information from images"
+    "description": "Distill actionable information from images",
+    "key": "computer-vision"
   },
   {
     "name": "Content moderator",
-    "description": "Automated image, text and video moderation"
+    "description": "Automated image, text and video moderation",
+    "key": "content-moderator"
   },
   {
     "name": "Custom Vision",
-    "description": "Easily customise your own state-of-the-art computer vision models for your unique use case"
+    "description": "Easily customise your own state-of-the-art computer vision models for your unique use case",
+    "key": "custom-vision"
   },
   {
     "name": "Data Science Virtual Machines",
-    "description": "Rich, pre-configured environment for AI development"
+    "description": "Rich, pre-configured environment for AI development",
+    "key": "data-science-virtual-machines"
   },
   {
     "name": "Face",
-    "description": "Detect, identify, analyse, organise and tag faces in photos"
+    "description": "Detect, identify, analyse, organise and tag faces in photos",
+    "key": "face"
   },
   {
     "name": "Azure Form Recognizer",
-    "description": "The AI-powered document extraction service that understands your forms"
+    "description": "The AI-powered document extraction service that understands your forms",
+    "key": "azure-form-recognizer"
   },
   {
     "name": "Azure Immersive Reader",
-    "description": "Empower users of all ages and abilities to read and comprehend text"
+    "description": "Empower users of all ages and abilities to read and comprehend text",
+    "key": "azure-immersive-reader"
   },
   {
     "name": "Kinect DK",
-    "description": "Build computer vision and speech models using a developer kit with advanced AI sensors"
+    "description": "Build computer vision and speech models using a developer kit with advanced AI sensors",
+    "key": "kinect-dk"
   },
   {
     "name": "Language Understanding",
-    "description": "Teach your apps to understand commands from your users"
+    "description": "Teach your apps to understand commands from your users",
+    "key": "language-understanding"
   },
   {
     "name": "Microsoft Genomics",
-    "description": "Power genome sequencing &amp; research insights"
+    "description": "Power genome sequencing &amp; research insights",
+    "key": "microsoft-genomics"
   },
   {
     "name": "Personaliser",
-    "description": "An AI service that delivers a personalised user experience"
+    "description": "An AI service that delivers a personalised user experience",
+    "key": "personaliser"
   },
   {
     "name": "Project Bonsai Preview",
-    "description": "A machine teaching service for creating intelligent industrial control systems using simulations"
+    "description": "A machine teaching service for creating intelligent industrial control systems using simulations",
+    "key": "project-bonsai-preview"
   },
   {
     "name": "QnA Maker",
-    "description": "Distill information into conversational, easy-to-navigate answers"
+    "description": "Distill information into conversational, easy-to-navigate answers",
+    "key": "qna-maker"
   },
   {
     "name": "Speaker Recognition Preview",
-    "description": "A Speech service feature that verifies and identifies speakers"
+    "description": "A Speech service feature that verifies and identifies speakers",
+    "key": "speaker-recognition-preview"
   },
   {
     "name": "Speech-to-Text",
-    "description": "A Speech service feature that accurately converts spoken audio to text"
+    "description": "A Speech service feature that accurately converts spoken audio to text",
+    "key": "speech-to-text"
   },
   {
     "name": "Speech translation",
-    "description": "Easily integrate real-time speech translation to your app"
+    "description": "Easily integrate real-time speech translation to your app",
+    "key": "speech-translation"
   },
   {
     "name": "Text Analytics",
-    "description": "Easily evaluate sentiment and topics to understand what users want"
+    "description": "Easily evaluate sentiment and topics to understand what users want",
+    "key": "text-analytics"
   },
   {
     "name": "Text to Speech",
-    "description": "A Speech service feature that converts text to lifelike speech"
+    "description": "A Speech service feature that converts text to lifelike speech",
+    "key": "text-to-speech"
   },
   {
     "name": "Translator",
-    "description": "Easily conduct machine translation with a simple REST API call"
+    "description": "Easily conduct machine translation with a simple REST API call",
+    "key": "translator"
   },
   {
     "name": "Azure Metrics Advisor Preview",
-    "description": "An AI service that monitors metrics and diagnoses issues"
+    "description": "An AI service that monitors metrics and diagnoses issues",
+    "key": "azure-metrics-advisor-preview"
   },
   {
     "name": "Health Bot",
-    "description": "A managed service purpose-built for development of virtual healthcare assistants"
+    "description": "A managed service purpose-built for development of virtual healthcare assistants",
+    "key": "health-bot"
   },
   {
     "name": "Azure Percept Preview",
-    "description": "Accelerate edge intelligence from silicon to service"
+    "description": "Accelerate edge intelligence from silicon to service",
+    "key": "azure-percept-preview"
   },
   {
     "name": "Azure Applied AI Services",
-    "description": "Specialist services that enable organisations to accelerate time to value in applying AI to solve common scenarios"
+    "description": "Specialist services that enable organisations to accelerate time to value in applying AI to solve common scenarios",
+    "key": "azure-applied-ai-services"
   },
   {
     "name": "Azure Analysis Services",
-    "description": "Enterprise-grade analytics engine as a service"
+    "description": "Enterprise-grade analytics engine as a service",
+    "key": "azure-analysis-services"
   },
   {
     "name": "Azure Data Explorer",
-    "description": "Fast and highly scalable data exploration service"
+    "description": "Fast and highly scalable data exploration service",
+    "key": "azure-data-explorer"
   },
   {
     "name": "Azure Data Lake Storage",
-    "description": "Massively scalable, secure data lake functionality built on Azure Blob Storage"
+    "description": "Massively scalable, secure data lake functionality built on Azure Blob Storage",
+    "key": "azure-data-lake-storage"
   },
   {
     "name": "Azure Data Share",
-    "description": "A simple and safe service for sharing big data with external organisations"
+    "description": "A simple and safe service for sharing big data with external organisations",
+    "key": "azure-data-share"
   },
   {
     "name": "Azure Stream Analytics",
-    "description": "Real-time analytics on fast-moving streams of data from applications and devices"
+    "description": "Real-time analytics on fast-moving streams of data from applications and devices",
+    "key": "azure-stream-analytics"
   },
   {
     "name": "Azure Synapse Analytics",
-    "description": "Limitless analytics service with unmatched time to insight"
+    "description": "Limitless analytics service with unmatched time to insight",
+    "key": "azure-synapse-analytics"
   },
   {
     "name": "Data Catalog",
-    "description": "Get more value from your enterprise data assets"
+    "description": "Get more value from your enterprise data assets",
+    "key": "data-catalog"
   },
   {
     "name": "Azure Data Factory",
-    "description": "Hybrid data integration at enterprise scale, made easy"
+    "description": "Hybrid data integration at enterprise scale, made easy",
+    "key": "azure-data-factory"
   },
   {
     "name": "Data Lake Analytics",
-    "description": "Distributed analytics service that makes big data easy"
+    "description": "Distributed analytics service that makes big data easy",
+    "key": "data-lake-analytics"
   },
   {
     "name": "Event Hubs",
-    "description": "Receive telemetry from millions of devices"
+    "description": "Receive telemetry from millions of devices",
+    "key": "event-hubs"
   },
   {
     "name": "HDInsight",
-    "description": "Provision cloud Hadoop, Spark, R Server, HBase and Storm clusters"
+    "description": "Provision cloud Hadoop, Spark, R Server, HBase and Storm clusters",
+    "key": "hdinsight"
   },
   {
     "name": "Power BI Embedded",
-    "description": "Embed fully interactive, stunning data visualisations in your applications"
+    "description": "Embed fully interactive, stunning data visualisations in your applications",
+    "key": "power-bi-embedded"
   },
   {
     "name": "R Server for HDInsight",
-    "description": "Predictive analytics, machine learning and statistical modelling for big data"
+    "description": "Predictive analytics, machine learning and statistical modelling for big data",
+    "key": "r-server-for-hdinsight"
   },
   {
     "name": "Azure Purview Preview",
-    "description": "Maximise business value with unified data governance"
+    "description": "Maximise business value with unified data governance",
+    "key": "azure-purview-preview"
   },
   {
     "name": "Microsoft Graph Data Connect Preview",
-    "description": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant"
+    "description": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant",
+    "key": "microsoft-graph-data-connect-preview"
   },
   {
     "name": "Azure Blockchain Service Preview",
-    "description": "Build, govern and expand consortium blockchain networks"
+    "description": "Build, govern and expand consortium blockchain networks",
+    "key": "azure-blockchain-service-preview"
   },
   {
     "name": "Azure Blockchain Workbench Preview",
-    "description": "Easily prototype blockchain apps in the cloud"
+    "description": "Easily prototype blockchain apps in the cloud",
+    "key": "azure-blockchain-workbench-preview"
   },
   {
     "name": "Azure Cosmos DB",
-    "description": "Fast NoSQL database with open APIs for any scale"
+    "description": "Fast NoSQL database with open APIs for any scale",
+    "key": "azure-cosmos-db"
   },
   {
     "name": "Azure Logic Apps",
-    "description": "Automate the access and use of data across clouds without writing code"
+    "description": "Automate the access and use of data across clouds without writing code",
+    "key": "azure-logic-apps"
   },
   {
     "name": "Microsoft Azure Confidential Ledger Preview",
-    "description": "Easily use a REST API managed service to store your unstructured metadata in a blockchain structure"
+    "description": "Easily use a REST API managed service to store your unstructured metadata in a blockchain structure",
+    "key": "microsoft-azure-confidential-ledger-preview"
   },
   {
     "name": "API Apps",
-    "description": "Easily build and consume Cloud APIs"
+    "description": "Easily build and consume Cloud APIs",
+    "key": "api-apps"
   },
   {
     "name": "App Service",
-    "description": "Quickly create powerful cloud apps for web and mobile"
+    "description": "Quickly create powerful cloud apps for web and mobile",
+    "key": "app-service"
   },
   {
     "name": "Azure CycleCloud",
-    "description": "Create, manage, operate and optimise HPC and big compute clusters of any scale"
+    "description": "Create, manage, operate and optimise HPC and big compute clusters of any scale",
+    "key": "azure-cyclecloud"
   },
   {
     "name": "Azure functions",
-    "description": "Process events with serverless code"
+    "description": "Process events with serverless code",
+    "key": "azure-functions"
   },
   {
     "name": "Azure Kubernetes Service (AKS)",
-    "description": "Simplify the deployment, management and operations of Kubernetes"
+    "description": "Simplify the deployment, management and operations of Kubernetes",
+    "key": "azure-kubernetes-service-aks"
   },
   {
     "name": "Azure Quantum Preview",
-    "description": "Experience quantum impact today on Azure"
+    "description": "Experience quantum impact today on Azure",
+    "key": "azure-quantum-preview"
   },
   {
     "name": "Azure Spring Cloud",
-    "description": "A fully managed Spring Cloud service, jointly built and operated with VMware"
+    "description": "A fully managed Spring Cloud service, jointly built and operated with VMware",
+    "key": "azure-spring-cloud"
   },
   {
     "name": "Azure VMware Solution",
-    "description": "Run your VMware workloads natively on Azure"
+    "description": "Run your VMware workloads natively on Azure",
+    "key": "azure-vmware-solution"
   },
   {
     "name": "Batch",
-    "description": "Cloud-scale job scheduling and compute management"
+    "description": "Cloud-scale job scheduling and compute management",
+    "key": "batch"
   },
   {
     "name": "Cloud Services",
-    "description": "Create highly available, infinitely scalable cloud applications and APIs"
+    "description": "Create highly available, infinitely scalable cloud applications and APIs",
+    "key": "cloud-services"
   },
   {
     "name": "Container Instances",
-    "description": "Easily run containers on Azure without managing servers."
+    "description": "Easily run containers on Azure without managing servers.",
+    "key": "container-instances"
   },
   {
     "name": "Linux Virtual Machines",
-    "description": "Provision virtual machines for Ubuntu, Red Hat and more"
+    "description": "Provision virtual machines for Ubuntu, Red Hat and more",
+    "key": "linux-virtual-machines"
   },
   {
     "name": "Mobile Apps",
-    "description": "Build and host the back-end for any mobile app"
+    "description": "Build and host the back-end for any mobile app",
+    "key": "mobile-apps"
   },
   {
     "name": "Service Fabric",
-    "description": "Develop microservices and orchestrate containers on Windows or Linux"
+    "description": "Develop microservices and orchestrate containers on Windows or Linux",
+    "key": "service-fabric"
   },
   {
     "name": "SQL Server on virtual machines",
-    "description": "Host enterprise SQL Server apps in the cloud"
+    "description": "Host enterprise SQL Server apps in the cloud",
+    "key": "sql-server-on-virtual-machines"
   },
   {
     "name": "Static Web Apps",
-    "description": "A modern web app service that offers streamlined full-stack development from source code to global high availability"
+    "description": "A modern web app service that offers streamlined full-stack development from source code to global high availability",
+    "key": "static-web-apps"
   },
   {
     "name": "Virtual Machine Scale Sets",
-    "description": "Manage and scale up to thousands of Linux and Windows virtual machines"
+    "description": "Manage and scale up to thousands of Linux and Windows virtual machines",
+    "key": "virtual-machine-scale-sets"
   },
   {
     "name": "Virtual Machines",
-    "description": "Provision Windows and Linux virtual machines in seconds"
+    "description": "Provision Windows and Linux virtual machines in seconds",
+    "key": "virtual-machines"
   },
   {
     "name": "Web Apps",
-    "description": "Quickly create and deploy mission-critical web apps at scale"
+    "description": "Quickly create and deploy mission-critical web apps at scale",
+    "key": "web-apps"
   },
   {
     "name": "Windows Virtual Desktop",
-    "description": "The best virtual desktop experience – delivered on Azure"
+    "description": "The best virtual desktop experience – delivered on Azure",
+    "key": "windows-virtual-desktop"
   },
   {
     "name": "Azure Dedicated Host",
-    "description": "A dedicated physical server to host your Azure VMs for Windows and Linux"
+    "description": "A dedicated physical server to host your Azure VMs for Windows and Linux",
+    "key": "azure-dedicated-host"
   },
   {
     "name": "Azure VM Image Builder",
-    "description": "Simplify your image building process with easy-to-use tool"
+    "description": "Simplify your image building process with easy-to-use tool",
+    "key": "azure-vm-image-builder"
   },
   {
     "name": "Azure Red Hat OpenShift",
-    "description": "Fully managed OpenShift service, jointly operated with Red Hat"
+    "description": "Fully managed OpenShift service, jointly operated with Red Hat",
+    "key": "azure-red-hat-openshift"
   },
   {
     "name": "Container Registry",
-    "description": "Store and manage container images across all types of Azure deployments"
+    "description": "Store and manage container images across all types of Azure deployments",
+    "key": "container-registry"
   },
   {
     "name": "Web App for Containers",
-    "description": "Easily deploy and run containerised web apps that scale with your business"
+    "description": "Easily deploy and run containerised web apps that scale with your business",
+    "key": "web-app-for-containers"
   },
   {
     "name": "Azure API for FHIR",
-    "description": "Easily create and deploy a FHIR service for health data solutions and interoperability"
+    "description": "Easily create and deploy a FHIR service for health data solutions and interoperability",
+    "key": "azure-api-for-fhir"
   },
   {
     "name": "Azure Cache for Redis",
-    "description": "Accelerate applications with high-throughput, low-latency data caching"
+    "description": "Accelerate applications with high-throughput, low-latency data caching",
+    "key": "azure-cache-for-redis"
   },
   {
     "name": "Azure Database for MariaDB",
-    "description": "Managed MariaDB database service for app developers"
+    "description": "Managed MariaDB database service for app developers",
+    "key": "azure-database-for-mariadb"
   },
   {
     "name": "Azure Database for MySQL",
-    "description": "Fully managed, scalable MySQL database"
+    "description": "Fully managed, scalable MySQL database",
+    "key": "azure-database-for-mysql"
   },
   {
     "name": "Azure Database for PostgreSQL",
-    "description": "Fully managed, intelligent and scalable PostgreSQL"
+    "description": "Fully managed, intelligent and scalable PostgreSQL",
+    "key": "azure-database-for-postgresql"
   },
   {
     "name": "Azure Database Migration Service",
-    "description": "Simplify on-premises database migration to the cloud"
+    "description": "Simplify on-premises database migration to the cloud",
+    "key": "azure-database-migration-service"
   },
   {
     "name": "Azure SQL",
-    "description": "Managed, always up-to-date SQL instance in the cloud"
+    "description": "Managed, always up-to-date SQL instance in the cloud",
+    "key": "azure-sql"
   },
   {
     "name": "Azure SQL Database",
-    "description": "Managed, intelligent SQL in the cloud"
+    "description": "Managed, intelligent SQL in the cloud",
+    "key": "azure-sql-database"
   },
   {
     "name": "Azure SQL Edge",
-    "description": "Consume Services privately on Azure Platform"
+    "description": "Consume Services privately on Azure Platform",
+    "key": "azure-sql-edge"
   },
   {
     "name": "Azure SQL Managed Instance",
-    "description": "Managed, always up-to-date SQL instance in the cloud"
+    "description": "Managed, always up-to-date SQL instance in the cloud",
+    "key": "azure-sql-managed-instance"
   },
   {
     "name": "Table Storage",
-    "description": "NoSQL key-value store using semi-structured datasets"
+    "description": "NoSQL key-value store using semi-structured datasets",
+    "key": "table-storage"
   },
   {
     "name": "Azure Managed Instance for Apache Cassandra Preview",
-    "description": "Cloud Cassandra with flexibility, control and scale"
+    "description": "Cloud Cassandra with flexibility, control and scale",
+    "key": "azure-managed-instance-for-apache-cassandra-preview"
   },
   {
     "name": "App Configuration",
-    "description": "Fast, scalable parameter storage for app configuration"
+    "description": "Fast, scalable parameter storage for app configuration",
+    "key": "app-configuration"
   },
   {
     "name": "Azure DevOps",
-    "description": "Services for teams to share code, track work and ship software"
+    "description": "Services for teams to share code, track work and ship software",
+    "key": "azure-devops"
   },
   {
     "name": "Azure DevTest Labs",
-    "description": "Quickly create environments using reusable templates and artifacts"
+    "description": "Quickly create environments using reusable templates and artifacts",
+    "key": "azure-devtest-labs"
   },
   {
     "name": "Azure Lab Services",
-    "description": "Set up labs for classrooms, trials, development and testing, and other scenarios"
+    "description": "Set up labs for classrooms, trials, development and testing, and other scenarios",
+    "key": "azure-lab-services"
   },
   {
     "name": "Azure Pipelines",
-    "description": "Continuously build, test and deploy to any platform and cloud"
+    "description": "Continuously build, test and deploy to any platform and cloud",
+    "key": "azure-pipelines"
   },
   {
     "name": "SDKs",
-    "description": "Get the SDKs and command-line tools you need"
+    "description": "Get the SDKs and command-line tools you need",
+    "key": "sdks"
   },
   {
     "name": "Visual Studio",
-    "description": "The powerful and flexible environment for developing applications in the cloud"
+    "description": "The powerful and flexible environment for developing applications in the cloud",
+    "key": "visual-studio"
   },
   {
     "name": "Visual Studio Code",
-    "description": "A powerful, lightweight code editor for cloud development"
+    "description": "A powerful, lightweight code editor for cloud development",
+    "key": "visual-studio-code"
   },
   {
     "name": "Azure Artifacts",
-    "description": "Create, host and share packages with your team"
+    "description": "Create, host and share packages with your team",
+    "key": "azure-artifacts"
   },
   {
     "name": "Azure Boards",
-    "description": "Plan, track and discuss work across your teams"
+    "description": "Plan, track and discuss work across your teams",
+    "key": "azure-boards"
   },
   {
     "name": "Azure Monitor",
-    "description": "Full observability into your applications, infrastructure and network"
+    "description": "Full observability into your applications, infrastructure and network",
+    "key": "azure-monitor"
   },
   {
     "name": "Azure Repos",
-    "description": "Get unlimited, cloud-hosted private Git repos for your project"
+    "description": "Get unlimited, cloud-hosted private Git repos for your project",
+    "key": "azure-repos"
   },
   {
     "name": "Azure Test Plans",
-    "description": "Test and ship with confidence with a manual and exploratory testing toolkit"
+    "description": "Test and ship with confidence with a manual and exploratory testing toolkit",
+    "key": "azure-test-plans"
   },
   {
     "name": "DevOps tool integrations",
-    "description": "Use your favourite DevOps tools with Azure"
+    "description": "Use your favourite DevOps tools with Azure",
+    "key": "devops-tool-integrations"
   },
   {
     "name": "Azure Active Directory",
-    "description": "Synchronise on-premises directories and enable single sign-on"
+    "description": "Synchronise on-premises directories and enable single sign-on",
+    "key": "azure-active-directory"
   },
   {
     "name": "Azure Arc",
-    "description": "Extend Azure management and services anywhere"
+    "description": "Extend Azure management and services anywhere",
+    "key": "azure-arc"
   },
   {
     "name": "Azure ExpressRoute",
-    "description": "Dedicated private-network fibre connections to Azure"
+    "description": "Dedicated private-network fibre connections to Azure",
+    "key": "azure-expressroute"
   },
   {
     "name": "Azure IoT Edge",
-    "description": "Extend cloud intelligence and analytics to edge devices managed by Azure IoT Hub"
+    "description": "Extend cloud intelligence and analytics to edge devices managed by Azure IoT Hub",
+    "key": "azure-iot-edge"
   },
   {
     "name": "Azure Sentinel",
-    "description": "Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise"
+    "description": "Put cloud-native SIEM and intelligent security analytics to work to help protect your enterprise",
+    "key": "azure-sentinel"
   },
   {
     "name": "Azure Stack",
-    "description": "Build and run innovative hybrid applications across cloud boundaries"
+    "description": "Build and run innovative hybrid applications across cloud boundaries",
+    "key": "azure-stack"
   },
   {
     "name": "Security Center",
-    "description": "Unify security management and enable advanced threat protection across hybrid cloud workloads"
+    "description": "Unify security management and enable advanced threat protection across hybrid cloud workloads",
+    "key": "security-center"
   },
   {
     "name": "Azure Stack HCI",
-    "description": "Run your production workloads on hybrid, familiar hyperconverged infrastructure"
+    "description": "Run your production workloads on hybrid, familiar hyperconverged infrastructure",
+    "key": "azure-stack-hci"
   },
   {
     "name": "Azure Stack Hub",
-    "description": "Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware"
+    "description": "Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware",
+    "key": "azure-stack-hub"
   },
   {
     "name": "Azure Stack Edge",
-    "description": "An Azure-managed device that brings the compute, storage and intelligence of Azure to the edge"
+    "description": "An Azure-managed device that brings the compute, storage and intelligence of Azure to the edge",
+    "key": "azure-stack-edge"
   },
   {
     "name": "Azure Modular Data centre",
-    "description": "A complete, rugged data centre solution"
+    "description": "A complete, rugged data centre solution",
+    "key": "azure-modular-data-centre"
   },
   {
     "name": "Azure Active Directory Domain Services",
-    "description": "Join Azure virtual machines to a domain without domain controllers"
+    "description": "Join Azure virtual machines to a domain without domain controllers",
+    "key": "azure-active-directory-domain-services"
   },
   {
     "name": "Azure Information Protection",
-    "description": "Better protect your sensitive information – whenever, wherever"
+    "description": "Better protect your sensitive information – whenever, wherever",
+    "key": "azure-information-protection"
   },
   {
     "name": "Azure Active Directory external Identities",
-    "description": "Consumer identity and access management in the cloud"
+    "description": "Consumer identity and access management in the cloud",
+    "key": "azure-active-directory-external-identities"
   },
   {
     "name": "API Management",
-    "description": "Publish APIs to developers, partners and employees securely and at scale"
+    "description": "Publish APIs to developers, partners and employees securely and at scale",
+    "key": "api-management"
   },
   {
     "name": "Event Grid",
-    "description": "Reliable event delivery at massive scale"
+    "description": "Reliable event delivery at massive scale",
+    "key": "event-grid"
   },
   {
     "name": "Service Bus",
-    "description": "Connect across private and public cloud environments"
+    "description": "Connect across private and public cloud environments",
+    "key": "service-bus"
   },
   {
     "name": "Azure web PubSub Preview",
-    "description": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern"
+    "description": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern",
+    "key": "azure-web-pubsub-preview"
   },
   {
     "name": "Azure Digital Twins",
-    "description": "Build next-generation IoT solutions that model entire environments in real time"
+    "description": "Build next-generation IoT solutions that model entire environments in real time",
+    "key": "azure-digital-twins"
   },
   {
     "name": "Azure IoT Central",
-    "description": "Accelerate the creation of IoT solutions"
+    "description": "Accelerate the creation of IoT solutions",
+    "key": "azure-iot-central"
   },
   {
     "name": "Azure IoT Hub",
-    "description": "Connect, monitor and manage IoT assets with a scalable platform"
+    "description": "Connect, monitor and manage IoT assets with a scalable platform",
+    "key": "azure-iot-hub"
   },
   {
     "name": "Azure IoT solution accelerators",
-    "description": "Create fully customisable solutions with templates for common IoT scenarios"
+    "description": "Create fully customisable solutions with templates for common IoT scenarios",
+    "key": "azure-iot-solution-accelerators"
   },
   {
     "name": "Azure Maps",
-    "description": "Simple and secure location APIs provide geospatial context to data"
+    "description": "Simple and secure location APIs provide geospatial context to data",
+    "key": "azure-maps"
   },
   {
     "name": "Azure RTOS",
-    "description": "Making embedded IoT development and connectivity easy"
+    "description": "Making embedded IoT development and connectivity easy",
+    "key": "azure-rtos"
   },
   {
     "name": "Azure Sphere",
-    "description": "Securely connect embedded MCU-powered devices from silicon to cloud"
+    "description": "Securely connect embedded MCU-powered devices from silicon to cloud",
+    "key": "azure-sphere"
   },
   {
     "name": "Azure Time Series Insights",
-    "description": "Monitor, analyse and visualise your industrial IoT data at scale"
+    "description": "Monitor, analyse and visualise your industrial IoT data at scale",
+    "key": "azure-time-series-insights"
   },
   {
     "name": "Notification Hubs",
-    "description": "Send push notifications to any platform from any back-end"
+    "description": "Send push notifications to any platform from any back-end",
+    "key": "notification-hubs"
   },
   {
     "name": "Windows 10 IoT Core Services",
-    "description": "Long-term OS support and services to manage device updates and assess device health"
+    "description": "Long-term OS support and services to manage device updates and assess device health",
+    "key": "windows-10-iot-core-services"
   },
   {
     "name": "Azure Defender for IoT",
-    "description": "Monitor and detect security threats to both managed and unmanaged IoT assets"
+    "description": "Monitor and detect security threats to both managed and unmanaged IoT assets",
+    "key": "azure-defender-for-iot"
   },
   {
     "name": "Windows IoT Enterprise",
-    "description": "Build intelligent edge solutions with world-class developer tools, long-term support and enterprise-grade security."
+    "description": "Build intelligent edge solutions with world-class developer tools, long-term support and enterprise-grade security.",
+    "key": "windows-iot-enterprise"
   },
   {
     "name": "Automation",
-    "description": "Simplify cloud management with process automation"
+    "description": "Simplify cloud management with process automation",
+    "key": "automation"
   },
   {
     "name": "Azure Advisor",
-    "description": "Your personalised Azure best practices recommendation engine"
+    "description": "Your personalised Azure best practices recommendation engine",
+    "key": "azure-advisor"
   },
   {
     "name": "Azure Backup",
-    "description": "Simplify data protection and protect against ransomware"
+    "description": "Simplify data protection and protect against ransomware",
+    "key": "azure-backup"
   },
   {
     "name": "Azure Blueprints Preview",
-    "description": "Enabling quick, repeatable creation of governed environments"
+    "description": "Enabling quick, repeatable creation of governed environments",
+    "key": "azure-blueprints-preview"
   },
   {
     "name": "Azure Lighthouse",
-    "description": "Empowering service providers to manage customers at scale and with precision"
+    "description": "Empowering service providers to manage customers at scale and with precision",
+    "key": "azure-lighthouse"
   },
   {
     "name": "Azure Managed Applications",
-    "description": "Simplify management of cloud offerings"
+    "description": "Simplify management of cloud offerings",
+    "key": "azure-managed-applications"
   },
   {
     "name": "Azure Migrate",
-    "description": "Easily discover, assess, right-size and migrate your on-premises VMs to Azure"
+    "description": "Easily discover, assess, right-size and migrate your on-premises VMs to Azure",
+    "key": "azure-migrate"
   },
   {
     "name": "Azure mobile app",
-    "description": "Stay connected to your Azure resources – anytime, anywhere"
+    "description": "Stay connected to your Azure resources – anytime, anywhere",
+    "key": "azure-mobile-app"
   },
   {
     "name": "Azure Policy",
-    "description": "Implement corporate governance and standards at scale for Azure resources"
+    "description": "Implement corporate governance and standards at scale for Azure resources",
+    "key": "azure-policy"
   },
   {
     "name": "Azure Resource Manager",
-    "description": "Simplify how you manage your app resources"
+    "description": "Simplify how you manage your app resources",
+    "key": "azure-resource-manager"
   },
   {
     "name": "Azure Resource Manager templates",
-    "description": "Deliver infrastructure as code for all your Azure resources using Resource Manager"
+    "description": "Deliver infrastructure as code for all your Azure resources using Resource Manager",
+    "key": "azure-resource-manager-templates"
   },
   {
     "name": "Azure Service Health",
-    "description": "Personalised guidance and support for when issues in Azure services affect you"
+    "description": "Personalised guidance and support for when issues in Azure services affect you",
+    "key": "azure-service-health"
   },
   {
     "name": "Azure Site Recovery",
-    "description": "Keep your business running with built-in disaster recovery service"
+    "description": "Keep your business running with built-in disaster recovery service",
+    "key": "azure-site-recovery"
   },
   {
     "name": "Cloud Shell",
-    "description": "Streamline Azure administration with a browser-based shell"
+    "description": "Streamline Azure administration with a browser-based shell",
+    "key": "cloud-shell"
   },
   {
     "name": "Azure Cost Management and Billing",
-    "description": "Manage your cloud spending with confidence"
+    "description": "Manage your cloud spending with confidence",
+    "key": "azure-cost-management-and-billing"
   },
   {
     "name": "Microsoft Azure portal",
-    "description": "Build, manage and monitor all Azure products in a single, unified console"
+    "description": "Build, manage and monitor all Azure products in a single, unified console",
+    "key": "microsoft-azure-portal"
   },
   {
     "name": "Network Watcher",
-    "description": "Network performance monitoring and diagnostics solution"
+    "description": "Network performance monitoring and diagnostics solution",
+    "key": "network-watcher"
   },
   {
     "name": "Traffic Manager",
-    "description": "Route incoming traffic for high performance and availability"
+    "description": "Route incoming traffic for high performance and availability",
+    "key": "traffic-manager"
   },
   {
     "name": "Azure Automanage Preview",
-    "description": "Simplify and optimise IT management with automated operations"
+    "description": "Simplify and optimise IT management with automated operations",
+    "key": "azure-automanage-preview"
   },
   {
     "name": "Azure Resource Mover",
-    "description": "Simplify how you move multiple resources between Azure regions"
+    "description": "Simplify how you move multiple resources between Azure regions",
+    "key": "azure-resource-mover"
   },
   {
     "name": "Azure Media Player",
-    "description": "A single player for all your playback needs"
+    "description": "A single player for all your playback needs",
+    "key": "azure-media-player"
   },
   {
     "name": "Content Delivery Network",
-    "description": "Ensure secure, reliable content delivery with broad global reach"
+    "description": "Ensure secure, reliable content delivery with broad global reach",
+    "key": "content-delivery-network"
   },
   {
     "name": "Content Protection",
-    "description": "Securely deliver content using AES, PlayReady, Widevine and Fairplay"
+    "description": "Securely deliver content using AES, PlayReady, Widevine and Fairplay",
+    "key": "content-protection"
   },
   {
     "name": "Encoding",
-    "description": "Studio-grade encoding at cloud scale"
+    "description": "Studio-grade encoding at cloud scale",
+    "key": "encoding"
   },
   {
     "name": "Live and On-Demand Streaming",
-    "description": "Deliver content to virtually all devices with scale to meet business needs"
+    "description": "Deliver content to virtually all devices with scale to meet business needs",
+    "key": "live-and-on-demand-streaming"
   },
   {
     "name": "Media Services",
-    "description": "Encode, store and stream video and audio at scale"
+    "description": "Encode, store and stream video and audio at scale",
+    "key": "media-services"
   },
   {
     "name": "Azure Data Box",
-    "description": "Appliances and solutions for offline data transfer to Azure​"
+    "description": "Appliances and solutions for offline data transfer to Azure​",
+    "key": "azure-data-box"
   },
   {
     "name": "Azure Remote Rendering",
-    "description": "Render high-quality, interactive 3D content, and stream it to your devices in real time"
+    "description": "Render high-quality, interactive 3D content, and stream it to your devices in real time",
+    "key": "azure-remote-rendering"
   },
   {
     "name": "Spatial anchors",
-    "description": "Create multi-user, spatially aware mixed reality experiences"
+    "description": "Create multi-user, spatially aware mixed reality experiences",
+    "key": "spatial-anchors"
   },
   {
     "name": "Object anchors Preview",
-    "description": "Automatically align and anchor 3D content to objects in the physical world"
+    "description": "Automatically align and anchor 3D content to objects in the physical world",
+    "key": "object-anchors-preview"
   },
   {
     "name": "Visual Studio App Centre",
-    "description": "Continuously build, test, release and monitor your mobile and desktop apps"
+    "description": "Continuously build, test, release and monitor your mobile and desktop apps",
+    "key": "visual-studio-app-centre"
   },
   {
     "name": "Xamarin",
-    "description": "Create cloud-powered mobile apps faster"
+    "description": "Create cloud-powered mobile apps faster",
+    "key": "xamarin"
   },
   {
     "name": "Azure Communication Services",
-    "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams"
+    "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams",
+    "key": "azure-communication-services"
   },
   {
     "name": "Application Gateway",
-    "description": "Build secure, scalable and highly available web front ends in Azure"
+    "description": "Build secure, scalable and highly available web front ends in Azure",
+    "key": "application-gateway"
   },
   {
     "name": "Azure Bastion",
-    "description": "Private and fully managed RDP and SSH access to your virtual machines"
+    "description": "Private and fully managed RDP and SSH access to your virtual machines",
+    "key": "azure-bastion"
   },
   {
     "name": "Azure DDoS Protection",
-    "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks"
+    "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+    "key": "azure-ddos-protection"
   },
   {
     "name": "Azure DNS",
-    "description": "Host your DNS domain in Azure"
+    "description": "Host your DNS domain in Azure",
+    "key": "azure-dns"
   },
   {
     "name": "Azure Firewall",
-    "description": "Native firewalling capabilities with built-in high availability, unrestricted cloud scalability and zero maintenance"
+    "description": "Native firewalling capabilities with built-in high availability, unrestricted cloud scalability and zero maintenance",
+    "key": "azure-firewall"
   },
   {
     "name": "Load balancing",
-    "description": "Explore Azure load-balancing services and find the best solution for your workloads using an easy-to-use service selection tool"
+    "description": "Explore Azure load-balancing services and find the best solution for your workloads using an easy-to-use service selection tool",
+    "key": "load-balancing"
   },
   {
     "name": "Azure Firewall Manager",
-    "description": "Central network security policy and route management for globally distributed, software-defined perimeters"
+    "description": "Central network security policy and route management for globally distributed, software-defined perimeters",
+    "key": "azure-firewall-manager"
   },
   {
     "name": "Azure Front Door",
-    "description": "Secure, fast and reliable cloud CDN with intelligent threat protection"
+    "description": "Secure, fast and reliable cloud CDN with intelligent threat protection",
+    "key": "azure-front-door"
   },
   {
     "name": "Azure Internet Analyzer Preview",
-    "description": "Test how networking infrastructure changes will affect your customers’ performance."
+    "description": "Test how networking infrastructure changes will affect your customers’ performance.",
+    "key": "azure-internet-analyzer-preview"
   },
   {
     "name": "Azure Private Link",
-    "description": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network"
+    "description": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network",
+    "key": "azure-private-link"
   },
   {
     "name": "Virtual Network",
-    "description": "Provision private networks, optionally connect to on-premises data centres"
+    "description": "Provision private networks, optionally connect to on-premises data centres",
+    "key": "virtual-network"
   },
   {
     "name": "Virtual WAN",
-    "description": "Optimise and automate branch-to-branch connectivity through Azure"
+    "description": "Optimise and automate branch-to-branch connectivity through Azure",
+    "key": "virtual-wan"
   },
   {
     "name": "VPN Gateway",
-    "description": "Establish secure, cross-premises connectivity"
+    "description": "Establish secure, cross-premises connectivity",
+    "key": "vpn-gateway"
   },
   {
     "name": "Web Application Firewall",
-    "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps"
+    "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+    "key": "web-application-firewall"
   },
   {
     "name": "Azure Orbital Preview",
-    "description": "Satellite ground station and scheduling service connected to Azure for fast downlinking of data"
+    "description": "Satellite ground station and scheduling service connected to Azure for fast downlinking of data",
+    "key": "azure-orbital-preview"
   },
   {
     "name": "Azure Route Server Preview",
-    "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure"
+    "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure",
+    "key": "azure-route-server-preview"
   },
   {
     "name": "Azure Defender",
-    "description": "Protect hybrid cloud workloads"
+    "description": "Protect hybrid cloud workloads",
+    "key": "azure-defender"
   },
   {
     "name": "Azure Dedicated HSM",
-    "description": "Manage hardware security modules that you use in the cloud"
+    "description": "Manage hardware security modules that you use in the cloud",
+    "key": "azure-dedicated-hsm"
   },
   {
     "name": "Key Vault",
-    "description": "Safeguard and maintain control of keys and other secrets"
+    "description": "Safeguard and maintain control of keys and other secrets",
+    "key": "key-vault"
   },
   {
     "name": "Microsoft Azure Attestation",
-    "description": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it"
+    "description": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it",
+    "key": "microsoft-azure-attestation"
   },
   {
     "name": "Archive Storage",
-    "description": "Industry-leading price point for storing rarely accessed data"
+    "description": "Industry-leading price point for storing rarely accessed data",
+    "key": "archive-storage"
   },
   {
     "name": "Avere vFXT for Azure",
-    "description": "Run high-performance, file-based workloads in the cloud"
+    "description": "Run high-performance, file-based workloads in the cloud",
+    "key": "avere-vfxt-for-azure"
   },
   {
     "name": "Azure Files",
-    "description": "File shares that use the standard SMB 3.0 protocol"
+    "description": "File shares that use the standard SMB 3.0 protocol",
+    "key": "azure-files"
   },
   {
     "name": "Azure FXT Edge Filer",
-    "description": "Hybrid storage optimisation solution for HPC environments"
+    "description": "Hybrid storage optimisation solution for HPC environments",
+    "key": "azure-fxt-edge-filer"
   },
   {
     "name": "Azure HPC Cache",
-    "description": "File caching for high-performance computing (HPC)"
+    "description": "File caching for high-performance computing (HPC)",
+    "key": "azure-hpc-cache"
   },
   {
     "name": "Azure NetApp Files",
-    "description": "Enterprise-grade Azure file shares, powered by NetApp"
+    "description": "Enterprise-grade Azure file shares, powered by NetApp",
+    "key": "azure-netapp-files"
   },
   {
     "name": "Azure Blob Storage",
-    "description": "Massively scalable and secure object storage"
+    "description": "Massively scalable and secure object storage",
+    "key": "azure-blob-storage"
   },
   {
     "name": "Azure Disk Storage",
-    "description": "High-performance, highly durable block storage for Azure Virtual Machines"
+    "description": "High-performance, highly durable block storage for Azure Virtual Machines",
+    "key": "azure-disk-storage"
   },
   {
     "name": "Queue Storage",
-    "description": "Effectively scale apps according to traffic"
+    "description": "Effectively scale apps according to traffic",
+    "key": "queue-storage"
   },
   {
     "name": "Storage Accounts",
-    "description": "Durable, highly available and massively scalable cloud storage"
+    "description": "Durable, highly available and massively scalable cloud storage",
+    "key": "storage-accounts"
   },
   {
     "name": "Storage Explorer",
-    "description": "View and interact with Azure Storage resources"
+    "description": "View and interact with Azure Storage resources",
+    "key": "storage-explorer"
   },
   {
     "name": "StorSimple",
-    "description": "Lower costs with an enterprise hybrid cloud storage solution"
+    "description": "Lower costs with an enterprise hybrid cloud storage solution",
+    "key": "storsimple"
   },
   {
     "name": "Azure SignalR Service",
-    "description": "Add real-time web functionalities easily"
+    "description": "Add real-time web functionalities easily",
+    "key": "azure-signalr-service"
   },
   {
     "name": "VMware Horizon Cloud on Microsoft Azure",
-    "description": "Provision Windows desktops and apps with VMware and Windows Virtual Desktop"
+    "description": "Provision Windows desktops and apps with VMware and Windows Virtual Desktop",
+    "key": "vmware-horizon-cloud-on-microsoft-azure"
   },
   {
     "name": "Citrix Virtual Apps and Desktops for Azure",
-    "description": "Provision Windows desktops and apps on Azure with Citrix and Windows Virtual Desktop"
+    "description": "Provision Windows desktops and apps on Azure with Citrix and Windows Virtual Desktop",
+    "key": "citrix-virtual-apps-and-desktops-for-azure"
   }
 ]

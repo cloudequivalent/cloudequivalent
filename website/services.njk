@@ -4,7 +4,7 @@ pagination:
   size: 1
   alias: service
   addAllPagesToCollections: true
-permalink: "{{ service.provider.key | slug }}/{{ service.slug }}/"
+permalink: "{{ service.provider.key | slug }}/{{ service.key }}/"
 layout: layouts/base.njk
 eleventyComputed:
   title: "{{ service.name }} on {{ service.provider.name }}"
