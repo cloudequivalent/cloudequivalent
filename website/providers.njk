@@ -23,7 +23,7 @@ eleventyComputed:
       {% if service.provider.key == provider.key %}
         <tr>
           <th scope="row">
-            <a href="{{ service.slug }}">{{ service.name }}</a>
+            <a href="{{ service.key }}">{{ service.name }}</a>
           </th>
           <td>{{ service.description }}</td>
         </tr>
