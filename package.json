@@ -4,7 +4,7 @@
   "description": "A guide to public cloud services and what the equivalent is with other providers",
   "main": "index.js",
   "scripts": {
-    "generate": "node data/providers.js && node data/services.js",
+    "generate": "node scripts/website.providers.js && node data/services.js",
     "watch": "npm run generate && eleventy --serve & postcss website/_assets/scss/main.scss --o _tmp/style.css --watch",
     "build": "npm run generate && ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production postcss website/_assets/scss/main.scss --o build/style.css",
     "test": "echo \"Error: no test specified\" && exit 1"
