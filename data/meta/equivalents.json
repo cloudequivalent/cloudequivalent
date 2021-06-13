@@ -34,11 +34,6 @@
         "azure-disk-storage"
     ],
     [
-        "cloud-functions",
-        "aws-lambda",
-        "azure-functions"
-    ],
-    [
         "app-engine",
         "aws-elastic-beanstalk",
         "app-service"
@@ -265,10 +260,6 @@
         "azure-ddos-protection"
     ],
     [
-        "aws-direct-connect",
-        "azure-expressroute"
-    ],
-    [
         "cloud-dns",
         "amazon-route-53",
         "azure-dns"
@@ -380,10 +371,6 @@
         "amazon-dynamodb",
         "aws-appsync",
         "azure-cosmos-db"
-    ],
-    [
-        "amazon-eventbridge",
-        "event-grid"
     ],
     [
         "knative",
@@ -517,10 +504,6 @@
         "azure-devops"
     ],
     [
-        "aws-cloudshell",
-        "cloud-shell"
-    ],
-    [
         "aws-opsworks",
         "automation"
     ],
@@ -627,10 +610,6 @@
     [
         "amazon-inspector",
         "security-center"
-    ],
-    [
-        "aws-shield",
-        "azure-ddos-protection"
     ],
     [
         "amazon-simple-storage-service-s3",
