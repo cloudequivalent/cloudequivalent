@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  deploy:
+  fetch:
     runs-on: ubuntu-20.04
     steps:
       - name: Get current date for branch name
@@ -19,7 +19,7 @@ jobs:
       - run: npm ci
       - run: node scripts/get-services.js
       - run: node scripts/website.providers.js
-      - run: node data/services.js
+      - run: node scripts/website.services.js
         continue-on-error: true
       - uses: peter-evans/create-pull-request@v3
         with:
@@ -32,4 +32,3 @@ jobs:
 
             Changes:
               - Fetch service listings on ${{ steps.date.outputs.date }}
-

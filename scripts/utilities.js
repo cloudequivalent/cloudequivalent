@@ -15,6 +15,9 @@ module.exports = {
       throw new Error(`Can't find meta information for ${key} at ${filepath}`)
     }
   },
+  getEquivalents () {
+    return require(path.resolve(__dirname, '../data/meta/equivalents.json'))
+  },
   async getRemote (key, url, bodySelector, nameSelector, descriptionSelector) {
     try {
       const { data } = await axios.get(url)
