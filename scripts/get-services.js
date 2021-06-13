@@ -1,10 +1,9 @@
 const path = require('path')
 const fs = require('fs').promises
-const providers = ['azure', 'gcp', 'aws']
 const utilities = require('./utilities');
 
 (async () => {
-  for (const provider of providers) {
+  for (const provider of utilities.getProviders()) {
     try {
       // Get local provider information
       const meta = utilities.getProvider(provider)

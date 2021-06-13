@@ -4,6 +4,9 @@ const cheerio = require('cheerio')
 const slugify = require('slugify')
 
 module.exports = {
+  getProviders () {
+    return ['aws', 'azure', 'gcp']
+  },
   getProvider (key) {
     const filepath = path.resolve(__dirname, `../data/${key}/meta.json`)
     try {

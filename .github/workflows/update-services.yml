@@ -18,7 +18,7 @@ jobs:
           node-version: '14'
       - run: npm ci
       - run: node scripts/get-services.js
-      - run: node data/providers.js
+      - run: node scripts/website.providers.js
       - run: node data/services.js
         continue-on-error: true
       - uses: peter-evans/create-pull-request@v3
