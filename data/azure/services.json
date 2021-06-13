@@ -1,5 +1,9 @@
 [
   {
+    "name": "Microsoft 365 (formerly Office365)",
+    "description": "Your productivity cloud across work and life."
+  },
+  {
     "name": "Anomaly detector",
     "description": "Easily add anomaly detection capabilities to your apps."
   },

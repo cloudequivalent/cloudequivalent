@@ -4270,6 +4270,16 @@
     },
     "equivalents": [
       {
+        "name": "Microsoft 365 (formerly Office365)",
+        "description": "Your productivity cloud across work and life.",
+        "slug": "microsoft-365-formerly-office365",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
         "name": "Google Workspace",
         "description": "An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI.",
         "slug": "google-workspace",
@@ -4302,6 +4312,16 @@
       "accentColour": "#FF9900"
     },
     "equivalents": [
+      {
+        "name": "Microsoft 365 (formerly Office365)",
+        "description": "Your productivity cloud across work and life.",
+        "slug": "microsoft-365-formerly-office365",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
       {
         "name": "Google Workspace",
         "description": "An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI.",
@@ -9498,6 +9518,16 @@
           "key": "aws",
           "accentColour": "#FF9900"
         }
+      },
+      {
+        "name": "Microsoft 365 (formerly Office365)",
+        "description": "Your productivity cloud across work and life.",
+        "slug": "microsoft-365-formerly-office365",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
       }
     ]
   },
@@ -10024,6 +10054,48 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Microsoft 365 (formerly Office365)",
+    "description": "Your productivity cloud across work and life.",
+    "slug": "microsoft-365-formerly-office365",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure",
+      "accentColour": "#0089d6"
+    },
+    "equivalents": [
+      {
+        "name": "Amazon WorkDocs",
+        "description": "Secure enterprise document storage and sharing",
+        "slug": "amazon-workdocs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Amazon WorkMail",
+        "description": "Secure and Managed Business Email and Calendaring",
+        "slug": "amazon-workmail",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Google Workspace",
+        "description": "An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI.",
+        "slug": "google-workspace",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]

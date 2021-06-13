@@ -1,5 +1,17 @@
 {
   "name": "Microsoft Azure (Azure)",
   "key": "azure",
-  "accentColour": "#0089d6"
+  "accentColour": "#0089d6",
+  "remote": {
+    "url": "https://azure.microsoft.com/en-gb/services/",
+    "bodySelector": "#products-list .column",
+    "nameSelector": "h3.text-heading5 a span",
+    "descriptionSelector": "p.text-body4"
+  },
+  "unlistedServices": [
+    {
+      "name": "Microsoft 365 (formerly Office365)",
+      "description": "Your productivity cloud across work and life."
+    }
+  ]
 }
