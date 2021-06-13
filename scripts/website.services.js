@@ -20,16 +20,14 @@ const utilities = require('./utilities');
   const allEquivalents = utilities.getEquivalents()
   const equivalents = services.map(service => {
     // Get equivalents
-    const findEquivalent = allEquivalents.find(equivalent => {
-      return equivalent.includes(service.key)
-    })
+    const findEquivalent = allEquivalents[service.provider.key + '.' + service.key] || {}
 
     return {
       ...service,
       equivalents: findEquivalent ? findEquivalent.map(equivalent => {
         // Map equivalents to full service objects
         return services.find(service => {
-          return service.key === equivalent
+          return service.key === equivalent.split('.')[1]
         })
       }).filter(equivalent => {
         // Filter out services from the same provider

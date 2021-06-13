@@ -1,0 +1,1719 @@
+{
+  "aws.amazon-athena": [
+    "gcp.bigquery",
+    "aws.amazon-athena",
+    "azure.azure-synapse-analytics",
+    "aws.amazon-redshift"
+  ],
+  "aws.amazon-cloudsearch": [
+    "aws.amazon-cloudsearch",
+    "azure.azure-cognitive-search"
+  ],
+  "aws.amazon-elasticsearch-service": [],
+  "aws.amazon-emr": [
+    "gcp.dataproc",
+    "aws.amazon-emr",
+    "aws.aws-batch",
+    "aws.aws-glue",
+    "azure.data-lake-analytics",
+    "azure.hdinsight"
+  ],
+  "aws.amazon-finspace": [],
+  "aws.amazon-kinesis": [
+    "aws.amazon-kinesis",
+    "azure.event-hubs",
+    "gcp.pubsub"
+  ],
+  "aws.amazon-managed-streaming-for-apache-kafka": [],
+  "aws.amazon-redshift": [
+    "gcp.bigquery",
+    "aws.amazon-athena",
+    "azure.azure-synapse-analytics",
+    "aws.amazon-redshift"
+  ],
+  "aws.amazon-quicksight": [
+    "gcp.looker",
+    "aws.amazon-quicksight",
+    "azure.power-bi-embedded"
+  ],
+  "aws.aws-data-exchange": [],
+  "aws.aws-data-pipeline": [
+    "gcp.cloud-data-fusion",
+    "aws.amazon-appflow",
+    "aws.aws-data-pipeline",
+    "aws.aws-glue",
+    "azure.azure-data-factory"
+  ],
+  "aws.aws-glue": [
+    "azure.data-catalog",
+    "aws.aws-glue",
+    "azure.azure-purview-preview"
+  ],
+  "aws.aws-lake-formation": [
+    "aws.aws-lake-formation",
+    "azure.azure-data-share"
+  ],
+  "aws.aws-step-functions": [
+    "gcp.workflows",
+    "aws.aws-step-functions",
+    "azure.azure-functions"
+  ],
+  "aws.amazon-appflow": [
+    "gcp.cloud-data-fusion",
+    "aws.amazon-appflow",
+    "aws.aws-data-pipeline",
+    "aws.aws-glue",
+    "azure.azure-data-factory"
+  ],
+  "aws.amazon-eventbridge": [
+    "aws.amazon-eventbridge",
+    "azure.event-grid"
+  ],
+  "aws.amazon-managed-workflows-for-apache-airflow": [
+    "gcp.cloud-composer",
+    "aws.aws-data-pipeline",
+    "aws.aws-glue",
+    "aws.amazon-managed-workflows-for-apache-airflow",
+    "azure.azure-data-factory"
+  ],
+  "aws.amazon-mq": [],
+  "aws.amazon-simple-notification-service-sns": [
+    "gcp.pubsub",
+    "aws.amazon-simple-notification-service-sns",
+    "aws.amazon-simple-queue-service-sqs",
+    "azure.service-bus"
+  ],
+  "aws.amazon-simple-queue-service-sqs": [
+    "gcp.pubsub",
+    "aws.amazon-simple-notification-service-sns",
+    "aws.amazon-simple-queue-service-sqs",
+    "azure.service-bus"
+  ],
+  "aws.amazon-appsync": [],
+  "aws.aws-cost-explorer": [
+    "aws.aws-cost-explorer",
+    "gcp.cost-management"
+  ],
+  "aws.aws-budgets": [
+    "gcp.cost-management",
+    "aws.aws-budgets"
+  ],
+  "aws.aws-cost-and-usage-report": [],
+  "aws.reserved-instance-reporting": [],
+  "aws.savings-plans": [],
+  "aws.amazon-managed-blockchain": [],
+  "aws.amazon-quantum-ledger-database-qldb": [],
+  "aws.alexa-for-business": [],
+  "aws.amazon-chime": [],
+  "aws.amazon-honeycode-beta": [],
+  "aws.amazon-workdocs": [
+    "aws.amazon-workdocs",
+    "aws.amazon-workmail",
+    "azure.microsoft-365-formerly-office365",
+    "gcp.google-workspace"
+  ],
+  "aws.amazon-workmail": [
+    "aws.amazon-workdocs",
+    "aws.amazon-workmail",
+    "azure.microsoft-365-formerly-office365",
+    "gcp.google-workspace"
+  ],
+  "aws.amazon-ec2": [
+    "gcp.compute-engine",
+    "gcp.cloud-gpus",
+    "aws.amazon-ec2",
+    "azure.virtual-machines"
+  ],
+  "aws.amazon-ec2-auto-scaling": [
+    "aws.amazon-ec2-auto-scaling",
+    "azure.virtual-machine-scale-sets"
+  ],
+  "aws.amazon-lightsail": [
+    "aws.amazon-lightsail",
+    "azure.app-service"
+  ],
+  "aws.aws-app-runner": [
+    "gcp.cloud-run",
+    "aws.aws-fargate",
+    "aws.aws-app-runner",
+    "aws.aws-lambda",
+    "azure.container-instances"
+  ],
+  "aws.aws-batch": [
+    "gcp.dataproc",
+    "aws.amazon-emr",
+    "aws.aws-batch",
+    "aws.aws-glue",
+    "azure.data-lake-analytics",
+    "azure.hdinsight"
+  ],
+  "aws.aws-elastic-beanstalk": [
+    "gcp.app-engine",
+    "aws.aws-elastic-beanstalk",
+    "azure.app-service"
+  ],
+  "aws.aws-lambda": [
+    "gcp.cloud-functions",
+    "aws.aws-lambda",
+    "azure.azure-functions"
+  ],
+  "aws.aws-outposts": [
+    "gcp.anthos",
+    "aws.aws-outposts",
+    "azure.azure-arc"
+  ],
+  "aws.aws-serverless-application-repository": [],
+  "aws.aws-snow-family": [
+    "gcp.transfer-appliance",
+    "aws.aws-snow-family",
+    "azure.azure-data-box"
+  ],
+  "aws.aws-wavelength": [],
+  "aws.vmware-cloud-on-aws": [
+    "gcp.vmware-engine",
+    "aws.vmware-cloud-on-aws",
+    "azure.azure-vmware-solution"
+  ],
+  "aws.amazon-elastic-container-registry": [
+    "gcp.artifact-registry",
+    "aws.amazon-elastic-container-registry",
+    "azure.container-registry"
+  ],
+  "aws.amazon-elastic-container-service-ecs": [
+    "gcp.container-security",
+    "azure.security-center",
+    "aws.amazon-elastic-container-service-ecs"
+  ],
+  "aws.amazon-ecs-anywhere": [],
+  "aws.amazon-elastic-kubernetes-service-eks": [
+    "gcp.google-kubernetes-engine",
+    "gcp.google-kubernetes-engine-gke",
+    "aws.amazon-elastic-kubernetes-service-eks",
+    "azure.azure-kubernetes-service-aks"
+  ],
+  "aws.amazon-eks-anywhere-coming-soon": [],
+  "aws.amazon-eks-distro": [],
+  "aws.aws-app2container": [
+    "gcp.migrate-for-anthos",
+    "aws.aws-app2container",
+    "azure.azure-migrate"
+  ],
+  "aws.aws-copilot": [],
+  "aws.aws-fargate": [
+    "gcp.cloud-run",
+    "aws.aws-fargate",
+    "aws.aws-app-runner",
+    "aws.aws-lambda",
+    "azure.container-instances"
+  ],
+  "aws.red-hat-openshift-service-on-aws": [],
+  "aws.amazon-connect": [],
+  "aws.amazon-pinpoint": [],
+  "aws.amazon-simple-email-service-ses": [],
+  "aws.amazon-aurora": [
+    "gcp.cloud-spanner",
+    "aws.amazon-aurora",
+    "azure.azure-sql-database"
+  ],
+  "aws.amazon-aurora-serverless-v2-preview": [
+    "gcp.cloud-sql",
+    "aws.amazon-rds",
+    "aws.amazon-aurora",
+    "aws.amazon-aurora-serverless-v2-preview",
+    "azure.azure-database-for-mysql",
+    "azure.azure-database-for-postgresql",
+    "azure.azure-sql-database"
+  ],
+  "aws.amazon-dynamodb": [
+    "gcp.firestore",
+    "aws.amazon-documentdb-with-mongodb-compatibility",
+    "aws.amazon-dynamodb",
+    "aws.aws-appsync",
+    "azure.azure-cosmos-db"
+  ],
+  "aws.amazon-documentdb-with-mongodb-compatibility": [
+    "gcp.firestore",
+    "aws.amazon-documentdb-with-mongodb-compatibility",
+    "aws.amazon-dynamodb",
+    "aws.aws-appsync",
+    "azure.azure-cosmos-db"
+  ],
+  "aws.amazon-elasticache": [
+    "gcp.memorystore",
+    "aws.amazon-elasticache",
+    "azure.azure-cache-for-redis"
+  ],
+  "aws.amazon-keyspaces-for-apache-cassandra": [],
+  "aws.amazon-neptune": [],
+  "aws.amazon-rds": [
+    "gcp.cloud-sql",
+    "aws.amazon-rds",
+    "aws.amazon-aurora",
+    "aws.amazon-aurora-serverless-v2-preview",
+    "azure.azure-database-for-mysql",
+    "azure.azure-database-for-postgresql",
+    "azure.azure-sql-database"
+  ],
+  "aws.amazon-rds-on-vmware": [],
+  "aws.amazon-timestream": [],
+  "aws.aws-database-migration-service": [
+    "gcp.database-migration-service",
+    "aws.aws-database-migration-service",
+    "azure.azure-database-migration-service"
+  ],
+  "aws.amazon-codeguru": [
+    "gcp.cloud-profiler",
+    "aws.amazon-codeguru",
+    "azure.azure-monitor"
+  ],
+  "aws.amazon-corretto": [],
+  "aws.aws-cloud-development-kit-cdk": [],
+  "aws.aws-cloud9": [],
+  "aws.aws-cloudshell": [
+    "azure.cloud-shell",
+    "aws.aws-cloudshell"
+  ],
+  "aws.aws-codeartifact": [],
+  "aws.aws-codebuild": [
+    "gcp.cloud-build",
+    "aws.aws-codebuild",
+    "aws.aws-codedeploy",
+    "aws.aws-codepipeline",
+    "azure.azure-devops"
+  ],
+  "aws.aws-codecommit": [
+    "aws.aws-codedeploy",
+    "aws.aws-codecommit",
+    "aws.aws-codepipeline",
+    "aws.aws-codebuild",
+    "azure.azure-devops"
+  ],
+  "aws.aws-codedeploy": [
+    "gcp.cloud-build",
+    "aws.aws-codebuild",
+    "aws.aws-codedeploy",
+    "aws.aws-codepipeline",
+    "azure.azure-devops"
+  ],
+  "aws.aws-codepipeline": [
+    "gcp.cloud-build",
+    "aws.aws-codebuild",
+    "aws.aws-codedeploy",
+    "aws.aws-codepipeline",
+    "azure.azure-devops"
+  ],
+  "aws.aws-codestar": [],
+  "aws.aws-command-line-interface": [],
+  "aws.aws-device-farm": [
+    "gcp.firebase-test-lab",
+    "aws.aws-device-farm",
+    "azure.visual-studio-app-centre"
+  ],
+  "aws.aws-fault-injection-simulator": [],
+  "aws.aws-tools-and-sdks": [
+    "gcp.cloud-sdk",
+    "aws.aws-tools-and-sdks"
+  ],
+  "aws.aws-x-ray": [
+    "gcp.cloud-debugger",
+    "gcp.cloud-trace",
+    "aws.aws-x-ray",
+    "azure.azure-monitor"
+  ],
+  "aws.amazon-appstream-20": [],
+  "aws.amazon-worklink": [],
+  "aws.amazon-workspaces": [],
+  "aws.aws-amplify": [],
+  "aws.amazon-api-gateway": [
+    "gcp.apigee-api-management",
+    "gcp.api-gateway",
+    "azure.api-management",
+    "aws.amazon-api-gateway"
+  ],
+  "aws.amazon-location-service-preview": [],
+  "aws.aws-appsync": [
+    "gcp.firestore",
+    "aws.amazon-documentdb-with-mongodb-compatibility",
+    "aws.amazon-dynamodb",
+    "aws.aws-appsync",
+    "azure.azure-cosmos-db"
+  ],
+  "aws.amazon-gamelift": [],
+  "aws.amazon-lumberyard": [],
+  "aws.aws-iot-core": [
+    "aws.aws-iot-core",
+    "azure.azure-iot-hub",
+    "gcp.iot-core"
+  ],
+  "aws.aws-greengrass": [
+    "aws.aws-greengrass",
+    "azure.azure-iot-edge"
+  ],
+  "aws.aws-iot-1-click": [],
+  "aws.aws-iot-analytics": [],
+  "aws.aws-iot-button": [],
+  "aws.aws-iot-device-defender": [],
+  "aws.aws-iot-device-management": [],
+  "aws.aws-iot-events": [],
+  "aws.aws-iot-sitewise": [],
+  "aws.aws-iot-things-graph": [
+    "aws.aws-iot-things-graph",
+    "azure.azure-digital-twins"
+  ],
+  "aws.aws-partner-device-catalog": [],
+  "aws.freertos": [],
+  "aws.amazon-sagemaker": [
+    "gcp.automl-tables-beta",
+    "aws.amazon-sagemaker",
+    "azure.azure-machine-learning"
+  ],
+  "aws.amazon-augmented-ai": [],
+  "aws.amazon-comprehend": [
+    "gcp.cloud-natural-language",
+    "aws.amazon-comprehend",
+    "azure.text-analytics"
+  ],
+  "aws.amazon-devops-guru": [],
+  "aws.amazon-elastic-inference": [],
+  "aws.amazon-forecast": [],
+  "aws.amazon-fraud-detector": [],
+  "aws.amazon-healthlake": [],
+  "aws.amazon-kendra": [],
+  "aws.amazon-lex": [
+    "gcp.dialogflow",
+    "aws.amazon-lex",
+    "azure.language-understanding"
+  ],
+  "aws.amazon-lookout-for-equipment": [],
+  "aws.amazon-lookout-for-metrics": [],
+  "aws.amazon-lookout-for-vision": [],
+  "aws.amazon-monitron": [],
+  "aws.amazon-personalize": [
+    "gcp.recommendations-ai",
+    "aws.amazon-personalize",
+    "azure.personaliser"
+  ],
+  "aws.amazon-polly": [],
+  "aws.amazon-rekognition": [
+    "gcp.video-ai",
+    "aws.amazon-rekognition",
+    "azure.azure-video-analyzer-preview",
+    "azure.azure-cognitive-services"
+  ],
+  "aws.amazon-sagemaker-data-wrangler": [],
+  "aws.amazon-sagemaker-ground-truth": [],
+  "aws.amazon-textract": [
+    "aws.amazon-textract",
+    "azure.computer-vision"
+  ],
+  "aws.amazon-translate": [
+    "aws.amazon-translate",
+    "azure.translator"
+  ],
+  "aws.amazon-transcribe": [
+    "azure.speech-to-text",
+    "aws.amazon-transcribe"
+  ],
+  "aws.aws-deep-learning-amis": [],
+  "aws.aws-deep-learning-containers": [],
+  "aws.aws-deepcomposer": [],
+  "aws.aws-deeplens": [],
+  "aws.aws-deepracer": [],
+  "aws.aws-inferentia": [],
+  "aws.aws-panorama-preview": [],
+  "aws.pytorch-on-aws": [],
+  "aws.apache-mxnet-on-aws": [],
+  "aws.tensorflow-on-aws": [
+    "gcp.tensorflow-enterprise",
+    "aws.tensorflow-on-aws",
+    "azure.azure-databricks"
+  ],
+  "aws.amazon-cloudwatch": [
+    "gcp.cloud-logging",
+    "gcp.cloud-monitoring",
+    "aws.amazon-cloudwatch",
+    "azure.azure-monitor"
+  ],
+  "aws.aws-auto-scaling": [],
+  "aws.aws-chatbot": [],
+  "aws.aws-cloudformation": [
+    "gcp.cloud-deployment-manager",
+    "aws.aws-cloudformation"
+  ],
+  "aws.aws-cloudtrail": [
+    "aws.aws-cloudtrail",
+    "azure.azure-monitor"
+  ],
+  "aws.aws-compute-optimizer": [],
+  "aws.aws-config": [
+    "gcp.cloud-asset-inventory",
+    "aws.aws-config"
+  ],
+  "aws.aws-control-tower": [],
+  "aws.aws-console-mobile-application": [],
+  "aws.aws-distro-for-opentelemetry-preview": [],
+  "aws.aws-license-manager": [],
+  "aws.aws-management-console": [
+    "aws.aws-management-console",
+    "azure.microsoft-azure-portal"
+  ],
+  "aws.aws-managed-services": [],
+  "aws.amazon-managed-service-for-grafana": [],
+  "aws.amazon-managed-service-for-prometheus": [],
+  "aws.aws-opsworks": [
+    "gcp.resource-manager",
+    "aws.aws-opsworks",
+    "azure.azure-resource-manager"
+  ],
+  "aws.aws-organizations": [],
+  "aws.aws-personal-health-dashboard": [],
+  "aws.aws-proton": [],
+  "aws.aws-service-catalog": [],
+  "aws.aws-systems-manager": [
+    "aws.aws-systems-manager",
+    "azure.azure-monitor"
+  ],
+  "aws.aws-trusted-advisor": [
+    "aws.aws-trusted-advisor",
+    "azure.azure-advisor"
+  ],
+  "aws.aws-well-architected-tool": [],
+  "aws.amazon-elastic-transcoder": [],
+  "aws.amazon-interactive-video-service": [],
+  "aws.amazon-kinesis-video-streams": [
+    "aws.amazon-kinesis-video-streams",
+    "azure.event-hubs"
+  ],
+  "aws.aws-elemental-mediaconnect": [],
+  "aws.aws-elemental-mediaconvert": [],
+  "aws.aws-elemental-medialive": [],
+  "aws.aws-elemental-mediapackage": [],
+  "aws.aws-elemental-mediastore": [],
+  "aws.aws-elemental-mediatailor": [],
+  "aws.aws-elemental-appliances-and-software": [],
+  "aws.aws-nimble-studio": [],
+  "aws.aws-migration-hub": [],
+  "aws.aws-application-discovery-service": [
+    "aws.aws-application-discovery-service",
+    "azure.azure-migrate"
+  ],
+  "aws.aws-application-migration-service-cloudendure-migration": [],
+  "aws.aws-datasync": [],
+  "aws.aws-server-migration-service": [
+    "gcp.migrate-for-compute-engine",
+    "aws.aws-server-migration-service",
+    "azure.azure-migrate"
+  ],
+  "aws.aws-transfer-family": [],
+  "aws.migration-evaluator-formerly-tso-logic": [],
+  "aws.amazon-vpc": [
+    "aws.amazon-vpc",
+    "gcp.virtual-private-cloud-vpc",
+    "azure.virtual-network"
+  ],
+  "aws.amazon-cloudfront": [
+    "gcp.cloud-cdn",
+    "aws.amazon-cloudfront",
+    "azure.content-delivery-network"
+  ],
+  "aws.amazon-route-53": [
+    "gcp.cloud-dns",
+    "aws.amazon-route-53",
+    "azure.azure-dns"
+  ],
+  "aws.aws-privatelink": [],
+  "aws.aws-app-mesh": [
+    "gcp.traffic-director",
+    "gcp.anthos-service-mesh",
+    "aws.aws-app-mesh",
+    "azure.service-fabric"
+  ],
+  "aws.aws-cloud-map": [
+    "gcp.service-directory",
+    "aws.aws-cloud-map"
+  ],
+  "aws.aws-direct-connect": [
+    "gcp.hybrid-connectivity",
+    "aws.aws-direct-connect",
+    "azure.azure-expressroute"
+  ],
+  "aws.aws-global-accelerator": [
+    "aws.aws-global-accelerator",
+    "azure.azure-front-door"
+  ],
+  "aws.aws-transit-gateway": [],
+  "aws.elastic-load-balancing": [
+    "gcp.cloud-load-balancing",
+    "aws.elastic-load-balancing",
+    "azure.load-balancing"
+  ],
+  "aws.amazon-braket": [],
+  "aws.aws-robomaker": [],
+  "aws.aws-ground-station": [],
+  "aws.aws-identity-and-access-management": [],
+  "aws.amazon-cognito": [
+    "gcp.identity-platform",
+    "aws.amazon-cognito",
+    "azure.azure-active-directory"
+  ],
+  "aws.amazon-detective": [],
+  "aws.amazon-guardduty": [
+    "gcp.security-command-center",
+    "aws.amazon-guardduty",
+    "aws.aws-security-hub",
+    "azure.azure-defender",
+    "azure.security-center"
+  ],
+  "aws.amazon-inspector": [
+    "aws.amazon-inspector",
+    "azure.security-center"
+  ],
+  "aws.amazon-macie": [
+    "gcp.cloud-data-loss-prevention",
+    "aws.amazon-macie",
+    "azure.azure-information-protection"
+  ],
+  "aws.aws-artifact": [],
+  "aws.aws-audit-manager": [],
+  "aws.aws-certificate-manager": [
+    "gcp.certificate-authority-service-beta",
+    "aws.aws-certificate-manager",
+    "azure.azure-active-directory-domain-services"
+  ],
+  "aws.aws-cloudhsm": [],
+  "aws.aws-directory-service": [
+    "aws.aws-directory-service",
+    "azure.azure-active-directory-domain-services"
+  ],
+  "aws.aws-firewall-manager": [],
+  "aws.aws-key-management-service": [
+    "gcp.cloud-key-management",
+    "aws.aws-key-management-service",
+    "azure.key-vault"
+  ],
+  "aws.aws-network-firewall": [],
+  "aws.aws-resource-access-manager": [],
+  "aws.aws-secrets-manager": [
+    "gcp.secret-manager",
+    "aws.aws-secrets-manager",
+    "azure.key-vault"
+  ],
+  "aws.aws-security-hub": [
+    "gcp.security-command-center",
+    "aws.amazon-guardduty",
+    "aws.aws-security-hub",
+    "azure.azure-defender",
+    "azure.security-center"
+  ],
+  "aws.aws-shield": [
+    "aws.aws-shield",
+    "azure.azure-ddos-protection"
+  ],
+  "aws.aws-single-sign-on": [],
+  "aws.aws-waf": [
+    "gcp.cloud-armor",
+    "azure.web-application-firewall",
+    "aws.aws-waf"
+  ],
+  "aws.amazon-simple-storage-service-s3": [
+    "gcp.cloud-storage-for-firebase",
+    "aws.amazon-simple-storage-service-s3",
+    "azure.azure-blob-storage",
+    "gcp.cloud-storage"
+  ],
+  "aws.amazon-elastic-block-store-ebs": [
+    "aws.amazon-elastic-block-store-ebs",
+    "gcp.persistent-disk",
+    "azure.azure-disk-storage"
+  ],
+  "aws.amazon-elastic-file-system-efs": [
+    "gcp.filestore",
+    "aws.amazon-elastic-file-system-efs",
+    "azure.azure-disk-storage",
+    "azure.azure-files"
+  ],
+  "aws.amazon-fsx-for-lustre": [],
+  "aws.amazon-fsx-for-windows-file-server": [],
+  "aws.amazon-s3-glacier": [
+    "aws.amazon-s3-glacier",
+    "azure.azure-blob-storage"
+  ],
+  "aws.aws-backup": [
+    "aws.aws-backup",
+    "azure.azure-backup"
+  ],
+  "aws.aws-storage-gateway": [
+    "gcp.storage-transfer-service",
+    "aws.aws-storage-gateway",
+    "azure.azure-migrate"
+  ],
+  "aws.cloudendure-disaster-recovery": [],
+  "aws.amazon-sumerian": [],
+  "azure.microsoft-365-formerly-office365": [
+    "aws.amazon-workdocs",
+    "aws.amazon-workmail",
+    "azure.microsoft-365-formerly-office365",
+    "gcp.google-workspace"
+  ],
+  "azure.anomaly-detector": [],
+  "azure.azure-bot-service": [],
+  "azure.azure-cognitive-search": [
+    "aws.amazon-cloudsearch",
+    "azure.azure-cognitive-search"
+  ],
+  "azure.azure-databricks": [
+    "gcp.tensorflow-enterprise",
+    "aws.tensorflow-on-aws",
+    "azure.azure-databricks"
+  ],
+  "azure.azure-machine-learning": [
+    "gcp.automl-tables-beta",
+    "aws.amazon-sagemaker",
+    "azure.azure-machine-learning"
+  ],
+  "azure.azure-open-datasets": [],
+  "azure.azure-cognitive-services": [
+    "gcp.video-ai",
+    "aws.amazon-rekognition",
+    "azure.azure-video-analyzer-preview",
+    "azure.azure-cognitive-services"
+  ],
+  "azure.azure-video-analyzer-preview": [
+    "gcp.video-ai",
+    "aws.amazon-rekognition",
+    "azure.azure-video-analyzer-preview",
+    "azure.azure-cognitive-services"
+  ],
+  "azure.computer-vision": [
+    "aws.amazon-textract",
+    "azure.computer-vision"
+  ],
+  "azure.content-moderator": [],
+  "azure.custom-vision": [],
+  "azure.data-science-virtual-machines": [],
+  "azure.face": [],
+  "azure.azure-form-recognizer": [],
+  "azure.azure-immersive-reader": [],
+  "azure.kinect-dk": [],
+  "azure.language-understanding": [
+    "gcp.dialogflow",
+    "aws.amazon-lex",
+    "azure.language-understanding"
+  ],
+  "azure.microsoft-genomics": [],
+  "azure.personaliser": [
+    "gcp.recommendations-ai",
+    "aws.amazon-personalize",
+    "azure.personaliser"
+  ],
+  "azure.project-bonsai-preview": [],
+  "azure.qna-maker": [],
+  "azure.speaker-recognition-preview": [],
+  "azure.speech-to-text": [
+    "azure.speech-to-text",
+    "aws.amazon-transcribe"
+  ],
+  "azure.speech-translation": [],
+  "azure.text-analytics": [
+    "gcp.cloud-natural-language",
+    "aws.amazon-comprehend",
+    "azure.text-analytics"
+  ],
+  "azure.text-to-speech": [],
+  "azure.translator": [
+    "aws.amazon-translate",
+    "azure.translator"
+  ],
+  "azure.azure-metrics-advisor-preview": [],
+  "azure.health-bot": [],
+  "azure.azure-percept-preview": [],
+  "azure.azure-applied-ai-services": [],
+  "azure.azure-analysis-services": [],
+  "azure.azure-data-explorer": [
+    "aws.amazon-emr",
+    "azure.azure-data-explorer",
+    "azure.azure-databricks",
+    "azure.hdinsight",
+    "azure.azure-data-lake-storage"
+  ],
+  "azure.azure-data-lake-storage": [
+    "aws.amazon-emr",
+    "azure.azure-data-explorer",
+    "azure.azure-databricks",
+    "azure.hdinsight",
+    "azure.azure-data-lake-storage"
+  ],
+  "azure.azure-data-share": [
+    "aws.aws-lake-formation",
+    "azure.azure-data-share"
+  ],
+  "azure.azure-stream-analytics": [
+    "gcp.dataflow",
+    "aws.amazon-kinesis",
+    "azure.azure-stream-analytics"
+  ],
+  "azure.azure-synapse-analytics": [
+    "gcp.bigquery",
+    "aws.amazon-athena",
+    "azure.azure-synapse-analytics",
+    "aws.amazon-redshift"
+  ],
+  "azure.data-catalog": [
+    "azure.data-catalog",
+    "aws.aws-glue",
+    "azure.azure-purview-preview"
+  ],
+  "azure.azure-data-factory": [
+    "gcp.cloud-data-fusion",
+    "aws.amazon-appflow",
+    "aws.aws-data-pipeline",
+    "aws.aws-glue",
+    "azure.azure-data-factory"
+  ],
+  "azure.data-lake-analytics": [
+    "gcp.dataproc",
+    "aws.amazon-emr",
+    "aws.aws-batch",
+    "aws.aws-glue",
+    "azure.data-lake-analytics",
+    "azure.hdinsight"
+  ],
+  "azure.event-hubs": [
+    "aws.amazon-kinesis",
+    "azure.event-hubs",
+    "gcp.pubsub"
+  ],
+  "azure.hdinsight": [
+    "gcp.dataproc",
+    "aws.amazon-emr",
+    "aws.aws-batch",
+    "aws.aws-glue",
+    "azure.data-lake-analytics",
+    "azure.hdinsight"
+  ],
+  "azure.power-bi-embedded": [
+    "gcp.looker",
+    "aws.amazon-quicksight",
+    "azure.power-bi-embedded"
+  ],
+  "azure.r-server-for-hdinsight": [],
+  "azure.azure-purview-preview": [
+    "azure.data-catalog",
+    "aws.aws-glue",
+    "azure.azure-purview-preview"
+  ],
+  "azure.microsoft-graph-data-connect-preview": [],
+  "azure.azure-blockchain-service-preview": [],
+  "azure.azure-blockchain-workbench-preview": [],
+  "azure.azure-cosmos-db": [
+    "gcp.firestore",
+    "aws.amazon-documentdb-with-mongodb-compatibility",
+    "aws.amazon-dynamodb",
+    "aws.aws-appsync",
+    "azure.azure-cosmos-db"
+  ],
+  "azure.azure-logic-apps": [],
+  "azure.microsoft-azure-confidential-ledger-preview": [],
+  "azure.api-apps": [],
+  "azure.app-service": [
+    "gcp.app-engine",
+    "aws.aws-elastic-beanstalk",
+    "azure.app-service"
+  ],
+  "azure.azure-cyclecloud": [],
+  "azure.azure-functions": [
+    "gcp.cloud-functions",
+    "aws.aws-lambda",
+    "azure.azure-functions"
+  ],
+  "azure.azure-kubernetes-service-aks": [
+    "gcp.google-kubernetes-engine",
+    "gcp.google-kubernetes-engine-gke",
+    "aws.amazon-elastic-kubernetes-service-eks",
+    "azure.azure-kubernetes-service-aks"
+  ],
+  "azure.azure-quantum-preview": [],
+  "azure.azure-spring-cloud": [],
+  "azure.azure-vmware-solution": [
+    "gcp.vmware-engine",
+    "aws.vmware-cloud-on-aws",
+    "azure.azure-vmware-solution"
+  ],
+  "azure.batch": [
+    "aws.aws-batch",
+    "azure.batch"
+  ],
+  "azure.cloud-services": [],
+  "azure.container-instances": [
+    "gcp.cloud-run",
+    "aws.aws-fargate",
+    "aws.aws-app-runner",
+    "aws.aws-lambda",
+    "azure.container-instances"
+  ],
+  "azure.linux-virtual-machines": [],
+  "azure.mobile-apps": [],
+  "azure.service-fabric": [
+    "gcp.traffic-director",
+    "gcp.anthos-service-mesh",
+    "aws.aws-app-mesh",
+    "azure.service-fabric"
+  ],
+  "azure.sql-server-on-virtual-machines": [],
+  "azure.static-web-apps": [],
+  "azure.virtual-machine-scale-sets": [
+    "aws.amazon-ec2-auto-scaling",
+    "azure.virtual-machine-scale-sets"
+  ],
+  "azure.virtual-machines": [
+    "gcp.compute-engine",
+    "gcp.cloud-gpus",
+    "aws.amazon-ec2",
+    "azure.virtual-machines"
+  ],
+  "azure.web-apps": [],
+  "azure.windows-virtual-desktop": [],
+  "azure.azure-dedicated-host": [],
+  "azure.azure-vm-image-builder": [],
+  "azure.azure-red-hat-openshift": [],
+  "azure.container-registry": [
+    "gcp.artifact-registry",
+    "aws.amazon-elastic-container-registry",
+    "azure.container-registry"
+  ],
+  "azure.web-app-for-containers": [],
+  "azure.azure-api-for-fhir": [],
+  "azure.azure-cache-for-redis": [
+    "gcp.memorystore",
+    "aws.amazon-elasticache",
+    "azure.azure-cache-for-redis"
+  ],
+  "azure.azure-database-for-mariadb": [],
+  "azure.azure-database-for-mysql": [
+    "gcp.cloud-sql",
+    "aws.amazon-rds",
+    "aws.amazon-aurora",
+    "aws.amazon-aurora-serverless-v2-preview",
+    "azure.azure-database-for-mysql",
+    "azure.azure-database-for-postgresql",
+    "azure.azure-sql-database"
+  ],
+  "azure.azure-database-for-postgresql": [
+    "gcp.cloud-sql",
+    "aws.amazon-rds",
+    "aws.amazon-aurora",
+    "aws.amazon-aurora-serverless-v2-preview",
+    "azure.azure-database-for-mysql",
+    "azure.azure-database-for-postgresql",
+    "azure.azure-sql-database"
+  ],
+  "azure.azure-database-migration-service": [
+    "gcp.database-migration-service",
+    "aws.aws-database-migration-service",
+    "azure.azure-database-migration-service"
+  ],
+  "azure.azure-sql": [],
+  "azure.azure-sql-database": [
+    "gcp.cloud-spanner",
+    "aws.amazon-aurora",
+    "azure.azure-sql-database"
+  ],
+  "azure.azure-sql-edge": [],
+  "azure.azure-sql-managed-instance": [],
+  "azure.table-storage": [
+    "aws.amazon-dynamodb",
+    "azure.table-storage",
+    "azure.azure-cosmos-db"
+  ],
+  "azure.azure-managed-instance-for-apache-cassandra-preview": [],
+  "azure.app-configuration": [],
+  "azure.azure-devops": [
+    "gcp.cloud-build",
+    "aws.aws-codebuild",
+    "aws.aws-codedeploy",
+    "aws.aws-codepipeline",
+    "azure.azure-devops"
+  ],
+  "azure.azure-devtest-labs": [],
+  "azure.azure-lab-services": [],
+  "azure.azure-pipelines": [],
+  "azure.sdks": [],
+  "azure.visual-studio": [],
+  "azure.visual-studio-code": [],
+  "azure.azure-artifacts": [],
+  "azure.azure-boards": [],
+  "azure.azure-monitor": [
+    "gcp.cloud-debugger",
+    "gcp.cloud-trace",
+    "aws.aws-x-ray",
+    "azure.azure-monitor"
+  ],
+  "azure.azure-repos": [],
+  "azure.azure-test-plans": [],
+  "azure.devops-tool-integrations": [],
+  "azure.azure-active-directory": [
+    "gcp.identity-platform",
+    "aws.amazon-cognito",
+    "azure.azure-active-directory"
+  ],
+  "azure.azure-arc": [
+    "gcp.anthos",
+    "aws.aws-outposts",
+    "azure.azure-arc"
+  ],
+  "azure.azure-expressroute": [
+    "gcp.hybrid-connectivity",
+    "aws.aws-direct-connect",
+    "azure.azure-expressroute"
+  ],
+  "azure.azure-iot-edge": [
+    "aws.aws-greengrass",
+    "azure.azure-iot-edge"
+  ],
+  "azure.azure-sentinel": [],
+  "azure.azure-stack": [],
+  "azure.security-center": [
+    "gcp.container-security",
+    "azure.security-center",
+    "aws.amazon-elastic-container-service-ecs"
+  ],
+  "azure.azure-stack-hci": [],
+  "azure.azure-stack-hub": [],
+  "azure.azure-stack-edge": [],
+  "azure.azure-modular-data-centre": [],
+  "azure.azure-active-directory-domain-services": [
+    "gcp.certificate-authority-service-beta",
+    "aws.aws-certificate-manager",
+    "azure.azure-active-directory-domain-services"
+  ],
+  "azure.azure-information-protection": [
+    "gcp.cloud-data-loss-prevention",
+    "aws.amazon-macie",
+    "azure.azure-information-protection"
+  ],
+  "azure.azure-active-directory-external-identities": [],
+  "azure.api-management": [
+    "gcp.apigee-api-management",
+    "gcp.api-gateway",
+    "azure.api-management",
+    "aws.amazon-api-gateway"
+  ],
+  "azure.event-grid": [
+    "aws.amazon-eventbridge",
+    "azure.event-grid"
+  ],
+  "azure.service-bus": [
+    "gcp.pubsub",
+    "aws.amazon-simple-notification-service-sns",
+    "aws.amazon-simple-queue-service-sqs",
+    "azure.service-bus"
+  ],
+  "azure.azure-web-pubsub-preview": [],
+  "azure.azure-digital-twins": [
+    "aws.aws-iot-things-graph",
+    "azure.azure-digital-twins"
+  ],
+  "azure.azure-iot-central": [],
+  "azure.azure-iot-hub": [
+    "aws.aws-iot-core",
+    "azure.azure-iot-hub",
+    "gcp.iot-core"
+  ],
+  "azure.azure-iot-solution-accelerators": [],
+  "azure.azure-maps": [],
+  "azure.azure-rtos": [],
+  "azure.azure-sphere": [],
+  "azure.azure-time-series-insights": [],
+  "azure.notification-hubs": [],
+  "azure.windows-10-iot-core-services": [],
+  "azure.azure-defender-for-iot": [],
+  "azure.windows-iot-enterprise": [],
+  "azure.automation": [
+    "aws.aws-opsworks",
+    "azure.automation"
+  ],
+  "azure.azure-advisor": [
+    "gcp.recommender",
+    "gcp.cost-management",
+    "azure.azure-advisor"
+  ],
+  "azure.azure-backup": [
+    "aws.aws-backup",
+    "azure.azure-backup"
+  ],
+  "azure.azure-blueprints-preview": [],
+  "azure.azure-lighthouse": [],
+  "azure.azure-managed-applications": [],
+  "azure.azure-migrate": [
+    "gcp.migrate-for-anthos",
+    "aws.aws-app2container",
+    "azure.azure-migrate"
+  ],
+  "azure.azure-mobile-app": [],
+  "azure.azure-policy": [],
+  "azure.azure-resource-manager": [
+    "gcp.resource-manager",
+    "aws.aws-opsworks",
+    "azure.azure-resource-manager"
+  ],
+  "azure.azure-resource-manager-templates": [],
+  "azure.azure-service-health": [],
+  "azure.azure-site-recovery": [],
+  "azure.cloud-shell": [
+    "azure.cloud-shell",
+    "aws.aws-cloudshell"
+  ],
+  "azure.azure-cost-management-and-billing": [
+    "azure.azure-cost-management-and-billing"
+  ],
+  "azure.microsoft-azure-portal": [
+    "aws.aws-management-console",
+    "azure.microsoft-azure-portal"
+  ],
+  "azure.network-watcher": [],
+  "azure.traffic-manager": [
+    "aws.amazon-route-53",
+    "azure.azure-dns",
+    "gcp.cloud-dns",
+    "azure.traffic-manager"
+  ],
+  "azure.azure-automanage-preview": [],
+  "azure.azure-resource-mover": [],
+  "azure.azure-media-player": [],
+  "azure.content-delivery-network": [
+    "gcp.cloud-cdn",
+    "aws.amazon-cloudfront",
+    "azure.content-delivery-network"
+  ],
+  "azure.content-protection": [],
+  "azure.encoding": [],
+  "azure.live-and-on-demand-streaming": [],
+  "azure.media-services": [],
+  "azure.azure-data-box": [
+    "gcp.transfer-appliance",
+    "aws.aws-snow-family",
+    "azure.azure-data-box"
+  ],
+  "azure.azure-remote-rendering": [],
+  "azure.spatial-anchors": [],
+  "azure.object-anchors-preview": [],
+  "azure.visual-studio-app-centre": [
+    "gcp.firebase-test-lab",
+    "aws.aws-device-farm",
+    "azure.visual-studio-app-centre"
+  ],
+  "azure.xamarin": [],
+  "azure.azure-communication-services": [],
+  "azure.application-gateway": [],
+  "azure.azure-bastion": [],
+  "azure.azure-ddos-protection": [
+    "aws.aws-shield",
+    "azure.azure-ddos-protection"
+  ],
+  "azure.azure-dns": [
+    "gcp.cloud-dns",
+    "aws.amazon-route-53",
+    "azure.azure-dns"
+  ],
+  "azure.azure-firewall": [
+    "azure.web-application-firewall",
+    "azure.azure-firewall",
+    "aws.aws-waf"
+  ],
+  "azure.load-balancing": [
+    "gcp.cloud-load-balancing",
+    "aws.elastic-load-balancing",
+    "azure.load-balancing"
+  ],
+  "azure.azure-firewall-manager": [],
+  "azure.azure-front-door": [
+    "aws.aws-global-accelerator",
+    "azure.azure-front-door"
+  ],
+  "azure.azure-internet-analyzer-preview": [],
+  "azure.azure-private-link": [],
+  "azure.virtual-network": [
+    "aws.amazon-vpc",
+    "gcp.virtual-private-cloud-vpc",
+    "azure.virtual-network"
+  ],
+  "azure.virtual-wan": [],
+  "azure.vpn-gateway": [],
+  "azure.web-application-firewall": [
+    "gcp.cloud-armor",
+    "azure.web-application-firewall",
+    "aws.aws-waf"
+  ],
+  "azure.azure-orbital-preview": [],
+  "azure.azure-route-server-preview": [],
+  "azure.azure-defender": [
+    "azure.azure-defender",
+    "aws.amazon-elastic-container-registry"
+  ],
+  "azure.azure-dedicated-hsm": [],
+  "azure.key-vault": [
+    "gcp.secret-manager",
+    "aws.aws-secrets-manager",
+    "azure.key-vault"
+  ],
+  "azure.microsoft-azure-attestation": [],
+  "azure.archive-storage": [],
+  "azure.avere-vfxt-for-azure": [],
+  "azure.azure-files": [
+    "gcp.filestore",
+    "aws.amazon-elastic-file-system-efs",
+    "azure.azure-disk-storage",
+    "azure.azure-files"
+  ],
+  "azure.azure-fxt-edge-filer": [],
+  "azure.azure-hpc-cache": [],
+  "azure.azure-netapp-files": [],
+  "azure.azure-blob-storage": [
+    "gcp.cloud-storage-for-firebase",
+    "aws.amazon-simple-storage-service-s3",
+    "azure.azure-blob-storage",
+    "gcp.cloud-storage"
+  ],
+  "azure.azure-disk-storage": [
+    "aws.amazon-elastic-block-store-ebs",
+    "gcp.persistent-disk",
+    "azure.azure-disk-storage"
+  ],
+  "azure.queue-storage": [
+    "aws.amazon-simple-queue-service-sqs",
+    "azure.queue-storage",
+    "azure.service-bus"
+  ],
+  "azure.storage-accounts": [],
+  "azure.storage-explorer": [],
+  "azure.storsimple": [
+    "aws.aws-storage-gateway",
+    "azure.storsimple"
+  ],
+  "azure.azure-signalr-service": [],
+  "azure.vmware-horizon-cloud-on-microsoft-azure": [],
+  "azure.citrix-virtual-apps-and-desktops-for-azure": [],
+  "gcp.compute-engine": [
+    "gcp.compute-engine",
+    "gcp.cloud-gpus",
+    "aws.amazon-ec2",
+    "azure.virtual-machines"
+  ],
+  "gcp.cloud-storage": [
+    "gcp.cloud-storage-for-firebase",
+    "aws.amazon-simple-storage-service-s3",
+    "azure.azure-blob-storage",
+    "gcp.cloud-storage"
+  ],
+  "gcp.cloud-sdk": [
+    "gcp.cloud-sdk",
+    "aws.aws-tools-and-sdks"
+  ],
+  "gcp.cloud-sql": [
+    "gcp.cloud-sql",
+    "aws.amazon-rds",
+    "aws.amazon-aurora",
+    "aws.amazon-aurora-serverless-v2-preview",
+    "azure.azure-database-for-mysql",
+    "azure.azure-database-for-postgresql",
+    "azure.azure-sql-database"
+  ],
+  "gcp.google-kubernetes-engine": [
+    "gcp.google-kubernetes-engine",
+    "gcp.google-kubernetes-engine-gke",
+    "aws.amazon-elastic-kubernetes-service-eks",
+    "azure.azure-kubernetes-service-aks"
+  ],
+  "gcp.bigquery": [
+    "gcp.bigquery",
+    "aws.amazon-athena",
+    "azure.azure-synapse-analytics",
+    "aws.amazon-redshift"
+  ],
+  "gcp.cloud-cdn": [
+    "gcp.cloud-cdn",
+    "aws.amazon-cloudfront",
+    "azure.content-delivery-network"
+  ],
+  "gcp.dataflow": [
+    "gcp.dataflow",
+    "aws.amazon-kinesis",
+    "azure.azure-stream-analytics"
+  ],
+  "gcp.operations": [],
+  "gcp.cloud-run": [
+    "gcp.cloud-run",
+    "aws.aws-fargate",
+    "aws.aws-app-runner",
+    "aws.aws-lambda",
+    "azure.container-instances"
+  ],
+  "gcp.anthos": [
+    "gcp.anthos",
+    "aws.aws-outposts",
+    "azure.azure-arc"
+  ],
+  "gcp.cloud-functions": [
+    "gcp.cloud-functions",
+    "aws.aws-lambda",
+    "azure.azure-functions"
+  ],
+  "gcp.vertex-ai": [],
+  "gcp.deep-learning-vm-image": [],
+  "gcp.notebooks": [],
+  "gcp.deep-learning-containers": [],
+  "gcp.vertex-data-labeling": [],
+  "gcp.tensorflow-enterprise": [
+    "gcp.tensorflow-enterprise",
+    "aws.tensorflow-on-aws",
+    "azure.azure-databricks"
+  ],
+  "gcp.ai-building-blocks": [],
+  "gcp.automl": [],
+  "gcp.vision-ai": [],
+  "gcp.video-ai": [
+    "gcp.video-ai",
+    "aws.amazon-rekognition",
+    "azure.azure-video-analyzer-preview",
+    "azure.azure-cognitive-services"
+  ],
+  "gcp.cloud-natural-language": [
+    "gcp.cloud-natural-language",
+    "aws.amazon-comprehend",
+    "azure.text-analytics"
+  ],
+  "gcp.cloud-translation": [],
+  "gcp.media-translation-beta": [],
+  "gcp.text-to-speech": [],
+  "gcp.speech-to-text": [
+    "azure.speech-to-text",
+    "aws.amazon-transcribe"
+  ],
+  "gcp.dialogflow": [
+    "gcp.dialogflow",
+    "aws.amazon-lex",
+    "azure.language-understanding"
+  ],
+  "gcp.automl-tables-beta": [
+    "gcp.automl-tables-beta",
+    "aws.amazon-sagemaker",
+    "azure.azure-machine-learning"
+  ],
+  "gcp.cloud-inference-api-alpha": [],
+  "gcp.recommendations-ai": [
+    "gcp.recommendations-ai",
+    "aws.amazon-personalize",
+    "azure.personaliser"
+  ],
+  "gcp.ai-infrastructure": [],
+  "gcp.cloud-gpus": [
+    "gcp.compute-engine",
+    "gcp.cloud-gpus",
+    "aws.amazon-ec2",
+    "azure.virtual-machines"
+  ],
+  "gcp.cloud-tpu": [],
+  "gcp.apigee-api-platform": [],
+  "gcp.healthapix": [],
+  "gcp.apigee-hybrid": [],
+  "gcp.appsheet-automation": [],
+  "gcp.appsheet": [],
+  "gcp.apigee-open-banking-apix": [],
+  "gcp.apigee-sense": [],
+  "gcp.cloud-endpoints": [],
+  "gcp.cloud-healthcare-api": [],
+  "gcp.api-gateway": [
+    "gcp.apigee-api-management",
+    "gcp.api-gateway",
+    "azure.api-management",
+    "aws.amazon-api-gateway"
+  ],
+  "gcp.app-engine": [
+    "gcp.app-engine",
+    "aws.aws-elastic-beanstalk",
+    "azure.app-service"
+  ],
+  "gcp.bare-metal": [
+    "gcp.bare-metal",
+    "aws.amazon-rds"
+  ],
+  "gcp.migrate-for-compute-engine": [
+    "gcp.migrate-for-compute-engine",
+    "aws.aws-server-migration-service",
+    "azure.azure-migrate"
+  ],
+  "gcp.preemptible-vms": [],
+  "gcp.recommender": [
+    "gcp.recommender",
+    "gcp.cost-management",
+    "azure.azure-advisor"
+  ],
+  "gcp.shielded-vms": [],
+  "gcp.sole-tenant-nodes": [],
+  "gcp.sql-server-on-google-cloud": [],
+  "gcp.vmware-engine": [
+    "gcp.vmware-engine",
+    "aws.vmware-cloud-on-aws",
+    "azure.azure-vmware-solution"
+  ],
+  "gcp.artifact-registry": [
+    "gcp.artifact-registry",
+    "aws.amazon-elastic-container-registry",
+    "azure.container-registry"
+  ],
+  "gcp.cloud-build": [
+    "gcp.cloud-build",
+    "aws.aws-codebuild",
+    "aws.aws-codedeploy",
+    "aws.aws-codepipeline",
+    "azure.azure-devops"
+  ],
+  "gcp.container-registry": [
+    "gcp.artifact-registry",
+    "aws.amazon-elastic-container-registry",
+    "azure.container-registry"
+  ],
+  "gcp.container-security": [
+    "gcp.container-security",
+    "azure.security-center",
+    "aws.amazon-elastic-container-service-ecs"
+  ],
+  "gcp.google-kubernetes-engine-gke": [
+    "gcp.google-kubernetes-engine",
+    "gcp.google-kubernetes-engine-gke",
+    "aws.amazon-elastic-kubernetes-service-eks",
+    "azure.azure-kubernetes-service-aks"
+  ],
+  "gcp.knative": [
+    "gcp.knative",
+    "aws.aws-fargate",
+    "azure.azure-kubernetes-service-aks"
+  ],
+  "gcp.kubernetes-applications-on-google-cloud-marketplace": [],
+  "gcp.looker": [
+    "gcp.looker",
+    "aws.amazon-quicksight",
+    "azure.power-bi-embedded"
+  ],
+  "gcp.dataproc": [
+    "gcp.dataproc",
+    "aws.amazon-emr",
+    "aws.aws-batch",
+    "aws.aws-glue",
+    "azure.data-lake-analytics",
+    "azure.hdinsight"
+  ],
+  "gcp.pubsub": [
+    "gcp.pubsub",
+    "aws.amazon-simple-notification-service-sns",
+    "aws.amazon-simple-queue-service-sqs",
+    "azure.service-bus"
+  ],
+  "gcp.cloud-data-fusion": [
+    "gcp.cloud-data-fusion",
+    "aws.amazon-appflow",
+    "aws.aws-data-pipeline",
+    "aws.aws-glue",
+    "azure.azure-data-factory"
+  ],
+  "gcp.data-catalog": [
+    "azure.data-catalog",
+    "aws.aws-glue",
+    "azure.azure-purview-preview"
+  ],
+  "gcp.cloud-composer": [
+    "gcp.cloud-composer",
+    "aws.aws-data-pipeline",
+    "aws.aws-glue",
+    "aws.amazon-managed-workflows-for-apache-airflow",
+    "azure.azure-data-factory"
+  ],
+  "gcp.dataprep": [],
+  "gcp.dataplex": [],
+  "gcp.analytics-hub": [],
+  "gcp.google-data-studio": [],
+  "gcp.google-marketing-platform": [],
+  "gcp.cloud-life-sciences-beta": [],
+  "gcp.cloud-bigtable": [
+    "gcp.cloud-bigtable",
+    "aws.amazon-dynamodb",
+    "azure.azure-cosmos-db"
+  ],
+  "gcp.cloud-spanner": [
+    "gcp.cloud-spanner",
+    "aws.amazon-aurora",
+    "azure.azure-sql-database"
+  ],
+  "gcp.database-migration-service": [
+    "gcp.database-migration-service",
+    "aws.aws-database-migration-service",
+    "azure.azure-database-migration-service"
+  ],
+  "gcp.firestore": [
+    "gcp.firestore",
+    "aws.amazon-documentdb-with-mongodb-compatibility",
+    "aws.amazon-dynamodb",
+    "aws.aws-appsync",
+    "azure.azure-cosmos-db"
+  ],
+  "gcp.firebase-realtime-database": [
+    "gcp.firebase-realtime-database",
+    "aws.amazon-dynamodb",
+    "aws.aws-appsync",
+    "azure.azure-cosmos-db"
+  ],
+  "gcp.memorystore": [
+    "gcp.memorystore",
+    "aws.amazon-elasticache",
+    "azure.azure-cache-for-redis"
+  ],
+  "gcp.datastream": [],
+  "gcp.cloud-code": [],
+  "gcp.cloud-scheduler": [],
+  "gcp.cloud-source-repositories": [],
+  "gcp.cloud-tasks": [],
+  "gcp.firebase-crashlytics": [],
+  "gcp.firebase-test-lab": [
+    "gcp.firebase-test-lab",
+    "aws.aws-device-farm",
+    "azure.visual-studio-app-centre"
+  ],
+  "gcp.gradle-app-engine-plugin": [],
+  "gcp.maven-app-engine-plugin": [],
+  "gcp.tekton": [],
+  "gcp.tools-for-eclipse": [],
+  "gcp.tools-for-powershell": [],
+  "gcp.apigee-healthcare-apix": [],
+  "gcp.healthcare-natural-language-ai": [],
+  "gcp.apigee-api-management": [
+    "gcp.apigee-api-management",
+    "gcp.api-gateway",
+    "azure.api-management",
+    "aws.amazon-api-gateway"
+  ],
+  "gcp.migrate-for-anthos": [
+    "gcp.migrate-for-anthos",
+    "aws.aws-app2container",
+    "azure.azure-migrate"
+  ],
+  "gcp.edge-tpu": [],
+  "gcp.iot-core": [
+    "aws.aws-iot-core",
+    "azure.azure-iot-hub",
+    "gcp.iot-core"
+  ],
+  "gcp.anthos-service-mesh": [
+    "gcp.traffic-director",
+    "gcp.anthos-service-mesh",
+    "aws.aws-app-mesh",
+    "azure.service-fabric"
+  ],
+  "gcp.cloud-apis": [],
+  "gcp.cloud-console": [],
+  "gcp.cloud-deployment-manager": [
+    "gcp.cloud-deployment-manager",
+    "aws.aws-cloudformation"
+  ],
+  "gcp.cloud-mobile-app": [],
+  "gcp.cloud-shell": [
+    "azure.cloud-shell",
+    "aws.aws-cloudshell"
+  ],
+  "gcp.cost-management": [
+    "gcp.recommender",
+    "gcp.cost-management",
+    "azure.azure-advisor"
+  ],
+  "gcp.private-catalog": [],
+  "gcp.game-servers": [],
+  "gcp.opencue": [],
+  "gcp.transcoder-api-beta": [],
+  "gcp.application-migration": [],
+  "gcp.bigquery-data-transfer-service": [],
+  "gcp.cloud-foundation-toolkit": [],
+  "gcp.transfer-appliance": [
+    "gcp.transfer-appliance",
+    "aws.aws-snow-family",
+    "azure.azure-data-box"
+  ],
+  "gcp.cloud-armor": [
+    "gcp.cloud-armor",
+    "azure.web-application-firewall",
+    "aws.aws-waf"
+  ],
+  "gcp.cloud-domains": [
+    "gcp.cloud-domains",
+    "aws.amazon-route-53",
+    "azure.app-service"
+  ],
+  "gcp.cloud-dns": [
+    "gcp.cloud-dns",
+    "aws.amazon-route-53",
+    "azure.azure-dns"
+  ],
+  "gcp.cloud-load-balancing": [
+    "gcp.cloud-load-balancing",
+    "aws.elastic-load-balancing",
+    "azure.load-balancing"
+  ],
+  "gcp.cloud-nat": [],
+  "gcp.hybrid-connectivity": [
+    "gcp.hybrid-connectivity",
+    "aws.aws-direct-connect",
+    "azure.azure-expressroute"
+  ],
+  "gcp.network-connectivity-center": [],
+  "gcp.network-intelligence-center": [],
+  "gcp.network-service-tiers": [],
+  "gcp.network-telemetry": [],
+  "gcp.service-directory": [
+    "gcp.service-directory",
+    "aws.aws-cloud-map"
+  ],
+  "gcp.traffic-director": [
+    "gcp.traffic-director",
+    "gcp.anthos-service-mesh",
+    "aws.aws-app-mesh",
+    "azure.service-fabric"
+  ],
+  "gcp.virtual-private-cloud-vpc": [
+    "aws.amazon-vpc",
+    "gcp.virtual-private-cloud-vpc",
+    "azure.virtual-network"
+  ],
+  "gcp.cloud-debugger": [
+    "gcp.cloud-debugger",
+    "gcp.cloud-trace",
+    "aws.aws-x-ray",
+    "azure.azure-monitor"
+  ],
+  "gcp.cloud-logging": [
+    "gcp.cloud-logging",
+    "gcp.cloud-monitoring",
+    "aws.amazon-cloudwatch",
+    "azure.azure-monitor"
+  ],
+  "gcp.cloud-monitoring": [
+    "gcp.cloud-logging",
+    "gcp.cloud-monitoring",
+    "aws.amazon-cloudwatch",
+    "azure.azure-monitor"
+  ],
+  "gcp.cloud-profiler": [
+    "gcp.cloud-profiler",
+    "aws.amazon-codeguru",
+    "azure.azure-monitor"
+  ],
+  "gcp.cloud-trace": [
+    "gcp.cloud-debugger",
+    "gcp.cloud-trace",
+    "aws.aws-x-ray",
+    "azure.azure-monitor"
+  ],
+  "gcp.kubernetes-engine-monitoring": [],
+  "gcp.access-transparency": [],
+  "gcp.assured-workloads": [],
+  "gcp.binary-authorization": [],
+  "gcp.chronicle": [],
+  "gcp.cloud-asset-inventory": [
+    "gcp.cloud-asset-inventory",
+    "aws.aws-config"
+  ],
+  "gcp.cloud-data-loss-prevention": [
+    "gcp.cloud-data-loss-prevention",
+    "aws.amazon-macie",
+    "azure.azure-information-protection"
+  ],
+  "gcp.cloud-key-management": [
+    "gcp.cloud-key-management",
+    "aws.aws-key-management-service",
+    "azure.key-vault"
+  ],
+  "gcp.confidential-computing": [],
+  "gcp.firewalls": [],
+  "gcp.risk-protection-program-preview": [],
+  "gcp.secret-manager": [
+    "gcp.secret-manager",
+    "aws.aws-secrets-manager",
+    "azure.key-vault"
+  ],
+  "gcp.security-command-center": [
+    "gcp.security-command-center",
+    "aws.amazon-guardduty",
+    "aws.aws-security-hub",
+    "azure.azure-defender",
+    "azure.security-center"
+  ],
+  "gcp.vpc-service-controls": [],
+  "gcp.beyondcorp-enterprise": [],
+  "gcp.certificate-authority-service-beta": [
+    "gcp.certificate-authority-service-beta",
+    "aws.aws-certificate-manager",
+    "azure.azure-active-directory-domain-services"
+  ],
+  "gcp.cloud-identity": [
+    "gcp.cloud-identity",
+    "gcp.identity-and-access-management",
+    "azure.azure-active-directory"
+  ],
+  "gcp.identity-and-access-management": [
+    "gcp.cloud-identity",
+    "gcp.identity-and-access-management",
+    "azure.azure-active-directory"
+  ],
+  "gcp.identity-aware-proxy": [],
+  "gcp.identity-platform": [
+    "gcp.identity-platform",
+    "aws.amazon-cognito",
+    "azure.azure-active-directory"
+  ],
+  "gcp.managed-service-for-microsoft-active-directory": [],
+  "gcp.policy-intelligence": [],
+  "gcp.resource-manager": [
+    "gcp.resource-manager",
+    "aws.aws-opsworks",
+    "azure.azure-resource-manager"
+  ],
+  "gcp.titan-security-key": [],
+  "gcp.recaptcha-enterprise": [],
+  "gcp.web-risk": [],
+  "gcp.workflows": [
+    "gcp.workflows",
+    "aws.aws-step-functions",
+    "azure.azure-functions"
+  ],
+  "gcp.archive-storage": [],
+  "gcp.storage-transfer-service": [
+    "gcp.storage-transfer-service",
+    "aws.aws-storage-gateway",
+    "azure.azure-migrate"
+  ],
+  "gcp.cloud-storage-for-firebase": [
+    "gcp.cloud-storage-for-firebase",
+    "aws.amazon-simple-storage-service-s3",
+    "azure.azure-blob-storage",
+    "gcp.cloud-storage"
+  ],
+  "gcp.filestore": [
+    "gcp.filestore",
+    "aws.amazon-elastic-file-system-efs",
+    "azure.azure-disk-storage",
+    "azure.azure-files"
+  ],
+  "gcp.google-workspace-essentials": [],
+  "gcp.local-ssd": [],
+  "gcp.persistent-disk": [
+    "aws.amazon-elastic-block-store-ebs",
+    "gcp.persistent-disk",
+    "azure.azure-disk-storage"
+  ],
+  "gcp.google-workspace": [
+    "aws.amazon-workdocs",
+    "aws.amazon-workmail",
+    "azure.microsoft-365-formerly-office365",
+    "gcp.google-workspace"
+  ],
+  "gcp.google-meet": [],
+  "gcp.chrome-enterprise": [],
+  "gcp.google-maps-platform": []
+}
