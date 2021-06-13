@@ -5,19 +5,16 @@ const utilities = require('./utilities');
 (async () => {
   for (const provider of utilities.getProviders()) {
     try {
-      // Get local provider information
-      const meta = utilities.getProvider(provider)
-
       // Get remote provider services
-      const remoteServices = await utilities.getRemote(meta.key, meta.remote.url, meta.remote.bodySelector, meta.remote.nameSelector, meta.remote.descriptionSelector)
+      const remoteServices = await utilities.getRemote(provider.key, provider.extra.remote.url, provider.extra.remote.bodySelector, provider.extra.remote.nameSelector, provider.extra.remote.descriptionSelector)
 
       // Get or set unlisted services
-      const unlistedServices = Object.keys(meta).includes('unlistedServices') ? meta.unlistedServices : []
+      const extraServices = Object.keys(provider.extra).includes('services') ? provider.extra.services : []
 
-      // Merge unlisted services (i.e. manually added services) and remote services
-      const services = [...unlistedServices, ...remoteServices]
+      // Merge extra services (i.e. manually added services) and remote services
+      const services = [...extraServices, ...remoteServices]
 
-      await fs.writeFile(path.resolve(__dirname, `../data/${meta.key}/services.json`), JSON.stringify(services, null, 2))
+      await fs.writeFile(path.resolve(__dirname, `../data/${provider.key}/services.json`), JSON.stringify(services, null, 2))
     } catch (e) {
       console.error(e)
     }

@@ -2,10 +2,12 @@
   "name": "Google Cloud Platform (GCP)",
   "key": "gcp",
   "accentColour": "#1a73e8",
-  "remote": {
-    "url": "https://cloud.google.com/products",
-    "bodySelector": ".cloud-card-standard__body",
-    "nameSelector": ".cloud-card-standard__headline",
-    "descriptionSelector": ".cloud-card-standard__body-text"
+  "extra": {
+    "remote": {
+      "url": "https://cloud.google.com/products",
+      "bodySelector": ".cloud-card-standard__body",
+      "nameSelector": ".cloud-card-standard__headline",
+      "descriptionSelector": ".cloud-card-standard__body-text"
+    }
   }
 }
