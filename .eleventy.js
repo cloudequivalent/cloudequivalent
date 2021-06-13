@@ -1,3 +1,4 @@
+const htmlmin = require('html-minifier')
 const now = String(Date.now())
 
 module.exports = function (eleventyConfig) {
@@ -17,6 +18,19 @@ module.exports = function (eleventyConfig) {
 
   // Don't use .gitignore
   eleventyConfig.setUseGitIgnore(false)
+
+  // Minify HTML output
+  eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+    if (outputPath && outputPath.endsWith('.html')) {
+      return htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true
+      })
+    }
+
+    return content
+  })
 
   return {
     dir: {
