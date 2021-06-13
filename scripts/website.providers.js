@@ -4,16 +4,7 @@ const utilities = require('./utilities');
 
 (async () => {
   // Get local provider definitions
-  const providers = utilities.getProviders().map(provider => {
-    return utilities.getProvider(provider)
-  }).map(provider => {
-    // Return only required data
-    return {
-      name: provider.name,
-      key: provider.key,
-      accentColour: provider.accentColour
-    }
-  })
+  const providers = utilities.getProviders(true)
 
   // Sort alphabetically
   const sorted = utilities.sort(providers, 'name')

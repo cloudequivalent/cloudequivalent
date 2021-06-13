@@ -3,9 +3,16 @@ const axios = require('axios')
 const cheerio = require('cheerio')
 const slugify = require('slugify')
 
-module.exports = {
-  getProviders () {
-    return ['aws', 'azure', 'gcp']
+const utilities = {
+  getProviders (slim = false) {
+    return ['aws', 'azure', 'gcp'].map(provider => {
+      return utilities.getProvider(provider)
+    }).map(provider => {
+      if (slim) {
+        delete provider.extra
+      }
+      return provider
+    })
   },
   getProvider (key) {
     const filepath = path.resolve(__dirname, `../data/${key}/meta.json`)
@@ -62,3 +69,5 @@ module.exports = {
     })
   }
 }
+
+module.exports = utilities
