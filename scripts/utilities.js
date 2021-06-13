@@ -23,7 +23,7 @@ const utilities = {
     }
   },
   getEquivalents () {
-    return require(path.resolve(__dirname, '../data/meta/equivalents.json'))
+    return require(path.resolve(__dirname, '../data/equivalents.json'))
   },
   async getRemote (key, url, bodySelector, nameSelector, descriptionSelector) {
     try {
