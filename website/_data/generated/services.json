@@ -142,13 +142,13 @@
     },
     "equivalents": [
       {
-        "name": "API Management",
-        "description": "Publish APIs to developers, partners and employees securely and at scale",
-        "key": "api-management",
+        "name": "API Gateway",
+        "description": "Open your data and service to users",
+        "key": "api-gateway",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure",
-          "accentColour": "#0089d6"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -159,6 +159,26 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "API Management",
+        "description": "Publish APIs to developers, partners and employees securely and at scale",
+        "key": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "API Gateway",
+        "description": "API Gateway",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -172,37 +192,25 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
-  },
-  {
-    "name": "API Gateway",
-    "description": "API Gateway",
-    "key": "api-gateway",
-    "provider": {
-      "name": "Oracle Cloud Infrastructure (OCI)",
-      "key": "oracle-cloud",
-      "accentColour": "#C74634"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "API Management",
-    "description": "Publish APIs to developers, partners and employees securely and at scale",
-    "key": "api-management",
-    "provider": {
-      "name": "Microsoft Azure (Azure)",
-      "key": "azure",
-      "accentColour": "#0089d6"
-    },
     "equivalents": [
       {
-        "name": "Apigee API Management",
-        "description": "API management, development, and security platform.",
-        "key": "apigee-api-management",
+        "name": "Amazon API Gateway",
+        "description": "Build, Deploy, and Manage APIs",
+        "key": "amazon-api-gateway",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "API Management",
+        "description": "Publish APIs to developers, partners and employees securely and at scale",
+        "key": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
         }
       },
       {
@@ -216,6 +224,38 @@
         }
       },
       {
+        "name": "API Gateway",
+        "description": "API Gateway",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
+  },
+  {
+    "name": "API Gateway",
+    "description": "API Gateway",
+    "key": "api-gateway",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": [
+      {
+        "name": "API Gateway",
+        "description": "Open your data and service to users",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon API Gateway",
         "description": "Build, Deploy, and Manage APIs",
         "key": "amazon-api-gateway",
@@ -223,6 +263,78 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "API Management",
+        "description": "Publish APIs to developers, partners and employees securely and at scale",
+        "key": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "API Gateway",
+        "description": "Develop, deploy, secure, and manage APIs with a fully managed gateway.",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
+  },
+  {
+    "name": "API Management",
+    "description": "Publish APIs to developers, partners and employees securely and at scale",
+    "key": "api-management",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure",
+      "accentColour": "#0089d6"
+    },
+    "equivalents": [
+      {
+        "name": "API Gateway",
+        "description": "Open your data and service to users",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon API Gateway",
+        "description": "Build, Deploy, and Manage APIs",
+        "key": "amazon-api-gateway",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "API Gateway",
+        "description": "Develop, deploy, secure, and manage APIs with a fully managed gateway.",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "API Gateway",
+        "description": "API Gateway",
+        "key": "api-gateway",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -2659,13 +2771,23 @@
     },
     "equivalents": [
       {
-        "name": "Apigee API Management",
-        "description": "API management, development, and security platform.",
-        "key": "apigee-api-management",
+        "name": "API Gateway",
+        "description": "Open your data and service to users",
+        "key": "api-gateway",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "API Management",
+        "description": "Publish APIs to developers, partners and employees securely and at scale",
+        "key": "api-management",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
         }
       },
       {
@@ -2679,13 +2801,13 @@
         }
       },
       {
-        "name": "API Management",
-        "description": "Publish APIs to developers, partners and employees securely and at scale",
-        "key": "api-management",
+        "name": "API Gateway",
+        "description": "API Gateway",
+        "key": "api-gateway",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure",
-          "accentColour": "#0089d6"
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
