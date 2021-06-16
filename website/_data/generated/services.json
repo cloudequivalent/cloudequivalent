@@ -9924,6 +9924,17 @@
     "equivalents": []
   },
   {
+    "name": "Cloud Shell",
+    "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI).",
+    "key": "cloud-shell",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Cloud Source Repositories",
     "description": "Private Git repository to store, manage, and track code.",
     "key": "cloud-source-repositories",

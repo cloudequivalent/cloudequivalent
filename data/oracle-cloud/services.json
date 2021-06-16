@@ -5,6 +5,11 @@
     "key": "oracle-cloud-vmware-solution"
   },
   {
+    "name": "Cloud Shell",
+    "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI).",
+    "key": "cloud-shell"
+  },
+  {
     "name": "Oracle Analytics Cloud",
     "description": "Oracle Analytics Cloud",
     "key": "oracle-analytics-cloud"
