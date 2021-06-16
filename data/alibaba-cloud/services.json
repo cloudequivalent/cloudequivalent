@@ -1,0 +1,777 @@
+[
+  {
+    "name": "Elastic Compute Service",
+    "description": "High-performing virtual servers",
+    "key": "elastic-compute-service"
+  },
+  {
+    "name": "ECS Bare Metal Instance",
+    "description": "Elastic bare metal computing service",
+    "key": "ecs-bare-metal-instance"
+  },
+  {
+    "name": "Simple Application Server",
+    "description": "All-in-one services for fast deployment",
+    "key": "simple-application-server"
+  },
+  {
+    "name": "Elastic GPU Service",
+    "description": "Powerful parallel computing capabilities",
+    "key": "elastic-gpu-service"
+  },
+  {
+    "name": "Dedicated Host",
+    "description": "Your dedicated host on the cloud",
+    "key": "dedicated-host"
+  },
+  {
+    "name": "Elastic Desktop Service",
+    "description": "A secure, efficient, and easy-to-use cloud-based desktop service",
+    "key": "elastic-desktop-service"
+  },
+  {
+    "name": "Super Computing Cluster",
+    "description": "Parallel computing on a RDMA network",
+    "key": "super-computing-cluster"
+  },
+  {
+    "name": "Elastic High Performance Computing",
+    "description": "High-performing public computing service",
+    "key": "elastic-high-performance-computing"
+  },
+  {
+    "name": "Batch Compute",
+    "description": "Large-scale batch processing",
+    "key": "batch-compute"
+  },
+  {
+    "name": "Elastic Container Instance",
+    "description": "A serverless container instance service",
+    "key": "elastic-container-instance"
+  },
+  {
+    "name": "Container Service for Kubernetes",
+    "description": "A certified Kubernetes platform",
+    "key": "container-service-for-kubernetes"
+  },
+  {
+    "name": "Container Registry",
+    "description": "A secure image hosting platform",
+    "key": "container-registry"
+  },
+  {
+    "name": "Alibaba Cloud Service Mesh",
+    "description": "Unified traffic management for microservices across multiple clusters",
+    "key": "alibaba-cloud-service-mesh"
+  },
+  {
+    "name": "Auto Scaling",
+    "description": "Auto Scaling automatically adjusts computing resources based on your business cycle",
+    "key": "auto-scaling"
+  },
+  {
+    "name": "Resource Orchestration Service",
+    "description": "Simplify the Operations and Management (O&M) of your computing resources",
+    "key": "resource-orchestration-service"
+  },
+  {
+    "name": "Operation Orchestration Service",
+    "description": "Automated operations and maintenance service to manage and execute O&M tasks",
+    "key": "operation-orchestration-service"
+  },
+  {
+    "name": "Function Compute",
+    "description": "Run your code in serverless environment",
+    "key": "function-compute"
+  },
+  {
+    "name": "Serverless Workflow",
+    "description": "A serverless cloud service that orchestrates distributed tasks",
+    "key": "serverless-workflow"
+  },
+  {
+    "name": "Virtual Private Cloud",
+    "description": "Launch a private cloud network",
+    "key": "virtual-private-cloud"
+  },
+  {
+    "name": "PrivateLink",
+    "description": "Secure, convenient, and private connections to services on Alibaba Cloud",
+    "key": "privatelink"
+  },
+  {
+    "name": "Alibaba Cloud PrivateZone",
+    "description": "A private domain name management service",
+    "key": "alibaba-cloud-privatezone"
+  },
+  {
+    "name": "Server Load Balancer",
+    "description": "Distribute traffic across resources",
+    "key": "server-load-balancer"
+  },
+  {
+    "name": "NAT Gateway",
+    "description": "Public Internet gateway",
+    "key": "nat-gateway"
+  },
+  {
+    "name": "Elastic IP Address",
+    "description": "An independent public IP resource",
+    "key": "elastic-ip-address"
+  },
+  {
+    "name": "Data Transfer Plan",
+    "description": "Package for your Internet traffic usage",
+    "key": "data-transfer-plan"
+  },
+  {
+    "name": "Global Traffic Manager",
+    "description": "Global acceleration, scheduling, and disaster recovery across IP addresses",
+    "key": "global-traffic-manager"
+  },
+  {
+    "name": "Cloud Enterprise Network",
+    "description": "Create enterprise-class global network",
+    "key": "cloud-enterprise-network"
+  },
+  {
+    "name": "Global Accelerator",
+    "description": "Accelerate Internet applications globally to improve user experience",
+    "key": "global-accelerator"
+  },
+  {
+    "name": "VPN Gateway",
+    "description": "Connect securely to VPC",
+    "key": "vpn-gateway"
+  },
+  {
+    "name": "Smart Access Gateway",
+    "description": "Connect enterprise networks to cloud",
+    "key": "smart-access-gateway"
+  },
+  {
+    "name": "Express Connect",
+    "description": "Dedicated physical connections",
+    "key": "express-connect"
+  },
+  {
+    "name": "Alibaba Cloud CDN",
+    "description": "Speed up file distribution to end-users",
+    "key": "alibaba-cloud-cdn"
+  },
+  {
+    "name": "Dynamic Content Delivery Network",
+    "description": "Provide dynamic acceleration abilities",
+    "key": "dynamic-content-delivery-network"
+  },
+  {
+    "name": "Elastic Block Storage",
+    "description": "A high-performance, high-reliability, and low-latency block storage service",
+    "key": "elastic-block-storage"
+  },
+  {
+    "name": "Object Storage Service",
+    "description": "Store, backup and archive your data",
+    "key": "object-storage-service"
+  },
+  {
+    "name": "Apsara File Storage NAS",
+    "description": "File storage for ECS, HPC, Container",
+    "key": "apsara-file-storage-nas"
+  },
+  {
+    "name": "Tablestore",
+    "description": "Store data in a NoSQL database",
+    "key": "tablestore"
+  },
+  {
+    "name": "Storage Capacity Unit",
+    "description": "Plan and optimize your storage budget with flexible storage services",
+    "key": "storage-capacity-unit"
+  },
+  {
+    "name": "Log Service",
+    "description": "An all-in-one service for log-type data",
+    "key": "log-service"
+  },
+  {
+    "name": "Hybrid Backup Recovery",
+    "description": "A BaaS solution that protects your data",
+    "key": "hybrid-backup-recovery"
+  },
+  {
+    "name": "Data Transport",
+    "description": "Migrate massive data to Alibaba Cloud",
+    "key": "data-transport"
+  },
+  {
+    "name": "Hybrid Cloud Storage",
+    "description": "Enterprise-level cloud storage array",
+    "key": "hybrid-cloud-storage"
+  },
+  {
+    "name": "Cloud Storage Gateway",
+    "description": "Seamless connection to the cloud storage",
+    "key": "cloud-storage-gateway"
+  },
+  {
+    "name": "Hybrid Cloud Distributed Storage",
+    "description": "Provides scalable and reliable distributed block and object storage services.",
+    "key": "hybrid-cloud-distributed-storage"
+  },
+  {
+    "name": "PolarDB",
+    "description": "A next-generation relational database",
+    "key": "polardb"
+  },
+  {
+    "name": "Distributed Relational Database Service",
+    "description": "Be scalable for big relational databases",
+    "key": "distributed-relational-database-service"
+  },
+  {
+    "name": "ApsaraDB RDS for MySQL",
+    "description": "Featured stable and capable with MySQL",
+    "key": "apsaradb-rds-for-mysql"
+  },
+  {
+    "name": "ApsaraDB RDS for PostgreSQL",
+    "description": "Get low latency with high concurrency",
+    "key": "apsaradb-rds-for-postgresql"
+  },
+  {
+    "name": "ApsaraDB RDS for SQL Server",
+    "description": "Flexible version control and lower costs",
+    "key": "apsaradb-rds-for-sql-server"
+  },
+  {
+    "name": "ApsaraDB RDS for MariaDB TX",
+    "description": "Capable and fully managed database",
+    "key": "apsaradb-rds-for-mariadb-tx"
+  },
+  {
+    "name": "PolarDB Stack",
+    "description": "An ApsaraDB for PolarDB database appliance deployed on the premises",
+    "key": "polardb-stack"
+  },
+  {
+    "name": "ApsaraDB for OceanBase",
+    "description": "Financial-grade database: high stability, high scalability, and high performance",
+    "key": "apsaradb-for-oceanbase"
+  },
+  {
+    "name": "ApsaraDB for MyBase",
+    "description": "Solution for autonomous and controllable database service cluster on Alibaba Cloud",
+    "key": "apsaradb-for-mybase"
+  },
+  {
+    "name": "ApsaraDB for Redis",
+    "description": "In-memory database caching",
+    "key": "apsaradb-for-redis"
+  },
+  {
+    "name": "ApsaraDB for MongoDB",
+    "description": "A document-oriented database service",
+    "key": "apsaradb-for-mongodb"
+  },
+  {
+    "name": "ApsaraDB for HBase",
+    "description": "A deeply-optimized NoSQL database, 100% compatible with Apache HBase",
+    "key": "apsaradb-for-hbase"
+  },
+  {
+    "name": "ApsaraDB for Cassandra",
+    "description": "Fully compatible with Apache Cassandra and provides enterprise-grade SLA",
+    "key": "apsaradb-for-cassandra"
+  },
+  {
+    "name": "Time Series Database",
+    "description": "An IoT database with millions of IOPS",
+    "key": "time-series-database"
+  },
+  {
+    "name": "Time Series Database for InfluxDB®️",
+    "description": "A low-cost, highly available and scalable online time series database",
+    "key": "time-series-database-for-influxdbr"
+  },
+  {
+    "name": "Alibaba Cloud LedgerDB",
+    "description": "A ledger database that provides powerful data audit capabilities",
+    "key": "alibaba-cloud-ledgerdb"
+  },
+  {
+    "name": "AnalyticDB for MySQL",
+    "description": "An optimized real-time data warehouse",
+    "key": "analyticdb-for-mysql"
+  },
+  {
+    "name": "AnalyticDB for PostgreSQL",
+    "description": "An online warehousing service",
+    "key": "analyticdb-for-postgresql"
+  },
+  {
+    "name": "Data Lake Analytics",
+    "description": "Serverless interactive analytics service",
+    "key": "data-lake-analytics"
+  },
+  {
+    "name": "ApsaraDB for ClickHouse",
+    "description": "Cloud-native online data warehouse service compatible with open source ClickHouse",
+    "key": "apsaradb-for-clickhouse"
+  },
+  {
+    "name": "Data Transmission Service",
+    "description": "Data migration and data synchronization",
+    "key": "data-transmission-service"
+  },
+  {
+    "name": "Data Management",
+    "description": "An integrated data management solution",
+    "key": "data-management"
+  },
+  {
+    "name": "Database Backup",
+    "description": "A reliable and secure data backup service",
+    "key": "database-backup"
+  },
+  {
+    "name": "Database Autonomy Service",
+    "description": "A self-perception, repair, optimization, and security database service",
+    "key": "database-autonomy-service"
+  },
+  {
+    "name": "Database Gateway",
+    "description": "A private database connection service with high security and reliability",
+    "key": "database-gateway"
+  },
+  {
+    "name": "Advanced Database & Application Migration",
+    "description": "Advanced service for heterogeneous database migration",
+    "key": "advanced-database-and-application-migration"
+  },
+  {
+    "name": "Anti-DDoS",
+    "description": "Protect against high volume DDoS attacks",
+    "key": "anti-ddos"
+  },
+  {
+    "name": "Anti-DDoS Basic",
+    "description": "Basic DDoS protection integrated with ECS",
+    "key": "anti-ddos-basic"
+  },
+  {
+    "name": "Web Application Firewall",
+    "description": "Secure your web applications",
+    "key": "web-application-firewall"
+  },
+  {
+    "name": "SSL Certificates Service",
+    "description": "Apply, buy, and manage SSL certificates",
+    "key": "ssl-certificates-service"
+  },
+  {
+    "name": "Security Center",
+    "description": "Round the clock security and protection",
+    "key": "security-center"
+  },
+  {
+    "name": "Cloud Config",
+    "description": "Configuration trace and compliance audit",
+    "key": "cloud-config"
+  },
+  {
+    "name": "Cloud Firewall",
+    "description": "The first defense of network security",
+    "key": "cloud-firewall"
+  },
+  {
+    "name": "Bastionhost",
+    "description": "A system O&M and operation audit platform",
+    "key": "bastionhost"
+  },
+  {
+    "name": "ActionTrail",
+    "description": "Maintain security and compliance",
+    "key": "actiontrail"
+  },
+  {
+    "name": "Resource Access Management",
+    "description": "Authorize and manage resource access",
+    "key": "resource-access-management"
+  },
+  {
+    "name": "IDaaS",
+    "description": "Provides account, authentication, authorization, application, and audit features",
+    "key": "idaas"
+  },
+  {
+    "name": "Sensitive Data Discovery & Protection",
+    "description": "A security service that protects sensitive data",
+    "key": "sensitive-data-discovery-and-protection"
+  },
+  {
+    "name": "Key Management Service",
+    "description": "Create and manage encryption keys",
+    "key": "key-management-service"
+  },
+  {
+    "name": "Data Encryption Service",
+    "description": "Provides cloud hosted hardware security modules (HSMs) for cloud users",
+    "key": "data-encryption-service"
+  },
+  {
+    "name": "Content Moderation",
+    "description": "Image and video content moderation",
+    "key": "content-moderation"
+  },
+  {
+    "name": "Anti-Bot Service",
+    "description": "Bot defense reduces automated attacks",
+    "key": "anti-bot-service"
+  },
+  {
+    "name": "GameShield",
+    "description": "A customizable network security solution",
+    "key": "gameshield"
+  },
+  {
+    "name": "Managed Security Service",
+    "description": "Managed security service on the cloud",
+    "key": "managed-security-service"
+  },
+  {
+    "name": "Penetration Test",
+    "description": "Simulates attacks to test your system security in full scale and in depth",
+    "key": "penetration-test"
+  },
+  {
+    "name": "Alibaba Mail",
+    "description": "A public cloud-based email service",
+    "key": "alibaba-mail"
+  },
+  {
+    "name": "Robotic Process Automation",
+    "description": "Automated business processes to improve enterprise efficiency",
+    "key": "robotic-process-automation"
+  },
+  {
+    "name": "Dedicated DingTalk",
+    "description": "Customize, Integrate, and Secure Your Mobile Workspace",
+    "key": "dedicated-dingtalk"
+  },
+  {
+    "name": "Web Hosting",
+    "description": "Cloud Web Hosting from $5.90 per month",
+    "key": "web-hosting"
+  },
+  {
+    "name": "Domains",
+    "description": "Join the 20 million on Alibaba Cloud",
+    "key": "domains"
+  },
+  {
+    "name": "Alibaba Cloud DNS",
+    "description": "Manage your DNS settings",
+    "key": "alibaba-cloud-dns"
+  },
+  {
+    "name": "WHOIS",
+    "description": "Search WHOIS database to look up domain",
+    "key": "whois"
+  },
+  {
+    "name": "ZOLOZ Real ID",
+    "description": "A digital and remote online solution for eKYC",
+    "key": "zoloz-real-id"
+  },
+  {
+    "name": "CloudQuotation",
+    "description": "Delivers stable, premium access to quotation data at ultra-low latency.",
+    "key": "cloudquotation"
+  },
+  {
+    "name": "API Gateway",
+    "description": "Open your data and service to users",
+    "key": "api-gateway"
+  },
+  {
+    "name": "Direct Mail",
+    "description": "A simple and efficient email service",
+    "key": "direct-mail"
+  },
+  {
+    "name": "CloudESL",
+    "description": "A smart ESL system for efficient and data-driven operations of retail stores",
+    "key": "cloudesl"
+  },
+  {
+    "name": "Blockchain as a Service",
+    "description": "Secure and stable blockchain platform",
+    "key": "blockchain-as-a-service"
+  },
+  {
+    "name": "Short Message Service",
+    "description": "A messaging service for business",
+    "key": "short-message-service"
+  },
+  {
+    "name": "Intelligent Service Robot",
+    "description": "Chatbot platform for smart interactions",
+    "key": "intelligent-service-robot"
+  },
+  {
+    "name": "MaxCompute",
+    "description": "Large-scale data warehousing",
+    "key": "maxcompute"
+  },
+  {
+    "name": "Hologres (Interactive Analytics)",
+    "description": "Real-time analytics compatible with PostgreSQL",
+    "key": "hologres-interactive-analytics"
+  },
+  {
+    "name": "E-MapReduce",
+    "description": "Big Data processing service",
+    "key": "e-mapreduce"
+  },
+  {
+    "name": "Elasticsearch",
+    "description": "Search and analytics with Elasticsearch",
+    "key": "elasticsearch"
+  },
+  {
+    "name": "Realtime Compute for Apache Flink",
+    "description": "A platform for real-time data processing",
+    "key": "realtime-compute-for-apache-flink"
+  },
+  {
+    "name": "DataWorks",
+    "description": "A full data warehouse at only half cost",
+    "key": "dataworks"
+  },
+  {
+    "name": "Dataphin",
+    "description": "Full path data creation and management",
+    "key": "dataphin"
+  },
+  {
+    "name": "DataV",
+    "description": "Insightful big data visualization",
+    "key": "datav"
+  },
+  {
+    "name": "Quick BI",
+    "description": "Analytics & visualization for big data",
+    "key": "quick-bi"
+  },
+  {
+    "name": "AIRec",
+    "description": "A high-quality personalized recommendation service for your applications",
+    "key": "airec"
+  },
+  {
+    "name": "Data Integration",
+    "description": "Real-time & Offline Data Synchronization",
+    "key": "data-integration"
+  },
+  {
+    "name": "Machine Learning Platform For AI",
+    "description": "An end-to-end machine learning platform",
+    "key": "machine-learning-platform-for-ai"
+  },
+  {
+    "name": "Image Search",
+    "description": "High-precision visual search solution",
+    "key": "image-search"
+  },
+  {
+    "name": "Machine Translation",
+    "description": "Bespoken and qualified machine translation",
+    "key": "machine-translation"
+  },
+  {
+    "name": "Intelligent Speech Interaction",
+    "description": "Speech recognition & synthesis platform",
+    "key": "intelligent-speech-interaction"
+  },
+  {
+    "name": "ApsaraVideo Live",
+    "description": "Live streaming platform for audio & video",
+    "key": "apsaravideo-live"
+  },
+  {
+    "name": "ApsaraVideo VOD",
+    "description": "An all-in-one VOD solution",
+    "key": "apsaravideo-vod"
+  },
+  {
+    "name": "ApsaraVideo for Media Processing",
+    "description": "A transcoding multimedia cloud service",
+    "key": "apsaravideo-for-media-processing"
+  },
+  {
+    "name": "Apsara Stack",
+    "description": "Build Alibaba Cloud services on-premises",
+    "key": "apsara-stack"
+  },
+  {
+    "name": "Alibaba Cloud ZStack",
+    "description": "A next-generation open-source hybrid cloud solution",
+    "key": "alibaba-cloud-zstack"
+  },
+  {
+    "name": "Enterprise Distributed Application Service",
+    "description": "App deployment and microservice solution",
+    "key": "enterprise-distributed-application-service"
+  },
+  {
+    "name": "Application Configuration Management",
+    "description": "Centralized app configurations managing",
+    "key": "application-configuration-management"
+  },
+  {
+    "name": "AlibabaMQ for Apache RocketMQ",
+    "description": "A distributed message queue service",
+    "key": "alibabamq-for-apache-rocketmq"
+  },
+  {
+    "name": "Message Queue for Apache Kafka",
+    "description": "Fully-managed and out-of-the-box Message Queue service powered by Apache Kafka",
+    "key": "message-queue-for-apache-kafka"
+  },
+  {
+    "name": "Message Queue for RabbitMQ",
+    "description": "An out-of-the-box fully managed RabbitMQ service",
+    "key": "message-queue-for-rabbitmq"
+  },
+  {
+    "name": "AliwareMQ for IoT",
+    "description": "Message service for IoT and mobile devices",
+    "key": "aliwaremq-for-iot"
+  },
+  {
+    "name": "Message Service",
+    "description": "Send messages between applications",
+    "key": "message-service"
+  },
+  {
+    "name": "Application Real-Time Monitoring Service",
+    "description": "Build business monitoring capabilities",
+    "key": "application-real-time-monitoring-service"
+  },
+  {
+    "name": "Application High availability",
+    "description": "Guarantees application high availability",
+    "key": "application-high-availability"
+  },
+  {
+    "name": "Tracing Analysis",
+    "description": "Easily debug and analyze applications",
+    "key": "tracing-analysis"
+  },
+  {
+    "name": "mPaaS",
+    "description": "Help enterprises build high-quality, stable mobile apps",
+    "key": "mpaas"
+  },
+  {
+    "name": "CloudMonitor",
+    "description": "Real-time cloud monitoring service",
+    "key": "cloudmonitor"
+  },
+  {
+    "name": "Application High Availability Service",
+    "description": "Guarantees application high availability",
+    "key": "application-high-availability-service"
+  },
+  {
+    "name": "OpenAPI Explorer",
+    "description": "Do more with your API calls and requests",
+    "key": "openapi-explorer"
+  },
+  {
+    "name": "Cloud Shell",
+    "description": "Use CLI to manage cloud resources",
+    "key": "cloud-shell"
+  },
+  {
+    "name": "IoT Platform",
+    "description": "A one-stop IoT management platform",
+    "key": "iot-platform"
+  },
+  {
+    "name": "Link IoT Edge",
+    "description": "A service platform that extends computing from the cloud to the edge",
+    "key": "link-iot-edge"
+  },
+  {
+    "name": "ACA Cloud Computing Certification",
+    "description": "Designed for beginners in cloud computing and junior engineers.",
+    "key": "aca-cloud-computing-certification"
+  },
+  {
+    "name": "ACA Big Data Certification",
+    "description": "Designed for big data engineers seeking knowledge of big data concepts.",
+    "key": "aca-big-data-certification"
+  },
+  {
+    "name": "ACA Cloud Security Certification",
+    "description": "Designed for personnel who can use Security products for software and operations.",
+    "key": "aca-cloud-security-certification"
+  },
+  {
+    "name": "ACP Cloud Computing Certification",
+    "description": "Designed for anyone familiar with cloud computing.",
+    "key": "acp-cloud-computing-certification"
+  },
+  {
+    "name": "ACP Big Data Certification",
+    "description": "Designed for individuals with expertise in Big Data.",
+    "key": "acp-big-data-certification"
+  },
+  {
+    "name": "ACP Cloud Security Certification",
+    "description": "Designed for security engineers who have experience in applying security operations.",
+    "key": "acp-cloud-security-certification"
+  },
+  {
+    "name": "ACE Cloud Computing Certification",
+    "description": "​​​​Designed for experts who are proficient in Alibaba Cloud computing products.",
+    "key": "ace-cloud-computing-certification"
+  },
+  {
+    "name": "ACE Big Data Certification",
+    "description": "Designed for experts who are proficient in Alibaba Cloud big data products.",
+    "key": "ace-big-data-certification"
+  },
+  {
+    "name": "Apsara Clouder Technical Certification",
+    "description": "A light-weight certification $10, aims to help trainees to quickly understand a technique.",
+    "key": "apsara-clouder-technical-certification"
+  },
+  {
+    "name": "Alibaba Cloud Certification Course - Cloud Computing",
+    "description": "Cover the ECS, SLB, OSS, RDS, Auto Scaling and some general Cloud Computing technologies in Alibaba Cloud.",
+    "key": "alibaba-cloud-certification-course-cloud-computing"
+  },
+  {
+    "name": "Alibaba Cloud Certification Course - Big Data",
+    "description": "Cover the linux, networking fundamentals and major security products in Alibaba Cloud.",
+    "key": "alibaba-cloud-certification-course-big-data"
+  },
+  {
+    "name": "Alibaba Cloud Certification Course - Security",
+    "description": "Cover the MaxCompute, DataWorks, QuickBI, E-MapReduce and some general big data technologies in Alibaba Cloud.",
+    "key": "alibaba-cloud-certification-course-security"
+  },
+  {
+    "name": "Free E-Learning Courses",
+    "description": "Access online courses of cutting edge technologies and Alibaba Cloud solutions and best practices.",
+    "key": "free-e-learning-courses"
+  },
+  {
+    "name": "Classroom Training Courses",
+    "description": "Classroom trainings with professional instructors.Prices are set by region.",
+    "key": "classroom-training-courses"
+  }
+]
