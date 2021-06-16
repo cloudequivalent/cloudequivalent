@@ -3152,23 +3152,13 @@
     },
     "equivalents": [
       {
-        "name": "Compute Engine",
-        "description": "Virtual machines running in Google’s data center.",
-        "key": "compute-engine",
+        "name": "Elastic Compute Service",
+        "description": "High-performing virtual servers",
+        "key": "elastic-compute-service",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
-        }
-      },
-      {
-        "name": "Cloud GPUs",
-        "description": "GPUs for machine learning, scientific computing, and 3D visualization.",
-        "key": "cloud-gpus",
-        "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -3179,6 +3169,26 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Compute Engine",
+        "description": "Virtual machines running in Google’s data center.",
+        "key": "compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "description": "Virtual Machines",
+        "key": "virtual-machines",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -9429,6 +9439,16 @@
     },
     "equivalents": [
       {
+        "name": "Elastic Compute Service",
+        "description": "High-performing virtual servers",
+        "key": "elastic-compute-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon EC2",
         "description": "Virtual Servers in the Cloud",
         "key": "amazon-ec2",
@@ -9446,6 +9466,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "description": "Virtual Machines",
+        "key": "virtual-machines",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -10463,7 +10493,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon EC2",
+        "description": "Virtual Servers in the Cloud",
+        "key": "amazon-ec2",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "description": "Provision Windows and Linux virtual machines in seconds",
+        "key": "virtual-machines",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Compute Engine",
+        "description": "Virtual machines running in Google’s data center.",
+        "key": "compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "description": "Virtual Machines",
+        "key": "virtual-machines",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Elastic Container Instance",
@@ -14484,23 +14555,13 @@
     },
     "equivalents": [
       {
-        "name": "Compute Engine",
-        "description": "Virtual machines running in Google’s data center.",
-        "key": "compute-engine",
+        "name": "Elastic Compute Service",
+        "description": "High-performing virtual servers",
+        "key": "elastic-compute-service",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
-        }
-      },
-      {
-        "name": "Cloud GPUs",
-        "description": "GPUs for machine learning, scientific computing, and 3D visualization.",
-        "key": "cloud-gpus",
-        "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -14511,6 +14572,26 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Compute Engine",
+        "description": "Virtual machines running in Google’s data center.",
+        "key": "compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "description": "Virtual Machines",
+        "key": "virtual-machines",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -14524,7 +14605,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Elastic Compute Service",
+        "description": "High-performing virtual servers",
+        "key": "elastic-compute-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon EC2",
+        "description": "Virtual Servers in the Cloud",
+        "key": "amazon-ec2",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Virtual Machines",
+        "description": "Provision Windows and Linux virtual machines in seconds",
+        "key": "virtual-machines",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Compute Engine",
+        "description": "Virtual machines running in Google’s data center.",
+        "key": "compute-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Virtual Machines and Bare Metal (GPU)",
