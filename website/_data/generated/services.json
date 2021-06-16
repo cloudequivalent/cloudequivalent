@@ -1960,7 +1960,7 @@
       },
       {
         "name": "Azure Data Box",
-        "description": "Appliances and solutions for offline data transfer to Azure​",
+        "description": "Appliances and solutions for offline data transfer to Azure",
         "key": "azure-data-box",
         "provider": {
           "name": "Microsoft Azure (Azure)",
@@ -5340,7 +5340,7 @@
   },
   {
     "name": "Azure Data Box",
-    "description": "Appliances and solutions for offline data transfer to Azure​",
+    "description": "Appliances and solutions for offline data transfer to Azure",
     "key": "azure-data-box",
     "provider": {
       "name": "Microsoft Azure (Azure)",
@@ -11461,7 +11461,7 @@
       },
       {
         "name": "Azure Data Box",
-        "description": "Appliances and solutions for offline data transfer to Azure​",
+        "description": "Appliances and solutions for offline data transfer to Azure",
         "key": "azure-data-box",
         "provider": {
           "name": "Microsoft Azure (Azure)",
