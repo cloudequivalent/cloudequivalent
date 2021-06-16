@@ -4903,7 +4903,28 @@
       "key": "aws",
       "accentColour": "#FF9900"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Elastic Desktop Service",
+        "description": "A secure, efficient, and easy-to-use cloud-based desktop service",
+        "key": "elastic-desktop-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Windows Virtual Desktop",
+        "description": "The best virtual desktop experience – delivered on Azure",
+        "key": "windows-virtual-desktop",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      }
+    ]
   },
   {
     "name": "AnalyticDB for MySQL",
@@ -10770,7 +10791,28 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon WorkSpaces",
+        "description": "Desktop Computing Service",
+        "key": "amazon-workspaces",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Windows Virtual Desktop",
+        "description": "The best virtual desktop experience – delivered on Azure",
+        "key": "windows-virtual-desktop",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      }
+    ]
   },
   {
     "name": "Elastic GPU Service",
@@ -15502,7 +15544,28 @@
       "key": "azure",
       "accentColour": "#0089d6"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Elastic Desktop Service",
+        "description": "A secure, efficient, and easy-to-use cloud-based desktop service",
+        "key": "elastic-desktop-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon WorkSpaces",
+        "description": "Desktop Computing Service",
+        "key": "amazon-workspaces",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      }
+    ]
   },
   {
     "name": "Workflows",
