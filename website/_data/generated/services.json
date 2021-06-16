@@ -3640,13 +3640,13 @@
     },
     "equivalents": [
       {
-        "name": "Persistent Disk",
-        "description": "Block storage for virtual machine instances running on Google Cloud.",
-        "key": "persistent-disk",
+        "name": "Elastic Block Storage",
+        "description": "A high-performance, high-reliability, and low-latency block storage service",
+        "key": "elastic-block-storage",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -3657,6 +3657,26 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Persistent Disk",
+        "description": "Block storage for virtual machine instances running on Google Cloud.",
+        "key": "persistent-disk",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Block Volumes",
+        "description": "Block Volumes",
+        "key": "block-volumes",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -7169,6 +7189,16 @@
     },
     "equivalents": [
       {
+        "name": "Elastic Block Storage",
+        "description": "A high-performance, high-reliability, and low-latency block storage service",
+        "key": "elastic-block-storage",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon Elastic Block Store (EBS)",
         "description": "EC2 block storage volumes",
         "key": "amazon-elastic-block-store-ebs",
@@ -7186,6 +7216,16 @@
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp",
           "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Block Volumes",
+        "description": "Block Volumes",
+        "key": "block-volumes",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -8550,7 +8590,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Elastic Block Storage",
+        "description": "A high-performance, high-reliability, and low-latency block storage service",
+        "key": "elastic-block-storage",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon Elastic Block Store (EBS)",
+        "description": "EC2 block storage volumes",
+        "key": "amazon-elastic-block-store-ebs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Disk Storage",
+        "description": "High-performance, highly durable block storage for Azure Virtual Machines",
+        "key": "azure-disk-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Persistent Disk",
+        "description": "Block storage for virtual machine instances running on Google Cloud.",
+        "key": "persistent-disk",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Blockchain",
@@ -11276,7 +11357,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Elastic Block Store (EBS)",
+        "description": "EC2 block storage volumes",
+        "key": "amazon-elastic-block-store-ebs",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Disk Storage",
+        "description": "High-performance, highly durable block storage for Azure Virtual Machines",
+        "key": "azure-disk-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Persistent Disk",
+        "description": "Block storage for virtual machine instances running on Google Cloud.",
+        "key": "persistent-disk",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Block Volumes",
+        "description": "Block Volumes",
+        "key": "block-volumes",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Elastic Compute Service",
@@ -13819,6 +13941,16 @@
     },
     "equivalents": [
       {
+        "name": "Elastic Block Storage",
+        "description": "A high-performance, high-reliability, and low-latency block storage service",
+        "key": "elastic-block-storage",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon Elastic Block Store (EBS)",
         "description": "EC2 block storage volumes",
         "key": "amazon-elastic-block-store-ebs",
@@ -13836,6 +13968,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Block Volumes",
+        "description": "Block Volumes",
+        "key": "block-volumes",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
