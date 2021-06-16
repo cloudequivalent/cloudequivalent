@@ -1,5 +1,93 @@
 [
   {
+    "name": "ACA Big Data Certification",
+    "description": "Designed for big data engineers seeking knowledge of big data concepts.",
+    "key": "aca-big-data-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACA Cloud Computing Certification",
+    "description": "Designed for beginners in cloud computing and junior engineers.",
+    "key": "aca-cloud-computing-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACA Cloud Security Certification",
+    "description": "Designed for personnel who can use Security products for software and operations.",
+    "key": "aca-cloud-security-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACE Big Data Certification",
+    "description": "Designed for experts who are proficient in Alibaba Cloud big data products.",
+    "key": "ace-big-data-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACE Cloud Computing Certification",
+    "description": "​​​​Designed for experts who are proficient in Alibaba Cloud computing products.",
+    "key": "ace-cloud-computing-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACP Big Data Certification",
+    "description": "Designed for individuals with expertise in Big Data.",
+    "key": "acp-big-data-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACP Cloud Computing Certification",
+    "description": "Designed for anyone familiar with cloud computing.",
+    "key": "acp-cloud-computing-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ACP Cloud Security Certification",
+    "description": "Designed for security engineers who have experience in applying security operations.",
+    "key": "acp-cloud-security-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "AI Infrastructure",
     "description": "Options for every business to train deep learning and ML models cost-effectively.",
     "key": "ai-infrastructure",
@@ -18,6 +106,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AIRec",
+    "description": "A high-quality personalized recommendation service for your applications",
+    "key": "airec",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -63,6 +162,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "API Gateway",
+    "description": "Open your data and service to users",
+    "key": "api-gateway",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "API Management",
@@ -2230,6 +2340,28 @@
     "equivalents": []
   },
   {
+    "name": "ActionTrail",
+    "description": "Maintain security and compliance",
+    "key": "actiontrail",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Advanced Database & Application Migration",
+    "description": "Advanced service for heterogeneous database migration",
+    "key": "advanced-database-and-application-migration",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Alexa for Business",
     "description": "Empower your Organization with Alexa",
     "key": "alexa-for-business",
@@ -2237,6 +2369,138 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws",
       "accentColour": "#FF9900"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud CDN",
+    "description": "Speed up file distribution to end-users",
+    "key": "alibaba-cloud-cdn",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud Certification Course - Big Data",
+    "description": "Cover the linux, networking fundamentals and major security products in Alibaba Cloud.",
+    "key": "alibaba-cloud-certification-course-big-data",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud Certification Course - Cloud Computing",
+    "description": "Cover the ECS, SLB, OSS, RDS, Auto Scaling and some general Cloud Computing technologies in Alibaba Cloud.",
+    "key": "alibaba-cloud-certification-course-cloud-computing",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud Certification Course - Security",
+    "description": "Cover the MaxCompute, DataWorks, QuickBI, E-MapReduce and some general big data technologies in Alibaba Cloud.",
+    "key": "alibaba-cloud-certification-course-security",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud DNS",
+    "description": "Manage your DNS settings",
+    "key": "alibaba-cloud-dns",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud LedgerDB",
+    "description": "A ledger database that provides powerful data audit capabilities",
+    "key": "alibaba-cloud-ledgerdb",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud PrivateZone",
+    "description": "A private domain name management service",
+    "key": "alibaba-cloud-privatezone",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud Service Mesh",
+    "description": "Unified traffic management for microservices across multiple clusters",
+    "key": "alibaba-cloud-service-mesh",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Cloud ZStack",
+    "description": "A next-generation open-source hybrid cloud solution",
+    "key": "alibaba-cloud-zstack",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Alibaba Mail",
+    "description": "A public cloud-based email service",
+    "key": "alibaba-mail",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AlibabaMQ for Apache RocketMQ",
+    "description": "A distributed message queue service",
+    "key": "alibabamq-for-apache-rocketmq",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AliwareMQ for IoT",
+    "description": "Message service for IoT and mobile devices",
+    "key": "aliwaremq-for-iot",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -4346,6 +4610,28 @@
     "equivalents": []
   },
   {
+    "name": "AnalyticDB for MySQL",
+    "description": "An optimized real-time data warehouse",
+    "key": "analyticdb-for-mysql",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AnalyticDB for PostgreSQL",
+    "description": "An online warehousing service",
+    "key": "analyticdb-for-postgresql",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Analytics Hub",
     "description": "Service for securely and efficiently exchanging data analytics assets.",
     "key": "analytics-hub",
@@ -4430,6 +4716,39 @@
         }
       }
     ]
+  },
+  {
+    "name": "Anti-Bot Service",
+    "description": "Bot defense reduces automated attacks",
+    "key": "anti-bot-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Anti-DDoS",
+    "description": "Protect against high volume DDoS attacks",
+    "key": "anti-ddos",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Anti-DDoS Basic",
+    "description": "Basic DDoS protection integrated with ECS",
+    "key": "anti-ddos-basic",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Apache MXNet on AWS",
@@ -4627,6 +4946,17 @@
     "equivalents": []
   },
   {
+    "name": "Application Configuration Management",
+    "description": "Centralized app configurations managing",
+    "key": "application-configuration-management",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Application Gateway",
     "description": "Build secure, scalable and highly available web front ends in Azure",
     "key": "application-gateway",
@@ -4638,6 +4968,39 @@
     "equivalents": []
   },
   {
+    "name": "Application High Availability Service",
+    "description": "Guarantees application high availability",
+    "key": "application-high-availability-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Application High availability",
+    "description": "Guarantees application high availability",
+    "key": "application-high-availability",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Application Real-Time Monitoring Service",
+    "description": "Build business monitoring capabilities",
+    "key": "application-real-time-monitoring-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Application migration",
     "description": "App migration to the cloud for low-cost refresh cycles.",
     "key": "application-migration",
@@ -4645,6 +5008,193 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apsara Clouder Technical Certification",
+    "description": "A light-weight certification $10, aims to help trainees to quickly understand a technique.",
+    "key": "apsara-clouder-technical-certification",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apsara File Storage NAS",
+    "description": "File storage for ECS, HPC, Container",
+    "key": "apsara-file-storage-nas",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Apsara Stack",
+    "description": "Build Alibaba Cloud services on-premises",
+    "key": "apsara-stack",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB RDS for MariaDB TX",
+    "description": "Capable and fully managed database",
+    "key": "apsaradb-rds-for-mariadb-tx",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB RDS for MySQL",
+    "description": "Featured stable and capable with MySQL",
+    "key": "apsaradb-rds-for-mysql",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB RDS for PostgreSQL",
+    "description": "Get low latency with high concurrency",
+    "key": "apsaradb-rds-for-postgresql",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB RDS for SQL Server",
+    "description": "Flexible version control and lower costs",
+    "key": "apsaradb-rds-for-sql-server",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for Cassandra",
+    "description": "Fully compatible with Apache Cassandra and provides enterprise-grade SLA",
+    "key": "apsaradb-for-cassandra",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for ClickHouse",
+    "description": "Cloud-native online data warehouse service compatible with open source ClickHouse",
+    "key": "apsaradb-for-clickhouse",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for HBase",
+    "description": "A deeply-optimized NoSQL database, 100% compatible with Apache HBase",
+    "key": "apsaradb-for-hbase",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for MongoDB",
+    "description": "A document-oriented database service",
+    "key": "apsaradb-for-mongodb",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for MyBase",
+    "description": "Solution for autonomous and controllable database service cluster on Alibaba Cloud",
+    "key": "apsaradb-for-mybase",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for OceanBase",
+    "description": "Financial-grade database: high stability, high scalability, and high performance",
+    "key": "apsaradb-for-oceanbase",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraDB for Redis",
+    "description": "In-memory database caching",
+    "key": "apsaradb-for-redis",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraVideo Live",
+    "description": "Live streaming platform for audio & video",
+    "key": "apsaravideo-live",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraVideo VOD",
+    "description": "An all-in-one VOD solution",
+    "key": "apsaravideo-vod",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ApsaraVideo for Media Processing",
+    "description": "A transcoding multimedia cloud service",
+    "key": "apsaravideo-for-media-processing",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -4710,6 +5260,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Auto Scaling",
+    "description": "Auto Scaling automatically adjusts computing resources based on your business cycle",
+    "key": "auto-scaling",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -7010,6 +7571,17 @@
     ]
   },
   {
+    "name": "Bastionhost",
+    "description": "A system O&M and operation audit platform",
+    "key": "bastionhost",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Batch",
     "description": "Cloud-scale job scheduling and compute management",
     "key": "batch",
@@ -7030,6 +7602,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Batch Compute",
+    "description": "Large-scale batch processing",
+    "key": "batch-compute",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "BeyondCorp Enterprise",
@@ -7107,6 +7690,17 @@
     "equivalents": []
   },
   {
+    "name": "Blockchain as a Service",
+    "description": "Secure and stable blockchain platform",
+    "key": "blockchain-as-a-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Certificate Authority Service (beta)",
     "description": "Simplify the deployment and management of private CAs.",
     "key": "certificate-authority-service-beta",
@@ -7168,6 +7762,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Classroom Training Courses",
+    "description": "Classroom trainings with professional instructors.Prices are set by region.",
+    "key": "classroom-training-courses",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -7416,6 +8021,17 @@
     ]
   },
   {
+    "name": "Cloud Config",
+    "description": "Configuration trace and compliance audit",
+    "key": "cloud-config",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Cloud Console",
     "description": "Web-based interface for managing and monitoring cloud apps.",
     "key": "cloud-console",
@@ -7636,6 +8252,28 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Enterprise Network",
+    "description": "Create enterprise-class global network",
+    "key": "cloud-enterprise-network",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Firewall",
+    "description": "The first defense of network security",
+    "key": "cloud-firewall",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -8206,6 +8844,17 @@
     ]
   },
   {
+    "name": "Cloud Shell",
+    "description": "Use CLI to manage cloud resources",
+    "key": "cloud-shell",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Cloud Source Repositories",
     "description": "Private Git repository to store, manage, and track code.",
     "key": "cloud-source-repositories",
@@ -8279,6 +8928,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Cloud Storage Gateway",
+    "description": "Seamless connection to the cloud storage",
+    "key": "cloud-storage-gateway",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Cloud Storage for Firebase",
@@ -8378,6 +9038,17 @@
     "equivalents": []
   },
   {
+    "name": "CloudESL",
+    "description": "A smart ESL system for efficient and data-driven operations of retail stores",
+    "key": "cloudesl",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "CloudEndure Disaster Recovery",
     "description": "Highly automated disaster recovery",
     "key": "cloudendure-disaster-recovery",
@@ -8385,6 +9056,28 @@
       "name": "Amazon Web Services (AWS)",
       "key": "aws",
       "accentColour": "#FF9900"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "CloudMonitor",
+    "description": "Real-time cloud monitoring service",
+    "key": "cloudmonitor",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "CloudQuotation",
+    "description": "Delivers stable, premium access to quotation data at ultra-low latency.",
+    "key": "cloudquotation",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -8570,6 +9263,17 @@
     ]
   },
   {
+    "name": "Container Registry",
+    "description": "A secure image hosting platform",
+    "key": "container-registry",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Container Security",
     "description": "Container environment security for each stage of the life cycle.",
     "key": "container-security",
@@ -8602,6 +9306,17 @@
     ]
   },
   {
+    "name": "Container Service for Kubernetes",
+    "description": "A certified Kubernetes platform",
+    "key": "container-service-for-kubernetes",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Content Delivery Network",
     "description": "Ensure secure, reliable content delivery with broad global reach",
     "key": "content-delivery-network",
@@ -8632,6 +9347,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Content Moderation",
+    "description": "Image and video content moderation",
+    "key": "content-moderation",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Content Protection",
@@ -8753,6 +9479,28 @@
     ]
   },
   {
+    "name": "Data Encryption Service",
+    "description": "Provides cloud hosted hardware security modules (HSMs) for cloud users",
+    "key": "data-encryption-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Integration",
+    "description": "Real-time & Offline Data Synchronization",
+    "key": "data-integration",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Data Lake Analytics",
     "description": "Distributed analytics service that makes big data easy",
     "key": "data-lake-analytics",
@@ -8805,6 +9553,28 @@
     ]
   },
   {
+    "name": "Data Lake Analytics",
+    "description": "Serverless interactive analytics service",
+    "key": "data-lake-analytics",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Management",
+    "description": "An integrated data management solution",
+    "key": "data-management",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Data Science Virtual Machines",
     "description": "Rich, pre-configured environment for AI development",
     "key": "data-science-virtual-machines",
@@ -8812,6 +9582,94 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Transfer Plan",
+    "description": "Package for your Internet traffic usage",
+    "key": "data-transfer-plan",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Transmission Service",
+    "description": "Data migration and data synchronization",
+    "key": "data-transmission-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Transport",
+    "description": "Migrate massive data to Alibaba Cloud",
+    "key": "data-transport",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "DataV",
+    "description": "Insightful big data visualization",
+    "key": "datav",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "DataWorks",
+    "description": "A full data warehouse at only half cost",
+    "key": "dataworks",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Database Autonomy Service",
+    "description": "A self-perception, repair, optimization, and security database service",
+    "key": "database-autonomy-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Database Backup",
+    "description": "A reliable and secure data backup service",
+    "key": "database-backup",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Database Gateway",
+    "description": "A private database connection service with high security and reliability",
+    "key": "database-gateway",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -8878,6 +9736,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Dataphin",
+    "description": "Full path data creation and management",
+    "key": "dataphin",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Dataplex",
@@ -8975,6 +9844,28 @@
     "equivalents": []
   },
   {
+    "name": "Dedicated DingTalk",
+    "description": "Customize, Integrate, and Secure Your Mobile Workspace",
+    "key": "dedicated-dingtalk",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Dedicated Host",
+    "description": "Your dedicated host on the cloud",
+    "key": "dedicated-host",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Deep Learning Containers",
     "description": "Preconfigured and optimized containers for deep learning environments.",
     "key": "deep-learning-containers",
@@ -9040,6 +9931,72 @@
     ]
   },
   {
+    "name": "Direct Mail",
+    "description": "A simple and efficient email service",
+    "key": "direct-mail",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Distributed Relational Database Service",
+    "description": "Be scalable for big relational databases",
+    "key": "distributed-relational-database-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Domains",
+    "description": "Join the 20 million on Alibaba Cloud",
+    "key": "domains",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Dynamic Content Delivery Network",
+    "description": "Provide dynamic acceleration abilities",
+    "key": "dynamic-content-delivery-network",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "E-MapReduce",
+    "description": "Big Data processing service",
+    "key": "e-mapreduce",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ECS Bare Metal Instance",
+    "description": "Elastic bare metal computing service",
+    "key": "ecs-bare-metal-instance",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Edge TPU",
     "description": "ASIC designed to run ML inference and AI at the edge.",
     "key": "edge-tpu",
@@ -9047,6 +10004,83 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic Block Storage",
+    "description": "A high-performance, high-reliability, and low-latency block storage service",
+    "key": "elastic-block-storage",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic Compute Service",
+    "description": "High-performing virtual servers",
+    "key": "elastic-compute-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic Container Instance",
+    "description": "A serverless container instance service",
+    "key": "elastic-container-instance",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic Desktop Service",
+    "description": "A secure, efficient, and easy-to-use cloud-based desktop service",
+    "key": "elastic-desktop-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic GPU Service",
+    "description": "Powerful parallel computing capabilities",
+    "key": "elastic-gpu-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic High Performance Computing",
+    "description": "High-performing public computing service",
+    "key": "elastic-high-performance-computing",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Elastic IP Address",
+    "description": "An independent public IP resource",
+    "key": "elastic-ip-address",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -9083,6 +10117,17 @@
     ]
   },
   {
+    "name": "Elasticsearch",
+    "description": "Search and analytics with Elasticsearch",
+    "key": "elasticsearch",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Encoding",
     "description": "Studio-grade encoding at cloud scale",
     "key": "encoding",
@@ -9090,6 +10135,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Enterprise Distributed Application Service",
+    "description": "App deployment and microservice solution",
+    "key": "enterprise-distributed-application-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -9146,6 +10202,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Express Connect",
+    "description": "Dedicated physical connections",
+    "key": "express-connect",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Face",
@@ -9349,6 +10416,17 @@
     "equivalents": []
   },
   {
+    "name": "Free E-Learning Courses",
+    "description": "Access online courses of cutting edge technologies and Alibaba Cloud solutions and best practices.",
+    "key": "free-e-learning-courses",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "FreeRTOS",
     "description": "Real-time operating system for microcontrollers",
     "key": "freertos",
@@ -9360,6 +10438,17 @@
     "equivalents": []
   },
   {
+    "name": "Function Compute",
+    "description": "Run your code in serverless environment",
+    "key": "function-compute",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Game Servers",
     "description": "Game server management service running on Google Kubernetes Engine.",
     "key": "game-servers",
@@ -9367,6 +10456,39 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "GameShield",
+    "description": "A customizable network security solution",
+    "key": "gameshield",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Global Accelerator",
+    "description": "Accelerate Internet applications globally to improve user experience",
+    "key": "global-accelerator",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Global Traffic Manager",
+    "description": "Global acceleration, scheduling, and disaster recovery across IP addresses",
+    "key": "global-traffic-manager",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -9628,6 +10750,50 @@
     "equivalents": []
   },
   {
+    "name": "Hologres (Interactive Analytics)",
+    "description": "Real-time analytics compatible with PostgreSQL",
+    "key": "hologres-interactive-analytics",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Hybrid Backup Recovery",
+    "description": "A BaaS solution that protects your data",
+    "key": "hybrid-backup-recovery",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Hybrid Cloud Distributed Storage",
+    "description": "Provides scalable and reliable distributed block and object storage services.",
+    "key": "hybrid-cloud-distributed-storage",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Hybrid Cloud Storage",
+    "description": "Enterprise-level cloud storage array",
+    "key": "hybrid-cloud-storage",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Hybrid Connectivity",
     "description": "Connectivity options for VPN, peering, and enterprise needs.",
     "key": "hybrid-connectivity",
@@ -9658,6 +10824,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "IDaaS",
+    "description": "Provides account, authentication, authorization, application, and audit features",
+    "key": "idaas",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Identity Platform",
@@ -9725,6 +10902,39 @@
     "equivalents": []
   },
   {
+    "name": "Image Search",
+    "description": "High-precision visual search solution",
+    "key": "image-search",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Intelligent Service Robot",
+    "description": "Chatbot platform for smart interactions",
+    "key": "intelligent-service-robot",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Intelligent Speech Interaction",
+    "description": "Speech recognition & synthesis platform",
+    "key": "intelligent-speech-interaction",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "IoT Core",
     "description": "IoT device management, integration, and connection service.",
     "key": "iot-core",
@@ -9755,6 +10965,28 @@
         }
       }
     ]
+  },
+  {
+    "name": "IoT Platform",
+    "description": "A one-stop IoT management platform",
+    "key": "iot-platform",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Key Management Service",
+    "description": "Create and manage encryption keys",
+    "key": "key-management-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Key Vault",
@@ -9886,6 +11118,17 @@
     ]
   },
   {
+    "name": "Link IoT Edge",
+    "description": "A service platform that extends computing from the cloud to the edge",
+    "key": "link-iot-edge",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Linux Virtual Machines",
     "description": "Provision virtual machines for Ubuntu, Red Hat and more",
     "key": "linux-virtual-machines",
@@ -9951,6 +11194,17 @@
     "equivalents": []
   },
   {
+    "name": "Log Service",
+    "description": "An all-in-one service for log-type data",
+    "key": "log-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Looker",
     "description": "Platform for BI, data applications, and embedded analytics.",
     "key": "looker",
@@ -9983,6 +11237,39 @@
     ]
   },
   {
+    "name": "Machine Learning Platform For AI",
+    "description": "An end-to-end machine learning platform",
+    "key": "machine-learning-platform-for-ai",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Machine Translation",
+    "description": "Bespoken and qualified machine translation",
+    "key": "machine-translation",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Managed Security Service",
+    "description": "Managed security service on the cloud",
+    "key": "managed-security-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Managed Service for Microsoft Active Directory",
     "description": "Hardened service running Microsoft® Active Directory (AD).",
     "key": "managed-service-for-microsoft-active-directory",
@@ -10001,6 +11288,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "MaxCompute",
+    "description": "Large-scale data warehousing",
+    "key": "maxcompute",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10057,6 +11355,39 @@
         }
       }
     ]
+  },
+  {
+    "name": "Message Queue for Apache Kafka",
+    "description": "Fully-managed and out-of-the-box Message Queue service powered by Apache Kafka",
+    "key": "message-queue-for-apache-kafka",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Message Queue for RabbitMQ",
+    "description": "An out-of-the-box fully managed RabbitMQ service",
+    "key": "message-queue-for-rabbitmq",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Message Service",
+    "description": "Send messages between applications",
+    "key": "message-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Microsoft 365 (formerly Office365)",
@@ -10253,6 +11584,17 @@
     "equivalents": []
   },
   {
+    "name": "NAT Gateway",
+    "description": "Public Internet gateway",
+    "key": "nat-gateway",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Network Connectivity Center",
     "description": "Use Google’s network as your own. Reimagine how you deploy, manage, and scale your networks.",
     "key": "network-connectivity-center",
@@ -10330,6 +11672,17 @@
     "equivalents": []
   },
   {
+    "name": "Object Storage Service",
+    "description": "Store, backup and archive your data",
+    "key": "object-storage-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Object anchors Preview",
     "description": "Automatically align and anchor 3D content to objects in the physical world",
     "key": "object-anchors-preview",
@@ -10337,6 +11690,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "OpenAPI Explorer",
+    "description": "Do more with your API calls and requests",
+    "key": "openapi-explorer",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10352,6 +11716,17 @@
     "equivalents": []
   },
   {
+    "name": "Operation Orchestration Service",
+    "description": "Automated operations and maintenance service to manage and execute O&M tasks",
+    "key": "operation-orchestration-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Operations",
     "description": "Monitoring, logging, and application performance suite.",
     "key": "operations",
@@ -10359,6 +11734,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Penetration Test",
+    "description": "Simulates attacks to test your system security in full scale and in depth",
+    "key": "penetration-test",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10427,6 +11813,28 @@
     ]
   },
   {
+    "name": "PolarDB",
+    "description": "A next-generation relational database",
+    "key": "polardb",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "PolarDB Stack",
+    "description": "An ApsaraDB for PolarDB database appliance deployed on the premises",
+    "key": "polardb-stack",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Policy Intelligence",
     "description": "Smart access control for your Google Cloud resources.",
     "key": "policy-intelligence",
@@ -10488,6 +11896,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "PrivateLink",
+    "description": "Secure, convenient, and private connections to services on Alibaba Cloud",
+    "key": "privatelink",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10589,6 +12008,17 @@
     ]
   },
   {
+    "name": "Quick BI",
+    "description": "Analytics & visualization for big data",
+    "key": "quick-bi",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "R Server for HDInsight",
     "description": "Predictive analytics, machine learning and statistical modelling for big data",
     "key": "r-server-for-hdinsight",
@@ -10596,6 +12026,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Realtime Compute for Apache Flink",
+    "description": "A platform for real-time data processing",
+    "key": "realtime-compute-for-apache-flink",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10676,6 +12117,17 @@
     "equivalents": []
   },
   {
+    "name": "Resource Access Management",
+    "description": "Authorize and manage resource access",
+    "key": "resource-access-management",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Resource Manager",
     "description": "Hierarchical management for organizing resources on Google Cloud.",
     "key": "resource-manager",
@@ -10708,6 +12160,17 @@
     ]
   },
   {
+    "name": "Resource Orchestration Service",
+    "description": "Simplify the Operations and Management (O&M) of your computing resources",
+    "key": "resource-orchestration-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Risk Protection Program (preview)",
     "description": "Reduce security risk and gain access to an exclusive cyber insurance policy.",
     "key": "risk-protection-program-preview",
@@ -10715,6 +12178,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Robotic Process Automation",
+    "description": "Automated business processes to improve enterprise efficiency",
+    "key": "robotic-process-automation",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10748,6 +12222,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "SSL Certificates Service",
+    "description": "Apply, buy, and manage SSL certificates",
+    "key": "ssl-certificates-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10827,6 +12312,17 @@
     ]
   },
   {
+    "name": "Security Center",
+    "description": "Round the clock security and protection",
+    "key": "security-center",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Security Command Center",
     "description": "Platform for defending against threats to your Google Cloud assets.",
     "key": "security-command-center",
@@ -10877,6 +12373,39 @@
         }
       }
     ]
+  },
+  {
+    "name": "Sensitive Data Discovery & Protection",
+    "description": "A security service that protects sensitive data",
+    "key": "sensitive-data-discovery-and-protection",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Server Load Balancer",
+    "description": "Distribute traffic across resources",
+    "key": "server-load-balancer",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Serverless Workflow",
+    "description": "A serverless cloud service that orchestrates distributed tasks",
+    "key": "serverless-workflow",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Service Bus",
@@ -10992,6 +12521,39 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Short Message Service",
+    "description": "A messaging service for business",
+    "key": "short-message-service",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Simple Application Server",
+    "description": "All-in-one services for fast deployment",
+    "key": "simple-application-server",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Smart Access Gateway",
+    "description": "Connect enterprise networks to cloud",
+    "key": "smart-access-gateway",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -11138,6 +12700,17 @@
     "equivalents": []
   },
   {
+    "name": "Storage Capacity Unit",
+    "description": "Plan and optimize your storage budget with flexible storage services",
+    "key": "storage-capacity-unit",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Storage Explorer",
     "description": "View and interact with Azure Storage resources",
     "key": "storage-explorer",
@@ -11181,6 +12754,17 @@
     ]
   },
   {
+    "name": "Super Computing Cluster",
+    "description": "Parallel computing on a RDMA network",
+    "key": "super-computing-cluster",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Table Storage",
     "description": "NoSQL key-value store using semi-structured datasets",
     "key": "table-storage",
@@ -11201,6 +12785,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Tablestore",
+    "description": "Store data in a NoSQL database",
+    "key": "tablestore",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Tekton",
@@ -11332,6 +12927,28 @@
     "equivalents": []
   },
   {
+    "name": "Time Series Database",
+    "description": "An IoT database with millions of IOPS",
+    "key": "time-series-database",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Time Series Database for InfluxDB®️",
+    "description": "A low-cost, highly available and scalable online time series database",
+    "key": "time-series-database-for-influxdbr",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Titan Security Key",
     "description": "Two-factor authentication device for user account protection.",
     "key": "titan-security-key",
@@ -11361,6 +12978,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Tracing Analysis",
+    "description": "Easily debug and analyze applications",
+    "key": "tracing-analysis",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -11591,6 +13219,17 @@
     "equivalents": []
   },
   {
+    "name": "VPN Gateway",
+    "description": "Connect securely to VPC",
+    "key": "vpn-gateway",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Vertex AI",
     "description": "Unified platform for training, hosting, and managing ML models.",
     "key": "vertex-ai",
@@ -11751,6 +13390,17 @@
     ]
   },
   {
+    "name": "Virtual Private Cloud",
+    "description": "Launch a private cloud network",
+    "key": "virtual-private-cloud",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Virtual Private Cloud (VPC)",
     "description": "Virtual network for Google Cloud resources and cloud-based services.",
     "key": "virtual-private-cloud-vpc",
@@ -11859,6 +13509,17 @@
     "equivalents": []
   },
   {
+    "name": "WHOIS",
+    "description": "Search WHOIS database to look up domain",
+    "key": "whois",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Web App for Containers",
     "description": "Easily deploy and run containerised web apps that scale with your business",
     "key": "web-app-for-containers",
@@ -11902,6 +13563,17 @@
     ]
   },
   {
+    "name": "Web Application Firewall",
+    "description": "Secure your web applications",
+    "key": "web-application-firewall",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Web Apps",
     "description": "Quickly create and deploy mission-critical web apps at scale",
     "key": "web-apps",
@@ -11909,6 +13581,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Web Hosting",
+    "description": "Cloud Web Hosting from $5.90 per month",
+    "key": "web-hosting",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -11996,6 +13679,28 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "ZOLOZ Real ID",
+    "description": "A digital and remote online solution for eKYC",
+    "key": "zoloz-real-id",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "mPaaS",
+    "description": "Help enterprises build high-quality, stable mobile apps",
+    "key": "mpaas",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },

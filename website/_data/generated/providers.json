@@ -1,5 +1,10 @@
 [
   {
+    "name": "Alibaba Cloud (AC)",
+    "key": "alibaba-cloud",
+    "accentColour": "#C74634"
+  },
+  {
     "name": "Amazon Web Services (AWS)",
     "key": "aws",
     "accentColour": "#FF9900"
