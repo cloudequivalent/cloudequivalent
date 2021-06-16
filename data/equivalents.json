@@ -648,8 +648,10 @@
   "aws.amazon-fsx-for-lustre": [],
   "aws.amazon-fsx-for-windows-file-server": [],
   "aws.amazon-s3-glacier": [
-    "aws.amazon-s3-glacier",
-    "azure.azure-blob-storage"
+    "alibaba-cloud.object-storage-service",
+    "azure.archive-storage",
+    "gcp.archive-storage",
+    "oracle-cloud.archive-storage"
   ],
   "aws.aws-backup": [
     "aws.aws-backup",
@@ -1179,7 +1181,12 @@
     "azure.key-vault"
   ],
   "azure.microsoft-azure-attestation": [],
-  "azure.archive-storage": [],
+  "azure.archive-storage": [
+    "alibaba-cloud.object-storage-service",
+    "aws.amazon-s3-glacier",
+    "gcp.archive-storage",
+    "oracle-cloud.archive-storage"
+  ],
   "azure.avere-vfxt-for-azure": [],
   "azure.azure-files": [
     "gcp.filestore",
@@ -1710,7 +1717,12 @@
     "aws.aws-step-functions",
     "azure.azure-functions"
   ],
-  "gcp.archive-storage": [],
+  "gcp.archive-storage": [
+    "alibaba-cloud.object-storage-service",
+    "aws.amazon-s3-glacier",
+    "azure.archive-storage",
+    "oracle-cloud.archive-storage"
+  ],
   "gcp.storage-transfer-service": [
     "gcp.storage-transfer-service",
     "aws.aws-storage-gateway",
@@ -2055,7 +2067,12 @@
     "azure.web-application-firewall",
     "gcp.cloud-armor"
   ],
-  "oracle-cloud.archive-storage": [],
+  "oracle-cloud.archive-storage": [
+    "alibaba-cloud.object-storage-service",
+    "aws.amazon-s3-glacier",
+    "azure.archive-storage",
+    "gcp.archive-storage"
+  ],
   "oracle-cloud.block-volumes": [],
   "oracle-cloud.data-transfer": [],
   "oracle-cloud.file-storage": [],
