@@ -4791,13 +4791,13 @@
     },
     "equivalents": [
       {
-        "name": "Cloud Storage for Firebase",
-        "description": "Object storage for storing and serving user-generated content.",
-        "key": "cloud-storage-for-firebase",
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -4818,6 +4818,16 @@
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp",
           "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Object Storage",
+        "description": "Object Storage",
+        "key": "object-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -6145,13 +6155,13 @@
     },
     "equivalents": [
       {
-        "name": "Cloud Storage for Firebase",
-        "description": "Object storage for storing and serving user-generated content.",
-        "key": "cloud-storage-for-firebase",
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -6172,6 +6182,16 @@
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp",
           "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Object Storage",
+        "description": "Object Storage",
+        "key": "object-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -9683,6 +9703,16 @@
     },
     "equivalents": [
       {
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon Simple Storage Service (S3)",
         "description": "Scalable storage in the cloud",
         "key": "amazon-simple-storage-service-s3",
@@ -9700,6 +9730,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Object Storage",
+        "description": "Object Storage",
+        "key": "object-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -13082,7 +13122,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon Simple Storage Service (S3)",
+        "description": "Scalable storage in the cloud",
+        "key": "amazon-simple-storage-service-s3",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Blob Storage",
+        "description": "Massively scalable and secure object storage",
+        "key": "azure-blob-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Storage",
+        "description": "Object storage that’s secure, durable, and scalable.",
+        "key": "cloud-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Object Storage Service",
@@ -13093,7 +13174,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Simple Storage Service (S3)",
+        "description": "Scalable storage in the cloud",
+        "key": "amazon-simple-storage-service-s3",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Blob Storage",
+        "description": "Massively scalable and secure object storage",
+        "key": "azure-blob-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Storage",
+        "description": "Object storage that’s secure, durable, and scalable.",
+        "key": "cloud-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Object Storage",
+        "description": "Object Storage",
+        "key": "object-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Object anchors Preview",
