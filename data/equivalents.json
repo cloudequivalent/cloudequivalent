@@ -2016,7 +2016,7 @@
     "alibaba-cloud.alibaba-cloud-dns",
     "aws.amazon-route-53",
     "azure.azure-dns",
-    "gcp.cloud-dns",
+    "gcp.cloud-dns"
   ],
   "oracle-cloud.email-delivery": [],
   "oracle-cloud.fastconnect": [],
