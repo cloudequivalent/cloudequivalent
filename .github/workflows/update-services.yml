@@ -23,5 +23,4 @@ jobs:
         with:
           branch: main
           commit_message: 🤖 Update service data (push to main)
-          file_pattern: '*.json'
-          add_options: ''
+          file_pattern: 'data website'
