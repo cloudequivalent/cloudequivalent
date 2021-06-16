@@ -551,7 +551,12 @@
   "aws.amazon-braket": [],
   "aws.aws-robomaker": [],
   "aws.aws-ground-station": [],
-  "aws.aws-identity-and-access-management": [],
+  "aws.aws-identity-and-access-management": [
+    "alibaba-cloud.resource-access-management",
+    "azure.azure-active-directory",
+    "gcp.identity-and-access-management",
+    "oracle-cloud.identity-and-access-management"
+  ],
   "aws.amazon-cognito": [
     "gcp.identity-platform",
     "aws.amazon-cognito",
@@ -955,9 +960,10 @@
   "azure.azure-test-plans": [],
   "azure.devops-tool-integrations": [],
   "azure.azure-active-directory": [
-    "gcp.identity-platform",
-    "aws.amazon-cognito",
-    "azure.azure-active-directory"
+    "alibaba-cloud.resource-access-management",
+    "aws.aws-identity-and-access-management",
+    "gcp.identity-and-access-management",
+    "oracle-cloud.identity-and-access-management"
   ],
   "azure.azure-arc": [
     "gcp.anthos",
@@ -1663,9 +1669,10 @@
     "azure.azure-active-directory"
   ],
   "gcp.identity-and-access-management": [
-    "gcp.cloud-identity",
-    "gcp.identity-and-access-management",
-    "azure.azure-active-directory"
+    "alibaba-cloud.resource-access-management",
+    "aws.aws-identity-and-access-management",
+    "azure.azure-active-directory",
+    "oracle-cloud.identity-and-access-management"
   ],
   "gcp.identity-aware-proxy": [],
   "gcp.identity-platform": [
@@ -1811,7 +1818,12 @@
   "alibaba-cloud.cloud-firewall": [],
   "alibaba-cloud.bastionhost": [],
   "alibaba-cloud.actiontrail": [],
-  "alibaba-cloud.resource-access-management": [],
+  "alibaba-cloud.resource-access-management": [
+    "aws.aws-identity-and-access-management",
+    "azure.azure-active-directory",
+    "gcp.identity-and-access-management",
+    "oracle-cloud.identity-and-access-management"
+  ],
   "alibaba-cloud.idaas": [],
   "alibaba-cloud.sensitive-data-discovery-and-protection": [],
   "alibaba-cloud.key-management-service": [],
@@ -1956,7 +1968,12 @@
   "oracle-cloud.cloud-access-security-broker-casb": [],
   "oracle-cloud.cloud-guard": [],
   "oracle-cloud.database-security": [],
-  "oracle-cloud.identity-and-access-management": [],
+  "oracle-cloud.identity-and-access-management": [
+    "alibaba-cloud.resource-access-management",
+    "aws.aws-identity-and-access-management",
+    "azure.azure-active-directory",
+    "gcp.identity-and-access-management"
+  ],
   "oracle-cloud.identity-cloud-service": [],
   "oracle-cloud.key-management": [],
   "oracle-cloud.security-zones": [],
