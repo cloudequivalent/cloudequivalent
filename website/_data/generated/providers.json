@@ -18,5 +18,10 @@
     "name": "Microsoft Azure (Azure)",
     "key": "azure",
     "accentColour": "#0089d6"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure (OCI)",
+    "key": "oracle-cloud",
+    "accentColour": "#C74634"
   }
 ]

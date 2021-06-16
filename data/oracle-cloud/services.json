@@ -1,0 +1,387 @@
+[
+  {
+    "name": "Oracle Analytics Cloud",
+    "description": "Oracle Analytics Cloud",
+    "key": "oracle-analytics-cloud"
+  },
+  {
+    "name": "Oracle Big Data Service",
+    "description": "Oracle Big Data Service",
+    "key": "oracle-big-data-service"
+  },
+  {
+    "name": "Oracle Big Data SQL Cloud Service",
+    "description": "Oracle Big Data SQL Cloud Service",
+    "key": "oracle-big-data-sql-cloud-service"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Data Catalog",
+    "description": "Oracle Cloud Infrastructure Data Catalog",
+    "key": "oracle-cloud-infrastructure-data-catalog"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Data Flow",
+    "description": "Oracle Cloud Infrastructure Data Flow",
+    "key": "oracle-cloud-infrastructure-data-flow"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Streaming",
+    "description": "Oracle Cloud Infrastructure Streaming",
+    "key": "oracle-cloud-infrastructure-streaming"
+  },
+  {
+    "name": "Oracle Data Science",
+    "description": "Oracle Data Science",
+    "key": "oracle-data-science"
+  },
+  {
+    "name": "Oracle Essbase",
+    "description": "Oracle Essbase",
+    "key": "oracle-essbase"
+  },
+  {
+    "name": "API Gateway",
+    "description": "API Gateway",
+    "key": "api-gateway"
+  },
+  {
+    "name": "Blockchain Platform",
+    "description": "Blockchain Platform",
+    "key": "blockchain-platform"
+  },
+  {
+    "name": "Container Engine for Kubernetes",
+    "description": "Container Engine for Kubernetes",
+    "key": "container-engine-for-kubernetes"
+  },
+  {
+    "name": "Container Registry",
+    "description": "Container Registry",
+    "key": "container-registry"
+  },
+  {
+    "name": "Data Science",
+    "description": "Data Science",
+    "key": "data-science"
+  },
+  {
+    "name": "Digital Assistant",
+    "description": "Digital Assistant",
+    "key": "digital-assistant"
+  },
+  {
+    "name": "Events Service",
+    "description": "Events Service",
+    "key": "events-service"
+  },
+  {
+    "name": "Functions",
+    "description": "Functions",
+    "key": "functions"
+  },
+  {
+    "name": "Java",
+    "description": "Java",
+    "key": "java"
+  },
+  {
+    "name": "Mobile Hub",
+    "description": "Mobile Hub",
+    "key": "mobile-hub"
+  },
+  {
+    "name": "Oracle Application Express (APEX)",
+    "description": "Oracle Application Express (APEX)",
+    "key": "oracle-application-express-apex"
+  },
+  {
+    "name": "Oracle Content and Experience",
+    "description": "Oracle Content and Experience",
+    "key": "oracle-content-and-experience"
+  },
+  {
+    "name": "Oracle MySQL Database Service",
+    "description": "Oracle MySQL Database Service",
+    "key": "oracle-mysql-database-service"
+  },
+  {
+    "name": "Oracle NoSQL Database Cloud Service",
+    "description": "Oracle NoSQL Database Cloud Service",
+    "key": "oracle-nosql-database-cloud-service"
+  },
+  {
+    "name": "Oracle Visual Builder",
+    "description": "Oracle Visual Builder",
+    "key": "oracle-visual-builder"
+  },
+  {
+    "name": "Oracle Visual Builder Studio",
+    "description": "Oracle Visual Builder Studio",
+    "key": "oracle-visual-builder-studio"
+  },
+  {
+    "name": "Artificial Intelligence",
+    "description": "Artificial Intelligence",
+    "key": "artificial-intelligence"
+  },
+  {
+    "name": "Blockchain",
+    "description": "Blockchain",
+    "key": "blockchain"
+  },
+  {
+    "name": "Machine Learning",
+    "description": "Machine Learning",
+    "key": "machine-learning"
+  },
+  {
+    "name": "Oracle Roving Edge Infrastructure",
+    "description": "Oracle Roving Edge Infrastructure",
+    "key": "oracle-roving-edge-infrastructure"
+  },
+  {
+    "name": "Bare Metal Compute",
+    "description": "Bare Metal Compute",
+    "key": "bare-metal-compute"
+  },
+  {
+    "name": "Capacity Reservations",
+    "description": "Capacity Reservations",
+    "key": "capacity-reservations"
+  },
+  {
+    "name": "High Performance Computing",
+    "description": "High Performance Computing",
+    "key": "high-performance-computing"
+  },
+  {
+    "name": "Virtual Machines and Bare Metal (GPU)",
+    "description": "Virtual Machines and Bare Metal (GPU)",
+    "key": "virtual-machines-and-bare-metal-gpu"
+  },
+  {
+    "name": "Virtual Machines",
+    "description": "Virtual Machines",
+    "key": "virtual-machines"
+  },
+  {
+    "name": "Autonomous Data Warehouse",
+    "description": "Autonomous Data Warehouse",
+    "key": "autonomous-data-warehouse"
+  },
+  {
+    "name": "Autonomous JSON Database",
+    "description": "Autonomous JSON Database",
+    "key": "autonomous-json-database"
+  },
+  {
+    "name": "Autonomous Transaction Processing",
+    "description": "Autonomous Transaction Processing",
+    "key": "autonomous-transaction-processing"
+  },
+  {
+    "name": "Database Cloud Service: Bare Metal",
+    "description": "Database Cloud Service: Bare Metal",
+    "key": "database-cloud-service-bare-metal"
+  },
+  {
+    "name": "Database Cloud Service: Virtual Machine",
+    "description": "Database Cloud Service: Virtual Machine",
+    "key": "database-cloud-service-virtual-machine"
+  },
+  {
+    "name": "Exadata Cloud@Customer",
+    "description": "Exadata Cloud@Customer",
+    "key": "exadata-cloudcustomer"
+  },
+  {
+    "name": "Exadata Cloud Service",
+    "description": "Exadata Cloud Service",
+    "key": "exadata-cloud-service"
+  },
+  {
+    "name": "Application Integration",
+    "description": "Application Integration",
+    "key": "application-integration"
+  },
+  {
+    "name": "Oracle GoldenGate",
+    "description": "Oracle GoldenGate",
+    "key": "oracle-goldengate"
+  },
+  {
+    "name": "Oracle Data Integrator",
+    "description": "Oracle Data Integrator",
+    "key": "oracle-data-integrator"
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Data Integration",
+    "description": "Oracle Cloud Infrastructure Data Integration",
+    "key": "oracle-cloud-infrastructure-data-integration"
+  },
+  {
+    "name": "SOA Cloud Service",
+    "description": "SOA Cloud Service",
+    "key": "soa-cloud-service"
+  },
+  {
+    "name": "AuditTaggingCost Management",
+    "description": "AuditTaggingCost Management",
+    "key": "audittaggingcost-management"
+  },
+  {
+    "name": "Logging",
+    "description": "Logging",
+    "key": "logging"
+  },
+  {
+    "name": "Logging Analytics",
+    "description": "Logging Analytics",
+    "key": "logging-analytics"
+  },
+  {
+    "name": "Monitoring",
+    "description": "Monitoring",
+    "key": "monitoring"
+  },
+  {
+    "name": "Notifications",
+    "description": "Notifications",
+    "key": "notifications"
+  },
+  {
+    "name": "Resource Manager",
+    "description": "Resource Manager",
+    "key": "resource-manager"
+  },
+  {
+    "name": "Service Connector Hub",
+    "description": "Service Connector Hub",
+    "key": "service-connector-hub"
+  },
+  {
+    "name": "DNS",
+    "description": "DNS",
+    "key": "dns"
+  },
+  {
+    "name": "Email Delivery",
+    "description": "Email Delivery",
+    "key": "email-delivery"
+  },
+  {
+    "name": "FastConnect",
+    "description": "FastConnect",
+    "key": "fastconnect"
+  },
+  {
+    "name": "Health Checks",
+    "description": "Health Checks",
+    "key": "health-checks"
+  },
+  {
+    "name": "Load Balancing",
+    "description": "Load Balancing",
+    "key": "load-balancing"
+  },
+  {
+    "name": "Service Gateway",
+    "description": "Service Gateway",
+    "key": "service-gateway"
+  },
+  {
+    "name": "Traffic Management",
+    "description": "Traffic Management",
+    "key": "traffic-management"
+  },
+  {
+    "name": "Virtual Cloud Network",
+    "description": "Virtual Cloud Network",
+    "key": "virtual-cloud-network"
+  },
+  {
+    "name": "Bastion",
+    "description": "Bastion",
+    "key": "bastion"
+  },
+  {
+    "name": "Cloud Access Security Broker (CASB)",
+    "description": "Cloud Access Security Broker (CASB)",
+    "key": "cloud-access-security-broker-casb"
+  },
+  {
+    "name": "Cloud Guard",
+    "description": "Cloud Guard",
+    "key": "cloud-guard"
+  },
+  {
+    "name": "Database Security",
+    "description": "Database Security",
+    "key": "database-security"
+  },
+  {
+    "name": "Identity and Access Management",
+    "description": "Identity and Access Management",
+    "key": "identity-and-access-management"
+  },
+  {
+    "name": "Identity Cloud Service",
+    "description": "Identity Cloud Service",
+    "key": "identity-cloud-service"
+  },
+  {
+    "name": "Key Management",
+    "description": "Key Management",
+    "key": "key-management"
+  },
+  {
+    "name": "Security Zones",
+    "description": "Security Zones",
+    "key": "security-zones"
+  },
+  {
+    "name": "Vulnerability Scanning Service",
+    "description": "Vulnerability Scanning Service",
+    "key": "vulnerability-scanning-service"
+  },
+  {
+    "name": "Web Application Firewall (WAF)",
+    "description": "Web Application Firewall (WAF)",
+    "key": "web-application-firewall-waf"
+  },
+  {
+    "name": "Archive Storage",
+    "description": "Archive Storage",
+    "key": "archive-storage"
+  },
+  {
+    "name": "Block Volumes",
+    "description": "Block Volumes",
+    "key": "block-volumes"
+  },
+  {
+    "name": "Data Transfer",
+    "description": "Data Transfer",
+    "key": "data-transfer"
+  },
+  {
+    "name": "File Storage",
+    "description": "File Storage",
+    "key": "file-storage"
+  },
+  {
+    "name": "Local NVMe SSD",
+    "description": "Local NVMe SSD",
+    "key": "local-nvme-ssd"
+  },
+  {
+    "name": "Object Storage",
+    "description": "Object Storage",
+    "key": "object-storage"
+  },
+  {
+    "name": "Storage Gateway",
+    "description": "Storage Gateway",
+    "key": "storage-gateway"
+  }
+]

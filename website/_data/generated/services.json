@@ -175,6 +175,17 @@
     "equivalents": []
   },
   {
+    "name": "API Gateway",
+    "description": "API Gateway",
+    "key": "api-gateway",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "API Management",
     "description": "Publish APIs to developers, partners and employees securely and at scale",
     "key": "api-management",
@@ -4990,6 +5001,17 @@
     "equivalents": []
   },
   {
+    "name": "Application Integration",
+    "description": "Application Integration",
+    "key": "application-integration",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Application Real-Time Monitoring Service",
     "description": "Build business monitoring capabilities",
     "key": "application-real-time-monitoring-service",
@@ -5221,6 +5243,17 @@
     "equivalents": []
   },
   {
+    "name": "Archive Storage",
+    "description": "Archive Storage",
+    "key": "archive-storage",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Artifact Registry",
     "description": "Store, manage, and secure container images and language packages.",
     "key": "artifact-registry",
@@ -5253,6 +5286,17 @@
     ]
   },
   {
+    "name": "Artificial Intelligence",
+    "description": "Artificial Intelligence",
+    "key": "artificial-intelligence",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Assured Workloads",
     "description": "Compliance and security controls for sensitive workloads.",
     "key": "assured-workloads",
@@ -5260,6 +5304,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "AuditTaggingCost Management",
+    "description": "AuditTaggingCost Management",
+    "key": "audittaggingcost-management",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -5338,6 +5393,39 @@
         }
       }
     ]
+  },
+  {
+    "name": "Autonomous Data Warehouse",
+    "description": "Autonomous Data Warehouse",
+    "key": "autonomous-data-warehouse",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Autonomous JSON Database",
+    "description": "Autonomous JSON Database",
+    "key": "autonomous-json-database",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Autonomous Transaction Processing",
+    "description": "Autonomous Transaction Processing",
+    "key": "autonomous-transaction-processing",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Avere vFXT for Azure",
@@ -7571,6 +7659,28 @@
     ]
   },
   {
+    "name": "Bare Metal Compute",
+    "description": "Bare Metal Compute",
+    "key": "bare-metal-compute",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Bastion",
+    "description": "Bastion",
+    "key": "bastion",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Bastionhost",
     "description": "A system O&M and operation audit platform",
     "key": "bastionhost",
@@ -7690,12 +7800,56 @@
     "equivalents": []
   },
   {
+    "name": "Block Volumes",
+    "description": "Block Volumes",
+    "key": "block-volumes",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Blockchain",
+    "description": "Blockchain",
+    "key": "blockchain",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Blockchain Platform",
+    "description": "Blockchain Platform",
+    "key": "blockchain-platform",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Blockchain as a Service",
     "description": "Secure and stable blockchain platform",
     "key": "blockchain-as-a-service",
     "provider": {
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Capacity Reservations",
+    "description": "Capacity Reservations",
+    "key": "capacity-reservations",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
     "equivalents": []
@@ -7784,6 +7938,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Cloud Access Security Broker (CASB)",
+    "description": "Cloud Access Security Broker (CASB)",
+    "key": "cloud-access-security-broker-casb",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -8351,6 +8516,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Cloud Guard",
+    "description": "Cloud Guard",
+    "key": "cloud-guard",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Cloud Healthcare API",
@@ -9147,6 +9323,17 @@
     "equivalents": []
   },
   {
+    "name": "Container Engine for Kubernetes",
+    "description": "Container Engine for Kubernetes",
+    "key": "container-engine-for-kubernetes",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Container Instances",
     "description": "Easily run containers on Azure without managing servers.",
     "key": "container-instances",
@@ -9269,6 +9456,17 @@
     "provider": {
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Container Registry",
+    "description": "Container Registry",
+    "key": "container-registry",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
     "equivalents": []
@@ -9411,6 +9609,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "DNS",
+    "description": "DNS",
+    "key": "dns",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -9575,6 +9784,17 @@
     "equivalents": []
   },
   {
+    "name": "Data Science",
+    "description": "Data Science",
+    "key": "data-science",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Data Science Virtual Machines",
     "description": "Rich, pre-configured environment for AI development",
     "key": "data-science-virtual-machines",
@@ -9582,6 +9802,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Data Transfer",
+    "description": "Data Transfer",
+    "key": "data-transfer",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -9663,6 +9894,28 @@
     "equivalents": []
   },
   {
+    "name": "Database Cloud Service: Bare Metal",
+    "description": "Database Cloud Service: Bare Metal",
+    "key": "database-cloud-service-bare-metal",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Database Cloud Service: Virtual Machine",
+    "description": "Database Cloud Service: Virtual Machine",
+    "key": "database-cloud-service-virtual-machine",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Database Gateway",
     "description": "A private database connection service with high security and reliability",
     "key": "database-gateway",
@@ -9704,6 +9957,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Database Security",
+    "description": "Database Security",
+    "key": "database-security",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Dataflow",
@@ -9931,6 +10195,17 @@
     ]
   },
   {
+    "name": "Digital Assistant",
+    "description": "Digital Assistant",
+    "key": "digital-assistant",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Direct Mail",
     "description": "A simple and efficient email service",
     "key": "direct-mail",
@@ -10128,6 +10403,17 @@
     "equivalents": []
   },
   {
+    "name": "Email Delivery",
+    "description": "Email Delivery",
+    "key": "email-delivery",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Encoding",
     "description": "Studio-grade encoding at cloud scale",
     "key": "encoding",
@@ -10204,6 +10490,39 @@
     ]
   },
   {
+    "name": "Events Service",
+    "description": "Events Service",
+    "key": "events-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Exadata Cloud Service",
+    "description": "Exadata Cloud Service",
+    "key": "exadata-cloud-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Exadata Cloud@Customer",
+    "description": "Exadata Cloud@Customer",
+    "key": "exadata-cloudcustomer",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Express Connect",
     "description": "Dedicated physical connections",
     "key": "express-connect",
@@ -10222,6 +10541,28 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "FastConnect",
+    "description": "FastConnect",
+    "key": "fastconnect",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "File Storage",
+    "description": "File Storage",
+    "key": "file-storage",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10444,6 +10785,17 @@
     "provider": {
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Functions",
+    "description": "Functions",
+    "key": "functions",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
     "equivalents": []
@@ -10728,6 +11080,17 @@
     "equivalents": []
   },
   {
+    "name": "Health Checks",
+    "description": "Health Checks",
+    "key": "health-checks",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "HealthAPIx",
     "description": "FHIR API-based digital service formation.",
     "key": "healthapix",
@@ -10746,6 +11109,17 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "High Performance Computing",
+    "description": "High Performance Computing",
+    "key": "high-performance-computing",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -10837,6 +11211,17 @@
     "equivalents": []
   },
   {
+    "name": "Identity Cloud Service",
+    "description": "Identity Cloud Service",
+    "key": "identity-cloud-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Identity Platform",
     "description": "Add Google-grade identity and access management to your apps.",
     "key": "identity-platform",
@@ -10889,6 +11274,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Identity and Access Management",
+    "description": "Identity and Access Management",
+    "key": "identity-and-access-management",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Identity-Aware Proxy",
@@ -10973,6 +11369,28 @@
     "provider": {
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Java",
+    "description": "Java",
+    "key": "java",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Key Management",
+    "description": "Key Management",
+    "key": "key-management",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
     "equivalents": []
@@ -11151,6 +11569,17 @@
     "equivalents": []
   },
   {
+    "name": "Load Balancing",
+    "description": "Load Balancing",
+    "key": "load-balancing",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Load balancing",
     "description": "Explore Azure load-balancing services and find the best solution for your workloads using an easy-to-use service selection tool",
     "key": "load-balancing",
@@ -11183,6 +11612,17 @@
     ]
   },
   {
+    "name": "Local NVMe SSD",
+    "description": "Local NVMe SSD",
+    "key": "local-nvme-ssd",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Local SSD",
     "description": "Block storage that is locally attached for high-performance needs.",
     "key": "local-ssd",
@@ -11200,6 +11640,28 @@
     "provider": {
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Logging",
+    "description": "Logging",
+    "key": "logging",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Logging Analytics",
+    "description": "Logging Analytics",
+    "key": "logging-analytics",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
     "equivalents": []
@@ -11235,6 +11697,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Machine Learning",
+    "description": "Machine Learning",
+    "key": "machine-learning",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Machine Learning Platform For AI",
@@ -11584,6 +12057,28 @@
     "equivalents": []
   },
   {
+    "name": "Mobile Hub",
+    "description": "Mobile Hub",
+    "key": "mobile-hub",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Monitoring",
+    "description": "Monitoring",
+    "key": "monitoring",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "NAT Gateway",
     "description": "Public Internet gateway",
     "key": "nat-gateway",
@@ -11672,6 +12167,28 @@
     "equivalents": []
   },
   {
+    "name": "Notifications",
+    "description": "Notifications",
+    "key": "notifications",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Object Storage",
+    "description": "Object Storage",
+    "key": "object-storage",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Object Storage Service",
     "description": "Store, backup and archive your data",
     "key": "object-storage-service",
@@ -11734,6 +12251,204 @@
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
       "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Analytics Cloud",
+    "description": "Oracle Analytics Cloud",
+    "key": "oracle-analytics-cloud",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Application Express (APEX)",
+    "description": "Oracle Application Express (APEX)",
+    "key": "oracle-application-express-apex",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Big Data SQL Cloud Service",
+    "description": "Oracle Big Data SQL Cloud Service",
+    "key": "oracle-big-data-sql-cloud-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Big Data Service",
+    "description": "Oracle Big Data Service",
+    "key": "oracle-big-data-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Data Catalog",
+    "description": "Oracle Cloud Infrastructure Data Catalog",
+    "key": "oracle-cloud-infrastructure-data-catalog",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Data Flow",
+    "description": "Oracle Cloud Infrastructure Data Flow",
+    "key": "oracle-cloud-infrastructure-data-flow",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Data Integration",
+    "description": "Oracle Cloud Infrastructure Data Integration",
+    "key": "oracle-cloud-infrastructure-data-integration",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Cloud Infrastructure Streaming",
+    "description": "Oracle Cloud Infrastructure Streaming",
+    "key": "oracle-cloud-infrastructure-streaming",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Content and Experience",
+    "description": "Oracle Content and Experience",
+    "key": "oracle-content-and-experience",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Data Integrator",
+    "description": "Oracle Data Integrator",
+    "key": "oracle-data-integrator",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Data Science",
+    "description": "Oracle Data Science",
+    "key": "oracle-data-science",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Essbase",
+    "description": "Oracle Essbase",
+    "key": "oracle-essbase",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle GoldenGate",
+    "description": "Oracle GoldenGate",
+    "key": "oracle-goldengate",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle MySQL Database Service",
+    "description": "Oracle MySQL Database Service",
+    "key": "oracle-mysql-database-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle NoSQL Database Cloud Service",
+    "description": "Oracle NoSQL Database Cloud Service",
+    "key": "oracle-nosql-database-cloud-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Roving Edge Infrastructure",
+    "description": "Oracle Roving Edge Infrastructure",
+    "key": "oracle-roving-edge-infrastructure",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Visual Builder",
+    "description": "Oracle Visual Builder",
+    "key": "oracle-visual-builder",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Oracle Visual Builder Studio",
+    "description": "Oracle Visual Builder Studio",
+    "key": "oracle-visual-builder-studio",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -12160,6 +12875,17 @@
     ]
   },
   {
+    "name": "Resource Manager",
+    "description": "Resource Manager",
+    "key": "resource-manager",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Resource Orchestration Service",
     "description": "Simplify the Operations and Management (O&M) of your computing resources",
     "key": "resource-orchestration-service",
@@ -12200,6 +12926,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "SOA Cloud Service",
+    "description": "SOA Cloud Service",
+    "key": "soa-cloud-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -12375,6 +13112,17 @@
     ]
   },
   {
+    "name": "Security Zones",
+    "description": "Security Zones",
+    "key": "security-zones",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Sensitive Data Discovery & Protection",
     "description": "A security service that protects sensitive data",
     "key": "sensitive-data-discovery-and-protection",
@@ -12450,6 +13198,17 @@
     ]
   },
   {
+    "name": "Service Connector Hub",
+    "description": "Service Connector Hub",
+    "key": "service-connector-hub",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Service Directory",
     "description": "Platform for discovering, publishing, and connecting services.",
     "key": "service-directory",
@@ -12512,6 +13271,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Service Gateway",
+    "description": "Service Gateway",
+    "key": "service-gateway",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Shielded VMs",
@@ -12718,6 +13488,17 @@
       "name": "Microsoft Azure (Azure)",
       "key": "azure",
       "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Storage Gateway",
+    "description": "Storage Gateway",
+    "key": "storage-gateway",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
     },
     "equivalents": []
   },
@@ -13025,6 +13806,17 @@
     ]
   },
   {
+    "name": "Traffic Management",
+    "description": "Traffic Management",
+    "key": "traffic-management",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Traffic Manager",
     "description": "Route incoming traffic for high performance and availability",
     "key": "traffic-manager",
@@ -13294,6 +14086,17 @@
     ]
   },
   {
+    "name": "Virtual Cloud Network",
+    "description": "Virtual Cloud Network",
+    "key": "virtual-cloud-network",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Virtual Machine Scale Sets",
     "description": "Manage and scale up to thousands of Linux and Windows virtual machines",
     "key": "virtual-machine-scale-sets",
@@ -13356,6 +14159,28 @@
         }
       }
     ]
+  },
+  {
+    "name": "Virtual Machines",
+    "description": "Virtual Machines",
+    "key": "virtual-machines",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Virtual Machines and Bare Metal (GPU)",
+    "description": "Virtual Machines and Bare Metal (GPU)",
+    "key": "virtual-machines-and-bare-metal-gpu",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
   },
   {
     "name": "Virtual Network",
@@ -13509,6 +14334,17 @@
     "equivalents": []
   },
   {
+    "name": "Vulnerability Scanning Service",
+    "description": "Vulnerability Scanning Service",
+    "key": "vulnerability-scanning-service",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "WHOIS",
     "description": "Search WHOIS database to look up domain",
     "key": "whois",
@@ -13569,6 +14405,17 @@
     "provider": {
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Web Application Firewall (WAF)",
+    "description": "Web Application Firewall (WAF)",
+    "key": "web-application-firewall-waf",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
     "equivalents": []
