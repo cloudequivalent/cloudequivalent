@@ -5,6 +5,11 @@
     "key": "microsoft-365-formerly-office365"
   },
   {
+    "name": "GitHub",
+    "description": "GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
+    "key": "github"
+  },
+  {
     "name": "Anomaly detector",
     "description": "Easily add anomaly detection capabilities to your apps.",
     "key": "anomaly-detector"

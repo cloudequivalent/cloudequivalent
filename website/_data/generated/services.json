@@ -45,7 +45,7 @@
   },
   {
     "name": "ACE Cloud Computing Certification",
-    "description": "​​​​Designed for experts who are proficient in Alibaba Cloud computing products.",
+    "description": "Designed for experts who are proficient in Alibaba Cloud computing products.",
     "key": "ace-cloud-computing-certification",
     "provider": {
       "name": "Alibaba Cloud (AC)",
@@ -11153,6 +11153,17 @@
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "GitHub",
+    "description": "GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it.",
+    "key": "github",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure",
+      "accentColour": "#0089d6"
     },
     "equivalents": []
   },

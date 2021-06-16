@@ -2013,5 +2013,6 @@
   "oracle-cloud.file-storage": [],
   "oracle-cloud.local-nvme-ssd": [],
   "oracle-cloud.object-storage": [],
-  "oracle-cloud.storage-gateway": []
+  "oracle-cloud.storage-gateway": [],
+  "azure.github": []
 }
