@@ -105,31 +105,6 @@
     "key": "amazon-appsync"
   },
   {
-    "name": "AWS Cost Explorer",
-    "description": "Analyze Your AWS Cost and Usage",
-    "key": "aws-cost-explorer"
-  },
-  {
-    "name": "AWS Budgets",
-    "description": "Set Custom Cost and Usage Budgets",
-    "key": "aws-budgets"
-  },
-  {
-    "name": "AWS Cost and Usage Report",
-    "description": "Access Comprehensive Cost and Usage Information",
-    "key": "aws-cost-and-usage-report"
-  },
-  {
-    "name": "Reserved Instance Reporting",
-    "description": "Dive Deeper into Your Reserved Instances (RIs)",
-    "key": "reserved-instance-reporting"
-  },
-  {
-    "name": "Savings Plans",
-    "description": "Save up to 72% on compute usage with flexible pricing",
-    "key": "savings-plans"
-  },
-  {
     "name": "Amazon Managed Blockchain",
     "description": "Create and manage scalable blockchain networks",
     "key": "amazon-managed-blockchain"
@@ -163,6 +138,31 @@
     "name": "Amazon WorkMail",
     "description": "Secure and Managed Business Email and Calendaring",
     "key": "amazon-workmail"
+  },
+  {
+    "name": "AWS Cost Explorer",
+    "description": "Analyze Your AWS Cost and Usage",
+    "key": "aws-cost-explorer"
+  },
+  {
+    "name": "AWS Budgets",
+    "description": "Set Custom Cost and Usage Budgets",
+    "key": "aws-budgets"
+  },
+  {
+    "name": "AWS Cost and Usage Report",
+    "description": "Access Comprehensive Cost and Usage Information",
+    "key": "aws-cost-and-usage-report"
+  },
+  {
+    "name": "Reserved Instance Reporting",
+    "description": "Dive Deeper into Your Reserved Instances (RIs)",
+    "key": "reserved-instance-reporting"
+  },
+  {
+    "name": "Savings Plans",
+    "description": "Save up to 72% on compute usage with flexible pricing",
+    "key": "savings-plans"
   },
   {
     "name": "Amazon EC2",
