@@ -273,8 +273,10 @@
   "aws.aws-cloud-development-kit-cdk": [],
   "aws.aws-cloud9": [],
   "aws.aws-cloudshell": [
+    "alibaba-cloud.cloud-shell",
     "azure.cloud-shell",
-    "aws.aws-cloudshell"
+    "gcp.cloud-shell",
+    "oracle-cloud.cloud-shell"
   ],
   "aws.aws-codeartifact": [],
   "aws.aws-codebuild": [
@@ -1083,8 +1085,10 @@
   "azure.azure-service-health": [],
   "azure.azure-site-recovery": [],
   "azure.cloud-shell": [
-    "azure.cloud-shell",
+    "alibaba-cloud.cloud-shell",
     "aws.aws-cloudshell"
+    "gcp.cloud-shell",
+    "oracle-cloud.cloud-shell"
   ],
   "azure.azure-cost-management-and-billing": [
     "azure.azure-cost-management-and-billing"
@@ -1551,8 +1555,10 @@
   ],
   "gcp.cloud-mobile-app": [],
   "gcp.cloud-shell": [
-    "azure.cloud-shell",
+    "alibaba-cloud.cloud-shell",
     "aws.aws-cloudshell"
+    "azure.cloud-shell",
+    "oracle-cloud.cloud-shell"
   ],
   "gcp.cost-management": [
     "gcp.recommender",
@@ -1961,7 +1967,12 @@
   "alibaba-cloud.cloudmonitor": [],
   "alibaba-cloud.application-high-availability-service": [],
   "alibaba-cloud.openapi-explorer": [],
-  "alibaba-cloud.cloud-shell": [],
+  "alibaba-cloud.cloud-shell": [
+    "aws.aws-cloudshell"
+    "azure.cloud-shell",
+    "gcp.cloud-shell",
+    "oracle-cloud.cloud-shell"
+  ],
   "alibaba-cloud.iot-platform": [],
   "alibaba-cloud.link-iot-edge": [],
   "alibaba-cloud.aca-cloud-computing-certification": [],
@@ -2123,5 +2134,10 @@
     "gcp.vmware-engine",
     "oracle-cloud.oracle-cloud-vmware-solution"
   ],
-  "oracle-cloud.cloud-shell": []
+  "oracle-cloud.cloud-shell": [
+    "alibaba-cloud.cloud-shell",
+    "aws.aws-cloudshell"
+    "azure.cloud-shell",
+    "gcp.cloud-shell"
+  ]
 }
