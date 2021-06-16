@@ -1,18 +1,14 @@
+const postcss = require('postcss')
+const postcssConfig = require('./postcss.config')
 const htmlmin = require('html-minifier')
 const now = String(Date.now())
 
-module.exports = function (eleventyConfig) {
-  // Add watch targets
-  eleventyConfig.addWatchTarget('./_tmp/style.css')
-
+module.exports = eleventyConfig => {
   // Passthrough static files
   eleventyConfig.addPassthroughCopy('./website/CNAME')
-  eleventyConfig.addPassthroughCopy({
-    './_tmp/style.css': './style.css'
-  })
 
   // Add shortcode to get the current time
-  eleventyConfig.addShortcode('now', function () {
+  eleventyConfig.addShortcode('now', () => {
     return now
   })
 
@@ -20,13 +16,27 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false)
 
   // Minify HTML output
-  eleventyConfig.addTransform('htmlmin', function (content, outputPath) {
+  eleventyConfig.addTransform('htmlmin', (content, outputPath) => {
     if (outputPath && outputPath.endsWith('.html')) {
       return htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true
       })
+    }
+
+    return content
+  })
+
+  // Process SCSS to CSS
+  eleventyConfig.addWatchTarget('./website/_assets/scss/')
+  eleventyConfig.addTransform('postcss', async (content, outputPath) => {
+    if (outputPath && outputPath.endsWith('.css')) {
+      const processed = await postcss(postcssConfig.plugins).process(content, {
+        from: './website/_assets/scss/main.scss'
+      })
+
+      return processed.css
     }
 
     return content
