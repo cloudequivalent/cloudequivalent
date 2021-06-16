@@ -2561,7 +2561,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "VMware Cloud on AWS",
+        "description": "Build a Hybrid Cloud without Custom Hardware",
+        "key": "vmware-cloud-on-aws",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure VMware Solution",
+        "description": "Run your VMware workloads natively on Azure",
+        "key": "azure-vmware-solution",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "VMware Engine",
+        "description": "Migrate and run your VMware workloads natively on Google Cloud.",
+        "key": "vmware-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Oracle Cloud VMware Solution",
+        "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations.",
+        "key": "oracle-cloud-vmware-solution",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Alibaba Cloud ZStack",
@@ -7671,13 +7712,13 @@
     },
     "equivalents": [
       {
-        "name": "VMware Engine",
-        "description": "Migrate and run your VMware workloads natively on Google Cloud.",
-        "key": "vmware-engine",
+        "name": "Alibaba Cloud VMware Solution",
+        "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments",
+        "key": "alibaba-cloud-vmware-solution",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -7688,6 +7729,26 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "VMware Engine",
+        "description": "Migrate and run your VMware workloads natively on Google Cloud.",
+        "key": "vmware-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Oracle Cloud VMware Solution",
+        "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations.",
+        "key": "oracle-cloud-vmware-solution",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -12778,7 +12839,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Alibaba Cloud VMware Solution",
+        "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments",
+        "key": "alibaba-cloud-vmware-solution",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "VMware Cloud on AWS",
+        "description": "Build a Hybrid Cloud without Custom Hardware",
+        "key": "vmware-cloud-on-aws",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure VMware Solution",
+        "description": "Run your VMware workloads natively on Azure",
+        "key": "azure-vmware-solution",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "VMware Engine",
+        "description": "Migrate and run your VMware workloads natively on Google Cloud.",
+        "key": "vmware-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Oracle Content and Experience",
@@ -14403,13 +14505,13 @@
     },
     "equivalents": [
       {
-        "name": "VMware Engine",
-        "description": "Migrate and run your VMware workloads natively on Google Cloud.",
-        "key": "vmware-engine",
+        "name": "Alibaba Cloud VMware Solution",
+        "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments",
+        "key": "alibaba-cloud-vmware-solution",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -14420,6 +14522,26 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "VMware Engine",
+        "description": "Migrate and run your VMware workloads natively on Google Cloud.",
+        "key": "vmware-engine",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Oracle Cloud VMware Solution",
+        "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations.",
+        "key": "oracle-cloud-vmware-solution",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -14434,6 +14556,16 @@
       "accentColour": "#1a73e8"
     },
     "equivalents": [
+      {
+        "name": "Alibaba Cloud VMware Solution",
+        "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments",
+        "key": "alibaba-cloud-vmware-solution",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
       {
         "name": "VMware Cloud on AWS",
         "description": "Build a Hybrid Cloud without Custom Hardware",
@@ -14452,6 +14584,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Oracle Cloud VMware Solution",
+        "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations.",
+        "key": "oracle-cloud-vmware-solution",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
