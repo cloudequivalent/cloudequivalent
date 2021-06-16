@@ -2254,13 +2254,13 @@
     },
     "equivalents": [
       {
-        "name": "Cloud Armor",
-        "description": "Security policies and defense against web and DDoS attacks.",
-        "key": "cloud-armor",
+        "name": "Web Application Firewall (WAF)",
+        "description": "Web Application Firewall (WAF)",
+        "key": "web-application-firewall-waf",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -2271,6 +2271,26 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Web Application Firewall",
+        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "key": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -7963,6 +7983,16 @@
     },
     "equivalents": [
       {
+        "name": "Web Application Firewall (WAF)",
+        "description": "Web Application Firewall (WAF)",
+        "key": "web-application-firewall-waf",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Web Application Firewall",
         "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
         "key": "web-application-firewall",
@@ -7980,6 +8010,16 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Web Application Firewall",
+        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "key": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
         }
       }
     ]
@@ -14377,13 +14417,13 @@
     },
     "equivalents": [
       {
-        "name": "Cloud Armor",
-        "description": "Security policies and defense against web and DDoS attacks.",
-        "key": "cloud-armor",
+        "name": "Web Application Firewall (WAF)",
+        "description": "Web Application Firewall (WAF)",
+        "key": "web-application-firewall-waf",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -14394,6 +14434,16 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -14407,7 +14457,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Web Application Firewall (WAF)",
+        "description": "Web Application Firewall (WAF)",
+        "key": "web-application-firewall-waf",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "AWS WAF",
+        "description": "Filter Malicious Web Traffic",
+        "key": "aws-waf",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Web Application Firewall",
+        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "key": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Web Application Firewall (WAF)",
@@ -14418,7 +14509,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Web Application Firewall",
+        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "key": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "AWS WAF",
+        "description": "Filter Malicious Web Traffic",
+        "key": "aws-waf",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Web Application Firewall",
+        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "key": "web-application-firewall",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Web Apps",
