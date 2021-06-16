@@ -508,9 +508,10 @@
   "aws.aws-transfer-family": [],
   "aws.migration-evaluator-formerly-tso-logic": [],
   "aws.amazon-vpc": [
-    "aws.amazon-vpc",
+    "alibaba-cloud.virtual-private-cloud",
+    "azure.virtual-network",
     "gcp.virtual-private-cloud-vpc",
-    "azure.virtual-network"
+    "oracle-cloud.virtual-cloud-network"
   ],
   "aws.amazon-cloudfront": [
     "gcp.cloud-cdn",
@@ -1142,9 +1143,10 @@
   "azure.azure-internet-analyzer-preview": [],
   "azure.azure-private-link": [],
   "azure.virtual-network": [
+    "alibaba-cloud.virtual-private-cloud",
     "aws.amazon-vpc",
     "gcp.virtual-private-cloud-vpc",
-    "azure.virtual-network"
+    "oracle-cloud.virtual-cloud-network"
   ],
   "azure.virtual-wan": [],
   "azure.vpn-gateway": [],
@@ -1589,9 +1591,10 @@
     "azure.service-fabric"
   ],
   "gcp.virtual-private-cloud-vpc": [
+    "alibaba-cloud.virtual-private-cloud",
     "aws.amazon-vpc",
-    "gcp.virtual-private-cloud-vpc",
-    "azure.virtual-network"
+    "azure.virtual-network",
+    "oracle-cloud.virtual-cloud-network"
   ],
   "gcp.cloud-debugger": [
     "gcp.cloud-debugger",
@@ -1757,7 +1760,12 @@
     "oracle-cloud.functions"
   ],
   "alibaba-cloud.serverless-workflow": [],
-  "alibaba-cloud.virtual-private-cloud": [],
+  "alibaba-cloud.virtual-private-cloud": [
+    "aws.amazon-vpc",
+    "azure.virtual-network",
+    "gcp.virtual-private-cloud-vpc",
+    "oracle-cloud.virtual-cloud-network"
+  ],
   "alibaba-cloud.privatelink": [],
   "alibaba-cloud.alibaba-cloud-privatezone": [],
   "alibaba-cloud.server-load-balancer": [],
@@ -1973,7 +1981,12 @@
   "oracle-cloud.load-balancing": [],
   "oracle-cloud.service-gateway": [],
   "oracle-cloud.traffic-management": [],
-  "oracle-cloud.virtual-cloud-network": [],
+  "oracle-cloud.virtual-cloud-network": [
+    "alibaba-cloud.virtual-private-cloud",
+    "aws.amazon-vpc",
+    "azure.virtual-network",
+    "gcp.virtual-private-cloud-vpc"
+  ],
   "oracle-cloud.bastion": [],
   "oracle-cloud.cloud-access-security-broker-casb": [],
   "oracle-cloud.cloud-guard": [],
