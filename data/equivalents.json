@@ -523,9 +523,10 @@
     "gcp.cloud-cdn"
   ],
   "aws.amazon-route-53": [
+    "alibaba-cloud.alibaba-cloud-dns",
+    "azure.azure-dns",
     "gcp.cloud-dns",
-    "aws.amazon-route-53",
-    "azure.azure-dns"
+    "oracle-cloud.dns"
   ],
   "aws.aws-privatelink": [],
   "aws.aws-app-mesh": [
@@ -1129,9 +1130,10 @@
     "azure.azure-ddos-protection"
   ],
   "azure.azure-dns": [
-    "gcp.cloud-dns",
+    "alibaba-cloud.alibaba-cloud-dns",
     "aws.amazon-route-53",
-    "azure.azure-dns"
+    "gcp.cloud-dns",
+    "oracle-cloud.dns"
   ],
   "azure.azure-firewall": [
     "azure.web-application-firewall",
@@ -1570,9 +1572,10 @@
     "azure.app-service"
   ],
   "gcp.cloud-dns": [
-    "gcp.cloud-dns",
+    "alibaba-cloud.alibaba-cloud-dns",
     "aws.amazon-route-53",
-    "azure.azure-dns"
+    "azure.azure-dns",
+    "oracle-cloud.dns"
   ],
   "gcp.cloud-load-balancing": [
     "gcp.cloud-load-balancing",
@@ -1867,7 +1870,12 @@
   "alibaba-cloud.dedicated-dingtalk": [],
   "alibaba-cloud.web-hosting": [],
   "alibaba-cloud.domains": [],
-  "alibaba-cloud.alibaba-cloud-dns": [],
+  "alibaba-cloud.alibaba-cloud-dns": [
+    "aws.amazon-route-53",
+    "azure.azure-dns",
+    "gcp.cloud-dns",
+    "oracle-cloud.dns"
+  ],
   "alibaba-cloud.whois": [],
   "alibaba-cloud.zoloz-real-id": [],
   "alibaba-cloud.cloudquotation": [],
@@ -2004,7 +2012,12 @@
   "oracle-cloud.notifications": [],
   "oracle-cloud.resource-manager": [],
   "oracle-cloud.service-connector-hub": [],
-  "oracle-cloud.dns": [],
+  "oracle-cloud.dns": [
+    "alibaba-cloud.alibaba-cloud-dns",
+    "aws.amazon-route-53",
+    "azure.azure-dns",
+    "gcp.cloud-dns",
+  ],
   "oracle-cloud.email-delivery": [],
   "oracle-cloud.fastconnect": [],
   "oracle-cloud.health-checks": [],
