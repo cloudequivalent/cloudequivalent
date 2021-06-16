@@ -394,9 +394,9 @@
   "aws.amazon-lookout-for-vision": [],
   "aws.amazon-monitron": [],
   "aws.amazon-personalize": [
-    "gcp.recommendations-ai",
-    "aws.amazon-personalize",
-    "azure.personaliser"
+    "alibaba-cloud.airec",
+    "azure.personaliser",
+    "gcp.recommendations-ai"
   ],
   "aws.amazon-polly": [],
   "aws.amazon-rekognition": [
@@ -714,9 +714,9 @@
   ],
   "azure.microsoft-genomics": [],
   "azure.personaliser": [
-    "gcp.recommendations-ai",
+    "alibaba-cloud.airec",
     "aws.amazon-personalize",
-    "azure.personaliser"
+    "gcp.recommendations-ai"
   ],
   "azure.project-bonsai-preview": [],
   "azure.qna-maker": [],
@@ -1322,7 +1322,7 @@
   ],
   "gcp.cloud-inference-api-alpha": [],
   "gcp.recommendations-ai": [
-    "gcp.recommendations-ai",
+    "alibaba-cloud.airec",
     "aws.amazon-personalize",
     "azure.personaliser"
   ],
@@ -1887,7 +1887,11 @@
   "alibaba-cloud.dataphin": [],
   "alibaba-cloud.datav": [],
   "alibaba-cloud.quick-bi": [],
-  "alibaba-cloud.airec": [],
+  "alibaba-cloud.airec": [
+    "aws.amazon-personalize",
+    "azure.personaliser",
+    "gcp.recommendations-ai"
+  ],
   "alibaba-cloud.data-integration": [],
   "alibaba-cloud.machine-learning-platform-for-ai": [],
   "alibaba-cloud.image-search": [],
