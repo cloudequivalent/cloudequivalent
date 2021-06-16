@@ -119,10 +119,10 @@
     "gcp.google-workspace"
   ],
   "aws.amazon-ec2": [
+    "alibaba-cloud.elastic-compute-service",
+    "azure.virtual-machines",
     "gcp.compute-engine",
-    "gcp.cloud-gpus",
-    "aws.amazon-ec2",
-    "azure.virtual-machines"
+    "oracle-cloud.virtual-machines"
   ],
   "aws.amazon-ec2-auto-scaling": [
     "aws.amazon-ec2-auto-scaling",
@@ -874,10 +874,10 @@
     "azure.virtual-machine-scale-sets"
   ],
   "azure.virtual-machines": [
-    "gcp.compute-engine",
-    "gcp.cloud-gpus",
+    "alibaba-cloud.elastic-compute-service",
     "aws.amazon-ec2",
-    "azure.virtual-machines"
+    "gcp.compute-engine",
+    "oracle-cloud.virtual-machines"
   ],
   "azure.web-apps": [],
   "azure.windows-virtual-desktop": [],
@@ -1204,10 +1204,10 @@
   "azure.vmware-horizon-cloud-on-microsoft-azure": [],
   "azure.citrix-virtual-apps-and-desktops-for-azure": [],
   "gcp.compute-engine": [
-    "gcp.compute-engine",
-    "gcp.cloud-gpus",
+    "alibaba-cloud.elastic-compute-service",
     "aws.amazon-ec2",
-    "azure.virtual-machines"
+    "azure.virtual-machines",
+    "oracle-cloud.virtual-machines"
   ],
   "gcp.cloud-storage": [
     "gcp.cloud-storage-for-firebase",
@@ -1729,7 +1729,12 @@
   "gcp.google-meet": [],
   "gcp.chrome-enterprise": [],
   "gcp.google-maps-platform": [],
-  "alibaba-cloud.elastic-compute-service": [],
+  "alibaba-cloud.elastic-compute-service": [
+    "aws.amazon-ec2",
+    "azure.virtual-machines",
+    "gcp.compute-engine",
+    "oracle-cloud.virtual-machines"
+  ],
   "alibaba-cloud.ecs-bare-metal-instance": [],
   "alibaba-cloud.simple-application-server": [],
   "alibaba-cloud.elastic-gpu-service": [],
@@ -1936,7 +1941,12 @@
   "oracle-cloud.capacity-reservations": [],
   "oracle-cloud.high-performance-computing": [],
   "oracle-cloud.virtual-machines-and-bare-metal-gpu": [],
-  "oracle-cloud.virtual-machines": [],
+  "oracle-cloud.virtual-machines": [
+    "alibaba-cloud.elastic-compute-service",
+    "aws.amazon-ec2",
+    "azure.virtual-machines",
+    "gcp.compute-engine"
+  ],
   "oracle-cloud.autonomous-data-warehouse": [],
   "oracle-cloud.autonomous-json-database": [],
   "oracle-cloud.autonomous-transaction-processing": [],
