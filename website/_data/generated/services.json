@@ -702,7 +702,7 @@
   },
   {
     "name": "AWS CodeStar",
-    "description": "Develop and Deploy AWS Applications ",
+    "description": "Develop and Deploy AWS Applications",
     "key": "aws-codestar",
     "provider": {
       "name": "Amazon Web Services (AWS)",
@@ -1474,7 +1474,7 @@
     "equivalents": [
       {
         "name": "Cloud Key Management",
-        "description": "Manage encryption keys on Google Cloud. ",
+        "description": "Manage encryption keys on Google Cloud.",
         "key": "cloud-key-management",
         "provider": {
           "name": "Google Cloud Platform (GCP)",
@@ -1852,7 +1852,7 @@
     ]
   },
   {
-    "name": "AWS Server Migration Service ",
+    "name": "AWS Server Migration Service",
     "description": "Migrate On-Premises Servers to AWS",
     "key": "aws-server-migration-service",
     "provider": {
@@ -3670,7 +3670,7 @@
     "equivalents": []
   },
   {
-    "name": "Amazon Neptune ",
+    "name": "Amazon Neptune",
     "description": "Fully Managed Graph Database Service",
     "key": "amazon-neptune",
     "provider": {
@@ -4066,7 +4066,7 @@
     ]
   },
   {
-    "name": "Amazon Simple Queue Service (SQS) ",
+    "name": "Amazon Simple Queue Service (SQS)",
     "description": "Managed Message Queues",
     "key": "amazon-simple-queue-service-sqs",
     "provider": {
@@ -4347,7 +4347,7 @@
   },
   {
     "name": "Analytics Hub",
-    "description": "Service for securely and efficiently exchanging data analytics assets. ",
+    "description": "Service for securely and efficiently exchanging data analytics assets.",
     "key": "analytics-hub",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
@@ -7760,7 +7760,7 @@
   },
   {
     "name": "Cloud Key Management",
-    "description": "Manage encryption keys on Google Cloud. ",
+    "description": "Manage encryption keys on Google Cloud.",
     "key": "cloud-key-management",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
@@ -9714,7 +9714,7 @@
     ]
   },
   {
-    "name": "Identity-Aware Proxy ",
+    "name": "Identity-Aware Proxy",
     "description": "Use identity and context to guard access to your applications and VMs.",
     "key": "identity-aware-proxy",
     "provider": {
@@ -10209,7 +10209,7 @@
     },
     "equivalents": [
       {
-        "name": "AWS Server Migration Service ",
+        "name": "AWS Server Migration Service",
         "description": "Migrate On-Premises Servers to AWS",
         "key": "aws-server-migration-service",
         "provider": {
@@ -10523,7 +10523,7 @@
         }
       },
       {
-        "name": "Amazon Simple Queue Service (SQS) ",
+        "name": "Amazon Simple Queue Service (SQS)",
         "description": "Managed Message Queues",
         "key": "amazon-simple-queue-service-sqs",
         "provider": {
@@ -10577,7 +10577,7 @@
     },
     "equivalents": [
       {
-        "name": "Amazon Simple Queue Service (SQS) ",
+        "name": "Amazon Simple Queue Service (SQS)",
         "description": "Managed Message Queues",
         "key": "amazon-simple-queue-service-sqs",
         "provider": {
@@ -10909,7 +10909,7 @@
         }
       },
       {
-        "name": "Amazon Simple Queue Service (SQS) ",
+        "name": "Amazon Simple Queue Service (SQS)",
         "description": "Managed Message Queues",
         "key": "amazon-simple-queue-service-sqs",
         "provider": {
