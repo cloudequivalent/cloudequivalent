@@ -1,0 +1,13 @@
+{
+  "name": "Oracle Cloud Infrastructure (OCI)",
+  "key": "oracle-cloud",
+  "accentColour": "#C74634",
+  "extra": {
+    "remote": {
+      "url": "https://www.oracle.com/cloud/",
+      "bodySelector": "[data-lbl=\"oci-products:\"] .odlist li",
+      "nameSelector": "a",
+      "descriptionSelector": "a"
+    }
+  }
+}

@@ -4,7 +4,7 @@
 
 To add a new provider:
 
-- create a meta file in `data/`
+- create a `meta.json` file in `data/${key}`, e.g. `data/alibaba-cloud/meta.json`
   - ensure you provide:
     - `name` (provider name)
     - `key` (reference key, e.g. `aws` or `alibaba-cloud`)

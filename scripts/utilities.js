@@ -5,7 +5,7 @@ const slugify = require('slugify')
 
 const utilities = {
   getProviders (slim = false) {
-    return ['aws', 'azure', 'gcp', 'alibaba-cloud'].map(provider => {
+    return ['aws', 'azure', 'gcp', 'alibaba-cloud', 'oracle-cloud'].map(provider => {
       return utilities.getProvider(provider)
     }).map(provider => {
       if (slim) {
