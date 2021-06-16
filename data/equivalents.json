@@ -327,10 +327,10 @@
   "aws.amazon-workspaces": [],
   "aws.aws-amplify": [],
   "aws.amazon-api-gateway": [
-    "gcp.apigee-api-management",
-    "gcp.api-gateway",
+    "alibaba-cloud.api-gateway",
     "azure.api-management",
-    "aws.amazon-api-gateway"
+    "gcp.api-gateway",
+    "oracle-cloud.api-gateway"
   ],
   "aws.amazon-location-service-preview": [],
   "aws.aws-appsync": [
@@ -1005,10 +1005,10 @@
   ],
   "azure.azure-active-directory-external-identities": [],
   "azure.api-management": [
-    "gcp.apigee-api-management",
+    "alibaba-cloud.api-gateway",
+    "aws.amazon-api-gateway",
     "gcp.api-gateway",
-    "azure.api-management",
-    "aws.amazon-api-gateway"
+    "oracle-cloud.api-gateway"
   ],
   "azure.event-grid": [
     "aws.amazon-eventbridge",
@@ -1338,10 +1338,10 @@
   "gcp.cloud-endpoints": [],
   "gcp.cloud-healthcare-api": [],
   "gcp.api-gateway": [
-    "gcp.apigee-api-management",
-    "gcp.api-gateway",
+    "alibaba-cloud.api-gateway",
+    "aws.amazon-api-gateway",
     "azure.api-management",
-    "aws.amazon-api-gateway"
+    "oracle-cloud.api-gateway"
   ],
   "gcp.app-engine": [
     "gcp.app-engine",
@@ -1858,7 +1858,12 @@
   "alibaba-cloud.whois": [],
   "alibaba-cloud.zoloz-real-id": [],
   "alibaba-cloud.cloudquotation": [],
-  "alibaba-cloud.api-gateway": [],
+  "alibaba-cloud.api-gateway": [
+    "aws.amazon-api-gateway",
+    "azure.api-management",
+    "gcp.api-gateway",
+    "oracle-cloud.api-gateway"
+  ],
   "alibaba-cloud.direct-mail": [],
   "alibaba-cloud.cloudesl": [],
   "alibaba-cloud.blockchain-as-a-service": [],
@@ -1923,7 +1928,12 @@
   "oracle-cloud.oracle-cloud-infrastructure-streaming": [],
   "oracle-cloud.oracle-data-science": [],
   "oracle-cloud.oracle-essbase": [],
-  "oracle-cloud.api-gateway": [],
+  "oracle-cloud.api-gateway": [
+    "alibaba-cloud.api-gateway",
+    "aws.amazon-api-gateway",
+    "azure.api-management",
+    "gcp.api-gateway"
+  ],
   "oracle-cloud.blockchain-platform": [],
   "oracle-cloud.container-engine-for-kubernetes": [],
   "oracle-cloud.container-registry": [],
