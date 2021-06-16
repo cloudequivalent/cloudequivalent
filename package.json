@@ -6,8 +6,8 @@
   "scripts": {
     "fetch-and-update": "node scripts/get-services.js && node scripts/update-equivalents.js",
     "generate": "node scripts/website.providers.js && node scripts/website.services.js",
-    "watch": "npm run generate && eleventy --serve & postcss website/_assets/scss/main.scss --o _tmp/style.css --watch",
-    "build": "npm run generate && ELEVENTY_PRODUCTION=true eleventy && NODE_ENV=production postcss website/_assets/scss/main.scss --o build/style.css",
+    "watch": "npm run generate && eleventy --serve",
+    "build": "NODE_ENV=production && npm run generate && ELEVENTY_PRODUCTION=true eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -29,7 +29,6 @@
     "cheerio": "^1.0.0-rc.10",
     "html-minifier": "^4.0.0",
     "postcss": "^8.3.2",
-    "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.2",
     "slugify": "^1.5.3"
   }
