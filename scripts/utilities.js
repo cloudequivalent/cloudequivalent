@@ -53,7 +53,7 @@ const utilities = {
     }
   },
   sanitize (string) {
-    return string.trim().replaceAll('\u200B', '')
+    return string.trim().replaceAll('\u200B', '').replaceAll('\uFE0F', '')
   },
   slugify (string) {
     return slugify(string, {
