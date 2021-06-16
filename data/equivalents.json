@@ -518,9 +518,9 @@
     "oracle-cloud.virtual-cloud-network"
   ],
   "aws.amazon-cloudfront": [
-    "gcp.cloud-cdn",
-    "aws.amazon-cloudfront",
-    "azure.content-delivery-network"
+    "alibaba-cloud.alibaba-cloud-cdn",
+    "azure.content-delivery-network",
+    "gcp.cloud-cdn"
   ],
   "aws.amazon-route-53": [
     "gcp.cloud-dns",
@@ -1099,9 +1099,9 @@
   "azure.azure-resource-mover": [],
   "azure.azure-media-player": [],
   "azure.content-delivery-network": [
-    "gcp.cloud-cdn",
+    "alibaba-cloud.alibaba-cloud-cdn",
     "aws.amazon-cloudfront",
-    "azure.content-delivery-network"
+    "gcp.cloud-cdn"
   ],
   "azure.content-protection": [],
   "azure.encoding": [],
@@ -1251,7 +1251,7 @@
     "aws.amazon-redshift"
   ],
   "gcp.cloud-cdn": [
-    "gcp.cloud-cdn",
+    "alibaba-cloud.alibaba-cloud-cdn",
     "aws.amazon-cloudfront",
     "azure.content-delivery-network"
   ],
@@ -1790,7 +1790,11 @@
   "alibaba-cloud.vpn-gateway": [],
   "alibaba-cloud.smart-access-gateway": [],
   "alibaba-cloud.express-connect": [],
-  "alibaba-cloud.alibaba-cloud-cdn": [],
+  "alibaba-cloud.alibaba-cloud-cdn": [
+    "aws.amazon-cloudfront",
+    "azure.content-delivery-network",
+    "gcp.cloud-cdn"
+  ],
   "alibaba-cloud.dynamic-content-delivery-network": [],
   "alibaba-cloud.elastic-block-storage": [],
   "alibaba-cloud.object-storage-service": [],
