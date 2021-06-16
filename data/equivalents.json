@@ -636,9 +636,10 @@
     "oracle-cloud.object-storage"
   ],
   "aws.amazon-elastic-block-store-ebs": [
-    "aws.amazon-elastic-block-store-ebs",
+    "alibaba-cloud.elastic-block-storage",
+    "azure.azure-disk-storage",
     "gcp.persistent-disk",
-    "azure.azure-disk-storage"
+    "oracle-cloud.block-volumes"
   ],
   "aws.amazon-elastic-file-system-efs": [
     "gcp.filestore",
@@ -1206,9 +1207,10 @@
     "oracle-cloud.object-storage"
   ],
   "azure.azure-disk-storage": [
+    "alibaba-cloud.elastic-block-storage",
     "aws.amazon-elastic-block-store-ebs",
     "gcp.persistent-disk",
-    "azure.azure-disk-storage"
+    "oracle-cloud.block-volumes"
   ],
   "azure.queue-storage": [
     "aws.amazon-simple-queue-service-sqs",
@@ -1746,9 +1748,10 @@
   "gcp.google-workspace-essentials": [],
   "gcp.local-ssd": [],
   "gcp.persistent-disk": [
+    "alibaba-cloud.elastic-block-storage",
     "aws.amazon-elastic-block-store-ebs",
-    "gcp.persistent-disk",
-    "azure.azure-disk-storage"
+    "azure.azure-disk-storage",
+    "oracle-cloud.block-volumes"
   ],
   "gcp.google-workspace": [
     "aws.amazon-workdocs",
@@ -1814,7 +1817,12 @@
     "gcp.cloud-cdn"
   ],
   "alibaba-cloud.dynamic-content-delivery-network": [],
-  "alibaba-cloud.elastic-block-storage": [],
+  "alibaba-cloud.elastic-block-storage": [
+    "aws.amazon-elastic-block-store-ebs",
+    "azure.azure-disk-storage",
+    "gcp.persistent-disk",
+    "oracle-cloud.block-volumes"
+  ],
   "alibaba-cloud.object-storage-service": [
     "aws.amazon-simple-storage-service-s3",
     "azure.azure-blob-storage",
@@ -2081,7 +2089,12 @@
     "azure.archive-storage",
     "gcp.archive-storage"
   ],
-  "oracle-cloud.block-volumes": [],
+  "oracle-cloud.block-volumes": [
+    "alibaba-cloud.elastic-block-storage",
+    "aws.amazon-elastic-block-store-ebs",
+    "azure.azure-disk-storage",
+    "gcp.persistent-disk"
+  ],
   "oracle-cloud.data-transfer": [
     "alibaba-cloud.data-transport",
     "aws.aws-snow-family",
