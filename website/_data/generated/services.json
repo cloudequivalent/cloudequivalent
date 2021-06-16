@@ -118,7 +118,38 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Personalize",
+        "description": "Build real-time recommendations into your applications",
+        "key": "amazon-personalize",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Personaliser",
+        "description": "An AI service that delivers a personalised user experience",
+        "key": "personaliser",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Recommendations AI",
+        "description": "Deliver highly personalized product recommendations at scale.",
+        "key": "recommendations-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "API Apps",
@@ -4231,13 +4262,13 @@
     },
     "equivalents": [
       {
-        "name": "Recommendations AI",
-        "description": "Deliver highly personalized product recommendations at scale.",
-        "key": "recommendations-ai",
+        "name": "AIRec",
+        "description": "A high-quality personalized recommendation service for your applications",
+        "key": "airec",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -4248,6 +4279,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Recommendations AI",
+        "description": "Deliver highly personalized product recommendations at scale.",
+        "key": "recommendations-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -13210,13 +13251,13 @@
     },
     "equivalents": [
       {
-        "name": "Recommendations AI",
-        "description": "Deliver highly personalized product recommendations at scale.",
-        "key": "recommendations-ai",
+        "name": "AIRec",
+        "description": "A high-quality personalized recommendation service for your applications",
+        "key": "airec",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -13227,6 +13268,16 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Recommendations AI",
+        "description": "Deliver highly personalized product recommendations at scale.",
+        "key": "recommendations-ai",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -13469,6 +13520,16 @@
       "accentColour": "#1a73e8"
     },
     "equivalents": [
+      {
+        "name": "AIRec",
+        "description": "A high-quality personalized recommendation service for your applications",
+        "key": "airec",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
       {
         "name": "Amazon Personalize",
         "description": "Build real-time recommendations into your applications",
