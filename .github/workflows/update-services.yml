@@ -23,4 +23,5 @@ jobs:
         with:
           branch: main
           commit_message: 🤖 Update service data (push to main)
-          add_options: '-u' # Don't add untracked files
+          file_pattern: '*.json'
+          add_options: ''
