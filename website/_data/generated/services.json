@@ -1439,7 +1439,48 @@
       "key": "aws",
       "accentColour": "#FF9900"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Resource Access Management",
+        "description": "Authorize and manage resource access",
+        "key": "resource-access-management",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Azure Active Directory",
+        "description": "Synchronise on-premises directories and enable single sign-on",
+        "key": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Permissions management system for Google Cloud resources.",
+        "key": "identity-and-access-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Identity and Access Management",
+        "key": "identity-and-access-management",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "AWS Inferentia",
@@ -5500,9 +5541,29 @@
     },
     "equivalents": [
       {
-        "name": "Identity Platform",
-        "description": "Add Google-grade identity and access management to your apps.",
-        "key": "identity-platform",
+        "name": "Resource Access Management",
+        "description": "Authorize and manage resource access",
+        "key": "resource-access-management",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "AWS Identity & Access Management",
+        "description": "Securely manage access to services and resources",
+        "key": "aws-identity-and-access-management",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Permissions management system for Google Cloud resources.",
+        "key": "identity-and-access-management",
         "provider": {
           "name": "Google Cloud Platform (GCP)",
           "key": "gcp",
@@ -5510,13 +5571,13 @@
         }
       },
       {
-        "name": "Amazon Cognito",
-        "description": "Identity Management for your Apps",
-        "key": "amazon-cognito",
+        "name": "Identity and Access Management",
+        "description": "Identity and Access Management",
+        "key": "identity-and-access-management",
         "provider": {
-          "name": "Amazon Web Services (AWS)",
-          "key": "aws",
-          "accentColour": "#FF9900"
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -11446,6 +11507,26 @@
     },
     "equivalents": [
       {
+        "name": "Resource Access Management",
+        "description": "Authorize and manage resource access",
+        "key": "resource-access-management",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "AWS Identity & Access Management",
+        "description": "Securely manage access to services and resources",
+        "key": "aws-identity-and-access-management",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
         "name": "Azure Active Directory",
         "description": "Synchronise on-premises directories and enable single sign-on",
         "key": "azure-active-directory",
@@ -11453,6 +11534,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Identity and Access Management",
+        "key": "identity-and-access-management",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -11466,7 +11557,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Resource Access Management",
+        "description": "Authorize and manage resource access",
+        "key": "resource-access-management",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "AWS Identity & Access Management",
+        "description": "Securely manage access to services and resources",
+        "key": "aws-identity-and-access-management",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Active Directory",
+        "description": "Synchronise on-premises directories and enable single sign-on",
+        "key": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Permissions management system for Google Cloud resources.",
+        "key": "identity-and-access-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Identity-Aware Proxy",
@@ -13022,7 +13154,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Identity & Access Management",
+        "description": "Securely manage access to services and resources",
+        "key": "aws-identity-and-access-management",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Active Directory",
+        "description": "Synchronise on-premises directories and enable single sign-on",
+        "key": "azure-active-directory",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Permissions management system for Google Cloud resources.",
+        "key": "identity-and-access-management",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Identity and Access Management",
+        "description": "Identity and Access Management",
+        "key": "identity-and-access-management",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Resource Manager",
