@@ -15,5 +15,5 @@ const utilities = require('./utilities');
     })
   })
 
-  await fs.writeFile(path.resolve(__dirname, '../data/equivalents.json'), JSON.stringify(equivalents + '\n', null, 2))
+  await fs.writeFile(path.resolve(__dirname, '../data/equivalents.json'), JSON.stringify(equivalents, null, 2) + '\n')
 })()
