@@ -803,12 +803,42 @@
     "equivalents": [
       {
         "name": "Cloud Shell",
+        "description": "Use CLI to manage cloud resources",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Cloud Shell",
         "description": "Streamline Azure administration with a browser-based shell",
         "key": "cloud-shell",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Interactive shell environment with a built-in command line.",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI).",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -9869,6 +9899,16 @@
     },
     "equivalents": [
       {
+        "name": "Cloud Shell",
+        "description": "Use CLI to manage cloud resources",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "AWS CloudShell",
         "description": "Browser-based shell environment",
         "key": "aws-cloudshell",
@@ -9876,6 +9916,26 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Interactive shell environment with a built-in command line.",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI).",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -9892,12 +9952,12 @@
     "equivalents": [
       {
         "name": "Cloud Shell",
-        "description": "Streamline Azure administration with a browser-based shell",
+        "description": "Use CLI to manage cloud resources",
         "key": "cloud-shell",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure",
-          "accentColour": "#0089d6"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -9908,6 +9968,26 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Streamline Azure administration with a browser-based shell",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI).",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -9921,7 +10001,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS CloudShell",
+        "description": "Browser-based shell environment",
+        "key": "aws-cloudshell",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Streamline Azure administration with a browser-based shell",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Interactive shell environment with a built-in command line.",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI).",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Shell",
@@ -9932,7 +10053,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Cloud Shell",
+        "description": "Use CLI to manage cloud resources",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "AWS CloudShell",
+        "description": "Browser-based shell environment",
+        "key": "aws-cloudshell",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Streamline Azure administration with a browser-based shell",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Interactive shell environment with a built-in command line.",
+        "key": "cloud-shell",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Cloud Source Repositories",
