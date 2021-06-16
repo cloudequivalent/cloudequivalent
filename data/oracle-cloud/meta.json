@@ -8,6 +8,12 @@
       "bodySelector": "[data-lbl=\"oci-products:\"] .odlist li",
       "nameSelector": "a",
       "descriptionSelector": "a"
-    }
+    },
+    "services": [
+      {
+        "name": "Oracle Cloud VMware Solution",
+        "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations."
+      }
+    ]
   }
 }
