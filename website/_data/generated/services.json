@@ -2616,7 +2616,38 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon CloudFront",
+        "description": "Global Content Delivery Network",
+        "key": "amazon-cloudfront",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Content Delivery Network",
+        "description": "Ensure secure, reliable content delivery with broad global reach",
+        "key": "content-delivery-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud CDN",
+        "description": "Content delivery network for delivering web and video.",
+        "key": "cloud-cdn",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Alibaba Cloud Certification Course - Big Data",
@@ -3057,13 +3088,13 @@
     },
     "equivalents": [
       {
-        "name": "Cloud CDN",
-        "description": "Content delivery network for delivering web and video.",
-        "key": "cloud-cdn",
+        "name": "Alibaba Cloud CDN",
+        "description": "Speed up file distribution to end-users",
+        "key": "alibaba-cloud-cdn",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -3074,6 +3105,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud CDN",
+        "description": "Content delivery network for delivering web and video.",
+        "key": "cloud-cdn",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -8528,6 +8569,16 @@
     },
     "equivalents": [
       {
+        "name": "Alibaba Cloud CDN",
+        "description": "Speed up file distribution to end-users",
+        "key": "alibaba-cloud-cdn",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon CloudFront",
         "description": "Global Content Delivery Network",
         "key": "amazon-cloudfront",
@@ -9992,13 +10043,13 @@
     },
     "equivalents": [
       {
-        "name": "Cloud CDN",
-        "description": "Content delivery network for delivering web and video.",
-        "key": "cloud-cdn",
+        "name": "Alibaba Cloud CDN",
+        "description": "Speed up file distribution to end-users",
+        "key": "alibaba-cloud-cdn",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -10009,6 +10060,16 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud CDN",
+        "description": "Content delivery network for delivering web and video.",
+        "key": "cloud-cdn",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
