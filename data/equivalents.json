@@ -165,9 +165,10 @@
   ],
   "aws.aws-serverless-application-repository": [],
   "aws.aws-snow-family": [
+    "alibaba-cloud.data-transport",
+    "azure.azure-data-box",
     "gcp.transfer-appliance",
-    "aws.aws-snow-family",
-    "azure.azure-data-box"
+    "oracle-cloud.data-transfer"
   ],
   "aws.aws-wavelength": [],
   "aws.vmware-cloud-on-aws": [
@@ -1111,9 +1112,10 @@
   "azure.live-and-on-demand-streaming": [],
   "azure.media-services": [],
   "azure.azure-data-box": [
-    "gcp.transfer-appliance",
+    "alibaba-cloud.data-transport",
     "aws.aws-snow-family",
-    "azure.azure-data-box"
+    "gcp.transfer-appliance",
+    "oracle-cloud.data-transfer"
   ],
   "azure.azure-remote-rendering": [],
   "azure.spatial-anchors": [],
@@ -1563,9 +1565,10 @@
   "gcp.bigquery-data-transfer-service": [],
   "gcp.cloud-foundation-toolkit": [],
   "gcp.transfer-appliance": [
-    "gcp.transfer-appliance",
+    "alibaba-cloud.data-transport",
     "aws.aws-snow-family",
-    "azure.azure-data-box"
+    "azure.azure-data-box",
+    "oracle-cloud.data-transfer"
   ],
   "gcp.cloud-armor": [
     "oracle-cloud.web-application-firewall-waf",
@@ -1823,7 +1826,12 @@
   "alibaba-cloud.storage-capacity-unit": [],
   "alibaba-cloud.log-service": [],
   "alibaba-cloud.hybrid-backup-recovery": [],
-  "alibaba-cloud.data-transport": [],
+  "alibaba-cloud.data-transport": [
+    "aws.aws-snow-family",
+    "azure.azure-data-box",
+    "gcp.transfer-appliance",
+    "oracle-cloud.data-transfer"
+  ],
   "alibaba-cloud.hybrid-cloud-storage": [],
   "alibaba-cloud.cloud-storage-gateway": [],
   "alibaba-cloud.hybrid-cloud-distributed-storage": [],
@@ -2074,7 +2082,12 @@
     "gcp.archive-storage"
   ],
   "oracle-cloud.block-volumes": [],
-  "oracle-cloud.data-transfer": [],
+  "oracle-cloud.data-transfer": [
+    "alibaba-cloud.data-transport",
+    "aws.aws-snow-family",
+    "azure.azure-data-box",
+    "gcp.transfer-appliance"
+  ],
   "oracle-cloud.file-storage": [],
   "oracle-cloud.local-nvme-ssd": [],
   "oracle-cloud.object-storage": [
