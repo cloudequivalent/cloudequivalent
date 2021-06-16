@@ -341,7 +341,7 @@
   },
   {
     "name": "Analytics Hub",
-    "description": "Service for securely and efficiently exchanging data analytics assets. ",
+    "description": "Service for securely and efficiently exchanging data analytics assets.",
     "key": "analytics-hub"
   },
   {
@@ -681,7 +681,7 @@
   },
   {
     "name": "Cloud Key Management",
-    "description": "Manage encryption keys on Google Cloud. ",
+    "description": "Manage encryption keys on Google Cloud.",
     "key": "cloud-key-management"
   },
   {
@@ -735,7 +735,7 @@
     "key": "identity-and-access-management"
   },
   {
-    "name": "Identity-Aware Proxy ",
+    "name": "Identity-Aware Proxy",
     "description": "Use identity and context to guard access to your applications and VMs.",
     "key": "identity-aware-proxy"
   },
