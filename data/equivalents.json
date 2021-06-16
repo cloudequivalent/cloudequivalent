@@ -629,10 +629,10 @@
     "gcp.cloud-armor"
   ],
   "aws.amazon-simple-storage-service-s3": [
-    "gcp.cloud-storage-for-firebase",
-    "aws.amazon-simple-storage-service-s3",
+    "alibaba-cloud.object-storage-service",
     "azure.azure-blob-storage",
-    "gcp.cloud-storage"
+    "gcp.cloud-storage",
+    "oracle-cloud.object-storage"
   ],
   "aws.amazon-elastic-block-store-ebs": [
     "aws.amazon-elastic-block-store-ebs",
@@ -1191,10 +1191,10 @@
   "azure.azure-hpc-cache": [],
   "azure.azure-netapp-files": [],
   "azure.azure-blob-storage": [
-    "gcp.cloud-storage-for-firebase",
+    "alibaba-cloud.object-storage-service",
     "aws.amazon-simple-storage-service-s3",
-    "azure.azure-blob-storage",
-    "gcp.cloud-storage"
+    "gcp.cloud-storage",
+    "oracle-cloud.object-storage"
   ],
   "azure.azure-disk-storage": [
     "aws.amazon-elastic-block-store-ebs",
@@ -1222,10 +1222,10 @@
     "oracle-cloud.virtual-machines"
   ],
   "gcp.cloud-storage": [
-    "gcp.cloud-storage-for-firebase",
+    "alibaba-cloud.object-storage-service",
     "aws.amazon-simple-storage-service-s3",
     "azure.azure-blob-storage",
-    "gcp.cloud-storage"
+    "oracle-cloud.object-storage"
   ],
   "gcp.cloud-sdk": [
     "gcp.cloud-sdk",
@@ -1800,7 +1800,12 @@
   ],
   "alibaba-cloud.dynamic-content-delivery-network": [],
   "alibaba-cloud.elastic-block-storage": [],
-  "alibaba-cloud.object-storage-service": [],
+  "alibaba-cloud.object-storage-service": [
+    "aws.amazon-simple-storage-service-s3",
+    "azure.azure-blob-storage",
+    "gcp.cloud-storage",
+    "oracle-cloud.object-storage"
+  ],
   "alibaba-cloud.apsara-file-storage-nas": [],
   "alibaba-cloud.tablestore": [],
   "alibaba-cloud.storage-capacity-unit": [],
@@ -2055,7 +2060,12 @@
   "oracle-cloud.data-transfer": [],
   "oracle-cloud.file-storage": [],
   "oracle-cloud.local-nvme-ssd": [],
-  "oracle-cloud.object-storage": [],
+  "oracle-cloud.object-storage": [
+    "alibaba-cloud.object-storage-service",
+    "aws.amazon-simple-storage-service-s3",
+    "azure.azure-blob-storage",
+    "gcp.cloud-storage"
+  ],
   "oracle-cloud.storage-gateway": [],
   "azure.github": [],
   "oracle-cloud.oracle-cloud-vmware-solution": [
