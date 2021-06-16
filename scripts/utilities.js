@@ -48,6 +48,7 @@ const utilities = {
 
       return services
     } catch (e) {
+      console.log(e)
       throw new Error(`Can't get remote services for ${key}`)
     }
   },
