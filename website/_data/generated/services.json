@@ -2265,12 +2265,12 @@
       },
       {
         "name": "Web Application Firewall",
-        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "description": "Secure your web applications",
         "key": "web-application-firewall",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure",
-          "accentColour": "#0089d6"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -7994,12 +7994,12 @@
       },
       {
         "name": "Web Application Firewall",
-        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "description": "Secure your web applications",
         "key": "web-application-firewall",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure",
-          "accentColour": "#0089d6"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -14427,6 +14427,16 @@
         }
       },
       {
+        "name": "Web Application Firewall",
+        "description": "Secure your web applications",
+        "key": "web-application-firewall",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "AWS WAF",
         "description": "Filter Malicious Web Traffic",
         "key": "aws-waf",
@@ -14512,12 +14522,12 @@
     "equivalents": [
       {
         "name": "Web Application Firewall",
-        "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+        "description": "Secure your web applications",
         "key": "web-application-firewall",
         "provider": {
-          "name": "Microsoft Azure (Azure)",
-          "key": "azure",
-          "accentColour": "#0089d6"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
