@@ -8,6 +8,12 @@
       "bodySelector": ".content-detail .product-detail-list a",
       "nameSelector": ".product-tit",
       "descriptionSelector": ".product-desc"
-    }
+    },
+    "services": [
+      {
+        "name": "Alibaba Cloud VMware Solution",
+        "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments"
+      }
+    ]
   }
 }
