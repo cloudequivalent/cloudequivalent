@@ -4640,13 +4640,43 @@
     },
     "equivalents": [
       {
-        "name": "Azure Blob Storage",
-        "description": "Massively scalable and secure object storage",
-        "key": "azure-blob-storage",
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Industry-leading price point for storing rarely accessed data",
+        "key": "archive-storage",
         "provider": {
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Data archive that offers online access speed at ultra low cost.",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Archive Storage",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -5688,7 +5718,48 @@
       "key": "azure",
       "accentColour": "#0089d6"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon S3 Glacier",
+        "description": "Low-cost Archive Storage in the Cloud",
+        "key": "amazon-s3-glacier",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Data archive that offers online access speed at ultra low cost.",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Archive Storage",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Archive Storage",
@@ -5699,7 +5770,48 @@
       "key": "gcp",
       "accentColour": "#1a73e8"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon S3 Glacier",
+        "description": "Low-cost Archive Storage in the Cloud",
+        "key": "amazon-s3-glacier",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Industry-leading price point for storing rarely accessed data",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Archive Storage",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Archive Storage",
@@ -5710,7 +5822,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Object Storage Service",
+        "description": "Store, backup and archive your data",
+        "key": "object-storage-service",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon S3 Glacier",
+        "description": "Low-cost Archive Storage in the Cloud",
+        "key": "amazon-s3-glacier",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Industry-leading price point for storing rarely accessed data",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Archive Storage",
+        "description": "Data archive that offers online access speed at ultra low cost.",
+        "key": "archive-storage",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Artifact Registry",
