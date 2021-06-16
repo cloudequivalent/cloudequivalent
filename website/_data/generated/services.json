@@ -4604,13 +4604,13 @@
     },
     "equivalents": [
       {
-        "name": "Virtual Private Cloud (VPC)",
-        "description": "Virtual network for Google Cloud resources and cloud-based services.",
-        "key": "virtual-private-cloud-vpc",
+        "name": "Virtual Private Cloud",
+        "description": "Launch a private cloud network",
+        "key": "virtual-private-cloud",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -4621,6 +4621,26 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Virtual Private Cloud (VPC)",
+        "description": "Virtual network for Google Cloud resources and cloud-based services.",
+        "key": "virtual-private-cloud-vpc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Virtual Cloud Network",
+        "description": "Virtual Cloud Network",
+        "key": "virtual-cloud-network",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -14520,7 +14540,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Virtual Private Cloud",
+        "description": "Launch a private cloud network",
+        "key": "virtual-private-cloud",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon VPC",
+        "description": "Isolated Cloud Resources",
+        "key": "amazon-vpc",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Virtual Network",
+        "description": "Provision private networks, optionally connect to on-premises data centres",
+        "key": "virtual-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Virtual Private Cloud (VPC)",
+        "description": "Virtual network for Google Cloud resources and cloud-based services.",
+        "key": "virtual-private-cloud-vpc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Virtual Machine Scale Sets",
@@ -14670,6 +14731,16 @@
     },
     "equivalents": [
       {
+        "name": "Virtual Private Cloud",
+        "description": "Launch a private cloud network",
+        "key": "virtual-private-cloud",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Amazon VPC",
         "description": "Isolated Cloud Resources",
         "key": "amazon-vpc",
@@ -14688,6 +14759,16 @@
           "key": "gcp",
           "accentColour": "#1a73e8"
         }
+      },
+      {
+        "name": "Virtual Cloud Network",
+        "description": "Virtual Cloud Network",
+        "key": "virtual-cloud-network",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
       }
     ]
   },
@@ -14699,17 +14780,6 @@
       "name": "Alibaba Cloud (AC)",
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
-    },
-    "equivalents": []
-  },
-  {
-    "name": "Virtual Private Cloud (VPC)",
-    "description": "Virtual network for Google Cloud resources and cloud-based services.",
-    "key": "virtual-private-cloud-vpc",
-    "provider": {
-      "name": "Google Cloud Platform (GCP)",
-      "key": "gcp",
-      "accentColour": "#1a73e8"
     },
     "equivalents": [
       {
@@ -14730,6 +14800,78 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Virtual Private Cloud (VPC)",
+        "description": "Virtual network for Google Cloud resources and cloud-based services.",
+        "key": "virtual-private-cloud-vpc",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Virtual Cloud Network",
+        "description": "Virtual Cloud Network",
+        "key": "virtual-cloud-network",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
+  },
+  {
+    "name": "Virtual Private Cloud (VPC)",
+    "description": "Virtual network for Google Cloud resources and cloud-based services.",
+    "key": "virtual-private-cloud-vpc",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp",
+      "accentColour": "#1a73e8"
+    },
+    "equivalents": [
+      {
+        "name": "Virtual Private Cloud",
+        "description": "Launch a private cloud network",
+        "key": "virtual-private-cloud",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon VPC",
+        "description": "Isolated Cloud Resources",
+        "key": "amazon-vpc",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Virtual Network",
+        "description": "Provision private networks, optionally connect to on-premises data centres",
+        "key": "virtual-network",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Virtual Cloud Network",
+        "description": "Virtual Cloud Network",
+        "key": "virtual-cloud-network",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
