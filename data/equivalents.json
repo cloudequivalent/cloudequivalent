@@ -153,9 +153,10 @@
     "azure.app-service"
   ],
   "aws.aws-lambda": [
+    "alibaba-cloud.function-compute",
+    "azure.azure-functions",
     "gcp.cloud-functions",
-    "aws.aws-lambda",
-    "azure.azure-functions"
+    "oracle-cloud.functions"
   ],
   "aws.aws-outposts": [
     "gcp.anthos",
@@ -823,9 +824,10 @@
   ],
   "azure.azure-cyclecloud": [],
   "azure.azure-functions": [
-    "gcp.cloud-functions",
+    "alibaba-cloud.function-compute",
     "aws.aws-lambda",
-    "azure.azure-functions"
+    "gcp.cloud-functions",
+    "oracle-cloud.functions"
   ],
   "azure.azure-kubernetes-service-aks": [
     "gcp.google-kubernetes-engine",
@@ -1256,9 +1258,10 @@
     "azure.azure-arc"
   ],
   "gcp.cloud-functions": [
-    "gcp.cloud-functions",
+    "alibaba-cloud.function-compute",
     "aws.aws-lambda",
-    "azure.azure-functions"
+    "azure.azure-functions",
+    "oracle-cloud.functions"
   ],
   "gcp.vertex-ai": [],
   "gcp.deep-learning-vm-image": [],
@@ -1735,7 +1738,12 @@
   "alibaba-cloud.auto-scaling": [],
   "alibaba-cloud.resource-orchestration-service": [],
   "alibaba-cloud.operation-orchestration-service": [],
-  "alibaba-cloud.function-compute": [],
+  "alibaba-cloud.function-compute": [
+    "aws.aws-lambda",
+    "azure.azure-functions",
+    "gcp.cloud-functions",
+    "oracle-cloud.functions"
+  ],
   "alibaba-cloud.serverless-workflow": [],
   "alibaba-cloud.virtual-private-cloud": [],
   "alibaba-cloud.privatelink": [],
@@ -1894,7 +1902,12 @@
   "oracle-cloud.data-science": [],
   "oracle-cloud.digital-assistant": [],
   "oracle-cloud.events-service": [],
-  "oracle-cloud.functions": [],
+  "oracle-cloud.functions": [
+    "alibaba-cloud.function-compute",
+    "aws.aws-lambda",
+    "azure.azure-functions",
+    "gcp.cloud-functions"
+  ],
   "oracle-cloud.java": [],
   "oracle-cloud.mobile-hub": [],
   "oracle-cloud.oracle-application-express-apex": [],
