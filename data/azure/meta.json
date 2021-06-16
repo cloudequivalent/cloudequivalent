@@ -13,6 +13,10 @@
       {
         "name": "Microsoft 365 (formerly Office365)",
         "description": "Your productivity cloud across work and life."
+      },
+      {
+        "name": "GitHub",
+        "description": "GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
       }
     ]
   }
