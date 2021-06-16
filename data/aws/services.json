@@ -95,7 +95,7 @@
     "key": "amazon-simple-notification-service-sns"
   },
   {
-    "name": "Amazon Simple Queue Service (SQS) ",
+    "name": "Amazon Simple Queue Service (SQS)",
     "description": "Managed Message Queues",
     "key": "amazon-simple-queue-service-sqs"
   },
@@ -320,7 +320,7 @@
     "key": "amazon-keyspaces-for-apache-cassandra"
   },
   {
-    "name": "Amazon Neptune ",
+    "name": "Amazon Neptune",
     "description": "Fully Managed Graph Database Service",
     "key": "amazon-neptune"
   },
@@ -396,7 +396,7 @@
   },
   {
     "name": "AWS CodeStar",
-    "description": "Develop and Deploy AWS Applications ",
+    "description": "Develop and Deploy AWS Applications",
     "key": "aws-codestar"
   },
   {
@@ -880,7 +880,7 @@
     "key": "aws-datasync"
   },
   {
-    "name": "AWS Server Migration Service ",
+    "name": "AWS Server Migration Service",
     "description": "Migrate On-Premises Servers to AWS",
     "key": "aws-server-migration-service"
   },

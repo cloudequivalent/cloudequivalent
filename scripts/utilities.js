@@ -33,8 +33,8 @@ const utilities = {
 
       $(bodySelector).each((index, element) => {
         const e = cheerio.load(element)
-        const name = e(nameSelector).text()
-        const description = e(descriptionSelector).text()
+        const name = e(nameSelector).text().trim()
+        const description = e(descriptionSelector).text().trim()
 
         const filtered = services.filter(service => service.name === name)
 
