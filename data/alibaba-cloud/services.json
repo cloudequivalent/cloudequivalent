@@ -1,5 +1,10 @@
 [
   {
+    "name": "Alibaba Cloud VMware Solution",
+    "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments",
+    "key": "alibaba-cloud-vmware-solution"
+  },
+  {
     "name": "Elastic Compute Service",
     "description": "High-performing virtual servers",
     "key": "elastic-compute-service"

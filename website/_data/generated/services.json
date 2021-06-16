@@ -2553,6 +2553,17 @@
     "equivalents": []
   },
   {
+    "name": "Alibaba Cloud VMware Solution",
+    "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments",
+    "key": "alibaba-cloud-vmware-solution",
+    "provider": {
+      "name": "Alibaba Cloud (AC)",
+      "key": "alibaba-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Alibaba Cloud ZStack",
     "description": "A next-generation open-source hybrid cloud solution",
     "key": "alibaba-cloud-zstack",
