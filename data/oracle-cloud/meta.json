@@ -13,6 +13,10 @@
       {
         "name": "Oracle Cloud VMware Solution",
         "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations."
+      },
+      {
+        "name": "Cloud Shell",
+        "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI)."
       }
     ]
   }
