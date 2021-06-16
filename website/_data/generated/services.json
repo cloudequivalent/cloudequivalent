@@ -12759,6 +12759,17 @@
     "equivalents": []
   },
   {
+    "name": "Oracle Cloud VMware Solution",
+    "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations.",
+    "key": "oracle-cloud-vmware-solution",
+    "provider": {
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "key": "oracle-cloud",
+      "accentColour": "#C74634"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Oracle Content and Experience",
     "description": "Oracle Content and Experience",
     "key": "oracle-content-and-experience",

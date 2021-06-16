@@ -1,5 +1,10 @@
 [
   {
+    "name": "Oracle Cloud VMware Solution",
+    "description": "Move or extend VMware-based workloads to the cloud without rearchitecting applications or retooling operations.",
+    "key": "oracle-cloud-vmware-solution"
+  },
+  {
     "name": "Oracle Analytics Cloud",
     "description": "Oracle Analytics Cloud",
     "key": "oracle-analytics-cloud"
