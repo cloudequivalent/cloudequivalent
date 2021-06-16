@@ -324,7 +324,10 @@
   ],
   "aws.amazon-appstream-20": [],
   "aws.amazon-worklink": [],
-  "aws.amazon-workspaces": [],
+  "aws.amazon-workspaces": [
+    "alibaba-cloud.elastic-desktop-service",
+    "azure.windows-virtual-desktop"
+  ],
   "aws.aws-amplify": [],
   "aws.amazon-api-gateway": [
     "alibaba-cloud.api-gateway",
@@ -883,7 +886,10 @@
     "oracle-cloud.virtual-machines"
   ],
   "azure.web-apps": [],
-  "azure.windows-virtual-desktop": [],
+  "azure.windows-virtual-desktop": [
+    "alibaba-cloud.elastic-desktop-service",
+    "aws.amazon-workspaces"
+  ],
   "azure.azure-dedicated-host": [],
   "azure.azure-vm-image-builder": [],
   "azure.azure-red-hat-openshift": [],
@@ -1745,7 +1751,10 @@
   "alibaba-cloud.simple-application-server": [],
   "alibaba-cloud.elastic-gpu-service": [],
   "alibaba-cloud.dedicated-host": [],
-  "alibaba-cloud.elastic-desktop-service": [],
+  "alibaba-cloud.elastic-desktop-service": [
+    "aws.amazon-workspaces",
+    "azure.windows-virtual-desktop"
+  ],
   "alibaba-cloud.super-computing-cluster": [],
   "alibaba-cloud.elastic-high-performance-computing": [],
   "alibaba-cloud.batch-compute": [],
