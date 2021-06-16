@@ -1,0 +1,13 @@
+{
+  "name": "Alibaba Cloud (AC)",
+  "key": "alibaba-cloud",
+  "accentColour": "#C74634",
+  "extra": {
+    "remote": {
+      "url": "https://www.alibabacloud.com/product",
+      "bodySelector": ".content-detail .product-detail-list a",
+      "nameSelector": ".product-tit",
+      "descriptionSelector": ".product-desc"
+    }
+  }
+}
