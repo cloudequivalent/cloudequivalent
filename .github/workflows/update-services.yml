@@ -1,17 +1,15 @@
-name: Fetch services
+name: Update services data
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   fetch:
     runs-on: ubuntu-20.04
     steps:
-      - name: Get current date for branch name
-        id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
@@ -19,14 +17,8 @@ jobs:
       - run: npm ci
       - run: npm run generate
         continue-on-error: true
-      - uses: peter-evans/create-pull-request@v3
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          branch: ${{ steps.date.outputs.date }}
-          delete-branch: true
-          title: Fetch new services - ${{ steps.date.outputs.date }}
-          commit-message: 🤖 Fetch service listings (${{ steps.date.outputs.date }})
-          body: |-
-            🤖 This PR was automatically generated.
-
-            Changes:
-              - Fetch service listings on ${{ steps.date.outputs.date }}
+          branch: main
+          commit_message: 🤖 Update service data (push to main)
+          add_options: '-u' # Don't add untracked files
