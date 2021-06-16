@@ -171,9 +171,10 @@
   ],
   "aws.aws-wavelength": [],
   "aws.vmware-cloud-on-aws": [
+    "alibaba-cloud.alibaba-cloud-vmware-solution",
+    "azure.azure-vmware-solution",
     "gcp.vmware-engine",
-    "aws.vmware-cloud-on-aws",
-    "azure.azure-vmware-solution"
+    "oracle-cloud.oracle-cloud-vmware-solution"
   ],
   "aws.amazon-elastic-container-registry": [
     "gcp.artifact-registry",
@@ -844,9 +845,10 @@
   "azure.azure-quantum-preview": [],
   "azure.azure-spring-cloud": [],
   "azure.azure-vmware-solution": [
-    "gcp.vmware-engine",
+    "alibaba-cloud.alibaba-cloud-vmware-solution",
     "aws.vmware-cloud-on-aws",
-    "azure.azure-vmware-solution"
+    "gcp.vmware-engine",
+    "oracle-cloud.oracle-cloud-vmware-solution"
   ],
   "azure.batch": [
     "aws.aws-batch",
@@ -1365,9 +1367,10 @@
   "gcp.sole-tenant-nodes": [],
   "gcp.sql-server-on-google-cloud": [],
   "gcp.vmware-engine": [
-    "gcp.vmware-engine",
+    "alibaba-cloud.alibaba-cloud-vmware-solution",
     "aws.vmware-cloud-on-aws",
-    "azure.azure-vmware-solution"
+    "azure.azure-vmware-solution",
+    "oracle-cloud.oracle-cloud-vmware-solution"
   ],
   "gcp.artifact-registry": [
     "gcp.artifact-registry",
@@ -2015,6 +2018,16 @@
   "oracle-cloud.object-storage": [],
   "oracle-cloud.storage-gateway": [],
   "azure.github": [],
-  "oracle-cloud.oracle-cloud-vmware-solution": [],
-  "alibaba-cloud.alibaba-cloud-vmware-solution": []
+  "oracle-cloud.oracle-cloud-vmware-solution": [
+    "alibaba-cloud.alibaba-cloud-vmware-solution",
+    "aws.vmware-cloud-on-aws",
+    "azure.azure-vmware-solution",
+    "gcp.vmware-engine"
+  ],
+  "alibaba-cloud.alibaba-cloud-vmware-solution": [
+    "aws.vmware-cloud-on-aws",
+    "azure.azure-vmware-solution",
+    "gcp.vmware-engine",
+    "oracle-cloud.oracle-cloud-vmware-solution"
+  ]
 }
