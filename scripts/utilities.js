@@ -33,8 +33,8 @@ const utilities = {
 
       $(bodySelector).each((index, element) => {
         const e = cheerio.load(element)
-        const name = e(nameSelector).text().trim()
-        const description = e(descriptionSelector).text().trim()
+        const name = utilities.sanitize(e(nameSelector).text())
+        const description = utilities.sanitize(e(descriptionSelector).text())
 
         const filtered = services.filter(service => service.name === name)
 
@@ -50,6 +50,9 @@ const utilities = {
     } catch (e) {
       throw new Error(`Can't get remote services for ${key}`)
     }
+  },
+  sanitize (string) {
+    return string.trim().replace('\u200B', '')
   },
   slugify (string) {
     return slugify(string, {
