@@ -611,9 +611,10 @@
   ],
   "aws.aws-single-sign-on": [],
   "aws.aws-waf": [
-    "gcp.cloud-armor",
+    "oracle-cloud.web-application-firewall-waf",
+    "alibaba-cloud.web-application-firewall",
     "azure.web-application-firewall",
-    "aws.aws-waf"
+    "gcp.cloud-armor"
   ],
   "aws.amazon-simple-storage-service-s3": [
     "gcp.cloud-storage-for-firebase",
@@ -1140,9 +1141,10 @@
   "azure.virtual-wan": [],
   "azure.vpn-gateway": [],
   "azure.web-application-firewall": [
-    "gcp.cloud-armor",
-    "azure.web-application-firewall",
-    "aws.aws-waf"
+    "oracle-cloud.web-application-firewall-waf",
+    "alibaba-cloud.web-application-firewall",
+    "aws.aws-waf",
+    "gcp.cloud-armor"
   ],
   "azure.azure-orbital-preview": [],
   "azure.azure-route-server-preview": [],
@@ -1537,9 +1539,10 @@
     "azure.azure-data-box"
   ],
   "gcp.cloud-armor": [
-    "gcp.cloud-armor",
-    "azure.web-application-firewall",
-    "aws.aws-waf"
+    "oracle-cloud.web-application-firewall-waf",
+    "alibaba-cloud.web-application-firewall",
+    "aws.aws-waf",
+    "azure.web-application-firewall"
   ],
   "gcp.cloud-domains": [
     "gcp.cloud-domains",
@@ -1788,7 +1791,12 @@
   "alibaba-cloud.advanced-database-and-application-migration": [],
   "alibaba-cloud.anti-ddos": [],
   "alibaba-cloud.anti-ddos-basic": [],
-  "alibaba-cloud.web-application-firewall": [],
+  "alibaba-cloud.web-application-firewall": [
+    "oracle-cloud.web-application-firewall-waf",
+    "aws.aws-waf",
+    "azure.web-application-firewall",
+    "gcp.cloud-armor"
+  ],
   "alibaba-cloud.ssl-certificates-service": [],
   "alibaba-cloud.security-center": [],
   "alibaba-cloud.cloud-config": [],
@@ -1940,7 +1948,12 @@
   "oracle-cloud.key-management": [],
   "oracle-cloud.security-zones": [],
   "oracle-cloud.vulnerability-scanning-service": [],
-  "oracle-cloud.web-application-firewall-waf": [],
+  "oracle-cloud.web-application-firewall-waf": [
+    "alibaba-cloud.web-application-firewall",
+    "aws.aws-waf",
+    "azure.web-application-firewall",
+    "gcp.cloud-armor"
+  ],
   "oracle-cloud.archive-storage": [],
   "oracle-cloud.block-volumes": [],
   "oracle-cloud.data-transfer": [],
