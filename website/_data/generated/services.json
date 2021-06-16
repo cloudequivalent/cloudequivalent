@@ -2274,13 +2274,13 @@
     },
     "equivalents": [
       {
-        "name": "Transfer Appliance",
-        "description": "Storage server for moving large volumes of data to Google Cloud.",
-        "key": "transfer-appliance",
+        "name": "Data Transport",
+        "description": "Migrate massive data to Alibaba Cloud",
+        "key": "data-transport",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -2291,6 +2291,26 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Transfer Appliance",
+        "description": "Storage server for moving large volumes of data to Google Cloud.",
+        "key": "transfer-appliance",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Data Transfer",
+        "description": "Data Transfer",
+        "key": "data-transfer",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -6660,13 +6680,13 @@
     },
     "equivalents": [
       {
-        "name": "Transfer Appliance",
-        "description": "Storage server for moving large volumes of data to Google Cloud.",
-        "key": "transfer-appliance",
+        "name": "Data Transport",
+        "description": "Migrate massive data to Alibaba Cloud",
+        "key": "data-transport",
         "provider": {
-          "name": "Google Cloud Platform (GCP)",
-          "key": "gcp",
-          "accentColour": "#1a73e8"
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
         }
       },
       {
@@ -6677,6 +6697,26 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Transfer Appliance",
+        "description": "Storage server for moving large volumes of data to Google Cloud.",
+        "key": "transfer-appliance",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Data Transfer",
+        "description": "Data Transfer",
+        "key": "data-transfer",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
@@ -10677,7 +10717,48 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Data Transport",
+        "description": "Migrate massive data to Alibaba Cloud",
+        "key": "data-transport",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "AWS Snow Family",
+        "description": "Physical devices to aggregate and process data in edge locations, then transfer to AWS",
+        "key": "aws-snow-family",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Data Box",
+        "description": "Appliances and solutions for offline data transfer to Azure",
+        "key": "azure-data-box",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Transfer Appliance",
+        "description": "Storage server for moving large volumes of data to Google Cloud.",
+        "key": "transfer-appliance",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Data Transfer Plan",
@@ -10710,7 +10791,48 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Snow Family",
+        "description": "Physical devices to aggregate and process data in edge locations, then transfer to AWS",
+        "key": "aws-snow-family",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure Data Box",
+        "description": "Appliances and solutions for offline data transfer to Azure",
+        "key": "azure-data-box",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Transfer Appliance",
+        "description": "Storage server for moving large volumes of data to Google Cloud.",
+        "key": "transfer-appliance",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      },
+      {
+        "name": "Data Transfer",
+        "description": "Data Transfer",
+        "key": "data-transfer",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "DataV",
@@ -15154,6 +15276,16 @@
     },
     "equivalents": [
       {
+        "name": "Data Transport",
+        "description": "Migrate massive data to Alibaba Cloud",
+        "key": "data-transport",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "AWS Snow Family",
         "description": "Physical devices to aggregate and process data in edge locations, then transfer to AWS",
         "key": "aws-snow-family",
@@ -15171,6 +15303,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Data Transfer",
+        "description": "Data Transfer",
+        "key": "data-transfer",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
