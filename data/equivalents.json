@@ -1086,7 +1086,7 @@
   "azure.azure-site-recovery": [],
   "azure.cloud-shell": [
     "alibaba-cloud.cloud-shell",
-    "aws.aws-cloudshell"
+    "aws.aws-cloudshell",
     "gcp.cloud-shell",
     "oracle-cloud.cloud-shell"
   ],
@@ -1556,7 +1556,7 @@
   "gcp.cloud-mobile-app": [],
   "gcp.cloud-shell": [
     "alibaba-cloud.cloud-shell",
-    "aws.aws-cloudshell"
+    "aws.aws-cloudshell",
     "azure.cloud-shell",
     "oracle-cloud.cloud-shell"
   ],
@@ -1968,7 +1968,7 @@
   "alibaba-cloud.application-high-availability-service": [],
   "alibaba-cloud.openapi-explorer": [],
   "alibaba-cloud.cloud-shell": [
-    "aws.aws-cloudshell"
+    "aws.aws-cloudshell",
     "azure.cloud-shell",
     "gcp.cloud-shell",
     "oracle-cloud.cloud-shell"
@@ -2136,7 +2136,7 @@
   ],
   "oracle-cloud.cloud-shell": [
     "alibaba-cloud.cloud-shell",
-    "aws.aws-cloudshell"
+    "aws.aws-cloudshell",
     "azure.cloud-shell",
     "gcp.cloud-shell"
   ]
