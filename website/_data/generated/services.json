@@ -2271,6 +2271,26 @@
     },
     "equivalents": [
       {
+        "name": "Anti-DDoS",
+        "description": "Protect against high volume DDoS attacks",
+        "key": "anti-ddos",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Anti-DDoS Basic",
+        "description": "Basic DDoS protection integrated with ECS",
+        "key": "anti-ddos-basic",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "Azure DDoS Protection",
         "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
         "key": "azure-ddos-protection",
@@ -2278,6 +2298,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -5328,7 +5358,38 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Shield",
+        "description": "DDoS Protection",
+        "key": "aws-shield",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure DDoS Protection",
+        "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+        "key": "azure-ddos-protection",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Anti-DDoS Basic",
@@ -5339,7 +5400,38 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "AWS Shield",
+        "description": "DDoS Protection",
+        "key": "aws-shield",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Azure DDoS Protection",
+        "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+        "key": "azure-ddos-protection",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
+        }
+      }
+    ]
   },
   {
     "name": "Apache MXNet on AWS",
@@ -6677,6 +6769,26 @@
     },
     "equivalents": [
       {
+        "name": "Anti-DDoS",
+        "description": "Protect against high volume DDoS attacks",
+        "key": "anti-ddos",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Anti-DDoS Basic",
+        "description": "Basic DDoS protection integrated with ECS",
+        "key": "anti-ddos-basic",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
         "name": "AWS Shield",
         "description": "DDoS Protection",
         "key": "aws-shield",
@@ -6684,6 +6796,16 @@
           "name": "Amazon Web Services (AWS)",
           "key": "aws",
           "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Cloud Armor",
+        "description": "Security policies and defense against web and DDoS attacks.",
+        "key": "cloud-armor",
+        "provider": {
+          "name": "Google Cloud Platform (GCP)",
+          "key": "gcp",
+          "accentColour": "#1a73e8"
         }
       }
     ]
@@ -8837,12 +8959,22 @@
     },
     "equivalents": [
       {
-        "name": "Web Application Firewall (WAF)",
-        "description": "Web Application Firewall (WAF)",
-        "key": "web-application-firewall-waf",
+        "name": "Anti-DDoS",
+        "description": "Protect against high volume DDoS attacks",
+        "key": "anti-ddos",
         "provider": {
-          "name": "Oracle Cloud Infrastructure (OCI)",
-          "key": "oracle-cloud",
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Anti-DDoS Basic",
+        "description": "Basic DDoS protection integrated with ECS",
+        "key": "anti-ddos-basic",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
           "accentColour": "#C74634"
         }
       },
@@ -8857,6 +8989,16 @@
         }
       },
       {
+        "name": "AWS Shield",
+        "description": "DDoS Protection",
+        "key": "aws-shield",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
         "name": "AWS WAF",
         "description": "Filter Malicious Web Traffic",
         "key": "aws-waf",
@@ -8867,6 +9009,16 @@
         }
       },
       {
+        "name": "Azure DDoS Protection",
+        "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+        "key": "azure-ddos-protection",
+        "provider": {
+          "name": "Microsoft Azure (Azure)",
+          "key": "azure",
+          "accentColour": "#0089d6"
+        }
+      },
+      {
         "name": "Web Application Firewall",
         "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
         "key": "web-application-firewall",
@@ -8874,6 +9026,16 @@
           "name": "Microsoft Azure (Azure)",
           "key": "azure",
           "accentColour": "#0089d6"
+        }
+      },
+      {
+        "name": "Web Application Firewall (WAF)",
+        "description": "Web Application Firewall (WAF)",
+        "key": "web-application-firewall-waf",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
         }
       }
     ]
