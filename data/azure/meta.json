@@ -19,5 +19,196 @@
         "description": "GitHub is where over 65 million developers shape the future of software, together. Contribute to the open source community, manage your Git repositories, review code like a pro, track bugs and features, power your CI/CD and DevOps workflows, and secure code before you commit it."
       }
     ]
-  }
+  },
+  "regions": [
+    {
+      "name": "Australia Central"
+    },
+    {
+      "name": "Australia East"
+    },
+    {
+      "name": "Australia Southeast"
+    },
+    {
+      "name": "Austria East"
+    },
+    {
+      "name": "Brazil South"
+    },
+    {
+      "name": "Canada Central"
+    },
+    {
+      "name": "Canada East"
+    },
+    {
+      "name": "Central India"
+    },
+    {
+      "name": "Central US"
+    },
+    {
+      "name": "Chile Central"
+    },
+    {
+      "name": "China East 2"
+    },
+    {
+      "name": "China East"
+    },
+    {
+      "name": "China North 2"
+    },
+    {
+      "name": "China North 3"
+    },
+    {
+      "name": "China North"
+    },
+    {
+      "name": "Denmark East"
+    },
+    {
+      "name": "East Asia"
+    },
+    {
+      "name": "East US 2"
+    },
+    {
+      "name": "East US 3"
+    },
+    {
+      "name": "East US"
+    },
+    {
+      "name": "France Central"
+    },
+    {
+      "name": "Germany West Central"
+    },
+    {
+      "name": "Greece Central"
+    },
+    {
+      "name": "Indonesia Central"
+    },
+    {
+      "name": "Israel Central"
+    },
+    {
+      "name": "Italy North"
+    },
+    {
+      "name": "Japan East"
+    },
+    {
+      "name": "Japan West"
+    },
+    {
+      "name": "Korea Central"
+    },
+    {
+      "name": "Korea South"
+    },
+    {
+      "name": "Malaysia West"
+    },
+    {
+      "name": "Mexico Central"
+    },
+    {
+      "name": "New Zealand North"
+    },
+    {
+      "name": "North Central US"
+    },
+    {
+      "name": "North Europe"
+    },
+    {
+      "name": "Norway East"
+    },
+    {
+      "name": "Poland Central"
+    },
+    {
+      "name": "Qatar Central"
+    },
+    {
+      "name": "South Africa North"
+    },
+    {
+      "name": "South Central US"
+    },
+    {
+      "name": "South India"
+    },
+    {
+      "name": "Southeast Asia"
+    },
+    {
+      "name": "Spain Central"
+    },
+    {
+      "name": "Sweden Central"
+    },
+    {
+      "name": "Switzerland North"
+    },
+    {
+      "name": "Taiwan North"
+    },
+    {
+      "name": "UAE North"
+    },
+    {
+      "name": "UK South"
+    },
+    {
+      "name": "UK West"
+    },
+    {
+      "name": "US DoD Central"
+    },
+    {
+      "name": "US DoD East"
+    },
+    {
+      "name": "US Gov Arizona"
+    },
+    {
+      "name": "US Gov Texas"
+    },
+    {
+      "name": "US Gov Virginia"
+    },
+    {
+      "name": "US Sec East"
+    },
+    {
+      "name": "US Sec West Central"
+    },
+    {
+      "name": "US Sec West"
+    },
+    {
+      "name": "West Central US"
+    },
+    {
+      "name": "West Europe"
+    },
+    {
+      "name": "West India"
+    },
+    {
+      "name": "West US 2"
+    },
+    {
+      "name": "West US 3"
+    },
+    {
+      "name": "West US"
+    }
+  ]
 }

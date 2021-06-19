@@ -4,12 +4,17 @@ const cheerio = require('cheerio')
 const slugify = require('slugify')
 
 const utilities = {
-  getProviders (slim = false) {
+  getProviders (slim = false, includeRegions = false) {
     return ['aws', 'azure', 'gcp', 'alibaba-cloud', 'oracle-cloud'].map(provider => {
       return utilities.getProvider(provider)
     }).map(provider => {
       if (slim) {
         delete provider.extra
+      }
+      if (includeRegions) {
+        provider.regions = utilities.sort(provider.regions, 'name')
+      } else {
+        delete provider.regions
       }
       return provider
     })

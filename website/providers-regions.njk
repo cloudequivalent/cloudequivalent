@@ -1,0 +1,18 @@
+---
+pagination:
+  data: generated.providers
+  size: 1
+  alias: provider
+  addAllPagesToCollections: true
+permalink: "{{ provider.key | slug }}/regions/"
+layout: layouts/base.njk
+eleventyComputed:
+  title: "{{provider.name}} regions"
+  description: "Find out what regions {{ provider.name }} supports."
+---
+
+<ul class="list-group">
+  {% for region in provider.regions %}
+    <li class="list-group-item">{{ region.name }}</li>
+  {% endfor %}
+</ul>

@@ -9,5 +9,107 @@
       "nameSelector": "span",
       "descriptionSelector": "cite"
     }
-  }
+  },
+  "regions": [
+    {
+      "key": "us-east-1",
+      "name": "US East (N. Virginia)"
+    },
+    {
+      "key": "us-east-2",
+      "name": "US East (Ohio)"
+    },
+    {
+      "key": "us-west-1",
+      "name": "US West (N. California)"
+    },
+    {
+      "key": "us-west-2",
+      "name": "US West (Oregon)"
+    },
+    {
+      "key": "ca-central-1",
+      "name": "Canada (Montreal)"
+    },
+    {
+      "key": "eu-north-1",
+      "name": "EU (Stockholm)"
+    },
+    {
+      "key": "eu-west-3",
+      "name": "EU (Paris)"
+    },
+    {
+      "key": "eu-west-2",
+      "name": "EU (London)"
+    },
+    {
+      "key": "eu-west-1",
+      "name": "EU (Ireland)"
+    },
+    {
+      "key": "eu-central-1",
+      "name": "EU (Frankfurt)"
+    },
+    {
+      "key": "eu-south-1",
+      "name": "EU (Milan)"
+    },
+    {
+      "key": "ap-south-1",
+      "name": "Asia Pacific (Mumbai)"
+    },
+    {
+      "key": "ap-northeast-1",
+      "name": "Asia Pacific (Tokyo)"
+    },
+    {
+      "key": "ap-northeast-2",
+      "name": "Asia Pacific (Seoul)"
+    },
+    {
+      "key": "ap-northeast-3",
+      "name": "Asia Pacific (Osaka-Local)"
+    },
+    {
+      "key": "ap-southeast-1",
+      "name": "Asia Pacific (Singapore)"
+    },
+    {
+      "key": "ap-southeast-2",
+      "name": "Asia Pacific (Sydney)"
+    },
+    {
+      "key": "ap-east-1",
+      "name": "Asia Pacific (Hong Kong)"
+    },
+    {
+      "key": "sa-east-1",
+      "name": "South America (São Paulo)"
+    },
+    {
+      "key": "cn-north-1",
+      "name": "China (Beijing)"
+    },
+    {
+      "key": "cn-northwest-1",
+      "name": "China (Ningxia)"
+    },
+    {
+      "key": "us-gov-east-1",
+      "name": "GovCloud (US-East)"
+    },
+    {
+      "key": "us-gov-west-1",
+      "name": "GovCloud (US-West)"
+    },
+    {
+      "key": "me-south-1",
+      "name": "Middle East (Bahrain)"
+    },
+    {
+      "key": "af-south-1",
+      "name": "Africa (Cape Town)"
+    }
+  ]
 }

@@ -9,5 +9,107 @@
       "nameSelector": ".cloud-card-standard__headline",
       "descriptionSelector": ".cloud-card-standard__body-text"
     }
-  }
+  },
+  "regions": [
+    {
+      "name": "Oregon",
+      "key": "us-west1"
+    },
+    {
+      "name": "Los Angeles",
+      "key": "us-west2"
+    },
+    {
+      "name": "Salt Lake City",
+      "key": "us-west3"
+    },
+    {
+      "name": "Las Vegas",
+      "key": "us-west4"
+    },
+    {
+      "name": "Iowa",
+      "key": "us-central1"
+    },
+    {
+      "name": "South Carolina",
+      "key": "us-east1"
+    },
+    {
+      "name": "N. Virginia",
+      "key": "us-east4"
+    },
+    {
+      "name": "Montréal",
+      "key": "northamerica-northeast1"
+    },
+    {
+      "name": "São Paulo",
+      "key": "southamerica-east1"
+    },
+    {
+      "name": "London",
+      "key": "europe-west2"
+    },
+    {
+      "name": "Belgium",
+      "key": "europe-west1"
+    },
+    {
+      "name": "Netherlands",
+      "key": "europe-west4"
+    },
+    {
+      "name": "Zurich",
+      "key": "europe-west6"
+    },
+    {
+      "name": "Frankfurt",
+      "key": "europe-west3"
+    },
+    {
+      "name": "Finland",
+      "key": "europe-north1"
+    },
+    {
+      "name": "Warsaw",
+      "key": "europe-central2"
+    },
+    {
+      "name": "Mumbai",
+      "key": "asia-south1"
+    },
+    {
+      "name": "Singapore",
+      "key": "asia-southeast1"
+    },
+    {
+      "name": "Jakarta",
+      "key": "asia-southeast2"
+    },
+    {
+      "name": "Hong Kong",
+      "key": "asia-east2"
+    },
+    {
+      "name": "Taiwan",
+      "key": "asia-east1"
+    },
+    {
+      "name": "Tokyo",
+      "key": "asia-northeast1"
+    },
+    {
+      "name": "Osaka",
+      "key": "asia-northeast2"
+    },
+    {
+      "name": "Sydney",
+      "key": "australia-southeast1"
+    },
+    {
+      "name": "Seoul",
+      "key": "asia-northeast3"
+    }
+  ]
 }
