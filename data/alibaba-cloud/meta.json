@@ -15,5 +15,91 @@
         "description": "Manage and run consistent VMware environments across both on-premise and off-premises environments"
       }
     ]
-  }
+  },
+  "regions": [
+    {
+      "key": "cn-beijing",
+      "name": "China (Beijing)"
+    },
+    {
+      "key": "cn-zhangjiakou",
+      "name": "China (Zhangjiakou)"
+    },
+    {
+      "key": "cn-hangzhou",
+      "name": "China (Hangzhou)"
+    },
+    {
+      "key": "cn-shanghai",
+      "name": "China (Shanghai)"
+    },
+    {
+      "key": "cn-shenzhen",
+      "name": "China (Shenzhen)"
+    },
+    {
+      "key": "cn-hongkong",
+      "name": "China (Hong Kong)"
+    },
+    {
+      "key": "cn-huhehaote",
+      "name": "China (Hohhot)"
+    },
+    {
+      "key": "cn-heyuan",
+      "name": "China (Heyuan)"
+    },
+    {
+      "key": "cn-chengdu",
+      "name": "China (chengdu)"
+    },
+    {
+      "key": "cn-wulanchabu",
+      "name": "China (Ulanqab)"
+    },
+    {
+      "key": "ap-northeast-1",
+      "name": "Japan (Tokyo)"
+    },
+    {
+      "key": "ap-southeast-1",
+      "name": "Singapore"
+    },
+    {
+      "key": "ap-southeast-2",
+      "name": "Australia (Sydney)"
+    },
+    {
+      "key": "eu-central-1",
+      "name": "Germany (Frankfurt)"
+    },
+    {
+      "key": "me-east-1",
+      "name": "UAE (Dubai)"
+    },
+    {
+      "key": "us-east-1",
+      "name": "US (Virginia)"
+    },
+    {
+      "key": "us-west-1",
+      "name": "US (Silicon Valley)"
+    },
+    {
+      "key": "ap-southeast-3",
+      "name": "Malaysia (Kuala Lumpur)"
+    },
+    {
+      "key": "ap-south-1",
+      "name": "India (Mumbai)"
+    },
+    {
+      "key": "ap-southeast-5",
+      "name": "Indonesia (Jakarta)"
+    },
+    {
+      "key": "eu-west-1",
+      "name": "UK (London)"
+    }
+  ]
 }

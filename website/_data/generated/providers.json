@@ -2,26 +2,602 @@
   {
     "name": "Alibaba Cloud (AC)",
     "key": "alibaba-cloud",
-    "accentColour": "#C74634"
+    "accentColour": "#C74634",
+    "regions": [
+      {
+        "key": "ap-southeast-2",
+        "name": "Australia (Sydney)"
+      },
+      {
+        "key": "cn-beijing",
+        "name": "China (Beijing)"
+      },
+      {
+        "key": "cn-hangzhou",
+        "name": "China (Hangzhou)"
+      },
+      {
+        "key": "cn-heyuan",
+        "name": "China (Heyuan)"
+      },
+      {
+        "key": "cn-huhehaote",
+        "name": "China (Hohhot)"
+      },
+      {
+        "key": "cn-hongkong",
+        "name": "China (Hong Kong)"
+      },
+      {
+        "key": "cn-shanghai",
+        "name": "China (Shanghai)"
+      },
+      {
+        "key": "cn-shenzhen",
+        "name": "China (Shenzhen)"
+      },
+      {
+        "key": "cn-wulanchabu",
+        "name": "China (Ulanqab)"
+      },
+      {
+        "key": "cn-zhangjiakou",
+        "name": "China (Zhangjiakou)"
+      },
+      {
+        "key": "cn-chengdu",
+        "name": "China (chengdu)"
+      },
+      {
+        "key": "eu-central-1",
+        "name": "Germany (Frankfurt)"
+      },
+      {
+        "key": "ap-south-1",
+        "name": "India (Mumbai)"
+      },
+      {
+        "key": "ap-southeast-5",
+        "name": "Indonesia (Jakarta)"
+      },
+      {
+        "key": "ap-northeast-1",
+        "name": "Japan (Tokyo)"
+      },
+      {
+        "key": "ap-southeast-3",
+        "name": "Malaysia (Kuala Lumpur)"
+      },
+      {
+        "key": "ap-southeast-1",
+        "name": "Singapore"
+      },
+      {
+        "key": "me-east-1",
+        "name": "UAE (Dubai)"
+      },
+      {
+        "key": "eu-west-1",
+        "name": "UK (London)"
+      },
+      {
+        "key": "us-west-1",
+        "name": "US (Silicon Valley)"
+      },
+      {
+        "key": "us-east-1",
+        "name": "US (Virginia)"
+      }
+    ]
   },
   {
     "name": "Amazon Web Services (AWS)",
     "key": "aws",
-    "accentColour": "#FF9900"
+    "accentColour": "#FF9900",
+    "regions": [
+      {
+        "key": "af-south-1",
+        "name": "Africa (Cape Town)"
+      },
+      {
+        "key": "ap-east-1",
+        "name": "Asia Pacific (Hong Kong)"
+      },
+      {
+        "key": "ap-south-1",
+        "name": "Asia Pacific (Mumbai)"
+      },
+      {
+        "key": "ap-northeast-3",
+        "name": "Asia Pacific (Osaka-Local)"
+      },
+      {
+        "key": "ap-northeast-2",
+        "name": "Asia Pacific (Seoul)"
+      },
+      {
+        "key": "ap-southeast-1",
+        "name": "Asia Pacific (Singapore)"
+      },
+      {
+        "key": "ap-southeast-2",
+        "name": "Asia Pacific (Sydney)"
+      },
+      {
+        "key": "ap-northeast-1",
+        "name": "Asia Pacific (Tokyo)"
+      },
+      {
+        "key": "ca-central-1",
+        "name": "Canada (Montreal)"
+      },
+      {
+        "key": "cn-north-1",
+        "name": "China (Beijing)"
+      },
+      {
+        "key": "cn-northwest-1",
+        "name": "China (Ningxia)"
+      },
+      {
+        "key": "eu-central-1",
+        "name": "EU (Frankfurt)"
+      },
+      {
+        "key": "eu-west-1",
+        "name": "EU (Ireland)"
+      },
+      {
+        "key": "eu-west-2",
+        "name": "EU (London)"
+      },
+      {
+        "key": "eu-south-1",
+        "name": "EU (Milan)"
+      },
+      {
+        "key": "eu-west-3",
+        "name": "EU (Paris)"
+      },
+      {
+        "key": "eu-north-1",
+        "name": "EU (Stockholm)"
+      },
+      {
+        "key": "us-gov-east-1",
+        "name": "GovCloud (US-East)"
+      },
+      {
+        "key": "us-gov-west-1",
+        "name": "GovCloud (US-West)"
+      },
+      {
+        "key": "me-south-1",
+        "name": "Middle East (Bahrain)"
+      },
+      {
+        "key": "sa-east-1",
+        "name": "South America (São Paulo)"
+      },
+      {
+        "key": "us-east-1",
+        "name": "US East (N. Virginia)"
+      },
+      {
+        "key": "us-east-2",
+        "name": "US East (Ohio)"
+      },
+      {
+        "key": "us-west-1",
+        "name": "US West (N. California)"
+      },
+      {
+        "key": "us-west-2",
+        "name": "US West (Oregon)"
+      }
+    ]
   },
   {
     "name": "Google Cloud Platform (GCP)",
     "key": "gcp",
-    "accentColour": "#1a73e8"
+    "accentColour": "#1a73e8",
+    "regions": [
+      {
+        "name": "Belgium",
+        "key": "europe-west1"
+      },
+      {
+        "name": "Finland",
+        "key": "europe-north1"
+      },
+      {
+        "name": "Frankfurt",
+        "key": "europe-west3"
+      },
+      {
+        "name": "Hong Kong",
+        "key": "asia-east2"
+      },
+      {
+        "name": "Iowa",
+        "key": "us-central1"
+      },
+      {
+        "name": "Jakarta",
+        "key": "asia-southeast2"
+      },
+      {
+        "name": "Las Vegas",
+        "key": "us-west4"
+      },
+      {
+        "name": "London",
+        "key": "europe-west2"
+      },
+      {
+        "name": "Los Angeles",
+        "key": "us-west2"
+      },
+      {
+        "name": "Montréal",
+        "key": "northamerica-northeast1"
+      },
+      {
+        "name": "Mumbai",
+        "key": "asia-south1"
+      },
+      {
+        "name": "N. Virginia",
+        "key": "us-east4"
+      },
+      {
+        "name": "Netherlands",
+        "key": "europe-west4"
+      },
+      {
+        "name": "Oregon",
+        "key": "us-west1"
+      },
+      {
+        "name": "Osaka",
+        "key": "asia-northeast2"
+      },
+      {
+        "name": "Salt Lake City",
+        "key": "us-west3"
+      },
+      {
+        "name": "Seoul",
+        "key": "asia-northeast3"
+      },
+      {
+        "name": "Singapore",
+        "key": "asia-southeast1"
+      },
+      {
+        "name": "South Carolina",
+        "key": "us-east1"
+      },
+      {
+        "name": "Sydney",
+        "key": "australia-southeast1"
+      },
+      {
+        "name": "São Paulo",
+        "key": "southamerica-east1"
+      },
+      {
+        "name": "Taiwan",
+        "key": "asia-east1"
+      },
+      {
+        "name": "Tokyo",
+        "key": "asia-northeast1"
+      },
+      {
+        "name": "Warsaw",
+        "key": "europe-central2"
+      },
+      {
+        "name": "Zurich",
+        "key": "europe-west6"
+      }
+    ]
   },
   {
     "name": "Microsoft Azure (Azure)",
     "key": "azure",
-    "accentColour": "#0089d6"
+    "accentColour": "#0089d6",
+    "regions": [
+      {
+        "name": "Australia Central"
+      },
+      {
+        "name": "Australia East"
+      },
+      {
+        "name": "Australia Southeast"
+      },
+      {
+        "name": "Austria East"
+      },
+      {
+        "name": "Brazil South"
+      },
+      {
+        "name": "Canada Central"
+      },
+      {
+        "name": "Canada East"
+      },
+      {
+        "name": "Central India"
+      },
+      {
+        "name": "Central US"
+      },
+      {
+        "name": "Chile Central"
+      },
+      {
+        "name": "China East"
+      },
+      {
+        "name": "China East 2"
+      },
+      {
+        "name": "China North"
+      },
+      {
+        "name": "China North 2"
+      },
+      {
+        "name": "China North 3"
+      },
+      {
+        "name": "Denmark East"
+      },
+      {
+        "name": "East Asia"
+      },
+      {
+        "name": "East US"
+      },
+      {
+        "name": "East US 2"
+      },
+      {
+        "name": "East US 3"
+      },
+      {
+        "name": "France Central"
+      },
+      {
+        "name": "Germany West Central"
+      },
+      {
+        "name": "Greece Central"
+      },
+      {
+        "name": "Indonesia Central"
+      },
+      {
+        "name": "Israel Central"
+      },
+      {
+        "name": "Italy North"
+      },
+      {
+        "name": "Japan East"
+      },
+      {
+        "name": "Japan West"
+      },
+      {
+        "name": "Korea Central"
+      },
+      {
+        "name": "Korea South"
+      },
+      {
+        "name": "Malaysia West"
+      },
+      {
+        "name": "Mexico Central"
+      },
+      {
+        "name": "New Zealand North"
+      },
+      {
+        "name": "North Central US"
+      },
+      {
+        "name": "North Europe"
+      },
+      {
+        "name": "Norway East"
+      },
+      {
+        "name": "Poland Central"
+      },
+      {
+        "name": "Qatar Central"
+      },
+      {
+        "name": "South Africa North"
+      },
+      {
+        "name": "South Central US"
+      },
+      {
+        "name": "South India"
+      },
+      {
+        "name": "Southeast Asia"
+      },
+      {
+        "name": "Spain Central"
+      },
+      {
+        "name": "Sweden Central"
+      },
+      {
+        "name": "Switzerland North"
+      },
+      {
+        "name": "Taiwan North"
+      },
+      {
+        "name": "UAE North"
+      },
+      {
+        "name": "UK South"
+      },
+      {
+        "name": "UK West"
+      },
+      {
+        "name": "US DoD Central"
+      },
+      {
+        "name": "US DoD East"
+      },
+      {
+        "name": "US Gov Arizona"
+      },
+      {
+        "name": "US Gov Texas"
+      },
+      {
+        "name": "US Gov Virginia"
+      },
+      {
+        "name": "US Sec East"
+      },
+      {
+        "name": "US Sec West"
+      },
+      {
+        "name": "US Sec West Central"
+      },
+      {
+        "name": "West Central US"
+      },
+      {
+        "name": "West Europe"
+      },
+      {
+        "name": "West India"
+      },
+      {
+        "name": "West US"
+      },
+      {
+        "name": "West US 2"
+      },
+      {
+        "name": "West US 3"
+      }
+    ]
   },
   {
     "name": "Oracle Cloud Infrastructure (OCI)",
     "key": "oracle-cloud",
-    "accentColour": "#C74634"
+    "accentColour": "#C74634",
+    "regions": [
+      {
+        "name": "Australia East (Sydney)"
+      },
+      {
+        "name": "Australia Southeast (Melbourne)"
+      },
+      {
+        "name": "Brazil East (Sao Paulo)"
+      },
+      {
+        "name": "Brazil Southeast (Vinhedo)"
+      },
+      {
+        "name": "Canada Southeast (Montreal)"
+      },
+      {
+        "name": "Canada Southeast (Toronto)"
+      },
+      {
+        "name": "Chile Central (Santiago)"
+      },
+      {
+        "name": "Dedicated Region Cloud@Customer"
+      },
+      {
+        "name": "Germany Central (Frankfurt)"
+      },
+      {
+        "name": "India South (Hyderabad)"
+      },
+      {
+        "name": "India West (Mumbai)"
+      },
+      {
+        "name": "Japan Central (Osaka)"
+      },
+      {
+        "name": "Japan East (Tokyo)"
+      },
+      {
+        "name": "Netherlands Northwest (Amsterdam)"
+      },
+      {
+        "name": "Saudi Arabia West (Jeddah)"
+      },
+      {
+        "name": "South Korea Central (Seoul)"
+      },
+      {
+        "name": "South Korea North (Chuncheon)"
+      },
+      {
+        "name": "Switzerland North (Zurich)"
+      },
+      {
+        "name": "UAE East (Dubai)"
+      },
+      {
+        "name": "UK Gov South (London)"
+      },
+      {
+        "name": "UK Gov West (Newport)"
+      },
+      {
+        "name": "UK South (London)"
+      },
+      {
+        "name": "UK West (Newport)"
+      },
+      {
+        "name": "US DoD East"
+      },
+      {
+        "name": "US DoD North"
+      },
+      {
+        "name": "US DoD West"
+      },
+      {
+        "name": "US East (Ashburn)"
+      },
+      {
+        "name": "US Gov East (Ashburn)"
+      },
+      {
+        "name": "US Gov West (Phoenix)"
+      },
+      {
+        "name": "US West (Phoenix)"
+      },
+      {
+        "name": "US West (San Jose)"
+      }
+    ]
   }
 ]

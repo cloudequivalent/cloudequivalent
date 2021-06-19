@@ -4,7 +4,7 @@ const utilities = require('./utilities');
 
 (async () => {
   // Get local provider definitions
-  const providers = utilities.getProviders(true)
+  const providers = utilities.getProviders(true, true)
 
   // Sort alphabetically
   const sorted = utilities.sort(providers, 'name')

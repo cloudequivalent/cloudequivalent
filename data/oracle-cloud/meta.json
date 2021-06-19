@@ -19,5 +19,100 @@
         "description": "Simplify application development and access to cloud resources with Cloud Shell, a browser-based terminal that provides a Linux shell and a pre-authenticated command-line interface (CLI)."
       }
     ]
-  }
+  },
+  "regions": [
+    {
+      "name": "Australia East (Sydney)"
+    },
+    {
+      "name": "Australia Southeast (Melbourne)"
+    },
+    {
+      "name": "Brazil East (Sao Paulo)"
+    },
+    {
+      "name": "Brazil Southeast (Vinhedo)"
+    },
+    {
+      "name": "Canada Southeast (Montreal)"
+    },
+    {
+      "name": "Canada Southeast (Toronto)"
+    },
+    {
+      "name": "Chile Central (Santiago)"
+    },
+    {
+      "name": "Dedicated Region Cloud@Customer"
+    },
+    {
+      "name": "Germany Central (Frankfurt)"
+    },
+    {
+      "name": "India South (Hyderabad)"
+    },
+    {
+      "name": "India West (Mumbai)"
+    },
+    {
+      "name": "Japan Central (Osaka)"
+    },
+    {
+      "name": "Japan East (Tokyo)"
+    },
+    {
+      "name": "Netherlands Northwest (Amsterdam)"
+    },
+    {
+      "name": "Saudi Arabia West (Jeddah)"
+    },
+    {
+      "name": "South Korea Central (Seoul)"
+    },
+    {
+      "name": "South Korea North (Chuncheon)"
+    },
+    {
+      "name": "Switzerland North (Zurich)"
+    },
+    {
+      "name": "UAE East (Dubai)"
+    },
+    {
+      "name": "UK Gov South (London)"
+    },
+    {
+      "name": "UK Gov West (Newport)"
+    },
+    {
+      "name": "UK South (London)"
+    },
+    {
+      "name": "UK West (Newport)"
+    },
+    {
+      "name": "US DoD East"
+    },
+    {
+      "name": "US DoD North"
+    },
+    {
+      "name": "US DoD West"
+    },
+    {
+      "name": "US East (Ashburn)"
+    },
+    {
+      "name": "US Gov East (Ashburn)"
+    },
+    {
+      "name": "US Gov West (Phoenix)"
+    },
+    {
+      "name": "US West (Phoenix)"
+    },
+    {
+      "name": "US West (San Jose)"
+    }
+  ]
 }
