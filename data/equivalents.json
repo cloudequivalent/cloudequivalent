@@ -212,7 +212,10 @@
   "aws.red-hat-openshift-service-on-aws": [],
   "aws.amazon-connect": [],
   "aws.amazon-pinpoint": [],
-  "aws.amazon-simple-email-service-ses": [],
+  "aws.amazon-simple-email-service-ses": [
+    "alibaba-cloud.direct-mail",
+    "oracle-cloud.email-delivery"
+  ],
   "aws.amazon-aurora": [
     "gcp.cloud-spanner",
     "aws.amazon-aurora",
@@ -1924,7 +1927,10 @@
     "gcp.api-gateway",
     "oracle-cloud.api-gateway"
   ],
-  "alibaba-cloud.direct-mail": [],
+  "alibaba-cloud.direct-mail": [
+    "aws.amazon-simple-email-service-ses",
+    "oracle-cloud.email-delivery"
+  ],
   "alibaba-cloud.cloudesl": [],
   "alibaba-cloud.blockchain-as-a-service": [],
   "alibaba-cloud.short-message-service": [],
@@ -2062,7 +2068,10 @@
     "azure.azure-dns",
     "gcp.cloud-dns"
   ],
-  "oracle-cloud.email-delivery": [],
+  "oracle-cloud.email-delivery": [
+    "alibaba-cloud.direct-mail",
+    "aws.amazon-simple-email-service-ses"
+  ],
   "oracle-cloud.fastconnect": [],
   "oracle-cloud.health-checks": [],
   "oracle-cloud.load-balancing": [],
