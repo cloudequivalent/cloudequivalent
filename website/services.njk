@@ -11,8 +11,12 @@ eleventyComputed:
   description: "Find out what the {{ service.name }} on {{ service.provider.name }} equivalent is with other cloud providers."
 ---
 
+{% if service.description %}
+  <p>{{ service.description }}</p>
+{% endif %}
+
 {% if service.equivalents.length > 0 %}
-  <h2 class="mb-3">Equivalents</h2>
+  <h2 class="pb-2 border-bottom mb-4">Equivalents</h2>
 
   <table class="table">
     <thead>
@@ -30,6 +34,7 @@ eleventyComputed:
       {%- endfor -%}
     </tbody>
   </table>
+
 {% else %}
   <p>Unfortunately, we don't know of any equivalents - if we've missed something, get involved and raise a pull request or an issue in the <a href="https://github.com/cloudequivalent/cloudequivalent">cloudequivalent/cloudequivalent repository</a> on GitHub.</p>
 {% endif %}
