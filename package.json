@@ -30,7 +30,7 @@
     "cheerio": "^1.0.0-rc.10",
     "cssnano": "^5.0.6",
     "html-minifier": "^4.0.0",
-    "postcss": "^8.3.2",
+    "postcss": "^8.3.5",
     "postcss-import": "^14.0.2",
     "slugify": "^1.5.3"
   }
