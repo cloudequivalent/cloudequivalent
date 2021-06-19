@@ -624,8 +624,10 @@
     "azure.security-center"
   ],
   "aws.aws-shield": [
-    "aws.aws-shield",
-    "azure.azure-ddos-protection"
+    "alibaba-cloud.anti-ddos",
+    "alibaba-cloud.anti-ddos-basic",
+    "azure.azure-ddos-protection",
+    "gcp.cloud-armor"
   ],
   "aws.aws-single-sign-on": [],
   "aws.aws-waf": [
@@ -1138,8 +1140,10 @@
   "azure.application-gateway": [],
   "azure.azure-bastion": [],
   "azure.azure-ddos-protection": [
+    "alibaba-cloud.anti-ddos",
+    "alibaba-cloud.anti-ddos-basic",
     "aws.aws-shield",
-    "azure.azure-ddos-protection"
+    "gcp.cloud-armor"
   ],
   "azure.azure-dns": [
     "alibaba-cloud.alibaba-cloud-dns",
@@ -1582,10 +1586,14 @@
     "oracle-cloud.data-transfer"
   ],
   "gcp.cloud-armor": [
-    "oracle-cloud.web-application-firewall-waf",
+    "alibaba-cloud.anti-ddos",
+    "alibaba-cloud.anti-ddos-basic",
     "alibaba-cloud.web-application-firewall",
+    "aws.aws-shield",
     "aws.aws-waf",
-    "azure.web-application-firewall"
+    "azure.azure-ddos-protection",
+    "azure.web-application-firewall",
+    "oracle-cloud.web-application-firewall-waf"
   ],
   "gcp.cloud-domains": [
     "gcp.cloud-domains",
@@ -1878,8 +1886,16 @@
   "alibaba-cloud.database-autonomy-service": [],
   "alibaba-cloud.database-gateway": [],
   "alibaba-cloud.advanced-database-and-application-migration": [],
-  "alibaba-cloud.anti-ddos": [],
-  "alibaba-cloud.anti-ddos-basic": [],
+  "alibaba-cloud.anti-ddos": [
+    "aws.aws-shield",
+    "azure.azure-ddos-protection",
+    "gcp.cloud-armor"
+  ],
+  "alibaba-cloud.anti-ddos-basic": [
+    "aws.aws-shield",
+    "azure.azure-ddos-protection",
+    "gcp.cloud-armor"
+  ],
   "alibaba-cloud.web-application-firewall": [
     "oracle-cloud.web-application-firewall-waf",
     "aws.aws-waf",
