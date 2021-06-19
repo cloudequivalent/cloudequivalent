@@ -11,7 +11,7 @@ eleventyComputed:
   description: "Find out what the {{ service.name }} on {{ service.provider.name }} equivalent is with other cloud providers."
 ---
 
-{% if service.description %}
+{% if service.description and service.description != service.name %}
   <p>{{ service.description }}</p>
 {% endif %}
 
