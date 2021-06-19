@@ -4814,7 +4814,28 @@
       "key": "aws",
       "accentColour": "#FF9900"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Direct Mail",
+        "description": "A simple and efficient email service",
+        "key": "direct-mail",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Email Delivery",
+        "description": "Email Delivery",
+        "key": "email-delivery",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Amazon Simple Notification Service (SNS)",
@@ -11453,7 +11474,28 @@
       "key": "alibaba-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Amazon Simple Email Service (SES)",
+        "description": "Email Sending and Receiving",
+        "key": "amazon-simple-email-service-ses",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      },
+      {
+        "name": "Email Delivery",
+        "description": "Email Delivery",
+        "key": "email-delivery",
+        "provider": {
+          "name": "Oracle Cloud Infrastructure (OCI)",
+          "key": "oracle-cloud",
+          "accentColour": "#C74634"
+        }
+      }
+    ]
   },
   {
     "name": "Distributed Relational Database Service",
@@ -11753,7 +11795,28 @@
       "key": "oracle-cloud",
       "accentColour": "#C74634"
     },
-    "equivalents": []
+    "equivalents": [
+      {
+        "name": "Direct Mail",
+        "description": "A simple and efficient email service",
+        "key": "direct-mail",
+        "provider": {
+          "name": "Alibaba Cloud (AC)",
+          "key": "alibaba-cloud",
+          "accentColour": "#C74634"
+        }
+      },
+      {
+        "name": "Amazon Simple Email Service (SES)",
+        "description": "Email Sending and Receiving",
+        "key": "amazon-simple-email-service-ses",
+        "provider": {
+          "name": "Amazon Web Services (AWS)",
+          "key": "aws",
+          "accentColour": "#FF9900"
+        }
+      }
+    ]
   },
   {
     "name": "Encoding",
