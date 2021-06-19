@@ -70,9 +70,9 @@
     "key": "data-science-virtual-machines"
   },
   {
-    "name": "Face",
+    "name": "Face API",
     "description": "Detect, identify, analyse, organise and tag faces in photos",
-    "key": "face"
+    "key": "face-api"
   },
   {
     "name": "Azure Form Recognizer",

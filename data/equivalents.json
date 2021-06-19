@@ -2139,5 +2139,6 @@
     "aws.aws-cloudshell",
     "azure.cloud-shell",
     "gcp.cloud-shell"
-  ]
+  ],
+  "azure.face-api": []
 }
