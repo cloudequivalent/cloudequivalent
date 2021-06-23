@@ -495,11 +495,6 @@
     "key": "cloud-console"
   },
   {
-    "name": "Cloud Deployment Manager",
-    "description": "Service for creating and managing Google Cloud resources.",
-    "key": "cloud-deployment-manager"
-  },
-  {
     "name": "Cloud Mobile App",
     "description": "App to manage Google Cloud services from your mobile device.",
     "key": "cloud-mobile-app"
@@ -518,6 +513,16 @@
     "name": "Private Catalog",
     "description": "Service catalog for admins managing internal enterprise solutions.",
     "key": "private-catalog"
+  },
+  {
+    "name": "Terraform on Google Cloud",
+    "description": "Open source tool to provision Google Cloud resources with declarative configuration files.",
+    "key": "terraform-on-google-cloud"
+  },
+  {
+    "name": "Config Connector",
+    "description": "Kubernetes add-on for managing Google Cloud resources.",
+    "key": "config-connector"
   },
   {
     "name": "Game Servers",
