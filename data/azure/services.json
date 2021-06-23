@@ -295,11 +295,6 @@
     "key": "azure-quantum-preview"
   },
   {
-    "name": "Azure Spot Virtual Machines",
-    "description": "Provision unused compute capacity at deep discounts to run interruptible workloads",
-    "key": "azure-spot-virtual-machines"
-  },
-  {
     "name": "Azure Spring Cloud",
     "description": "A fully managed Spring Cloud service, jointly built and operated with VMware",
     "key": "azure-spring-cloud"

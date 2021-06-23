@@ -2165,8 +2165,5 @@
     "azure.cloud-shell",
     "gcp.cloud-shell"
   ],
-  "azure.face-api": [],
-  "azure.azure-spot-virtual-machines": [],
-  "gcp.terraform-on-google-cloud": [],
-  "gcp.config-connector": []
+  "azure.face-api": []
 }
