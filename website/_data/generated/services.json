@@ -8272,6 +8272,17 @@
     "equivalents": []
   },
   {
+    "name": "Azure Spot Virtual Machines",
+    "description": "Provision unused compute capacity at deep discounts to run interruptible workloads",
+    "key": "azure-spot-virtual-machines",
+    "provider": {
+      "name": "Microsoft Azure (Azure)",
+      "key": "azure",
+      "accentColour": "#0089d6"
+    },
+    "equivalents": []
+  },
+  {
     "name": "Azure Spring Cloud",
     "description": "A fully managed Spring Cloud service, jointly built and operated with VMware",
     "key": "azure-spring-cloud",
@@ -10604,6 +10615,17 @@
     "name": "Confidential Computing",
     "description": "Encrypt data in use with Confidential VMs.",
     "key": "confidential-computing",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp",
+      "accentColour": "#1a73e8"
+    },
+    "equivalents": []
+  },
+  {
+    "name": "Config Connector",
+    "description": "Kubernetes add-on for managing Google Cloud resources.",
+    "key": "config-connector",
     "provider": {
       "name": "Google Cloud Platform (GCP)",
       "key": "gcp",
@@ -15598,6 +15620,17 @@
         }
       }
     ]
+  },
+  {
+    "name": "Terraform on Google Cloud",
+    "description": "Open source tool to provision Google Cloud resources with declarative configuration files.",
+    "key": "terraform-on-google-cloud",
+    "provider": {
+      "name": "Google Cloud Platform (GCP)",
+      "key": "gcp",
+      "accentColour": "#1a73e8"
+    },
+    "equivalents": []
   },
   {
     "name": "Text Analytics",
