@@ -1,5 +1,10 @@
 [
   {
+    "name": "Cloud Deployment Manager",
+    "description": "Service for creating and managing Google Cloud resources.",
+    "key": "cloud-deployment-manager"
+  },
+  {
     "name": "Compute Engine",
     "description": "Virtual machines running in Google’s data center.",
     "key": "compute-engine"
