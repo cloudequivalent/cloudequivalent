@@ -236,7 +236,7 @@
   },
   {
     "name": "Microsoft Graph Data Connect Preview",
-    "description": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant",
+    "description": "A secure, high-throughput connector designed to copy selected Microsoft 365 productivity datasets into your Azure tenant",
     "key": "microsoft-graph-data-connect-preview"
   },
   {
@@ -365,9 +365,9 @@
     "key": "web-apps"
   },
   {
-    "name": "Windows Virtual Desktop",
+    "name": "Azure Virtual Desktop",
     "description": "The best virtual desktop experience – delivered on Azure",
-    "key": "windows-virtual-desktop"
+    "key": "azure-virtual-desktop"
   },
   {
     "name": "Azure Dedicated Host",
@@ -915,9 +915,9 @@
     "key": "azure-orbital-preview"
   },
   {
-    "name": "Azure Route Server Preview",
+    "name": "Azure Route Server",
     "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure",
-    "key": "azure-route-server-preview"
+    "key": "azure-route-server"
   },
   {
     "name": "Azure Defender",
@@ -951,7 +951,7 @@
   },
   {
     "name": "Azure Files",
-    "description": "File shares that use the standard SMB 3.0 protocol",
+    "description": "Simple, secure and serverless enterprise-grade cloud file shares",
     "key": "azure-files"
   },
   {
@@ -1006,12 +1006,12 @@
   },
   {
     "name": "VMware Horizon Cloud on Microsoft Azure",
-    "description": "Provision Windows desktops and apps with VMware and Windows Virtual Desktop",
+    "description": "Provision Windows desktops and apps with VMware and Azure Virtual Desktop",
     "key": "vmware-horizon-cloud-on-microsoft-azure"
   },
   {
     "name": "Citrix Virtual Apps and Desktops for Azure",
-    "description": "Provision Windows desktops and apps on Azure with Citrix and Windows Virtual Desktop",
+    "description": "Provision Windows desktops and apps on Azure with Citrix and Azure Virtual Desktop",
     "key": "citrix-virtual-apps-and-desktops-for-azure"
   }
 ]
