@@ -2168,5 +2168,7 @@
   "azure.face-api": [],
   "azure.azure-spot-virtual-machines": [],
   "gcp.terraform-on-google-cloud": [],
-  "gcp.config-connector": []
+  "gcp.config-connector": [],
+  "azure.azure-virtual-desktop": [],
+  "azure.azure-route-server": []
 }
