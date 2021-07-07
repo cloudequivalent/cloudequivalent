@@ -2170,5 +2170,6 @@
   "gcp.terraform-on-google-cloud": [],
   "gcp.config-connector": [],
   "azure.azure-virtual-desktop": [],
-  "azure.azure-route-server": []
+  "azure.azure-route-server": [],
+  "azure.azure-metrics-advisor": []
 }
