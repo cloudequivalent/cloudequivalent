@@ -145,9 +145,9 @@
     "key": "translator"
   },
   {
-    "name": "Azure Metrics Advisor Preview",
+    "name": "Azure Metrics Advisor",
     "description": "An AI service that monitors metrics and diagnoses issues",
-    "key": "azure-metrics-advisor-preview"
+    "key": "azure-metrics-advisor"
   },
   {
     "name": "Health Bot",
