@@ -915,9 +915,9 @@
     "key": "azure-orbital-preview"
   },
   {
-    "name": "Azure Route Server",
+    "name": "Azure Route Server GA",
     "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure",
-    "key": "azure-route-server"
+    "key": "azure-route-server-ga"
   },
   {
     "name": "Azure Defender",
