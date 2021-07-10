@@ -145,9 +145,9 @@
     "key": "translator"
   },
   {
-    "name": "Azure Metrics Advisor Preview",
+    "name": "Azure Metrics Advisor",
     "description": "An AI service that monitors metrics and diagnoses issues",
-    "key": "azure-metrics-advisor-preview"
+    "key": "azure-metrics-advisor"
   },
   {
     "name": "Health Bot",
@@ -915,9 +915,9 @@
     "key": "azure-orbital-preview"
   },
   {
-    "name": "Azure Route Server",
+    "name": "Azure Route Server GA",
     "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure",
-    "key": "azure-route-server"
+    "key": "azure-route-server-ga"
   },
   {
     "name": "Azure Defender",

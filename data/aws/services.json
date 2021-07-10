@@ -740,6 +740,11 @@
     "key": "aws-distro-for-opentelemetry-preview"
   },
   {
+    "name": "AWS Launch Wizard",
+    "description": "Easily size, configure, and deploy third party applications on AWS",
+    "key": "aws-launch-wizard"
+  },
+  {
     "name": "AWS License Manager",
     "description": "Track, manage, and control licenses",
     "key": "aws-license-manager"

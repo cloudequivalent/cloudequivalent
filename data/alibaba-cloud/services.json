@@ -170,61 +170,6 @@
     "key": "dynamic-content-delivery-network"
   },
   {
-    "name": "Elastic Block Storage",
-    "description": "A high-performance, high-reliability, and low-latency block storage service",
-    "key": "elastic-block-storage"
-  },
-  {
-    "name": "Object Storage Service",
-    "description": "Store, backup and archive your data",
-    "key": "object-storage-service"
-  },
-  {
-    "name": "Apsara File Storage NAS",
-    "description": "File storage for ECS, HPC, Container",
-    "key": "apsara-file-storage-nas"
-  },
-  {
-    "name": "Tablestore",
-    "description": "Store data in a NoSQL database",
-    "key": "tablestore"
-  },
-  {
-    "name": "Storage Capacity Unit",
-    "description": "Plan and optimize your storage budget with flexible storage services",
-    "key": "storage-capacity-unit"
-  },
-  {
-    "name": "Log Service",
-    "description": "An all-in-one service for log-type data",
-    "key": "log-service"
-  },
-  {
-    "name": "Hybrid Backup Recovery",
-    "description": "A BaaS solution that protects your data",
-    "key": "hybrid-backup-recovery"
-  },
-  {
-    "name": "Data Transport",
-    "description": "Migrate massive data to Alibaba Cloud",
-    "key": "data-transport"
-  },
-  {
-    "name": "Hybrid Cloud Storage",
-    "description": "Enterprise-level cloud storage array",
-    "key": "hybrid-cloud-storage"
-  },
-  {
-    "name": "Cloud Storage Gateway",
-    "description": "Seamless connection to the cloud storage",
-    "key": "cloud-storage-gateway"
-  },
-  {
-    "name": "Hybrid Cloud Distributed Storage",
-    "description": "Provides scalable and reliable distributed block and object storage services.",
-    "key": "hybrid-cloud-distributed-storage"
-  },
-  {
     "name": "PolarDB",
     "description": "A next-generation relational database",
     "key": "polardb"
@@ -300,6 +245,11 @@
     "key": "time-series-database-for-influxdbr"
   },
   {
+    "name": "Tablestore",
+    "description": "Store data in a NoSQL database",
+    "key": "tablestore"
+  },
+  {
     "name": "Alibaba Cloud LedgerDB",
     "description": "A ledger database that provides powerful data audit capabilities",
     "key": "alibaba-cloud-ledgerdb"
@@ -353,6 +303,56 @@
     "name": "Advanced Database & Application Migration",
     "description": "Advanced service for heterogeneous database migration",
     "key": "advanced-database-and-application-migration"
+  },
+  {
+    "name": "Elastic Block Storage",
+    "description": "A high-performance, high-reliability, and low-latency block storage service",
+    "key": "elastic-block-storage"
+  },
+  {
+    "name": "Object Storage Service",
+    "description": "Store, backup and archive your data",
+    "key": "object-storage-service"
+  },
+  {
+    "name": "Apsara File Storage NAS",
+    "description": "File storage for ECS, HPC, Container",
+    "key": "apsara-file-storage-nas"
+  },
+  {
+    "name": "Storage Capacity Unit",
+    "description": "Plan and optimize your storage budget with flexible storage services",
+    "key": "storage-capacity-unit"
+  },
+  {
+    "name": "Log Service",
+    "description": "An all-in-one service for log-type data",
+    "key": "log-service"
+  },
+  {
+    "name": "Hybrid Backup Recovery",
+    "description": "A BaaS solution that protects your data",
+    "key": "hybrid-backup-recovery"
+  },
+  {
+    "name": "Data Transport",
+    "description": "Migrate massive data to Alibaba Cloud",
+    "key": "data-transport"
+  },
+  {
+    "name": "Hybrid Cloud Storage",
+    "description": "Enterprise-level cloud storage array",
+    "key": "hybrid-cloud-storage"
+  },
+  {
+    "name": "Cloud Storage Gateway",
+    "description": "Seamless connection to the cloud storage",
+    "key": "cloud-storage-gateway"
+  },
+  {
+    "name": "Hybrid Cloud Distributed Storage",
+    "description": "Provides scalable and reliable distributed block and object storage services.",
+    "key": "hybrid-cloud-distributed-storage"
   },
   {
     "name": "Anti-DDoS",
@@ -465,14 +465,14 @@
     "key": "dedicated-dingtalk"
   },
   {
-    "name": "Web Hosting",
-    "description": "Cloud Web Hosting from $5.90 per month",
-    "key": "web-hosting"
-  },
-  {
     "name": "Domains",
     "description": "Join the 20 million on Alibaba Cloud",
     "key": "domains"
+  },
+  {
+    "name": "GoChina ICP Filing Assistant",
+    "description": "Help enterprises navigate the requirements to obtain an ICP filing",
+    "key": "gochina-icp-filing-assistant"
   },
   {
     "name": "Alibaba Cloud DNS",
