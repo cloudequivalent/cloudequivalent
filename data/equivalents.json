@@ -2171,5 +2171,6 @@
   "gcp.config-connector": [],
   "azure.azure-virtual-desktop": [],
   "azure.azure-route-server": [],
-  "azure.azure-metrics-advisor": []
+  "azure.azure-metrics-advisor": [],
+  "alibaba-cloud.gochina-icp-filing-assistant": []
 }
