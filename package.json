@@ -32,6 +32,6 @@
     "html-minifier": "^4.0.0",
     "postcss": "^8.3.5",
     "postcss-import": "^14.0.2",
-    "slugify": "^1.5.3"
+    "slugify": "^1.6.0"
   }
 }
