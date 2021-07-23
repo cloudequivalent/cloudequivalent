@@ -100,9 +100,9 @@
     "key": "amazon-simple-queue-service-sqs"
   },
   {
-    "name": "Amazon AppSync",
+    "name": "AWS AppSync",
     "description": "Power your apps with the right data from many sources, at scale",
-    "key": "amazon-appsync"
+    "key": "aws-appsync"
   },
   {
     "name": "Amazon Managed Blockchain",
@@ -453,11 +453,6 @@
     "name": "Amazon Location Service (Preview)",
     "description": "Securely and easily add location data to applications",
     "key": "amazon-location-service-preview"
-  },
-  {
-    "name": "AWS AppSync",
-    "description": "Power your apps with the right data from many sources, at scale",
-    "key": "aws-appsync"
   },
   {
     "name": "Amazon GameLift",
@@ -820,6 +815,11 @@
     "key": "amazon-interactive-video-service"
   },
   {
+    "name": "Amazon Nimble Studio",
+    "description": "Build a digital content creation studio",
+    "key": "amazon-nimble-studio"
+  },
+  {
     "name": "Amazon Kinesis Video Streams",
     "description": "Process and Analyze Video Streams",
     "key": "amazon-kinesis-video-streams"
@@ -858,11 +858,6 @@
     "name": "AWS Elemental Appliances & Software",
     "description": "On-premises media solutions",
     "key": "aws-elemental-appliances-and-software"
-  },
-  {
-    "name": "AWS Nimble Studio",
-    "description": "Build a digital content creation studio",
-    "key": "aws-nimble-studio"
   },
   {
     "name": "AWS Migration Hub",
