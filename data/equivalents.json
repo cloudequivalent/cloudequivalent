@@ -2174,5 +2174,6 @@
   "aws.aws-launch-wizard": [],
   "azure.azure-metrics-advisor": [],
   "azure.azure-route-server-ga": [],
-  "alibaba-cloud.gochina-icp-filing-assistant": []
+  "alibaba-cloud.gochina-icp-filing-assistant": [],
+  "aws.amazon-nimble-studio": []
 }
