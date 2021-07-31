@@ -2175,5 +2175,6 @@
   "azure.azure-metrics-advisor": [],
   "azure.azure-route-server-ga": [],
   "alibaba-cloud.gochina-icp-filing-assistant": [],
-  "aws.amazon-nimble-studio": []
+  "aws.amazon-nimble-studio": [],
+  "alibaba-cloud.dbstack": []
 }
