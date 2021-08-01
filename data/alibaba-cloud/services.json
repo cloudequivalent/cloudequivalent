@@ -205,6 +205,11 @@
     "key": "polardb-stack"
   },
   {
+    "name": "DBStack",
+    "description": "ApsaraDB platform deployed on any infrastructure, all under your ownership",
+    "key": "dbstack"
+  },
+  {
     "name": "ApsaraDB for OceanBase",
     "description": "Financial-grade database: high stability, high scalability, and high performance",
     "key": "apsaradb-for-oceanbase"
@@ -228,11 +233,6 @@
     "name": "ApsaraDB for HBase",
     "description": "A deeply-optimized NoSQL database, 100% compatible with Apache HBase",
     "key": "apsaradb-for-hbase"
-  },
-  {
-    "name": "ApsaraDB for Cassandra",
-    "description": "Fully compatible with Apache Cassandra and provides enterprise-grade SLA",
-    "key": "apsaradb-for-cassandra"
   },
   {
     "name": "Time Series Database",
