@@ -395,9 +395,9 @@
     "key": "web-app-for-containers"
   },
   {
-    "name": "Azure API for FHIR",
-    "description": "Easily create and deploy a FHIR service for health data solutions and interoperability",
-    "key": "azure-api-for-fhir"
+    "name": "Azure Healthcare APIs Preview",
+    "description": "A unified solution that helps protect and combine health data in the cloud and generates healthcare insights with analytics",
+    "key": "azure-healthcare-apis-preview"
   },
   {
     "name": "Azure Cache for Redis",

@@ -2176,5 +2176,6 @@
   "azure.azure-route-server-ga": [],
   "alibaba-cloud.gochina-icp-filing-assistant": [],
   "aws.amazon-nimble-studio": [],
-  "alibaba-cloud.dbstack": []
+  "alibaba-cloud.dbstack": [],
+  "azure.azure-healthcare-apis-preview": []
 }
