@@ -2177,5 +2177,6 @@
   "alibaba-cloud.gochina-icp-filing-assistant": [],
   "aws.amazon-nimble-studio": [],
   "alibaba-cloud.dbstack": [],
-  "azure.azure-healthcare-apis-preview": []
+  "azure.azure-healthcare-apis-preview": [],
+  "alibaba-cloud.fraud-detection": []
 }
