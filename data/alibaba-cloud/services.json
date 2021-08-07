@@ -430,6 +430,11 @@
     "key": "content-moderation"
   },
   {
+    "name": "Fraud Detection",
+    "description": "Real-time analysis and accurate identification of risk management solution",
+    "key": "fraud-detection"
+  },
+  {
     "name": "Anti-Bot Service",
     "description": "Bot defense reduces automated attacks",
     "key": "anti-bot-service"
