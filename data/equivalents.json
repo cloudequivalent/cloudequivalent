@@ -2178,5 +2178,6 @@
   "aws.amazon-nimble-studio": [],
   "alibaba-cloud.dbstack": [],
   "azure.azure-healthcare-apis-preview": [],
-  "alibaba-cloud.fraud-detection": []
+  "alibaba-cloud.fraud-detection": [],
+  "alibaba-cloud.secure-content-delivery": []
 }
