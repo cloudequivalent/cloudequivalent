@@ -320,6 +320,11 @@
     "key": "amazon-keyspaces-for-apache-cassandra"
   },
   {
+    "name": "Amazon MemoryDB for Redis",
+    "description": "Redis-compatible, durable, in-memory database that delivers ultra-fast performance",
+    "key": "amazon-memorydb-for-redis"
+  },
+  {
     "name": "Amazon Neptune",
     "description": "Fully Managed Graph Database Service",
     "key": "amazon-neptune"
