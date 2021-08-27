@@ -180,6 +180,11 @@
     "key": "azure-data-lake-storage"
   },
   {
+    "name": "Azure Data Lake Storage Gen1",
+    "description": "Hyper-scale repository for big data analytics workloads",
+    "key": "azure-data-lake-storage-gen1"
+  },
+  {
     "name": "Azure Data Share",
     "description": "A simple and safe service for sharing big data with external organisations",
     "key": "azure-data-share"
