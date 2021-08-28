@@ -165,6 +165,11 @@
     "key": "alibaba-cloud-cdn"
   },
   {
+    "name": "Secure Content Delivery",
+    "description": "Speed up your website and application by Alibaba Cloud secure DCDN",
+    "key": "secure-content-delivery"
+  },
+  {
     "name": "Dynamic Content Delivery Network",
     "description": "Provide dynamic acceleration abilities",
     "key": "dynamic-content-delivery-network"
@@ -360,19 +365,9 @@
     "key": "anti-ddos"
   },
   {
-    "name": "Anti-DDoS Basic",
-    "description": "Basic DDoS protection integrated with ECS",
-    "key": "anti-ddos-basic"
-  },
-  {
     "name": "Web Application Firewall",
     "description": "Secure your web applications",
     "key": "web-application-firewall"
-  },
-  {
-    "name": "SSL Certificates Service",
-    "description": "Apply, buy, and manage SSL certificates",
-    "key": "ssl-certificates-service"
   },
   {
     "name": "Security Center",
@@ -380,19 +375,24 @@
     "key": "security-center"
   },
   {
-    "name": "Cloud Config",
-    "description": "Configuration trace and compliance audit",
-    "key": "cloud-config"
-  },
-  {
     "name": "Cloud Firewall",
     "description": "The first defense of network security",
     "key": "cloud-firewall"
   },
   {
+    "name": "SSL Certificates Service",
+    "description": "Apply, buy, and manage SSL certificates",
+    "key": "ssl-certificates-service"
+  },
+  {
     "name": "Bastionhost",
     "description": "A system O&M and operation audit platform",
     "key": "bastionhost"
+  },
+  {
+    "name": "Cloud Config",
+    "description": "Configuration trace and compliance audit",
+    "key": "cloud-config"
   },
   {
     "name": "ActionTrail",
@@ -513,6 +513,11 @@
     "name": "CloudESL",
     "description": "A smart ESL system for efficient and data-driven operations of retail stores",
     "key": "cloudesl"
+  },
+  {
+    "name": "CloudAP",
+    "description": "Integrate Wi-Fi and IoT networks quickly and use CloudAC for management",
+    "key": "cloudap"
   },
   {
     "name": "Blockchain as a Service",
