@@ -10,7 +10,7 @@ jobs:
       - name: Get current date for branch name
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v2
         with:
           node-version: '16'
