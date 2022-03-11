@@ -28,7 +28,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^5.0.2",
     "cheerio": "^1.0.0-rc.10",
-    "cssnano": "^5.0.7",
+    "cssnano": "^5.1.2",
     "html-minifier": "^4.0.0",
     "postcss": "^8.3.6",
     "postcss-import": "^14.0.2",
