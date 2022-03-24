@@ -16,7 +16,7 @@ jobs:
           node-version: '16'
       - run: npm ci
       - run: npm run fetch-and-update
-      - uses: peter-evans/create-pull-request@v3
+      - uses: peter-evans/create-pull-request@v4
         with:
           branch: ${{ steps.date.outputs.date }}
           delete-branch: true
